@@ -1,0 +1,49 @@
+CREATE TABLE Project(
+				id INT NOT NULL AUTO_INCREMENT,
+				org VARCHAR(128),
+				project_id VARCHAR(128),
+				title VARCHAR(128),
+				description VARCHAR(4096),
+				awarded_amount INT,
+				match_amount INT,
+				award_year INT,
+				district VARCHAR(128),
+				neighborhood VARCHAR(128),
+				PRIMARY KEY(id));
+
+DROP TABLE 				
+
+CREATE TABLE business_license(
+			id INT NOT NULL AUTO_INCREMENT,
+			business_name VARCHAR(128),
+			ownership_type VARCHAR(128),
+			trade_name VARCHAR(128),
+			naics_code INT,
+			naics_desc VARCHAR(128),
+			sic_code INT DEFAULT 0,
+			sic_desc VARCHAR(128),
+			start_date DATE,
+			city VARCHAR(128),
+			PRIMARY KEY(id));
+			
+
+// importing csv				
+LOAD DATA LOCAL INFILE 'C:/Users/Steven/Downloads/Neighborhood_Matching_Funds.csv' 
+INTO TABLE ondjango_project
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n' 
+IGNORE 1 LINES
+(org, project_id, title, description, awarded_amount, match_amount, award_year, district, neighborhood);
+
+SHOW warnings;
+
+LOAD DATA LOCAL INFILE 'C:/Users/Steven/Downloads/2010_Active_Business_License_Data.csv' 
+INTO TABLE business_license
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n' 
+IGNORE 1 LINES
+(business_name, ownership_type, trade_name, naics_code, naics_desc, sic_code, sic_desc, @date, city)
+SET start_date = STR_TO_DATE(@date, '%c/%e/%Y');
+
