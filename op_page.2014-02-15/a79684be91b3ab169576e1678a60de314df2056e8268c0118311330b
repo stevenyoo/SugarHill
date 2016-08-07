@@ -1,0 +1,603 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Panama City Base Operating Support (BOS) Services (N6945014R7707) - N69450-13-R-7707 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501260');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501260';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=0f0e0f6243627794f7057c2259bb6fbf&inline_disposition=1" border="0" alt="Naval Facilities Engineering Command logo"></div><div class="agency-header agency-header-med"><h2>Panama City Base Operating Support (BOS) Services (N6945014R7707)</h2><div class="sol-num">Solicitation Number: N69450-13-R-7707</div><div class="agency-name">Agency: Department of the Navy<br>Office: Naval Facilities Engineering Command<br>Location: NAVFAC Southeast, Bld 903</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=33a698d2c5997b7823ef36c73d612b96&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/33a698d2c5997b7823ef36c73d612b96" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/33a698d2c5997b7823ef36c73d612b96" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/33a698d2c5997b7823ef36c73d612b96" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=33a698d2c5997b7823ef36c73d612b96&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=33a698d2c5997b7823ef36c73d612b96&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=9466b5a09c0657f5a1cff1960f82c22e&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Aug 28, 2013</div><div class="nh-date">5:19 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=0bed382fd4f764da623c2f684c3bae28&_cview=0">Changed</a><div class="nh-date">Aug 29, 2013</div><div class="nh-date">5:46 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=33a698d2c5997b7823ef36c73d612b96&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">5:21 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=9466b5a09c0657f5a1cff1960f82c22e'" class="input-button btn">   </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	N69450-13-R-7707
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-08-28 17:19:33">Aug 28, 2013 5:19 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2013-08-29 17:46:24">Aug 29, 2013 5:46 pm<a href="/utils/viewDifferences?class=notice_description&id=6edc57947a2b6401b5bba1fc4f881a8d&compared_to=1d3f5ac232bede3e431fadf8dec1a696" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=6edc57947a2b6401b5bba1fc4f881a8d&compared_to=1d3f5ac232bede3e431fadf8dec1a696&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		Panama City Base Operations Support (BOS) Services at <br />Naval Support Activity (NSA) Panama City, Florida<br />Sources Sought Notice<br />
+<p>Description</p><br />
+<p>THIS IS A SOURCES SOUGHT NOTICE ONLY. THIS IS NOT A REQUEST FOR PROPOSAL. THIS IS NOT A SOLICITATION FOR PROPOSAL AND NO CONTRACT SHALL BE AWARDED FROM THIS NOTICE. NO SOLICITATION, SPECIFICATIONS OR DRAWINGS ARE AVAILABLE AT THIS TIME.</p><br />
+<p>The purpose of this notice is to gain knowledge of interest, capabilities and qualifications of Small Businesses to perform Base Operations Support (BOS) Services at Naval Support Activity (NSA) Panama City, Florida. The Government will use the sources sought responses along with other market research to make various determinations regarding this procurement. The work includes, but is not limited to all labor, supervision, management, tools, materials, equipment, facilities, transportation, incidental engineering, and other items necessary to provide services for Facility Investment, Pest Control (Grounds), Swimming Pools, Grounds Maintenance, Pavement Clearance (Helipad) and Environmental support at NSA Panama City, Florida. The contract will be combination Firm Fixed Price / Indefinite-Delivery Indefinite Quantity with a one-year base period and four one-year option periods, total contract duration shall not to exceed five years (60 months). There will be a 30 day phase-in period. The anticipated start date is 1 October 2014. <br />The proposed contract listed here is being considered as a set-aside for small business (SB). Interested SB concerns should, as early as possible but not later than 15 days of this notice, indicate interest in the acquisition by providing to the contracting office above evidence of capability to perform and a positive statement of eligibility as a small business concern. If adequate interest is not received from SB concerns, the solicitation may be issued as unrestricted without further notice.<br />The Government will not pay for information requested nor will it compensate any respondent for any cost incurred in developing information in response to this sources sought notice. Information received as a result of this sources sought will become part of our market research to determine interest and capability of potential sources. Responses to the questions provided herein must be submitted in electronic form (Microsoft Word or Adobe PDF format) and may be attached to an email addressed to: christine.holly@navy.mil. Responses are limited to 10 pages in length. Emails shall be no more than 5MB in size. The due date for responses is 2:00 PM EDT on Thursday, 12 September 2013. Please identify in the subject line of your response: "NSA PANAMA CITY BOS". Any questions may be submitted via email to: christine.holly@navy.mil. Alternate POC is Rebecca Jones, rebecca.m.jones@navy.mil.</p><br />
+<p>The NAICS Code for this procurement is 561210, Facility Support Services, with a size standard of $35.5M.<br />Please note: Government personnel will not be scheduling meetings to discuss this procurement with interested vendors.</p><br />
+<p>Panama City Base Operations Support (BOS) Services at <br />Naval Support Activity (NSA) Panama City, Florida <br />Sources Sought Notice</p><br />
+<p>Please ensure that as a minimum the following items are covered in your response:<br />1. Provide the following information:</p><br />
+<p>Company Name:</p><br />
+<p>Street Address:</p><br />
+<p>Cite, State, Zip Code:</p><br />
+<p>Primary Point of Contact:</p><br />
+<p>Phone Number:</p><br />
+<p>Email Address:</p><br />
+<p>Company DUNS Number:</p><br />
+<p>Company CAGE Code:</p><br />
+<p>Registered in the System for Award Management (SAM) database at http://www.sam.gov:</p><br />
+<p><br />___Yes ___ No</p><br />
+<p>2. Please indicate your company's size status under the following NAICS Code by placing an "X" in the appropriate blocks below:</p><br />
+<p>NAICS Code &amp; Title Small Business Size Standard Small 8(a) HUB Zone* WOSB* VOSB* SDVOSB*<br />561210, Facility Support Services $35.5M <br />*Acronyms: <br />HUB Zone - Historically Underutilized Business Zone<br />WOSB - Woman Owned Small Business<br />VOSB - Veteran Owned Small Business<br />SDVOSB - Service Disabled Veteran Owned Small Business<br />3. Base Operations Support (BOS) Services experience:</p><br />
+<p>3(a) Does your company regularly engage in the business of providing Base Operations Support (BOS) Services?</p><br />
+<p>___Yes ___ No</p><br />
+<p>3(b) If so, please list the specific types of relevant BOS tasks/services provided and the location of the work.</p><br />
+<p>3(c) How long has your company provided this type of BOS services?<br /><br />4. Relevancy of Experience:</p><br />
+<p>4(a) Please list no more than five contracts your company is currently performing (or have completed within the last three years) for BOS services that would be considered the same as/similar to this effort (scope, complexity, and magnitude). Include the contract number, title, contract type, annual award amount, final contract amount and references with name, phone number, and email address.</p><br />
+<p>4(b) For each of these contracts, identify whether your firm was the prime or subcontractor by function.</p><br />
+<p>4(c) Were these contracts won competitively? If not, list those which were not.</p><br />
+<p>5. Subcontracting (if applicable):</p><br />
+<p>5(a) On the average, what percentage of the total effort does your company normally subcontract for the type of work proposed that is similar in size, scope and complexity?<br /><br />5(b) What specific portions of this type of effort would your company elect to subcontract?</p><br />
+<p>5(c) Does your company make it a policy and practice to seek out other 8(a), HUB Zone, Woman Owned, Veteran Owned, and Service Disabled Veteran Owned small businesses for consideration in awarding subcontracts?</p><br />
+<p>6. Location of Work:</p><br />
+<p>6(a) Has your company performed work in this geographic area?</p><br />
+<p>6(b) Is your company familiar with the demographic, economic and labor profiles of the area?</p><br />
+<p>7. What is the likelihood of your company submitting an offer for any resulting procurement?</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-02-07 17:21:03">Feb 07, 2014 5:21 pm</span>
+					</div>
+		<p>This Sources Sought Notice should be No. N69450-14-R-7707<br /><br />The Solicitation Number for NSA Panama City BOS Services is N69450-14-R-7707 or N6945014R7707.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		P.O. Box 30 (Bldg 903)<br/>
+
+			
+				
+		Jacksonville,
+
+			
+	
+		Florida
+
+			
+	
+		32212-0030
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Naval Support Activity (NSA) Panama City<br/>
+
+			
+				
+		Panama City,
+
+			
+	
+		Florida
+
+			
+	
+		32407
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Christine Holly,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:christine.holly@navy.mil">christine.holly@navy.mil</a></div>
+	<div>Phone: 9045420191</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Jackie Jackson,</div>
+	<div>Supervisory Contract Specialist</div>	<div><a href="mailto:jacquelyn.s.jackson@navy.mil">jacquelyn.s.jackson@navy.mil</a></div>
+	<div>Phone: 9045423639</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=9466b5a09c0657f5a1cff1960f82c22e'" class="input-button btn">   </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	August 28, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Sep 12, 2013 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	August 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	August 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Service-Disabled Veteran-Owned Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Z -- Maintenance, repair, and alteration of real property
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	561 -- Administrative and Support Services/561210 -- Facilities Support Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

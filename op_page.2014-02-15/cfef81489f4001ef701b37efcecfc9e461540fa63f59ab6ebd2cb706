@@ -1,0 +1,482 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Targeting, Intelligence, Surveillance, and Reconnaissance - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392496978');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392496978';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/images/frontend/deflogo.jpg" border="0" alt="U.S. Special Operations Command logo"></div><div class="agency-header agency-header-med"><h2>Targeting, Intelligence, Surveillance, and Reconnaissance</h2><div class="sol-num">Solicitation Number: RFI-USSOCOM-IMAGERY-14</div><div class="agency-name">Agency: Other Defense Agencies<br>Office: U.S. Special Operations Command<br>Location: Headquarters Procurement Division</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=a530b6ac2f6f5a25c7a0417bc1b1f23e&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/ODA/USSOCOM/SOAL-KB/RFI-USSOCOM-IMAGERY-14/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/ODA/USSOCOM/SOAL-KB/RFI-USSOCOM-IMAGERY-14/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/ODA/USSOCOM/SOAL-KB/RFI-USSOCOM-IMAGERY-14/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=a530b6ac2f6f5a25c7a0417bc1b1f23e&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=a530b6ac2f6f5a25c7a0417bc1b1f23e&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=a530b6ac2f6f5a25c7a0417bc1b1f23e&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<div class='notice'>
+<div class='miw'>
+<h2>Note: </h2>
+This opportunity allows for electronic responses.  <a href="?s=main&mode=list&tab=login&_eresp=a530b6ac2f6f5a25c7a0417bc1b1f23e">Click here</a> to log in and submit a response.
+</div>
+</div>
+<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 11, 2014</div><div class="nh-date">10:23 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=a530b6ac2f6f5a25c7a0417bc1b1f23e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=a530b6ac2f6f5a25c7a0417bc1b1f23e'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	RFI-USSOCOM-IMAGERY-14
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Presolicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-11 10:23:21">Feb 11, 2014 10:23 am</span>
+					</div>
+		This Request for Information (RFI) is NOT a solicitation for proposals, proposal abstracts, or quotations. REQUIREMENT:<br /><br />The purpose of this Request for Information (RFI) is to conduct market research which will be used to plan and implement an acquisition strategy to procure services relating to Imagery Analysis. USSOCOM is seeking Interested Vendors, or teaming ventures, which have the ability to provide 235 Full Time Equivalents (FTE) with security clearances at the Top Secret/Sensitive Compartmented Information (TS/SCI) level, with proven capability as described below. <br /><br />To be an Interested Vendor, firms must be registered in SAM under the North American Industry Classification System (NAICS) 541990 (Size standard is $14M). Vendors not registered in SAM with the NAICs 541990 are not considered Interested Vendors and therefore will not be in receipt of any resultant Statement of Work or formal RFP, nor will their submission be reviewed as part of the research pertaining to development of the acquisition strategy. <br /><br />USSOCOM is seeking Interested Vendors with recent and relevant experience and skill sets as determined below. <br /><br />PLEASE NOTE: Recent represents the past 3 years. Relevant is considered to be efforts requiring roughly 200 FTEs for Imagery Analysts only. Providing information for any other type of service is not considered relevant. <br />Skill / Experience Includes: <br />a. Proficiency in utilizing basic computer applications and intelligence related automation to support analytical efforts and product development. <br />b. Strong briefing skills and be capable of effectively directing subordinate analysts in the accomplishment of intelligence products and assessments. <br />c. Ability to staff analysts who perform high level/expert imagery analysis, imagery product production, intelligence systems architecture and evaluation of procedures, processes, techniques, models and/or methodologies used to develop complex military imagery systems solutions to requirements. <br />d. Experience in the fields of targeting, intelligence systems architecture and geospatial systems experience, and full motion video (FMV) intelligence, surveillance, and reconnaissance ISR systems. <br />e. Ability to work in a fast paced, high stress environment. <br />f. Ability to staff and support a 24x7 work week; including shift work. <br />g. Ability to deploy and support personnel to OCONUS locations including hostile fire areas (HFA). <br />h. Ability to provide a significant increase or decrease of support in the event of an immediate surge or reduction in requirements. <br />i. Have the ability to provide a dedicated onsite Program Management Team. j. Proof of the ability to handle and store classified material (via current or previous DD254 accreditation) at a minimum of Secret Facility Clearance. <br />k. Previous requirements requiring Top Secret Security Clearances. <br />l. Ability to transition requirements of similar size and scope. <br />m. Financial resources to maintain payment to sub contracts while USG processes monthly invoices of approximately three months in duration.<br />n. Demonstrated &ldquo;back office&rdquo; functions to support the effort to include Security, Human Resources, Recruiting, etc. <br />o. Organic ability to staff a large portion of the requirement. <br />PLEASE NOTE: Only vendors that have the identified security qualifications and are registered with NAICS 541990 are considered Interested Vendors. Only Interested Vendors will receive the resultant solicitation and Statement of Work if/when a DRAFT RFP and FINAL RFP are issued. <br />Interested Vendors should respond to the Contracting Officer with a notice of intent (NOI) and a summary of their firm&rsquo;s capability combining the skill sets and experience as described above. Please include the Full name of your firm, Point of Contact, contact numbers/emails, CAGE Code, address, NAICS code, facility clearance, and vendor business size. Please limit response to 10 pages. <br />*This is not a past performance evaluation. Past performance will be evaluated in response to any resultant solicitation. This RFI is being used to gather a general overview of vendor capabilities and experience in the field of Imagery Analysis.* <br />**This RFI does not constitute an invitation to bid nor is it a request for proposal. PROPOSALS WILL NOT BE ACCEPTED. It is not to be construed as a commitment by the Government to issue a contract or otherwise pay for the information solicited.** <br />Please submit responses concerning this RFI to Elizabeth (Beth) Holland, Contracting Officer (hollande@socom.mil) 813-826-1471.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		7701 Tampa Point Blvd<br/>
+
+			
+				
+		MacDill AFB,
+
+			
+	
+		Florida
+
+			
+	
+		33621-5323
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Elizabeth M Holland,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:hollande@socom.mil">hollande@socom.mil</a></div>
+	<div>Phone: 813-826-1471</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=a530b6ac2f6f5a25c7a0417bc1b1f23e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=a530b6ac2f6f5a25c7a0417bc1b1f23e'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Presolicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 24, 2014 3:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541990 -- All Other Professional, Scientific, and Technical Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

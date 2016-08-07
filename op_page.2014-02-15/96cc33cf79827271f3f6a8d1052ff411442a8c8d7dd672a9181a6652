@@ -1,0 +1,476 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>D -- Navy Enterprise Service Bus (ESB) Capability - SPAWAR_Headquarters_MKTSVY_E884A - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495799');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495799';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=8120a6259d5c8288274503dcda1eb489&inline_disposition=1" border="0" alt="Space and Naval Warfare Systems Command logo"></div><div class="agency-header"><h2>D -- Navy Enterprise Service Bus (ESB) Capability</h2><div class="sol-num">Solicitation Number: SPAWAR_Headquarters_MKTSVY_E884A</div><div class="agency-name">Agency: Department of the Navy<br>Office: Space and Naval Warfare Systems Command<br>Location: SPAWAR HQ</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=1f89ea1f5c6815107e02195a3cdf45d8&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DON/SPAWAR/SPAWARHQ/SPAWAR_Headquarters_MKTSVY_E884A/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DON/SPAWAR/SPAWARHQ/SPAWAR_Headquarters_MKTSVY_E884A/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DON/SPAWAR/SPAWARHQ/SPAWAR_Headquarters_MKTSVY_E884A/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=1f89ea1f5c6815107e02195a3cdf45d8&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=1f89ea1f5c6815107e02195a3cdf45d8&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=1f89ea1f5c6815107e02195a3cdf45d8&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 11, 2014</div><div class="nh-date">2:56 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=1f89ea1f5c6815107e02195a3cdf45d8'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=1f89ea1f5c6815107e02195a3cdf45d8'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	SPAWAR_Headquarters_MKTSVY_E884A
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-11 14:56:53">Feb 11, 2014 2:56 pm</span>
+					</div>
+		The Department of Navy (DON) Space and Naval Warfare Systems Command<br /><br /> (SPAWAR) Program Executive Office for<br /><br /> Enterprise Information Systems (PEO-<br /><br /> EIS) has identified a potential<br /><br /> requirement for an Enterprise Service<br /><br /> Bus (ESB) capability to replace the<br /><br /> current core infrastructure and adapter<br /><br /> of the Standard Procurement System<br /><br /> (SPS).  The adapter provides<br /><br /> messaging and mediation services<br /><br /> required for system-to-system financial<br /><br /> transactions between DON Business<br /><br /> Systems.<br /><br /> <br /><br /> As a result, SPAWAR PEO-EIS is<br /><br /> seeking information regarding the<br /><br /> potential of the market to support<br /><br /> providing an ESB capability. The<br /><br /> information gathered through this<br /><br /> RFI/Market Survey process will help<br /><br /> influence future product investments<br /><br /> and support in the DON.  Additional<br /><br /> information regarding this RFI,<br /><br /> including specifically requested<br /><br /> information, can be within the attached<br /><br /> RFI document.<br /><br /> <br /><br /> All information contained in this RFI is<br /><br /> preliminary, subject to modification,<br /><br /> and is not binding on the Government.<br /><br /> The information requested may be<br /><br /> used to facilitate decision-making and<br /><br /> will not be disclosed outside the<br /><br /> agency.  Any determination of a<br /><br /> subsequent procurement strategy is<br /><br /> solely within the discretion of the<br /><br /> Government.  The DON, SPAWAR, and<br /><br /> PEO-EIS may, as a result of the<br /><br /> information provided, invite individual<br /><br /> vendors to participate in a<br /><br /> separate Industry Day events to<br /><br /> further demonstrate the capabilities of<br /><br /> their specific system.   However,<br /><br /> participation at an Industry Day will<br /><br /> be by invitation only, and will require<br /><br /> additional data submissions, if<br /><br /> requested.  No decision whether to hold<br /><br /> an "Industry Day" has been made, and<br /><br /> will in part be a decision based on the<br /><br /> response to this RFI.<br /><br /> <br /><br /> THIS IS A REQUEST FOR INFORMATION<br /><br /> (RFI) ONLY. This RFI is issued solely<br /><br /> for information and planning<br /><br /> purposes  it does not constitute a<br /><br /> Request for Proposal (RFP) or a<br /><br /> promise to issue an RFP in the future.<br /><br /> This request for information does not<br /><br /> commit the Government to contract for<br /><br /> any supply or service that may stem<br /><br /> from this RFI.  Respondents are<br /><br /> advised that the Government will not<br /><br /> pay for any information or<br /><br /> administrative costs incurred in<br /><br /> response to this RFI; all costs<br /><br /> associated with responding to this RFI<br /><br /> will be solely at the interested partys<br /><br /> expense.  Small Businesses having the<br /><br /> capabilities to perform the tasking<br /><br /> below are encouraged to reply to this<br /><br /> RFI.  Not responding to this RFI does<br /><br /> not preclude participation in any future<br /><br /> RFP, if any is issued.  If an RFP is<br /><br /> issued, it will be synopsized on the<br /><br /> Federal Business Opportunities<br /><br /> (FedBizOpps) website at<br /><br /> http://www.fbo.gov.  It is the<br /><br /> responsibility of potential offerors to<br /><br /> monitor these sites for additional<br /><br /> information pertaining to this<br /><br /> requirement.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__additional_info_link_" class="field fld_additional_info_link fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__additional_info_link__field-label">
+	<label for="dnf_class_values_procurement_notice__additional_info_link_">Additional Info</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__additional_info_link__widget">
+	<a href="https://e-commerce.sscno.nmci.navy.mil/Command/02/ACQ/navhome.nsf/homepage?readform&db=navbusopor.nsf&whichdoc=B94ED5FA948ADF5C86257C7C006D8C75&editflag=0" target="_blank">Click on this link to access the SPAWAR E-Commerce Central Web Site</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Additional Info )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	4301 Pacific Highway Bldg OT4 Code 02, San Diego CA 92110-3127
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	701 South Courthouse Road , Arlington VA<br />
+22204<br />
+USA
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Point of Contact - Clint Sade, Contract Specialist,  410-224-7257<br />
+<br />
+<a href="mailto:joseph.sade@navy.mil">Contract Specialist</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=1f89ea1f5c6815107e02195a3cdf45d8'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=1f89ea1f5c6815107e02195a3cdf45d8'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	March 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 26, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field last field-last default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

@@ -1,0 +1,525 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Request for Information (RFI) - Overhead Persistent Infrared (OPIR) R&D - Mission Data Processor (MDP) Ground System - 14-030 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501081');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501081';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Space Command logo"></div><div class="agency-header agency-header-sm"><h2>Request for Information (RFI) - Overhead Persistent Infrared (OPIR) R&D - Mission Data Processor (MDP) Ground System</h2><div class="sol-num">Solicitation Number: 14-030</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Space Command<br>Location: SMC - Space and Missile Systems Center</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=74805334321e031789421c5283ebac75&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AFSC/SMCSMSC/14-030/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AFSC/SMCSMSC/14-030/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AFSC/SMCSMSC/14-030/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=74805334321e031789421c5283ebac75&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=74805334321e031789421c5283ebac75&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=74805334321e031789421c5283ebac75&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=f45d31aad18057358b1f705c9ae461f6&_cview=0">Original Synopsis</a><div class="nh-date"><em>Special Notice</em></div><div class="nh-date">Jan 27, 2014</div><div class="nh-date">8:15 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=74805334321e031789421c5283ebac75&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">7:12 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f45d31aad18057358b1f705c9ae461f6'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f45d31aad18057358b1f705c9ae461f6'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	14-030
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-27 20:15:24">Jan 27, 2014 8:15 pm</span>
+					</div>
+		<span style="text-decoration: underline;">Request for Information for&nbsp;Space and Missile Systems Center's Overhead Persistent Infrared (OPIR) Research and Development (R&amp;D) Effort</span><br />
+<p>The Department of the Air Force, Space and Missile Systems Center (SMC) Space Based Infrared Program Office (IS), Los Angeles Air Force Base, California is requesting information&nbsp;on relevant technology developments and current industry capabilities&nbsp;for continuing ground segment efforts regarding Overhead Persistent Infrared (OPIR) Research and Development (R&amp;D). This request is an element of ongoing market research to define potential materiel solutions to support Department of Defense (DoD) and National Overhead Persistent Infrared (OPIR) initiatives.</p><br />
+<p>SMC/IS is requesting information to guide&nbsp;program&nbsp;planning&nbsp;for OPIR ground system development projects. SMC/IS is seeking information on current industry capability to develop an OPIR Mission Data Processor (MDP) ground system to support the&nbsp;6&deg; Wide Field-of-View Testbed (6&deg; WTB). The 6&deg; WTB&nbsp;scheduled to launch in the 4th quarter of CY16. The MDP should be fielded in the 3rd quarter of CY16&nbsp;in order to support&nbsp;the pre-launch readiness review, launch, and post launch activities.<br /><br />Note: Please provide the risk level of providing the entire capability outlined in the paragraphs&nbsp;below within the 6&deg; WTB&nbsp;program schedule. If&nbsp;providing the&nbsp;entire capability&nbsp;is determined to be high&nbsp;risk,&nbsp;please also provide information on alternate configurations or&nbsp;capabilities that could be provided at lower levels of risk within the program schedule.<br /><br />The following paragraphs outline the current and desired capabilities that shall be provided in support of the OPIR R&amp;D effort at the Falcon Shield (formerly known as the Advanced Fusion Center (AFC)) located at Shriever AFB, CO: <br /><br />1. The MDP shall provide the following capabilities in support of&nbsp;the 6&deg; WTB:<br /><br />a) Initial Wide Field-of-View (WFOV) staring sensor simulation capability, including sensor optics, background clutter, and jitter modeling to generate regression test data sets with both sensor and bus parameters provided by the government.<br /><br />b) Develop WFOV Testbed ingest routines, signal processing algorithms (calibration, clutter suppression, thresholding, closely space object determination, line-of-sight) compatible with a government provided Application Program Interface (API) within a government provided plug-and-play modular architecture. Source code for the modular architecture will be provided, in addition to a baseline signal processing algorithm chain. Offeror to describe prior OPIR algorithm expertise.<br /><br />c) Demonstrate the ability to modify and upgrade the government provided modular architecture system components to incorporate new functionality. Sample software development plan, prior large software development efforts (schedule, and discrepancy rate), and examples with real-time processing of large data volumes (e.g. 100 Mbps uncompressed, or greater) are requested.<br /><br />d) Provide a capability to track, fuse, and generate tactical parameter estimation (launch point, heading, etc.) for WFOV Testbed with other operational OPIR assets (e.g. DSP, HEO, GEO). Limited government source code will be made available for tracking, fusion, and tactical parameter estimation.<br /><br />e) Provide a capability to visualize 2D imagery (~200 Mbps), in real-time, with periodic overlays of weather, digital terrain information, coast lines, etc.</p><br />
+<p>f) Provide a capability to visualize fused (WFOV Testbed with other operational OPIR assets) processed data in 3D (lat/lon, alt), in real-time, with periodic overlays of weather, digital terrain information, coastlines, etc.<br /><br />g) Provide hardware and software maintenance support through the life of the WFOV Testbed mission.</p><br />
+<p>h) Provide and package all software source code, documentation, and algorithm description documentation for delivery to the government.</p><br />
+<p>2.&nbsp;Please additionally provide information on industry's capability to&nbsp;address the&nbsp;following capabilities which will support&nbsp;both the 6&deg; WTB and other SMC/IS exploitation efforts:<br /><br />a) Demonstrate ability to tune line-of-sight algorithms by identifying in-scene infrared sources and correcting sensor pointing knowledge for OPIR sensors.<br /><br />b) Demonstrate capability to provide data formatted to be compliant with Distributed Common Ground System (DCGS), Integrated Broadcast Service (IBS), Operational Migration Capability (OMC), Mission Control System (MCS), Tactical Detection and Reporting (TACDAR), and Joint Tactical Air-to-Ground Station (JTAGS). Prior experience with these systems is requested. Data format and false report rate to be provided by the government.<br /><br />c) Provide capability to make raw data and processed data discoverable to an end user (e.g. dissemination portals, graphical user interface, database structure, etc.). Examples of previous dissemination efforts are requested with database complexity (number of fields available for query), database size in Mbytes (tables, not archive size), number of users, speed of access, etc.<br /><br />d) Ability to provide administrative support for current hardware, software, networks, and information assurance packages at Falcon Shield, located at Schriever Air Force Base. Transition plan, including existing GFE list, will be provided from the government. Infrastructure diagrams to be provided upon award.<br /><br />Note: To accomplish program objectives and meet near-term program milestones, Offerors must be familiar with processing OPIR data to certified messages, certification process, Joint OPIR Ground efforts, existing dissemination portals, etc. The Offeror must operate facilities at and employ personnel cleared with Secret, TS and TS/SCI.</p><br />
+<p><br /><span style="text-decoration: underline;">Statement of Capabilities</span></p><br />
+<p>Any interested source that is capable of meeting the Government's requirements detailed in this notice should submit a Statement of Capabilities and Qualifications to the technical and contracting POCs listed below by 1700 PST on 17 Feb 2014. Responses are limited to seven (7) pages with 1-inch margins using Times New Roman at no small than font size of 12.</p><br />
+<p>The capability and qualifications statement will be evaluated solely for the purpose of determining the respondent's ability to meet the Government's needs and schedule as described above. Consequently, respondents' submissions should contain as many specific technical details indicating how the respondent can meet the Government's needs and schedule as possible. Oral communications are not acceptable in response to this notice. Responses from small business and small, disadvantaged business firms are highly encouraged. Firms responding should indicate if they are a small business, a socially and economically disadvantaged business, 8(a) firms, historically black colleges or universities, and minority institutions. The small business size standard for NAICS 541712 is 1,000 employees. A determination not to compete this proposed effort on a full and open competition basis based upon responses to this notice is solely within the discretion of the Government.</p><br />
+<p>BE ADVISED: An Ombudsman has been appointed to hear concerns from potential respondents. The purpose of the Ombudsman is to receive and communicate concerns from potential respondents when a respondent prefers not to use established channels to communicate his/her concern during the proposal development phase of this proposed acquisition. The Ombudsman will communicate certain respondent issues, disagreements, and recommendations on this proposed acquisition into the proper channels. The Ombudsman's role is not to diminish the authority of the program director or the contracting officer but to advocate a respondent's concern on a non-attribution basis. The Ombudsman will maintain strict confidentiality as to the source of the concern when requested by the respondent. The Ombudsman will not participate in the evaluation of SOCs for this proposed acquisition. The Ombudsman is Mr. James Gill, phone number (310) 653-1789. Routine questions, such as clarifications, are not considered to be "significant concerns" and should be communicated directly to the POCs listed below.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		483 North Aviation Blvd<br/>
+
+			
+				
+		El Segundo,
+
+			
+	
+		California
+
+			
+	
+		90245-2808
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Christopher Lee,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:christopher.lee.44@us.af.mil">christopher.lee.44@us.af.mil</a></div>
+	<div>Phone: 3106534764</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Capt Mark Wojtowicz,</div>
+	<div>Program Manager, Data Exploitation System</div>	<div><a href="mailto:mark.wojtowicz.1@us.af.mil">mark.wojtowicz.1@us.af.mil</a></div>
+	<div>Phone: (310) 653-4421</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f45d31aad18057358b1f705c9ae461f6'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f45d31aad18057358b1f705c9ae461f6'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 17, 2014 5:00 pm&nbsp;Pacific
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 17, 2014 11:59 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	March 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	336 -- Transportation Equipment Manufacturing/336419 -- Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

@@ -1,0 +1,566 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Expression of Interest for Lease space avalability - HHS-NIH-OA(RECB)-RFI-272014 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501114');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501114';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=f49403464402175e50fe3536170cb204&inline_disposition=1" border="0" alt="National Institutes of Health logo"></div><div class="agency-header"><h2>Expression of Interest for Lease space avalability</h2><div class="sol-num">Solicitation Number: HHS-NIH-OA(RECB)-RFI-272014</div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: National Institutes of Health<br>Location: Office of Research Facilities/Office of Acquisitions</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=d2d5388cd890a0a163a0e892afc413fb&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/NIH/ORS/HHS-NIH-OA(RECB)-RFI-272014/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/NIH/ORS/HHS-NIH-OA(RECB)-RFI-272014/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/NIH/ORS/HHS-NIH-OA(RECB)-RFI-272014/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=d2d5388cd890a0a163a0e892afc413fb&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=d2d5388cd890a0a163a0e892afc413fb&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=d2d5388cd890a0a163a0e892afc413fb&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 07, 2014</div><div class="nh-date">6:36 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d2d5388cd890a0a163a0e892afc413fb'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d2d5388cd890a0a163a0e892afc413fb'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HHS-NIH-OA(RECB)-RFI-272014
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-07 18:36:59">Feb 07, 2014 6:36 pm</span>
+					</div>
+		<p><strong style="mso-bidi-font-weight: normal"><span style="text-decoration: underline;">Requirement:</span></strong></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">The U.S. Government currently occupies 26,000 square feet of clinical, MRI, office and related space in a building under lease in Baltimore Maryland, which will be expiring December 31, 2016.<span style="mso-spacerun: yes">&nbsp; </span>The Government seeks information pertaining to potential space availability that will satisfy the Government's future requirement.</span></p><br />
+<p style="MARGIN: 0in 4.5pt 6pt 0in; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">The U.S. Government is considering alternative space if economically advantageous. In making this determination, the Government will consider, among other things, the availability of alternate space that potentially can satisfy the Government's requirements.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">This request for information is for planning purposes only and does not constitute an invitation for bid, request for quotation, request for proposal, or represent any obligation on the part of the Government to acquire any products or services. Your response to this will be treated as information only. The information provided may be used in developing acquisition strategy, statements of work or objectives, and performance specifications.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Interested parties are responsible for adequately marking proprietary or competition sensitive information contained in their response. The Government does not intend to award a contract on the basis of this request or to otherwise pay for the information submitted. Those not able to provide all preferred features are still encouraged to submit information on the features currently available in the products and propose an application schedule for those features that are planned for the future.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">The Government requires similar space yielding a minimum of ABOA 21,000 square feet and a maximum of ABOA 27,000 square feet beginning January 1, 2017.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">The lease term requirement is for 10 years term with cancellation right between year six (6) and ten (10). <span style="mso-spacerun: yes">&nbsp;</span>The space must be available for occupancy by January 1, 2017.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">The delineated area requires: </span></p><br />
+<p style="TEXT-INDENT: 0in; MARGIN: 0in 0in 6pt; mso-line-height-alt: 3.0pt; mso-list: l0 level1 lfo1"><span style="COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Arial"><span>&bull;&bull;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Proximity to public transportation </span></p><br />
+<p style="TEXT-INDENT: 0in; MARGIN: 0in 0in 6pt; mso-line-height-alt: 3.0pt; mso-list: l0 level1 lfo1"><span style="COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Arial"><span>&bull;&bull;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Parking for 60 employees</span></p><br />
+<p style="TEXT-INDENT: 0in; MARGIN: 0in 0in 6pt; mso-line-height-alt: 3.0pt; mso-list: l0 level1 lfo1"><span style="COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Arial"><span>&bull;&bull;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Efficient Space Layout </span></p><br />
+<p style="TEXT-INDENT: 0in; MARGIN: 0in 0in 6pt; mso-line-height-alt: 3.0pt; mso-list: l0 level1 lfo1"><span style="COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Arial"><span>&bull;&bull;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Security [lobby, loading dock access, parking, etc,] </span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">Offered space must meet Government requirements for fire safety, accessibility, seismic and sustainability standards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 100 year flood plain.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: windowtext; FONT-SIZE: 10pt">The Government's space needs must be located within a delineated area defined by the following street boundaries in Baltimore, MD:</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: windowtext; FONT-SIZE: 10pt">&nbsp;</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: windowtext; FONT-SIZE: 10pt">West: Rt. 2 Hanover St</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: windowtext; FONT-SIZE: 10pt">North: Lombard St.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: windowtext; FONT-SIZE: 10pt">South and East:<span style="mso-spacerun: yes">&nbsp; </span>I-895.</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">&nbsp;</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">Interested parties should send expressions of interest to </span></p><br />
+<p style="mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">Mr. Samuel Odilatu. </span></p><br />
+<p style="mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">Contracting Officer</span></p><br />
+<p style="mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">The National Institutes of Health. Office of Acquisitions, Real Estate Contracting Branch. 9000 Rockville Pike, Building 13, Suite 2E47, Bethesda, MD 20892-5738. </span></p><br />
+<p style="mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">Phone:301-435-4396</span></p><br />
+<p style="mso-line-height-alt: 3.0pt"><span style="FONT-SIZE: 10pt">Email address: </span><a href="mailto:odilatus@mail.nih.gov"><span style="FONT-SIZE: 10pt">odilatus@mail.nih.gov</span></a><span style="FONT-SIZE: 10pt">.<span style="COLOR: red"> </span></span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: black; FONT-SIZE: 10pt">&nbsp;</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: black; FONT-SIZE: 10pt">&nbsp;</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: black; FONT-SIZE: 10pt">&nbsp;</span></p><br />
+<p style="MARGIN-BOTTOM: 6pt; mso-line-height-alt: 3.0pt"><span style="COLOR: black; FONT-SIZE: 10pt">Expressions of interest must be submitted in writing to the above address by 4:30 p.m. EST on&nbsp;March 17<sup>, </sup>2014 and should include the following information at minimum (Reminder: This is not an invitation for bids or a request for proposals):</span><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"> </span></strong></p><br />
+<p>&nbsp;</p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 0in 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Building name and address and location of the available space within the building </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 0in 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Rentable square feet available and expected fully serviced rental rate per rentable square foot on an annual basis. Additionally, please provide a breakout of operating expenses and taxes per RSF.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 0in 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">ANSI/BOMA office area-(ABOA) square feet to be offered and expected rental rate per ABOA square foot, fully serviced. Indicate whether the quoted rental rate includes an amount for tenant improvements and state the amount, if any.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 0in 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Date of space availability </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 0in 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Building ownership information </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 0in 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Amount of parking available on-site and its cost. Indicate whether expected rental rate includes the cost of the required government parking.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 0in 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; COLOR: windowtext; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">Energy efficiency and renewable energy features existing within the building </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 27.1pt 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="COLOR: windowtext; FONT-SIZE: 10pt">List of building services provided </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 27.1pt 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt">Name, address, telephone number, and email address of authorized contact.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN: 0in 27.1pt 6pt 0.5in; mso-line-height-alt: 2.0pt; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 10pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt">Your submittal for this expression of interest shall not include Market data relating to the advertisement of your facility.<br /></span></p><br />
+<span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><br />Expression of interest should not be more than 6 pages with Arial 12 font size.</span>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		13 South St., Room 2E43<br />
+MSC 5711<br/>
+
+			
+				
+		Bethesda,
+
+			
+	
+		Maryland
+
+			
+	
+		20892-5738
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Baltimore Maryland<br/>
+
+			
+				
+		Baltimore,
+
+			
+	
+		Maryland
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Samuel Odilatu,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:odilatus@mail.nih.gov">odilatus@mail.nih.gov</a></div>
+	<div>Phone: 301-435-4396</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Pat J. Rice,</div>
+	<div>Branch Chief</div>	<div><a href="mailto:ricepa@mail.nih.gov">ricepa@mail.nih.gov</a></div>
+	<div>Phone: 301-402-0878</div>		<div>Fax: 301-402-0331</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d2d5388cd890a0a163a0e892afc413fb'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d2d5388cd890a0a163a0e892afc413fb'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Mar 17, 2014 4:30 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 1, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	X -- Lease or rental of facilities
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	531 -- Real Estate/531120 -- Lessors of Nonresidential Buildings (except Miniwarehouses)
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

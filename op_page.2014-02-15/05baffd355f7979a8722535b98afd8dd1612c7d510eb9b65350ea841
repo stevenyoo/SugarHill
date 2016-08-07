@@ -1,0 +1,1498 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>A & E Services - BEP-RFI-14-0200 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392498524');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392498524';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=ceed556587dcc1062e9e6bdea8f362bd&inline_disposition=1" border="0" alt="Bureau of Engraving and Printing (BEP) logo"></div><div class="agency-header"><h2>A & E Services</h2><div class="sol-num">Solicitation Number: BEP-RFI-14-0200</div><div class="agency-name">Agency: Department of the Treasury<br>Office: Bureau of Engraving and Printing (BEP)<br>Location: Office of Acquisition</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=c0604ca860730b89a59192e2a2df14cd&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/TREAS/BEP/OPDC20220/BEP-RFI-14-0200/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/TREAS/BEP/OPDC20220/BEP-RFI-14-0200/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/TREAS/BEP/OPDC20220/BEP-RFI-14-0200/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=c0604ca860730b89a59192e2a2df14cd&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=c0604ca860730b89a59192e2a2df14cd&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=c0604ca860730b89a59192e2a2df14cd&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=a482fdccab235d41532f19c93e6e3992&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Jan 14, 2014</div><div class="nh-date">11:00 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2b3476e1bfa42a8c6bb0edc7dd803fb3&_cview=0">Changed</a><div class="nh-date">Jan 16, 2014</div><div class="nh-date">9:42 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=defc2ddbd67d71541dae001fe4d64d0b&_cview=0">Changed</a><div class="nh-date">Jan 16, 2014</div><div class="nh-date">1:38 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=c7f3b8077983d31186a1510955ca088a&_cview=0">Changed</a><div class="nh-date">Jan 23, 2014</div><div class="nh-date">9:35 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=fcaff0f512220346efca40be86f7f117&_cview=0">Changed</a><div class="nh-date">Jan 23, 2014</div><div class="nh-date">9:37 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=76e597845403552780b2106adf242cb3&_cview=0">Changed</a><div class="nh-date">Jan 24, 2014</div><div class="nh-date">11:25 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=30feff1c4b118941848357ca62a575da&_cview=0">Changed</a><div class="nh-date">Jan 29, 2014</div><div class="nh-date">11:36 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=39f0cfff62a747c2364cc1c08bc23286&_cview=0">Changed</a><div class="nh-date">Jan 30, 2014</div><div class="nh-date">10:27 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=7e51782a2c1451b52e59f6dd12724c69&_cview=0">Changed</a><div class="nh-date">Feb 04, 2014</div><div class="nh-date">11:42 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=59eca8721ff4b4455e189a6cbe092630&_cview=0">Changed</a><div class="nh-date">Feb 10, 2014</div><div class="nh-date">8:46 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=c0604ca860730b89a59192e2a2df14cd&_cview=0">Changed</a><div class="nh-date">Feb 10, 2014</div><div class="nh-date">3:36 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=a482fdccab235d41532f19c93e6e3992'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=a482fdccab235d41532f19c93e6e3992'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	BEP-RFI-14-0200
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-14 11:00:57">Jan 14, 2014 11:00 am</span>
+					</div>
+		Sources Sought<br />The Bureau of Engraving and Printing (BEP) is issuing a Sources Sought Notice to determine if there are any 8 (a) Architect-Engineer firms to provide design services, including electrical, architectural, structural, mechanical design etc., as required for various construction projects at the facility located at 14th and C Streets, S.W., Washington, DC. for Multiple Award Indefinite Delivery - Indefinite Quantity (IDIQ) contracts.<br />Description:<br />The BEP's Office of Acquisition contemplates awarding to a minimum of five (5) firm-fixed-price Indefinite Delivery Indefinite Quantity (IDIQ) Contracts. Contracts will be negotiated and awarded for one (1) base period, plus four (4) option periods.<br />
+<p>There will be no limit on project size; however, the total cumulative delivery order amount shall not to exceed three million dollars ($3,000,000.00) in any one-year contract period, and the minimum guaranteed contract amount of $2,000 for the base year and each option year if exercised per contractor. Projects, while there will be no limit on size; will generally involve repairs, alterations, and improvements in connection with existing buildings or properties.</p><br />
+<p>It is important to note that in accordance with Federal Acquisition Regulation 52.219-14. Limitations on Subcontracting; the prime contractor is required to perform at least 50% of the labor with their own employees.</p><br />
+<p>C.1. SCOPE OF WORK</p><br />
+<p>C.1.A. The Bureau of Engraving and Printing (BEP) requires Architect-Engineer firms to provide design and other services, including exhibit design, electrical, architectural, structural, fire protection, environmental, mechanical, etc., as required for various construction projects at the facility located at 14th and C Streets, S.W., Washington, DC.<br />C.1.B. Architect-Engineer (A/E) services are required to perform specialized studies and develop construction contract documents. The A/E shall furnish services, materials, supplies, and supervision required to fully investigate and design each task order project awarded. When available, the contractor will be provided conceptual drawings, dust barrier details, equipment drawings or listing of production equipment and their weights; record drawings, CADD templates and block library on CD-R; BEP standards and manuals for the execution of work involved with each task order. <br />C.1.C. The A/E shall also provide Title II Services when specifically requested by the Government. The services required for each project will be negotiated under separate task order.</p><br />
+<p><br />C.2 STATEMENT OF SERVICES</p><br />
+<p>C.2.A. A/E Design Services (Title I Services) - The Architect/Engineer shall provide services for field surveys, architectural and engineering designs, plans, drawings, estimates, specifications, and investigative work, as required, for each construction project. The total design fee for the Title I Services shall not exceed the statutory limitation of six percent (6%) of the estimated construction cost. The services other than design that occur during the design phase, (Non-Title I services) (and non-Title II) fall outside of the 6% statutory limitation.</p><br />
+<p>1. The design of architectural, structural, mechanical, electrical, civil, and other engineering features of the work shall be accomplished by, or reviewed, and approved by a registered architect or licensed professional engineer registered to practice in the particular professional field involved. The final drawings shall be stamped and signed by a principal of the firm, registered in engineering or architecture. The A/E designs shall include, but not be limited to, lead paint abatement, demolition, architectural, structural, mechanical, and electrical designs and specifications showing both existing and new systems and connections thereto. Engineering calculations shall be provided pertaining to all designs<br /><br />2. Field Surveys and Site Investigations - The A/E shall be responsible for all necessary field surveys to verify all dimensions, measurements, and location of existing facilities, utilities, and equipment. The A/E shall review Government furnished documents and perform the required site visits to gain an understanding of the scope of the project. The A/E shall visit the project site to verify the information shown on any Government-furnished preliminary drawings, record (as-built) drawings and other planning documents provided for the task order. This information is the best available but the Government does not guarantee its accuracy or completeness. The A/E shall review existing BEP architectural, mechanical, structural, electrical, and other pertinent drawings of areas in the building affected by the design. The A/E's field surveys and investigations shall be performed by competent professionals in accordance with Construction Industry Standards. The A/E shall consult and communicate with the COR, BEP personnel, equipment manufacturers and vendors, and furniture vendors to ensure the completion of an efficient, comprehensive design. <br /><br />3. Energy Conservation - The A/E Contractor shall adopt current U.S. Federal Government requirements on energy efficiency, water conservation and the use of recovered materials. The A/E shall specify energy-efficient products that are ENERGY STAR&reg; qualified or meet energy efficiency specification set by the Department of Energy's Federal Energy Management Program (FEMP). ENERGY STAR&reg; and FEMP products can be found at: http://www.energystar.gov/products and http://www.eere.energy.gov/femp/procurement/. The A/E shall submit energy code compliance forms and checklists "COMcheck" to verify that the designed building envelope, lighting, and mechanical equipment are in compliance with the code. The COMcheck software program can be downloaded free from http://www.energycodes.gov/comcheck/. These requirements shall be incorporated into the design documents. The A/E Contractor shall determine if there are other requirements and applicable documents that are in effect at the time this task order is awarded; and report it to the COR immediately. As of this writing, the following is a list of known documents which are applicable:<br />a. P.L. 109-58, Energy Policy Act of 2005, August 8, 2005.<br />b. Executive Order 13423, Strengthening Federal Environmental, Energy and Transportation Management, January 24, 2007.<br />c. Executive Order 13514, Federal Leadership in Environmental, Energy, and Economic Performance, October 5, 2009.<br />d. BEP Mechanical and Energy Conservation Design Manual<br />e. ASHRAE Standard 90.1: Energy Efficient design of New Buildings Except Low-Rise Residential Building.</p><br />
+<p>4. Environmental Requirements</p><br />
+<p>a. PCB Contamination - The A/E contractor shall identify any electrical equipment containing PCB contaminated fluid and other building materials contaminated with PCB, where applicable.<br />b. Lead-Based Paint (LBP) - LBP is defined as paint containing 1.0 mg/cm2 as measured by an X-ray fluorescence analyzer or 0.5% by weight. The A/E contractor shall conduct a lead-based paint survey on surfaces scheduled to be significantly disturbed and/or demolished. Based upon the survey results, the A/E contractor shall develop an abatement plan which complies with the General <br />Services Administration's paint abatement information shall be noted on drawings, where applicable. The A/E contractor shall assure the following is incorporated into the specifications. "The construction contractor shall provide an independent contractor for monitoring of abatement personnel. This includes all warranted personnel working in that area and area air monitoring during the abatement process."</p><br />
+<p>5. Sustainability - BEP is committed to incorporating principles of sustainable design and energy efficiency into all of its building projects. The result is an optimal balance of cost, environmental, societal and human benefits while meeting the mission, function, and operation of the intended facility. It is BEP's intent that sustainable design will be integrated as seamlessly as possible into the existing design and construction process.</p><br />
+<p>&nbsp;</p><br />
+<p>a. Sustainable design shall seek to reduce negative impacts on the environment, and the health and comfort of building occupants, thereby improving building performance. The basic objectives of sustainability shall reduce consumption of non-renewable resources, minimize waste, and create healthy, productive environments. Sustainable design principles shall include the ability to:<br />1. Optimize site potential<br />2. Minimize non-renewable energy consumption <br />3. Use environmentally preferable products<br />4. Protect and conserve water and enhance indoor environmental quality <br />5. Optimize operational and maintenance practices<br />b. Utilizing a sustainable design philosophy shall encourage decisions at each phase of the design process that will reduce negative impacts on the environment and the health of the occupants, without compromising the bottom line. It shall be an integrated, holistic approach that encourages compromise and tradeoffs. Such an integrated approach shall positively impact all phases of a building's life-cycle, including design, construction, and operation and decommissioning.</p><br />
+<p>c. The A/E's design shall result in a project utilizing the Leadership in Energy and Environmental Design (LEED<sup>TM</sup>) Rating System as a goal in design criteria to help apply principles of sustainable design and development to our facilities projects while not necessarily achieving LEED certification status. <br />6. Design Criteria - The A/E shall prepare all design documents in conformance with applicable portions of the following:</p><br />
+<p>&bull; UFAS - Uniform Federal Accessibility Standards<br />&bull; ASTM - American Society of Testing Materials<br />&bull; ACI - American Concrete Institute<br />&bull; AISC - American Institute of Steel Construction<br />&bull; ANSI - American National Standards Institute<br />&bull; ASHRAE - American Society of Heating, Refrigerating, and Air Conditioning Engineers<br />&bull; IBC - International Building Code<br />&bull; IECC - International Energy Conservation Code<br />&bull; IFC - International Fire Code<br />&bull; IMC - International Mechanical Code<br />&bull; IPC - International Plumbing Code<br />&bull; EPA - Environmental Protection Agency<br />&bull; FM - Factory Mutual<br />&bull; NFPA - National Fire Protection Association (See Section 3.4)<br />&bull; NEC - National Electrical Code<br />&bull; UL - Underwriter's Laboratories<br />&bull; SMACNA &not;-Sheet Metal and Air Conditioning Contractors' National Association<br />&bull; NIOSH - National Institute for Occupational Safety and Health<br />&bull; OSHA - occupational Safety and Health Administrative Standards</p><br />
+<p>To include all other current national, state and local codes and regulations, and industry standards deemed applicable. Reference shall be made to: http://engineers.ihs.com/products/standards/index.htm.</p><br />
+<p>7. Design Schedule</p><br />
+<p>a. The A/E will be required to complete the design for each project and deliver the submittals to the Contracting Officer in accordance with the design schedule specified for the individual project (the performance period for each phase will be established for each project. The performance period for each project is negotiable.) The A/E contractor shall provide successive submittals as required by the task order. BEP shall respond with comments within 21 calendar days after the receipt of submittal.</p><br />
+<p>b. Following completion of each design phase, the Government will perform a review of the submittals. The Government shall review and approve, with or without comments, each schedule item prior to the A/E initiating work on the subsequent schedule item. A design review conference will be held after completion of this review, technical comments will be given to the A/E. The A/E shall be required to attend these conferences. The Government will establish the time and place of these conferences. The technical comments shall be incorporated into the design before completion of the next design phase. The A/E responses to the Government reviewer's comments shall be included in each submittal.</p><br />
+<p>c. The final (bid documents) design submittal will include:</p><br />
+<p>(i) Hard copies: one (1) reproducible copy of the final drawings, one (1) original typed specification, one (1) copy of the final economic analysis, and one (1) copy of the final construction estimate.</p><br />
+<p>(ii) Digital copies Format:</p><br />
+<p>Final Design Drawings in:<br />AutoCAD (*.dwg) format<br />PDF (*.pdf) format</p><br />
+<p>Final Design Specifications in:<br />MS Word (*.doc) format<br />PDF (*.pdf) format</p><br />
+<p>(iii) Or as otherwise required by the task order.</p><br />
+<p>8. Construction Drawings - Drawings shall be on 24"x36" paper. Drawings shall have all margins approximately &frac12;" wide. Final drawings shall be documented on reproducible polyester drafting film and have left and right margins approximately one (1) inch wide with all other margins approximately &frac12; inches wide. All drawings shall be accurate and in sufficient detail to enable proper and satisfactory construction of the entire project. The quality and workmanship of the drawings shall permit clear and legible reproductions. All drawings shall have the Bureau of Engraving and Printing title block in the lower right hand corner and the A/E Contractor's title block on the adjacent left of the BEP's title block. All drawings shall be numbered with standard letter sequences applicable to each design discipline and labeled.</p><br />
+<p>9. Specifications - The specifications shall be complete, clear, and shall amplify all information shown on the drawings and shall include detailed requirements for materials and equipment. Material items will be specified using federal specifications or industry standards and are not limited to those noted in Division One. The specifications shall include the Division One sections generated by the BEP which when attached to the other sections become the project manual. The specifications will be prepared using the 48 technical sections of the 2010 Master Format developed by the Construction Specification Institute (CSI). The specifications will be prepared using the new Construction Specification Institute (CSI) Division Format. The final specifications shall be typed on bond paper 8&frac12; x 11" with 1" margin right and left and 1 &frac12;" margin top and bottom. The quality of the specifications shall permit clear and legible reproduction.</p><br />
+<p>10. Cost Estimates - The project(s) shall be developed by the A/E with regard to the limiting considerations of the particular project budget. It is incumbent upon the A/E to follow job cost trends and projected estimates during the project development in such a manner that any possibility of exceeding the limitations imposed will become apparent in the early stages. It is the responsibility of the A/E to advise the Contracting Officer immediately when any such tendency is indicated in order that remedial corrections can be made. The cost estimate shall be based on completed work and material in place, taking into account location, seasonal conditions at the time of work, site conditions, availability of local labor, and other variables. The cost estimates shall represent the anticipated construction contractor's bid price including overhead, profit, and allowable contingencies. Lump sum estimates will not be accepted; cost estimates shall be itemized for each type of material and labor required. The Government allowance for profit and overhead shall be 10% each. The first sheet of the cost estimate shall summarize all costs by engineering discipline. The number of cost estimates and time of delivery will be established by each task order.</p><br />
+<p>11. Design and Economic Analysis - The design calculations and analysis shall be prepared on standard 8 &frac12; x 11 bond paper. The design shall be based on the criteria set forth in the Statement of Work and standard practices and methods used in modern engineering computation necessary for the project and all other information necessary to clearly express the designer's intentions and methods. Specific elements requiring design calculations and analysis shall be as agreed to for each project prior to the negotiations. The economic analysis shall include the estimated energy cost savings and amortization period for energy relate construction.</p><br />
+<p>12. Topographical surveys. Any topographical surveys, excavations, soil boring, soil analysis, chemical tests, laboratory tests, pressure tests, electrical tests, corrosion and cathodic protection tests and any other tests required for a complete design will be the responsibility of the A/E.</p><br />
+<p>13. Construction Scheduling. The A/E shall list all applicable tasks and show critical paths throughout the project time frame. The construction schedule shall be furnished to the BEP on recordable compact discs (CD-R) in Microsoft Project format. The disks, upon completion of the work, shall become the property of the government.</p><br />
+<p>14. Deferral of Work - The A/E shall stop work upon written notification from the Contracting Officer in the event that the government defers advertising for and securing construction bids. The Government shall retain the option of requiring completion of all A/E services under this contract for one (1) year from the date of completion of the Contract Drawings and Specifications. If at the end of the one (1) year period the Government has not decided to proceed with the A/E services beyond this stage, the work required under this contract will be terminated unless the Government and the A/E mutually agree upon a time extension. Upon completion of the Contract Drawings and Specifications and written notice to the A/E of the deferral of the work from the Contracting Officer, the A/E shall deliver to the Government all original drawings, specifications, design details and calculations relating to the work and this material shall become the property of the Government and may be used on any government project without additional cost to the Government but with no warranty by the A/E of their adequacy for use other than that originally intended.</p><br />
+<p>&nbsp;</p><br />
+<p>&nbsp;</p><br />
+<p>C.2.B. A/E Title II Services</p><br />
+<p>1. Construction Period Responsibilities - The A/E shall perform all services required for supervision, inspection, and surveillance during the progress of construction up to the completion, commissioning and final acceptance of the project, or for such time period as specified in the contract documents. This requirement will be listed separately and negotiated as a line item in Section B of the task order. The A/E shall do nothing that may be construed as a contractual act of the Government and shall have no such contacts with the Contractor's representatives without the approval of the Contacting Officer. The A/E shall not disclose to the Contractor any information contained in his records of communications with the Government unless authorized in writing by the Contracting Officer. The A/E has no authority to make any decisions or approve any part of the work. When requested by the Contracting Officer, the A/E shall interpret the contract documents and recommend any actions he deems suitable for the satisfactory completion of the construction work. The A/E shall report to the COR any deficiencies in the construction work that may come to his attention. The A/E shall prepare any supplemental drawings or other documents that may be required to clarify or supplement the contract documents. The Construction period will commence with the award of the construction contract(s) and will terminate with the acceptance of the facility by the Contracting Officer.</p><br />
+<p>2. Shop Drawings, Submittals, etc. - The A/E shall check the contractor's shop drawings and detail drawings, schedules, descriptive literature and samples and review the color, texture and suitability of materials for conformity with the contract documents and recommend approval, disapproval, or other suitable disposition. He shall evaluate the submittals with reference to any companion submittals that constitute a system. When necessary, the A/E will, through the COR, request the Contractor to submit related components of a system before acting on a single component. Should this procedure be inappropriate, the A/E shall review all prior submittals for related components of the system before acting on a single component. The A/E shall notify the COR in writing of any and all deviations from the requirements of the contract documents that he has found in the Contractor's submittals.</p><br />
+<p>3. Contractor's Requests for Information and Cost Proposals - The A/E shall review the Contractor's requests for information and cost proposals for construction change orders when requested by the COR. The A/E's reply regarding his review of cost proposals and his recommendations shall include an independent breakdown of costs in detail, quantities and unit prices and shall cover both additions and deductions of labor, materials and equipment.</p><br />
+<p>4. Expeditious Replies - The A/E shall submit recommendations on shop drawings within five (5) days after their receipt of the request. If the scope of the required action is so extensive as to require more time, the A/E shall so notify the COR including information about the time needed to process the action. However, the A/E shall expedite delivery in every practicable way. The A/E shall answer all Requests For Information (RFIs) during bidding process and construction Contractor questions during construction, when submitted by the COR, within forty-eight (48) hours in writing.</p><br />
+<p>5. Site Visits - During the Construction Period, the A/E shall make visits to the project site. The total number of visits required shall be negotiated and included in Section B of each task order and includes visits for partial final and final inspections and for special purposes as requested by the Contracting Officer. A site visit is <br />defined as a visit to the site by one man for any part of a day. Site visits shall be made as and when requested by the Contracting Officer or his authorized representative. Only registered Architects and Engineers familiar with the project may make these site visits. The Contracting Officer has the prerogative to determine the professional discipline(s) required for each visit. The A/E shall observe the construction, advise the COR of any deviations or deficiencies and recommend appropriate corrective measures.</p><br />
+<p>6. Inspections of Construction Work - <br />a. Intermediate Inspections: The A/E shall provide Licensed Professional Engineers (PEs) or Registered Architects (RAs) who are familiar with the project design to act as observers and advisers with a BEP team conducting intermediate inspections of the installed equipment and systems. The number of such inspections and scheduled time thereof will be determined by the Contracting Officer.<br />b. Partial Final and Final Inspections: The A/E shall provide Registered Architects (RAs) and Licensed Professional Engineers (PEs) in number and of the disciplines at the time requested by the Contracting Officer to act as observers and advisers with the BEP team conducting partial final and/or final inspection(s) of the project.<br />7. Record of Site Visits - The A/E shall maintain a continuing record of site visits, recording thereon the date of each visit, the hours thereof, the purpose of the visit, and the personnel involved and have each visit certified by the COR. Site visits made by the A/E without a request from the Contracting Officer or the COR or required because of deficiencies in the A/E's performance shall be at the A/E's expense and shall not appear on the record as officially approved visits or be subject to reimbursement of cost. Should the number of site visits listed in Section B of the Task Order be exceeded, the contract will be modified to include payment for the additional visits at the amount per site visit shown in Section B of the Task Order. Any additional site visits for which the A/E expects to be reimbursed shall be approved in writing by the Contracting Officer in advance of the visits and, also, be certified by the COR.<br />8. Attendance at Conferences -</p><br />
+<p>a. The A/E shall participate in the following conferences at the project site at times designated by the Contracting Officer. The A/E's representatives shall be Registered Architects/Licensed Professional Engineers who are thoroughly familiar with the project designs and the contract documents. Pre-Construction Conference: (Attendance at Pre-Construction Conference, if required, will be counted as a site visit).<br />b. All other conferences will be counted as site visits<br />9. Project Representative- The A/E shall designate and assign a project representative whose duty and responsibility is to inspect the construction work in progress and to determine if the work is properly executed in conformance with the drawings and specifications. The project representative will visit the job site, as requested, to adequately inspect the work. In addition, fully qualified personnel will be used for inspection of structural, electrical and mechanical systems. The personnel shall be capable of reading contract drawings and specifications and shall have a minimum of three (3) years experience as a construction inspector on similar construction projects or experience acceptable to the Contracting Officer. The Contractor will furnish the name of the project representative in writing to the Contracting Officer prior to the pre-performance conference. The Contracting Officer may require the A/E to remove from the work any construction inspector the Contracting Officer deems incompetent, careless, or otherwise objectionable.</p><br />
+<p>10. Record Drawings:</p><br />
+<p>a. Upon completion and acceptance of construction, the A/E shall revise the reproduction mylars of the design drawings to conform to the actual construction. Record drawings developed from the As-built drawings on reproducible mylar shall be submitted to the Contracting Officer within thirty (30) calendar days after completion of construction services.<br />(i) Marked-up prints of construction drawings will be furnished to the A/E by the COR for their use in preparing the as-built drawings.<br />(ii) The A/E shall locate all underground utilities by dimensions and permanent reference points.<br />b. Upon completion of the revision of the tracings, the A/E shall submit them to the Contracting Officer.</p><br />
+<p>c. The A/E will provide all record drawings on a CD-R or DVD-R in uncompressed AutoCAD (*.dwg) and PDF(*.pdf) formats.</p><br />
+<p>11. Government Estimate</p><br />
+<p>Precautions shall be taken and every effort shall be made to prevent public disclosure of any information, including Government estimate made available to the A/E during the performance of this contract. All data contained in the design documents for each project shall be treated as privileged information and designated as "FOR OFFICIAL USE ONLY".</p><br />
+<p>C.2.C. Other A/E Services {Non Title I Services} - Fact finding studies, surveys, investigations, developing design criteria, and other professional A/E Services not necessarily connected with a specific construction project. Other A/E Services are not subject to the Statutory Limitation. The following are examples of services not considered an integral part of design and are EXCLUDED from the statutory 6% fee limitation.</p><br />
+<p>&bull; Field and topographic surveys, property, boundary, utility, and right of way surveys.<br />&bull; Subsurface explorations and borings, soil and material testing, and consultant reports.<br />&bull; Feasibility studies, economic analysis, and other investigations.<br />&bull; Preparation of as-built drawings for rehabilitation work.<br />&bull; Preparation of design development work.<br />&bull; The services of consultants, where not specifically applied to the preparation of work drawings and specifications.<br />&bull; Models, renderings, or photographs of completed designs.<br />&bull; Reproduction of designs for review purposes.<br />&bull; Travel and per diem allowances in connection with excludable services.</p><br />
+<p>1. Investigative Report (Other A/E Services) - The A/E shall prepare an Investigative Report utilizing information obtained through the site investigations and preliminary design investigations.</p><br />
+<p>a. The report shall describe in detail the complete investigation procedure, the evaluations of proposed work and alternate proposal, and a complete analysis of the work proposed.<br />b. Each consideration shall be included and shall be evaluated with regard to the feasibility of installation, repair and/or replacement, operation and/or efficiency and maintenance; first initial cost shall be indicated with long-term operations cost and life expectancy indicated.<br />c. The report shall include the A/E's recommendations regarding solutions to the requirement of these projects. The recommendations and description of proposed work shall clearly and specifically identify all materials and items of work recommended and/or proposed to be repaired, replaced, and/or removed with all cost comparisons and all cost factors itemized.<br />d. The final recommendations and/or description of proposed work shall resolve the specific work requirements indicated in the investigative report.<br />e. Copies of the report shall be typed single spaced on 8 &frac12; x 11 bond paper and furnished as required. Drawings attached to the report may, if sufficiently comprehensive and clear, be made on 8 &frac12; x 11 tracing paper. At the A/E's option, as required for complete and through representation, drawings may be prepared on a sheet sized to proper requirements and folded into the 8 &frac12; x 11 report data sheet size. The A/E shall also provide a digital copy of the report in PDF (*.pdf) format.</p><br />
+<p>C.2.D. Close-out Procedures:</p><br />
+<p>1. Record Drawings and Specifications -Within 30 CALENDAR days after final inspection, the COR shall furnish to the A/E a marked-up set of prints and specifications showing all changes made during the construction period. The A/E shall incorporate all the changes marked up by the COR and also any changes made by amendments and separate amendment drawings during the bidding period. The drafting standards shall be comparable in all ways to the original contract documents. The revision portion of the title block shall be dated and noted "As-built." These drawings, along with respective cell libraries, shall be provided in AutoCAD (*.dwg) and PDF(*.pdf) formats on CD-R or DVD-R. The "As-builts" shall also be provided on reproducible Mylar. The A/E shall deliver the record (as-built) drawings and specifications to the Contracting Officer within thirty (30) CALENDAR days after receipt of the marked-up documents from the COR.</p><br />
+<p>2. Ownership of Original Documents - All designs, drawings, specifications, notes, and other work developed in the performance of this contract shall be and remain the sole property of the Government and may be used on any other work without additional compensation to the Architect-Engineer. With respect thereto, the Architect-Engineer agrees not to assert any rights and not to establish any claim under the design patent or copyright laws. The Architect-Engineer shall not retain any copies of material provided as a result of this contract.</p><br />
+<p>C.2.E. Miscellaneous</p><br />
+<p>1. The A/E will be permitted upon written confirmation from the Contracting Officer, to add the number of calendar days caused by recognized Government delays to the total number of calendar days in the design schedule.</p><br />
+<p>2. The A/E shall notify the Contracting Officer immediately upon receipt of a request for services that are considered to be beyond the scope to the contract design action. The A/E shall not start on these items until given authorization by the Contracting Officer. The Contracting Officer has sole authority to revise this contract.</p><br />
+<p>3. The A/E shall be required to provide the Contracting Officer a written record of all design conferences and other meetings held between the Government and the A/E during which the technical design of the project is discussed. The written record of the discussion will not be accepted as a "Notification of Change" as contemplated by the changes clause of the contract.</p><br />
+<p>4. Precautions shall be taken and every effort shall be made to prevent public disclosure of any information, including Government estimate made available to the A/E during the performance of this contract. All data contained in the design documents for each project shall be treated as privileged information and designated as "FOR OFFICIAL USE ONLY".</p><br />
+<p>C.7 TASK ORDER ISSUANCE PROCEDURES:</p><br />
+<p>(1) At the discretion of the Contracting Officer, an SF 330, Part I, Contract Specific Qualifications form may be requested from all task order contractors or one task order contractor.</p><br />
+<p>(2) Each SF 330, Part I, submitted by the task order A/E firms, shall be evaluated by the Bureau's Evaluation Board.</p><br />
+<p>(3) Discussions shall be held with the three highest qualified firms regarding concepts and the relative utility of alternative methods of furnishing the required services.</p><br />
+<p>(4) At the direction of the Contracting Officer, only the final selected firm shall submit a price proposal, in accordance with the awarded hourly rates in effect at the time of the request for a proposal.</p><br />
+<p>(5) A/E task order contractors that have reached the cumulative amount of $3,000,000.00 shall not be considered for future task orders.</p><br />
+<p>(6) A/E task order contractors that receive an overall unsatisfactory performance evaluation from a previous task order may be eliminated from consideration of future task orders.</p><br />
+<p>Task orders shall be firm fixed-price and clearly define the specific services to be performed or the performance desired.</p><br />
+<p>No reimbursement will be made for any proposal costs associated with providing information in response to this synopsis or any follow-up information requests.</p><br />
+<p>&nbsp;</p><br />
+<p><br />This procurement will be an 8(a) set-aside.</p><br />
+<p>The North American Industry Classification (NAICS) code is 541310.</p><br />
+<p>A Request for Proposal (RFP) will be issued to the top ranked firms as determined by the Selection Board(s) based upon the selection criteria and interviews. Delivery Orders to be issued under the IDIQ contract(s) may range in scope from small studies to major alterations and repair projects. The primary purpose of the proposed contracts is to provide services for projects located at the Bureau of Engraving &amp; Printing, 14th &amp; C Sts., SW, Washington, DC 20228.</p><br />
+<p>CONTRACT INFORMATION: Multidiscipline design and other professional services are being procured in accordance with PL-582 (Brooks A-E Act) as implemented in FAR Part 36.6. Firms selected for negotiation will be based on demonstrated competence and qualifications for the required work.</p><br />
+<p>SELECTION CRITERIA: In accordance with FAR 36.602 the following are the selection criteria are equal in importance.</p><br />
+<p>(a) PAST PERFORMANCE:</p><br />
+<p>The offeror shall describe 3 projects executed within the last 3 years. The projects shall pertain to building alterations/renovations/repairs of historical and industrial facilities, accommodating printing and related printing processes, in terms of cost control, quality of work, and compliance with performance schedules. The offeror shall provide the following:</p><br />
+<p>&bull; Owner's name, address, telephone number, person to contact, administrator of contract;<br />&bull; Description of project, project title, contract number;<br />&bull; Scope of offeror's work, extent of project involvement and project manager;<br />&bull; Original and actual completion dates and explanation of any time extensions;<br />&bull; Original and final contract amounts and percentage of non-owner initiated change;<br />&bull; Offeror's Project Manager<br />Note: This section shall be no more than 15 single-sided pages, 8.5 x 11 inch standard paper with a minimum font size of 10 and single-spaced.</p><br />
+<p>To facilitate the review of past performance, offerors must submit the attached Performance Evaluation (Attachment 1) completed by the evaluating firms and returned directly to:</p><br />
+<p>Ms. Crystal Reed-Tweedy and shall be emailed to crystal.reed-tweedy@bep.gov. (These evaluation forms will not be accepted from the offeror)</p><br />
+<p>&nbsp;</p><br />
+<p><br />(b) SPECIALIZED EXPERIENCE and TECHNICAL COMPETENCE OF KEY PERSONNELL AND POTENTIA L SUBCONTRACTORS:</p><br />
+<p><br />Specialized experience, and technical competence of key personnel and potential<br />Subcontractors in the design of building alterations/renovations /repairs of historical and<br />industrial facilities accommodating printing and related printing process. The offeror shall provide resumes of the proposed project team that address work experience, educational<br />background (including technical education and training) and specific qualifications requiring the<br />ability to "think outside of the box".</p><br />
+<p>Demonstrated work experience, and technical competence of electrical, mechanical,<br />structural/civil, architectural, fire protection, and environmental personnel covering the<br />last 5 to 7 years, including titles, duties, dates, employer and client references.</p><br />
+<p>&bull; Demonstrated the ability to implement creative problem solving on projects. <br />&bull; Ability to conduct thorough and detailed filed surveys and investigations. <br />&bull; Demonstrated the ability to efficiently respond to clients requests and needs in an emergency or in a timely manner. <br />&bull; Ability to provide quality assurance (QA) reviews for design services to successfully pass commissioning of project designs and construction installations. <br />&bull; Provided educational background (including technical education and training) <br />&bull; Provided license and registration in all architectural and engineering disciplines in Washington, DC and/or in the states of Maryland and Virginia.</p><br />
+<p>Note: This section shall be no more than 15 single-sided pages, 8.5 x 11 inch standard paper with a minimum font size of 10 and single-spaced.</p><br />
+<p>(c) TITLE II SERVICES:</p><br />
+<p>The offeror shall describe the Title II Services that they plan to provide during the construction phase of the project.</p><br />
+<p>&bull; Demonstrated the ability to address submittals and shop drawings within a timely manner. <br />&bull; Demonstrated the ability to address RFIs within a timely manner.<br />&bull; Demonstrated the quality methodology to control design deficiency, i.e., errors, omissions, coordination problems in project documentation.</p><br />
+<p>Note: This section shall be no more than 10 single-sided pages, 8.5 x 11 inch standard paper with a minimum font size of 10 and single-spaced.</p><br />
+<p><br />This is NOT a Request for Proposal (RFP). ALL requirements of this announcement MUST be met for a firm to be considered responsive. The Standard Form 330 must be received at the following address by 12 February 2014, NOON EST.</p><br />
+<p><br />Please submit SF 330s to:</p><br />
+<p>The Bureau of Engraving and Printing, Office of Acquisition<br />A-E Construction Division<br />Attn: Crystal Reed-Tweedy <br />14th and C Sts, SW Room 708-A<br />Washington, DC 20228-0001.</p><br />
+<p>Submittals received by FAX will not be accepted and considered nonresponsive. Prior to the final selection, firms considered most highly qualified to accomplish the work may be interviewed by telephone or by formal presentation.</p><br />
+<p>SUBMISSION REQUIREMENTS: Interested Architect-Engineer firms having the capabilities to perform this work are invited to submit ONE (1) original completed SF 330 Architect-Engineer Qualifications Specific Project for themselves and ONE (1) completed SF 330 Part II for each of their subcontractors to the office shown above, ATTN: Crystal Reed-Tweedy, Contract Specialist, Phone (202) 874-2183, E-mail Crystal.Reed-Tweedy@bep.treas.gov.<br /><br />The SF 330 shall not exceed 50 single-sided pages, 8.5 x 11 inches with a minimum font size of 10 and single-spaced and, not counting any dividing tab used to identify each SF 330 Section. Please use clearly labeled tabs to separate and identify each section. Information may not be incorporated by reference into the Standard Form 330. To be eligible for contract award a firm must be registered in System for Award Management (SAM). Please note:The government is <strong>not </strong>obligated to make an award.<br /><br />Point of Contact:<br />Crystal Reed-Tweedy, Contract Specialist<br />Email: Crystal Reed-Tweedy@bep.treas.gov.</p><br />
+<p>NO phone calls please. Please submit all inquiries in writing via email</p><br />
+<p>&nbsp;</p><br />
+<p>&nbsp;</p><br />
+<p>&nbsp;</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Past Performance</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Past Performance
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	January 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5fce731aa68c5b74340ee0ab77f746b5' target='_blank' title='Download/View A&amp;E_PAST_PERFORMANCE_QUESTIONNAIRE.docx' class='file'&gt;A&amp;E_PAST_PERFORMANCE_QUESTIONNAIRE.docx&lt;/a&gt;"><a href='/utils/view?id=5fce731aa68c5b74340ee0ab77f746b5' target='_blank' title='Download/View A&E_PAST_PERFORMANCE_QUESTIONNAIRE.docx' class='file'>A&E_PAST_PERFORMANCE_QUESTIONNAIRE.docx</a> (27.28 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Past Performance Questionnaire</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Responses to Questions received on 1/15/14</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Responses to Questions received on 1/15/14
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=99427565df1a5e2471342de7815ae052' target='_blank' title='Download/View Questions.docx' class='file'&gt;Questions.docx&lt;/a&gt;"><a href='/utils/view?id=99427565df1a5e2471342de7815ae052' target='_blank' title='Download/View Questions.docx' class='file'>Questions.docx</a> (14.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Responses to Questions Received 1/15/14</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Responses to Questions</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Responses to Questions
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b9dcd34a3fb64b778dc4abecf42e8951' target='_blank' title='Download/View Questions.docx' class='file'&gt;Questions.docx&lt;/a&gt;"><a href='/utils/view?id=b9dcd34a3fb64b778dc4abecf42e8951' target='_blank' title='Download/View Questions.docx' class='file'>Questions.docx</a> (15.78 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Responses To Questions</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Question and Response</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__name__widget">
+	Question and Response
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	January 23, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=bae9a8e6947ca1d74b21c8c50215ed6a' target='_blank' title='Download/View Question3.docx' class='file'&gt;Question3.docx&lt;/a&gt;"><a href='/utils/view?id=bae9a8e6947ca1d74b21c8c50215ed6a' target='_blank' title='Download/View Question3.docx' class='file'>Question3.docx</a> (14.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Question and Response</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions and Responses</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__name__widget">
+	Questions and Responses
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	January 23, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=407062aecb08175384d8427518279498' target='_blank' title='Download/View QUESTIONS2.docx' class='file'&gt;QUESTIONS2.docx&lt;/a&gt;"><a href='/utils/view?id=407062aecb08175384d8427518279498' target='_blank' title='Download/View QUESTIONS2.docx' class='file'>QUESTIONS2.docx</a> (13.79 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Respsonses</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions and Responses</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__name__widget">
+	Questions and Responses
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	January 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1d2780e0e8d5b1df7fd73cb8c1e169d4' target='_blank' title='Download/View Question3.docx' class='file'&gt;Question3.docx&lt;/a&gt;"><a href='/utils/view?id=1d2780e0e8d5b1df7fd73cb8c1e169d4' target='_blank' title='Download/View Question3.docx' class='file'>Question3.docx</a> (14.25 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Responses</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=4723ff256637575ec0903595e356a153' target='_blank' title='Download/View Questions4.docx' class='file'&gt;Questions4.docx&lt;/a&gt;"><a href='/utils/view?id=4723ff256637575ec0903595e356a153' target='_blank' title='Download/View Questions4.docx' class='file'>Questions4.docx</a> (14.35 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Responses</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions and Responses </h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__name__widget">
+	Questions and Responses 
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	January 29, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=d8ca73c8fd769f9024bcf7e8d77d1579' target='_blank' title='Download/View Questions_and_Responses4.docx' class='file'&gt;Questions_and_Responses4.docx&lt;/a&gt;"><a href='/utils/view?id=d8ca73c8fd769f9024bcf7e8d77d1579' target='_blank' title='Download/View Questions_and_Responses4.docx' class='file'>Questions_and_Responses4.docx</a> (15.46 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Responses from  1/27 and 1/28/14.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions and Responses</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	Questions and Responses
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	January 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=6636673f083bb521da1177812881bec3' target='_blank' title='Download/View Questions_and_Responses5.docx' class='file'&gt;Questions_and_Responses5.docx&lt;/a&gt;"><a href='/utils/view?id=6636673f083bb521da1177812881bec3' target='_blank' title='Download/View Questions_and_Responses5.docx' class='file'>Questions_and_Responses5.docx</a> (14.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Responses- 1/30/14</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions & Responses</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__name__widget">
+	Questions & Responses
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9a4afb14f46248a2fe9e8e9bd090c428' target='_blank' title='Download/View Questions_and_Answers6.docx' class='file'&gt;Questions_and_Answers6.docx&lt;/a&gt;"><a href='/utils/view?id=9a4afb14f46248a2fe9e8e9bd090c428' target='_blank' title='Download/View Questions_and_Answers6.docx' class='file'>Questions_and_Answers6.docx</a> (15.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions &amp; Respsonses-2/4/14</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions and Responses-2/10/14</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__name__widget">
+	Questions and Responses-2/10/14
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1f7a0f59b964f6636b666d3881a44168' target='_blank' title='Download/View Questions7.docx' class='file'&gt;Questions7.docx&lt;/a&gt;"><a href='/utils/view?id=1f7a0f59b964f6636b666d3881a44168' target='_blank' title='Download/View Questions7.docx' class='file'>Questions7.docx</a> (15.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Responses- 2/10/14</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Notice</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__name__widget">
+	Notice
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7151db8bf0e5c176f3722563c64e88f5' target='_blank' title='Download/View Notice.docx' class='file'&gt;Notice.docx&lt;/a&gt;"><a href='/utils/view?id=7151db8bf0e5c176f3722563c64e88f5' target='_blank' title='Download/View Notice.docx' class='file'>Notice.docx</a> (12.53 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Notice</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		14th &amp; C Streets, S.W.<br/>
+
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+	
+		20228
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Crystal Reed-Tweedy</div>
+		<div><a href="mailto:Crystal.Reed-Tweedy@bep.gov">Crystal.Reed-Tweedy@bep.gov</a></div>
+	<div>Phone: 202-874-2183</div>		<div>Fax: 202-874-3135</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=a482fdccab235d41532f19c93e6e3992'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=a482fdccab235d41532f19c93e6e3992'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=52a01eb34394d3da9d1ad879b5000c5d">Past Performance</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=52a01eb34394d3da9d1ad879b5000c5d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 14, 2014</div></dt><dd><a href="/utils/view?id=5fce731aa68c5b74340ee0ab77f746b5" target="_blank" title="Download/View A&amp;E_PAST_PERFORMANCE_QUESTIONNAIRE.docx" class="file">A&E_PAST_PERFORMANCE_QUESTIONNAIRE.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d8b542fd6031e2938e46fe2c4f045875">Responses to Questions received on 1/15/14</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=d8b542fd6031e2938e46fe2c4f045875" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=99427565df1a5e2471342de7815ae052" target="_blank" title="Download/View Questions.docx" class="file">Questions.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e4b8561df445d0034e607cdb537913c0">Responses to Questions</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=e4b8561df445d0034e607cdb537913c0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=b9dcd34a3fb64b778dc4abecf42e8951" target="_blank" title="Download/View Questions.docx" class="file">Questions.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=10274d5c6b3b15b8e08dc0de5aa1e96d">Question and Response</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=10274d5c6b3b15b8e08dc0de5aa1e96d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 23, 2014</div></dt><dd><a href="/utils/view?id=bae9a8e6947ca1d74b21c8c50215ed6a" target="_blank" title="Download/View Question3.docx" class="file">Question3.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1def6530797f79e9eb9ef7421be7695b">Questions and Responses</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=1def6530797f79e9eb9ef7421be7695b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 23, 2014</div></dt><dd><a href="/utils/view?id=407062aecb08175384d8427518279498" target="_blank" title="Download/View QUESTIONS2.docx" class="file">QUESTIONS2.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=133acc88aa07db3dbee71d9e047a7e51">Questions and Responses</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=133acc88aa07db3dbee71d9e047a7e51" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 24, 2014</div></dt><dd><a href="/utils/view?id=1d2780e0e8d5b1df7fd73cb8c1e169d4" target="_blank" title="Download/View Question3.docx" class="file">Question3.docx</a></dd><dd><a href="/utils/view?id=4723ff256637575ec0903595e356a153" target="_blank" title="Download/View Questions4.docx" class="file">Questions4.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=9d2d2123633f0ac6a86c9b13eeaa3f52">Questions and Responses </a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=9d2d2123633f0ac6a86c9b13eeaa3f52" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 29, 2014</div></dt><dd><a href="/utils/view?id=d8ca73c8fd769f9024bcf7e8d77d1579" target="_blank" title="Download/View Questions_and_Responses4.docx" class="file">Questions_and_Responses4.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b57646216957425d1f65e7cb60fbc529">Questions and Responses</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=b57646216957425d1f65e7cb60fbc529" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 30, 2014</div></dt><dd><a href="/utils/view?id=6636673f083bb521da1177812881bec3" target="_blank" title="Download/View Questions_and_Responses5.docx" class="file">Questions_and_Responses5.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=31502a1714da659a844b09e8c2ebf36e">Questions & Responses</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=31502a1714da659a844b09e8c2ebf36e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=9a4afb14f46248a2fe9e8e9bd090c428" target="_blank" title="Download/View Questions_and_Answers6.docx" class="file">Questions_and_Answers6.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1b39ba6ea626043b4accb9c92a9b510e">Questions and Responses-2/10/14</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=1b39ba6ea626043b4accb9c92a9b510e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="/utils/view?id=1f7a0f59b964f6636b666d3881a44168" target="_blank" title="Download/View Questions7.docx" class="file">Questions7.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=74fc5e3336884541c6801e01901ed1d5">Notice</a> <a target="_blank" href="/utils/dZip?base=a482fdccab235d41532f19c93e6e3992&class=document_package&id=74fc5e3336884541c6801e01901ed1d5" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="/utils/view?id=7151db8bf0e5c176f3722563c64e88f5" target="_blank" title="Download/View Notice.docx" class="file">Notice.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 12, 2014 12:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 12, 2014 12:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	February 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	C -- Architect and engineering services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541310 -- Architectural Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

@@ -1,0 +1,603 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>ISR Test & Training Support - FA4801-14-R-0002 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495692');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495692';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Combat Command logo"></div><div class="agency-header"><h2>ISR Test & Training Support</h2><div class="sol-num">Solicitation Number: FA4801-14-R-0002</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Combat Command<br>Location: 49 CONS</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=a6400cb00e535e1c2e2a60399fb33936&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/ACC/49CONS/FA4801-14-R-0002/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/ACC/49CONS/FA4801-14-R-0002/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/ACC/49CONS/FA4801-14-R-0002/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=a6400cb00e535e1c2e2a60399fb33936&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=a6400cb00e535e1c2e2a60399fb33936&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=a6400cb00e535e1c2e2a60399fb33936&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=aecd51277f5232462ef9c28b5c41011d&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Feb 07, 2014</div><div class="nh-date">6:00 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=a6400cb00e535e1c2e2a60399fb33936&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">3:26 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=aecd51277f5232462ef9c28b5c41011d'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=aecd51277f5232462ef9c28b5c41011d'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA4801-14-R-0002
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-07 18:00:06">Feb 07, 2014 6:00 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-11 15:25:08">Feb 11, 2014 3:25 pm<a href="/utils/viewDifferences?class=notice_description&id=c600f24f368fc6bd7edeffc3bfd7882d&compared_to=68b5e8da8452511d1b5becfd0021e19d" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=c600f24f368fc6bd7edeffc3bfd7882d&compared_to=68b5e8da8452511d1b5becfd0021e19d&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<p><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">The Air Force 49th Wing and the 49th Contracting Squadron are currently seeking sources for a service requirement for Intelligence, Surveillance, and Reconnaissance (</span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; COLOR: black; FONT-SIZE: 10.5pt">ISR) targets, Joint Terminal Attach Controller (JTAC) personnel for conducting Battlefield Air Operations training activities, and directing aircraft</span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt"> training activities, and directing aircraft Multi-Spectral Targeting System (MTS) Electro-Optical; and Infrared sensors onto ground targets during Remotely Piloted Aircraft (RPA) aircrew training</span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'"> at Holloman AFB, NM (HAFB). </span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">This is not a solicitation announcement. This notice neither constitutes a Request for Quote, nor does it restrict 49 CONS to an ultimate acquisition approach. No contract is anticipated to be awarded from this announcement and requests for a solicitation will not receive a response. No reimbursement will be made for any costs associated with providing information in response to this announcement. Any information submitted by respondents to this notice is strictly voluntary. This Sources Sought Notice is in support of market research being conducted by the 49 CONS to determine potential sources capable of fulfilling all requirements associated with (ISR) on (HAFB). <br /><br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; COLOR: black; FONT-SIZE: 10.5pt">REQUIREMENT:<span style="mso-spacerun: yes">&nbsp; </span></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">The contractor shall provide labor, services, management and data to accomplish the tasks specified in the following paragraphs.<span style="mso-spacerun: yes">&nbsp; </span>Occasionally Government RPA crews travel to OCONUS locations to assist foreign nations in the training of their own RPA crews.<span style="mso-spacerun: yes">&nbsp; </span>In these cases, contract JTAC teams may be required to accompany the Government RPA crew training teams for purposes of assisting in training by providing the following services.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; tab-stops: list 0in; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">Provide Remotely Piloted Aircraft (RPA) and Joint Terminal Attack Controller (JTAC) subject matter experts (SMEs) with expertise in Command &amp; Control and Intelligence, Surveillance, and Reconnaissance (C2ISR), Battlefield Air Operations (BAO) program equipment and software; special operations Training, Tactics, and Procedures (TTPs); infiltration and exfiltration techniques, and sister service capabilities and limitations.<span style="mso-spacerun: yes">&nbsp; </span>Provide combat-experienced SMEs to drive continuous improvements for all phases of RPA C2ISR and Surface Attack training and development.<span style="mso-spacerun: yes">&nbsp; </span>Historically, the requirement has been met by two, 2-man JTAC ground range support teams at Creech AFB and six 4-man JTAC ground range support teams at Holloman AFB.<span style="mso-spacerun: yes">&nbsp; </span>Ground range teams must possess a working technical knowledge of all of the above-mentioned tasks to work in conjunction with airborne RPAs to provide training scenarios to support the USAF Formal Training Unit syllabi.<span style="mso-spacerun: yes">&nbsp; </span>Teams shall act as both regional opposing forces and Blue Force JTACs, oftentimes simultaneously.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">The first year, JTAC ground teams would support four Holloman-based MQ-9s for 13 hours per day, averaging twenty-four 2-hour support missions per duty day (240 duty days per year, with the ability to surge to weekends and nights if the training unit requirements dictate - with a current estimate of 12 weekends per year).<span style="mso-spacerun: yes">&nbsp; </span>JTAC ground teams would support 3 Holloman-based MQ-1s currently for 13 hours a day, averaging twelve 2-hour support missions per duty day (240 days per year, with the ability to surge to weekends and nights if the training unit requirements dictate - with a current estimate of 12 weekends per year).<span style="mso-spacerun: yes">&nbsp; </span>Creech AFB-based MQ-1s have a smaller requirement that historically have been met by two, 2-man JTAC teams and will likely be absorbed by the Holloman AFB mission within 2 calendar years.<span style="mso-spacerun: yes">&nbsp; </span>Additionally, JTAC ground teams shall perform in the role of JTAC ground team in the RPA simulators at Holloman and Creech AFB ("PMATs" - Predator Mission Aircrew Training devices), specifically by standing in the PMATs and utilizing voice communications with student RPA crews to simulate ground personnel.<span style="mso-spacerun: yes">&nbsp; </span>In addition, the use of pyrotechnic and flash-bang and other devices are required for use each training day for realistic visual effects for student Pilots and Sensor Operators to simulate weapons effects for AGM-114 missiles and GBU-12 and GBU-38 bombs (currently approximately 8 missions per day).</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">Support full time operational and test scenario development, planning, project management and execution of 49th WG and Department of Defense (DoD) training and test related exercises or demonstrations by acting as on-range ground data collectors for fielding of new software and Multispectral Targeting System capabilities (Target Location Error tolerance measurements, effective laser ranges, tactical acoustic testing scenario setups, range escort for scientific personnel, and exercise players.)<span style="mso-spacerun: yes">&nbsp; </span>Testing and evaluation of multi-camera systems to track personnel and vehicles requires personnel and vehicles to move in particular patterns, which would be required of the support test teams.<span style="mso-spacerun: yes">&nbsp; </span>Additionally, testing of new weapon accuracy requires ground range support in the form of a team on the ground to observe the employment and track technical data dictated by the test.<span style="mso-spacerun: yes">&nbsp; </span>These tests occur approximately every month, for an approximate total of 12 per year. </span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; LETTER-SPACING: -0.15pt; FONT-SIZE: 10.5pt">Support testing and demonstration exercises by providing test and evaluation expertise for RPA test planning, test execution, range logistics, and post-test analysis and documentation. This requires training specialists that have RPA expertise to aid the test aircrew in identifying the requirements of a ground-based team in the field.<span style="mso-spacerun: yes">&nbsp; </span>Exercises will include demonstrations of new RPA capabilities to the warfighter from the 556th<span style="mso-spacerun: yes">&nbsp; </span>Test and Evaluation Squadron in the form of escorting RPA commanders onto ranges to observe capabilities, participating in Creech AFB and Nellis AFB exercises approximately 6 times a year for 1 week each (e.g., Silver Flag Exercise).<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; tab-stops: list 45.0pt">&nbsp;</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">Provide survivor/downed airman support for RPA Combat Search and Rescue (CSAR) training, convoy operations and associated ground force activities in accordance with (IAW) the Formal Training Unit (29th ATKS, 6th RS, 11th RS) and Weapons School (26th WPS) syllabi.<span style="mso-spacerun: yes">&nbsp; </span>The CSAR syllabus requires approximately 2 CSAR events per flying day - approximately 240 flying days per year) for 1 Holloman-based MQ-9 crew (one Government student crew consists of 1 Pilot and 1 Sensor Operator) and 1 Holloman-based MQ-1 crew for a total of two hours each for this mission.<span style="mso-spacerun: yes">&nbsp; </span>Additionally, contractor shall make available Training Specialists who are available to act on the range and then travel to the crew location (Holloman AFB or Creech AFB) to debrief and instruct to crews of student pilots and sensor operators that had just acted in training scenario.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">Provide training on the proper use and practical application of remote RPA Video Down Link (VDL), specifically ROVER 4 and ROVER 5 systems, during classroom and field training scenarios for the MQ-9 and MQ-1 Formal Training Unit Students Programmed for Flying Training that year.<span style="mso-spacerun: yes">&nbsp; </span>Currently, PFT students for FY12 are 160 MQ-9 students and 120 MQ-1 students, to be spread out evenly across the 12 calendar months.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">&nbsp;</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">Provide academic support to the RPA Formal Training Units' instructor staff, students and support personnel during classroom and preflight briefings.<span style="mso-spacerun: yes">&nbsp; </span>The briefings will take place during the academic portion of each Formal Training Unit class (currently 21 classes per year with growth potential).<span style="mso-spacerun: yes">&nbsp; </span>This training takes place at Holloman AFB, NM and each class can expect approximately three (2-4) hour briefings as instruction from JTAC SMEs monthly.<span style="mso-spacerun: yes">&nbsp; </span>Each class will be approximately 15 students, and oftentimes permanent party flight instructors will sit in on discussions for continuation training (approximately 5 additional personnel).<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Services provided by the contractor must include ground team support during a variety of mission profiles, including: intelligence, surveillance, and reconnaissance, route reconnaissance, convoy escort and Combat Search and Rescue (CSAR). Additionally, aid MQ-1 and MQ-9 Instructor Pilots in developing daily training scenarios.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">Assist visiting operational units in planning daily training events, on each of approximately 240 flying training days per year, for 7 airborne RPAs flying for 13 hours each day in support of RPA and manned aircraft training and currency requirements. Specifically, maintain communications with the 29th ATKS scheduling office, the 11 RS scheduling office, the 6th RS scheduling, the 49th OSS range scheduling office, and the Fort Bliss 7th ASOS scheduling office to help facilitate coordination of aligning schedules for range ground support on a daily basis.<span style="mso-spacerun: yes">&nbsp; </span>Assist active duty ground teams in coordinating with RPAs when active duty units are visiting the RPA training or testing squadrons.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; COLOR: black; FONT-SIZE: 10.5pt">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN: 0in 0in 0pt; mso-add-space: auto; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt">Provide RPA support for government planning cells (an estimated 6 per calendar year) Joint Combat Search and Rescue, Joint Force Command, and other exercises within the Southern Ranges, the Nevada Test and Training Range, and the Fort Bliss/White Sands Missile Range/ Holloman AFB training range and airspace complex (commonly referred to as the "Triad").</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; tab-stops: list 0in; mso-layout-grid-align: none">&nbsp;</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; tab-stops: list 0in; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">Firms responding to this sources sought notice are also requested to provide the 49 CONS with capability statements, which need to include at a minimum:</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; tab-stops: list 0in; mso-layout-grid-align: none">&nbsp;</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">Company Name<br />Point of Contact Name and Number</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; tab-stops: 9.0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">Registered in System for Award Management (SAM)<br />Business Status (</span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'">8(a), Small, Hubzone, Woman-owned, etc).</span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'"><br />Commercial and Government Entity (CAGE) Code<br />Capabilities statement shall be submitted via e-mail <span style="text-decoration: underline;">to all</span> of the following: <span style="mso-spacerun: yes">&nbsp;</span></span><a href="file:///C:\Users\1384734134C\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\IAHLEUM3\julie.miller.4@us.af.mil"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">julie.miller.4@us.af.mil</span></a><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt"> </span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">and </span><a href="mailto:Garriet.Canteen@us.af.mil"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">Garriet.Canteen@us.af.mil</span></a><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'"> no later than 4:00 p.m. Mountain Standard Time (MST) Friday, 21 February<strong style="mso-bidi-font-weight: normal"> </strong>2014.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">&nbsp;</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">Holloman AFB is located about 9 miles west of Alamogordo, New Mexico on Highway 70/82; 90 miles north of El Paso, Texas, and 60 miles east of Las Cruces, New Mexico.<span style="mso-spacerun: yes">&nbsp; </span>Holloman AFB resides in Otero County.<span style="mso-spacerun: yes">&nbsp; </span>You can view more information about Holloman AFB by visiting website </span><a href="http://militaryinstallations.dod.mil"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">http://militaryinstallations.dod.mil</span></a><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10.5pt; mso-fareast-font-family: 'Times New Roman'">.<span style="mso-spacerun: yes">&nbsp; </span></span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		490 First Street, Suite 2160<br />
+Building 29<br/>
+
+			
+				
+		Holloman AFB,
+
+			
+	
+		New Mexico
+
+			
+	
+		88330-7908
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Primary Place of Performance: <br />
+<br />
+Holloman AFB, New Mexico 88330 <br />
+United States <br />
+<br />
+Other Locations:<br />
+Nellis AFB, NV			<br />
+Creech AFB, NV<br />
+China Lake, CA<br />
+White Sands Missile Range, NM<br />
+Fort Bliss, TX<br />
+Syracuse, NY<br />
+March ANG (Riverside, CA)<br/>
+
+			
+				
+		Holloman, AFB,
+
+			
+	
+		New Mexico
+
+			
+	
+		88330
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Julie Miller,</div>
+	<div>Contract Administrator</div>	<div><a href="mailto:julie.milller.4@us.af.mil">julie.milller.4@us.af.mil</a></div>
+	<div>Phone: 5755725297</div>		<div>Fax: 575-572-7333</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Garriet R. Canteen,</div>
+	<div>Contracting Administrator</div>	<div><a href="mailto:garriet.canteen2@holloman.af.mil">garriet.canteen2@holloman.af.mil</a></div>
+	<div>Phone: 5755727155</div>		<div>Fax: 575-572-7333</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=aecd51277f5232462ef9c28b5c41011d'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=aecd51277f5232462ef9c28b5c41011d'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 21, 2014 4:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 21, 2014 4:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 6, 2015
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	February 6, 2015
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	611 -- Educational Services/611512 -- Flight Training
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

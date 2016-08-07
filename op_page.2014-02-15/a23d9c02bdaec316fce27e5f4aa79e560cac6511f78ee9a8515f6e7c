@@ -1,0 +1,620 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Request for Information (RFI) IARPA-RFI-14-03: Security and Privacy Assurance Research-Multiparty Computation (SPAR-MPC) - IARPA-RFI-14-03 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392500338');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392500338';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=1a52bc6ced9e023923e0f35a95edea62&inline_disposition=1" border="0" alt="Intelligence Advanced Research Projects Activity logo"></div><div class="agency-header agency-header-sm"><h2>Request for Information (RFI) IARPA-RFI-14-03: Security and Privacy Assurance Research-Multiparty Computation (SPAR-MPC)</h2><div class="sol-num">Solicitation Number: IARPA-RFI-14-03</div><div class="agency-name">Agency: Office of the Director of National Intelligence<br>Office: Intelligence Advanced Research Projects Activity<br>Location: IARPA1</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=d0a1775911a2ed551406d9e5dd58a281&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/d0a1775911a2ed551406d9e5dd58a281" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/d0a1775911a2ed551406d9e5dd58a281" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/d0a1775911a2ed551406d9e5dd58a281" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=d0a1775911a2ed551406d9e5dd58a281&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=d0a1775911a2ed551406d9e5dd58a281&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=d0a1775911a2ed551406d9e5dd58a281&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 10, 2014</div><div class="nh-date">9:37 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d0a1775911a2ed551406d9e5dd58a281'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d0a1775911a2ed551406d9e5dd58a281'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	IARPA-RFI-14-03
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-10 09:37:38">Feb 10, 2014 9:37 am</span>
+					</div>
+		Request for Information (RFI) IARPA-RFI-14-03<br />
+<p>Security and Privacy Assurance Research-Multiparty<br />Computation (SPAR-MPC)</p><br />
+<p>Synopsis</p><br />
+<p>The Intelligence Advanced Research Projects Activity (IARPA) is seeking information relevant to developing tools for automatically generating provably secure multiparty computation protocols given specifics of the intended applications.   This request for information (RFI) is issued solely for information gathering and planning purposes; this RFI does not constitute a formal solicitation for proposals.  The following sections of this RFI define the overall scope of the technical domain of interest, several technical areas in which specific information is sought, and instructions for the preparation and submission of responses.</p><br />
+<p>Problem Background and Scope</p><br />
+<p>Secure Multiparty Computation (MPC) is a solution to the very general problem in which parties A, B, ... want to compute a joint function f (a, b, ...) on their respective inputs, but no party wants to reveal its input to any other party.  The function to be computed can be as simple as the value of a statistic on the data or as complex as the result of an interactive program.   For example, MPC protocols can</p><br />
+<p>&bull;	Allow  a  person  or  corporation  to  store  and  manipulate  data  in  an  untrusted  cloud computing  infrastructure  as  confidentially  as  if  that  data  were  stored  in  their  own network,<br />&bull;	Allow a Web server to customize the presentation of data based on a user's identity, preferences, interests, or other private information, without learning that information, or<br />&bull;	Allow a group of users to determine a course of action that is optimal for the group as a whole, without requiring any user to reveal which course of action they personally prefer.</p><br />
+<p>MPC protocols have been studied for a few decades now, with research continually improving the communication and computational efficiency for specific functions or security definitions [Y86, GMW86, GMW87].</p><br />
+<p>The design of an MPC protocol for a specific application typically considers three main factors: a model of the available computation, an appropriate security threat model, and the specific computation to be performed.  First, a computational model includes the number of participants, the computing architecture available to each participant (e.g., Central Processing Unit (CPU) speed, Field Programmable Gate Array (FPGA) chip size, amount of parallelism, and available storage), and the networking architecture (e.g., topology, latency, bandwidth, and the ability to broadcast  or  synchronize  transmissions).     Second,  a  security  threat  model  includes  the capabilities and potential actions of adversaries.  An adversary may be an eavesdropper on the network, a dishonest participant in the computation, or an otherwise honest participant whose system has been compromised.  Finally, the specific computation includes a description of the<br /> <br />function(s) to be evaluated.  This could be, e.g., a mathematical expression, a program in C code, or a Boolean circuit.</p><br />
+<p>The wide variety of choices for these factors makes it a challenge to construct an MPC protocol whose performance is optimal for a particular application.  Integrating multiple MPC protocols or cryptographic primitives to create a novel solution to a larger secure computation problem is possible [KoSS09, KeSS13], but increases the complexity of the optimization problem even more.   Protocol design involves cryptographic experts carefully defining message sequences, data structures, cryptographic primitives, and a host of other parameters that are tuned for a specific application.   The design process is very sensitive to changes in the application requirements.   It is by no means clear that a protocol designed to be highly efficient for one application will be even close to optimal for a slightly different application.</p><br />
+<p>The most basic requirements for a secure computation are that each input is kept confidential to the party that provided it, and the result is learned only by the intended recipient.   Any other information that can be learned by any party during the computation is likely to be a fatal security flaw for some application.   Therefore, existing general-purpose MPC protocols go to extraordinary lengths to hide all other information.  SPAR-MPC is based on the observation that if the "leakage" of some other information is acceptable or if there is an acceptable bound for the aggregate amount of this other information that can be learned over time, the protocol options may look very different and orders of magnitude gains in efficiency may be achievable.   The expected efficiency benefits warrant exploring ways to specify allowed leakage for otherwise secure computations,  an  important  deviation  from  standard  cryptographic  threat  models  for MPC.</p><br />
+<p>End users would be well served to have a language in which to articulate allowed leakage to influence the protocol design process.  This means moving protocol design and specification as close to the end application as possible with easy-to-use tools.  Tools can help the end user make security priorities explicit, i.e., to decide whether an amount of leakage unacceptable as an average case is nevertheless acceptable as a low likelihood worst case.</p><br />
+<p>The vision is to assist an organization with multiple MPC needs in selecting and deploying efficient protocols for each need, based on the characteristics of each application.   MPC applications for the same end user organization might range from big data analysis in the cloud to set intersection on short lists of items.   A  user knowledgeable about an intended MPC scenario, but not an expert in cryptographic protocols or MPC, could input application data into a future tool which will select or generate the definition of a cryptographic protocol and a proof of the protocol's security or data that can be used to prove the security of the protocol.  This does not preclude a generic proof that the generation tool will only produce provably secure protocols on well-formed parameters.   The definition of the cryptographic protocol would be in a programming language or in another executable specification [LM03, MNPS04, BNP08, SKM11], able to be compiled to machine code with dependence only on available commercial or open source cryptographic libraries.</p><br />
+<p>Note that the vision is not to have a tool that helps select from among predefined protocols, but to have a tool that can automatically generate tailored protocols that are very efficient for novel applications.  This does not preclude the selection of an instance from within a parameterized<br /> <br />family of protocols, but it is desirable that a future tool would support a wide enough range of parameters that no single family of protocols could provide a practically efficient solution for all cases.   The envisioned tool might present the user with different protocols that satisfy the application constraints but have different efficiency/security tradeoffs or are efficient under different computation models such as the addition of additional parties.</p><br />
+<p>Note that, for circuits, a general purpose garbled circuit compiler [MNPS04, BNP08, HEKM11] could provide an upper bound of performance from which to measure the sophistication of tools that can take concrete application parameters into consideration.   At the lower bound are the na&iuml;ve protocols that offer no security or privacy.  The research goal is to automatically generate tailored protocols that lie in between, and then help the end user make further choices by visualizing the tradeoffs and quantifying the overall cost of alternative protocols.  This RFI seeks ideas that illuminate the research challenges in making this vision a reality.</p><br />
+<p>Request to Respondents</p><br />
+<p>In this RFI we seek information about approaches to develop tools that automatically generate provably secure MPC protocols from information about specific applications.  To this end, we seek ideas on formalizing security and privacy constraints for MPC participants, formalizing the application characteristics such as tolerance for pre-computation, high bandwidth, or heavy computation loads, and measuring the tradeoffs between protocol efficiency and leakage.</p><br />
+<p>It  is  very  difficult  to  enumerate  all  the  possible  ways  information  can  be  leaked  in  a cryptographic protocol and the consideration of side channel leakage (execution timing, memory usage, CPU usage, etc.) makes this more difficult.  It is also difficult to interpret the effects of such leakage on the confidentiality of the application data or the integrity of the overall computation.  Formalization and quantification of information available in access patterns, side channels, and other kinds of indirect disclosures are necessary to help non-specialists draw boundaries between intended, acceptable, and strictly prohibited learning by each participant in a specific end-user application.  This RFI seeks ideas for exploring, quantifying, interpreting, and articulating  the  tradeoffs  between  the  efficiency  gains  and  the  negative  side-effects  from allowing a specific leakage in a way that empowers end users to make informed risk acceptance decisions for each particular MPC application.</p><br />
+<p>Additionally, the following ideas are in scope of this RFI: support for verifiable computation [GGP10], function privacy [Y86], malicious adversaries (including a malicious networking infrastructure [C00]), reusable cryptography [GKPVZ13], computation of arbitrary Random Access Machine (RAM) [LO13] or Random Access Stored Program (RASP) machine programs, Fully Homomorphic Encryption (FHE) and Somewhat Homomorphic Encryption (SWHE) techniques [G09].  Restrictions to the two-party case are in scope, as this is a common scenario that may benefit from specialized tools.<br /> <br />Responses should address one or more of the following four topic areas:</p><br />
+<p>1.	Formalization of Security and Privacy Constraints for MPC Protocols</p><br />
+<p>This topic area especially includes identifying, formalizing, and quantifying leakage so that all information flows are explicit.</p><br />
+<p>2.	Quantitative Metrics for Security, Privacy, and Efficiency of MPC Protocols</p><br />
+<p>This  topic  includes  identifying  sound  metrics  for  measuring  progress  and  ultimate success of automatic protocol generation tools.</p><br />
+<p>3.	Parameterized Families of MPC Protocols</p><br />
+<p>This topic identifies and discusses current research in MPC protocols that are already parameterized or can be parameterized with respect to the security definition (beyond a simple security parameter), number of participants, available computational, communication, or storage resources, etc.</p><br />
+<p>4.	Research Roadmap</p><br />
+<p>This topic area includes discussing the challenges in developing tools for automatic generation   of   provably   secure   MPC   protocols,   tailored   to   concrete   application parameters, and proposing a research roadmap for getting to this end state.  A roadmap is a logical sequence of well-defined intermediate challenges that make cumulative progress toward the envisioned end state.</p><br />
+<p>Responses may additionally discuss any other ideas noted as of interest in this RFI as far as the page limit allows.</p><br />
+<p>Based in part on the results of this RFI, IARPA expects to hold a MPC workshop.  Participants will be selected primarily from respondents to this RFI. Such a workshop would likely explore the research challenges of implementing MPC protocol generation tools as described above, particularly as they relate to the structure of a potential future IARPA research program in this area.</p><br />
+<p>Preparation Instructions to Respondents</p><br />
+<p>The Intelligence Advanced Research Projects Activity often selects its research efforts through the Broad Agency Announcement (BAA) process.  This request for information is intended to obtain information relevant to a possible future IARPA program, so that feedback from potential participants can be considered prior to the issuance of a BAA.   Reponses to this RFI may be incorporated within a future IARPA program BAA, and therefore any information provided must be available for unrestricted public distribution.  Although the scope and purpose of any future workshop or program remain to be determined, secure MPC is a topic of strong interest.  IARPA requests  that  submittals  briefly  and  clearly  address  the  topic  of  this  RFI,  identify  critical technical risks and challenges, describe approaches to address those technical risks and challenges, discuss the range of practical applications that would be affected by program success,<br /> <br />and comment on the durability of the projected payoff.  Respondents may also provide a non- proprietary rough order of magnitude (ROM) estimate of costs in terms of time, funding, and other resources expected to be needed to execute the proffered approach.  This RFI contains all of the information needed to submit a response.   No additional forms, kits, or materials are needed.</p><br />
+<p>IARPA seeks responses from all capable and qualified sources from within and outside the United States.   Responses from teams with complementary areas of expertise are encouraged. Responses have the following formatting requirements:</p><br />
+<p>1.	A one page cover sheet that identifies the number and title of the RFI responded to, the title of the response, the respondent's organization(s), technical and administrative points of  contact  (including  names,  addresses,  phone  numbers,  fax  numbers,  and  email addresses of all co-authors);<br />2.         A one page substantive, focused executive summary;<br />3.	Technical discussions of one or more of the four workshop topic areas described above, up to a maximum of five pages, including any figures and charts, with each topic area discussion clearly titled with the name of the relevant topic area;<br />4.	Optionally,  a  set  of  briefing  charts,  one  for  each  topic  area  for  which  a  technical discussion was provided, each clearly labeled with the name of the relevant topic area and graphically depicting an overview of the key ideas discussed for a topic area;<br />5.	A list of works cited (any significant claims or reports of success must be accompanied by citations, and all unpublished referenced works must be attached);</p><br />
+<p>All parts of the submittal must be on letter size paper with a minimum 1 inch margin, with a minimum 12 point font size.</p><br />
+<p>Submission Instructions to Respondents</p><br />
+<p>Responses to this RFI are due no later than 4:00pm Eastern Daylight Time on 31 March 2014. All submittals must be electronically submitted to dni-iarpa-rfi-14-03@iarpa.gov in Portable Document   Format   (PDF)   file   format.      Inquiries   to   this   RFI   must   be   submitted   to dni-iarpa-rfi-14-03@iarpa.gov.  Do not send questions with proprietary content.  No telephone inquiries will be accepted.</p><br />
+<p>DISCLAIMERS AND IMPORTANT NOTES</p><br />
+<p>This RFI is issued solely for information and new program planning purposes and does not constitute  a  solicitation.     IARPA  is  under  no  obligation  to  acknowledge  receipt  of  the information received, or provide feedback to respondents with respect to any information submitted.</p><br />
+<p>Responses to this RFI are not offers and cannot be accepted by the Government to form a binding contract.  Respondents are solely responsible for all expenses associated with responding to this RFI.  Each respondent is responsible for ensuring that any submitted material or results of research funded by another party has been approved for unrestricted public distribution by the funding organization.<br /> <br />The Government does not intend to award a contract on the basis of this RFI or to otherwise pay for the information requested, nor is the Government obligated to issue a solicitation based on responses received.  Neither proprietary nor classified information should be included in the submittal.  Input on technical aspects of a response may be obtained by IARPA from non- Government consultants who are bound by appropriate non-disclosure requirements.</p><br />
+<p>Contracting Office Address</p><br />
+<p>Office of the Director of National Intelligence Intelligence Advanced Research Projects Activity Washington, District of Columbia 20511<br />United States of America</p><br />
+<p>Primary Point of Contact</p><br />
+<p>W. Konrad Vesey<br />Program Manager<br />dni-iarpa-rfi-14-03@iarpa.gov</p><br />
+<p>REFERENCES</p><br />
+<p>[BNP08]	Ben-David,  Nisan,  and  Pinkas,  "FairplayMP-A  System  for  Secure  Multi- Party Computation," Proceedings of the 2008 ACM Conference on Computer and Communications Security (CCS 2008)<br />[C00]	Ran   Canetti,   "Security   and   Composition   of	Multiparty   Cryptographic<br />Protocols," J. Cryptology, v. 13 no. 1, 2000, pp. 143-202.<br />[G09]                  Gentry, "Fully Homomorphic Encryption Using Ideal Lattices," Proceedings of the  41st  Annual  ACM  Symposium  on  Theory  of  Computing  Conference (STOC 2009)<br />[GGP10]	Gennaro,   Gentry,   and   Parno,   "Non-Interactive   Verifiable   Computing: Outsourcing Computation to Untrusted Workers," Advanced in Cryptology- CRYPTO 2010, 30th Annual Cryptology Conference<br />[GKPVZ13]	Goldwasser, Kalai, Popa, Vaikuntanathan, and Zeldovich, "Reusable Garbled Circuits and Succinct Functional Encryption," Proceedings of the 45th Annual ACM Symposium on Theory of Computing Conference (STOC 2013)<br />[GMW86]	Goldreich,  Micali,  and  Wigderson,  "Proofs  that  Reveal  Nothing  but  Their Validity and a Methodology of Cryptographic Protocol Design," 27th Annual Symposium on Foundations of Computer Science (FOCS 1986)<br />[GMW87]	Goldreich,  Micali,  and  Wigderson,  "How  to  Play any Mental  Game  or  A Completeness Theorem for Protocols with Honest Majority," Proceedings of the 19th Annual ACM Symposium on Theory of Computing (STOC 1987)<br />[HEKM11]	Huang, Evans, Katz, and Malka, "Faster Secure Two-Party Computation Using<br />Garbled  Circuits,"  Proceedings  of  the  20th  USENIX  Security Symposium,<br />2011<br />[KeSS13]            Kerschbaum,  Schneider,  and  Schr&ouml;pfer,  "Automatic  Protocol  Selection  in Secure  Two-Party  Computation,"  20th  Annual  Network  and  Distributed System Security Symposium (NDSS 2013)<br /> <br />[KoSS09]	Kolesnikov,   Sadeghi,   and   Schneider,   "How   to   combine   Homomorphic Encryption and Garbled Circuits: Improved Circuits and Computing the Minimum Distance Effectively," International Workshop on Signal Processing in the Encrypted Domain (SPEED 2009)<br />[LM03]               Lewis   and   Martin,   "CRYPTOL:   High   Assurance,   Retargetable   Crypto Development	and       Validation,"       White       paper       accessible       at http://corp.galois.com/storage/files/downloads/Cryptol_Whitepaper.pdf<br />[LO13]	Lu   and   Ostrovsky,   "How   to   Garble   RAM   Programs,"   Advances   in Cryptology-EUROCRYPT 2013, 32nd Annual International Conference on the Theory and Applications of Cryptographic Techniques<br />[MNPS04]	Malkhi,	Nisan,	Pinkas,	and	Sella,	"Fairplay-A	Secure	Two-Party<br />Computation System," Proceedings of the 13th USENIX Security Symposium,<br />2004<br />[SKM11]	Schr&ouml;pfer,  Kerschbaum,  and  M&uuml;ller,  "L1-An  Intermediate  Language  for Mixed-Protocol Secure Computation," Proceedings of the 35th Annual IEEE International Computer Software and Applications Conference (COMPSAC<br />2011)<br />[Y86]	Yao, "How to Generate and Exchange Secrets," 27th Annual Symposium on<br />Foundations of Computer Science (FOCS 1986)</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Request for Information (RFI) IARPA-RFI-14-03</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Request for Information (RFI) IARPA-RFI-14-03
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=f92bc75763256b2db1eea8cb04c8bfa1' target='_blank' title='Download/View IARPA-RFI-14-03_SPAR-MPC.pdf' class='file'&gt;IARPA-RFI-14-03_SPAR-MPC.pdf&lt;/a&gt;"><a href='/utils/view?id=f92bc75763256b2db1eea8cb04c8bfa1' target='_blank' title='Download/View IARPA-RFI-14-03_SPAR-MPC.pdf' class='file'>IARPA-RFI-14-03_SPAR-MPC.pdf</a> (100.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Request for Information (RFI) IARPA-RFI-14-03</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		Office of the Director of National Intelligence<br />
+Intelligence Advanced Research Projects Activity<br/>
+
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+	
+		20511
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>W. Konrad Vesey,</div>
+	<div>Program Manager</div>	<div><a href="mailto:dni-iarpa-rfi-14-03@iarpa.gov">dni-iarpa-rfi-14-03@iarpa.gov</a></div>
+			
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d0a1775911a2ed551406d9e5dd58a281'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d0a1775911a2ed551406d9e5dd58a281'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=8be3bb2006df956bbac0dc04e250f020">Request for Information (RFI) IARPA-RFI-14-03</a> <a target="_blank" href="/utils/dZip?base=d0a1775911a2ed551406d9e5dd58a281&class=document_package&id=8be3bb2006df956bbac0dc04e250f020" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="/utils/view?id=f92bc75763256b2db1eea8cb04c8bfa1" target="_blank" title="Download/View IARPA-RFI-14-03_SPAR-MPC.pdf" class="file">IARPA-RFI-14-03_SPAR-MPC.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Mar 31, 2014 4:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 31, 2015
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	A -- Research & Development
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541712 -- Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

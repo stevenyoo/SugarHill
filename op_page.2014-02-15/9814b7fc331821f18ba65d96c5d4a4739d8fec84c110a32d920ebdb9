@@ -1,0 +1,914 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>65-- September 2013 Consolidation HTME   - VA797H14Q0008 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392489709');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392489709';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=14f048e7c1c2bb5de6d9e174e5071272&inline_disposition=1" border="0" alt="VA National Acquisition Center logo"></div><div class="agency-header"><h2>65-- September 2013 Consolidation HTME  </h2><div class="sol-num">Solicitation Number: VA797H14Q0008</div><div class="agency-name">Agency: Department of Veterans Affairs<br>Office: VA National Acquisition Center<br>Location: Department of Veterans Affairs National Acquisition Center</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=6ae4e0a8daf8708a49e6936089dbaefe&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/VA/VANAC/VANAC/VA797H14Q0008/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/VA/VANAC/VANAC/VA797H14Q0008/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/VA/VANAC/VANAC/VA797H14Q0008/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=6ae4e0a8daf8708a49e6936089dbaefe&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=6ae4e0a8daf8708a49e6936089dbaefe&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=6ae4e0a8daf8708a49e6936089dbaefe&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=f006a7027f5c910ac21b0b1221a36b94&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Dec 20, 2013</div><div class="nh-date">2:36 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=6ae4e0a8daf8708a49e6936089dbaefe&_cview=0">Changed</a><div class="nh-date">Feb 13, 2014</div><div class="nh-date">4:26 pm</div><div class="nh-date"><em>Solicitation</em></div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f006a7027f5c910ac21b0b1221a36b94'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f006a7027f5c910ac21b0b1221a36b94'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	VA797H14Q0008
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-12-20 14:36:14">Dec 20, 2013 2:36 pm</span>
+					</div>
+		##FileName: 1301155/Sep 2013 Consolidation_Pre-Solicitation Notice_12-20-13.docx
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	December 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1137233&FileName=VA797H-14-Q-0008-000.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1137233&FileName=VA797H-14-Q-0008-000.docx</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 HTME September 2013 Consolidation - VA797H-14-Q-0008.docx</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207681&FileName=VA797H-14-Q-0008-001.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207681&FileName=VA797H-14-Q-0008-001.docx</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 VA797H-14-Q-0008.docx</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207682&FileName=VA797H-14-Q-0008-002.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207682&FileName=VA797H-14-Q-0008-002.docx</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 RFQ Instructions to Vendors -September 2013 Consolidation.docx</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207683&FileName=VA797H-14-Q-0008-003.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207683&FileName=VA797H-14-Q-0008-003.docx</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 September 2013 Consolidation Schedule.docx</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207684&FileName=VA797H-14-Q-0008-004.xlsx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207684&FileName=VA797H-14-Q-0008-004.xlsx</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 September 2013 Consolidation Items_ Phase 1 Highlighted.xlsx</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207685&FileName=VA797H-14-Q-0008-005.pdf" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207685&FileName=VA797H-14-Q-0008-005.pdf</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 VA Directive 6550 Attachment.pdf</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207686&FileName=VA797H-14-Q-0008-006.xlsx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207686&FileName=VA797H-14-Q-0008-006.xlsx</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 Vendor Workup Template1.xlsx</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207687&FileName=VA797H-14-Q-0008-007.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207687&FileName=VA797H-14-Q-0008-007.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 678-B30031 THRU 797NL3001.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207688&FileName=VA797H-14-Q-0008-008.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207688&FileName=VA797H-14-Q-0008-008.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 673-B20037  THRU  675-B37011.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207689&FileName=VA797H-14-Q-0008-009.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207689&FileName=VA797H-14-Q-0008-009.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 671-B30046 THRU  672-FC3021.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207690&FileName=VA797H-14-Q-0008-010.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207690&FileName=VA797H-14-Q-0008-010.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 663-B32021 THRU  667-B39016.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207691&FileName=VA797H-14-Q-0008-011.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207691&FileName=VA797H-14-Q-0008-011.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 662-B30001 THRU  662-B30019.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207692&FileName=VA797H-14-Q-0008-012.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207692&FileName=VA797H-14-Q-0008-012.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 658-B20006 THRU 658-B30038.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207693&FileName=VA797H-14-Q-0008-013.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207693&FileName=VA797H-14-Q-0008-013.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 657-B30009 THRU 657-B32011.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207694&FileName=VA797H-14-Q-0008-014.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207694&FileName=VA797H-14-Q-0008-014.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 652-B30041 THRU 656-B30023.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207695&FileName=VA797H-14-Q-0008-015.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207695&FileName=VA797H-14-Q-0008-015.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 646-B22024 THRU 648-B31007.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207696&FileName=VA797H-14-Q-0008-016.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207696&FileName=VA797H-14-Q-0008-016.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 642-B20031 THRU 644-B38060.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207697&FileName=VA797H-14-Q-0008-017.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207697&FileName=VA797H-14-Q-0008-017.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 636-B32079 THRU 640-B34017.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207698&FileName=VA797H-14-Q-0008-018.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207698&FileName=VA797H-14-Q-0008-018.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 635-B36024 THRU 635-B36037.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207699&FileName=VA797H-14-Q-0008-019.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207699&FileName=VA797H-14-Q-0008-019.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 630-B30014 THRU 635-B36023.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207700&FileName=VA797H-14-Q-0008-020.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207700&FileName=VA797H-14-Q-0008-020.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 626-B30024 THRU 626-B30044.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207701&FileName=VA797H-14-Q-0008-021.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207701&FileName=VA797H-14-Q-0008-021.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 621-B30002 THRU 621-B30012.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207702&FileName=VA797H-14-Q-0008-022.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207702&FileName=VA797H-14-Q-0008-022.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 618-B39045 THRU 618-B39053.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207703&FileName=VA797H-14-Q-0008-023.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207703&FileName=VA797H-14-Q-0008-023.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 614-B30029 THRU 614-B30049.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207704&FileName=VA797H-14-Q-0008-024.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207704&FileName=VA797H-14-Q-0008-024.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 614-B30001 THRU 614-B30028.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207705&FileName=VA797H-14-Q-0008-025.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207705&FileName=VA797H-14-Q-0008-025.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 605-B30012 THRU 613-B38001.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207706&FileName=VA797H-14-Q-0008-026.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207706&FileName=VA797H-14-Q-0008-026.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 603-B30008 THRU 603-B30029.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207708&FileName=VA797H-14-Q-0008-027.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207708&FileName=VA797H-14-Q-0008-027.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 600-B30006 THRU 600-B30016.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207709&FileName=VA797H-14-Q-0008-028.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207709&FileName=VA797H-14-Q-0008-028.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 598-B30005 THRU 598-B30028.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207710&FileName=VA797H-14-Q-0008-029.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207710&FileName=VA797H-14-Q-0008-029.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 593-B30005 THRU 596-B30012.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207711&FileName=VA797H-14-Q-0008-030.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207711&FileName=VA797H-14-Q-0008-030.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 586-B30018 THRU 589-B33012.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207712&FileName=VA797H-14-Q-0008-031.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207712&FileName=VA797H-14-Q-0008-031.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 581-B30022 THRU 583-B30115.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207713&FileName=VA797H-14-Q-0008-032.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207713&FileName=VA797H-14-Q-0008-032.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 573-B35020 THRU 581-B30020.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207714&FileName=VA797H-14-Q-0008-033.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207714&FileName=VA797H-14-Q-0008-033.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 564-B3004 THRU 570-B30031.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207715&FileName=VA797H-14-Q-0008-034.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207715&FileName=VA797H-14-Q-0008-034.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 554-B30050 THRU 561-B30013.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207716&FileName=VA797H-14-Q-0008-035.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207716&FileName=VA797H-14-Q-0008-035.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 550-B30009 THRU 554-B30038.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207717&FileName=VA797H-14-Q-0008-036.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207717&FileName=VA797H-14-Q-0008-036.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 546-B37009 THRU 549-B30224.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207719&FileName=VA797H-14-Q-0008-037.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207719&FileName=VA797H-14-Q-0008-037.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 542-B30004 THRU 546-B37008.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207720&FileName=VA797H-14-Q-0008-038.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207720&FileName=VA797H-14-Q-0008-038.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 537-B38020 THRU 541-B30121.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207721&FileName=VA797H-14-Q-0008-039.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207721&FileName=VA797H-14-Q-0008-039.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 528-B33018 THRU 534-3B5015.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207723&FileName=VA797H-14-Q-0008-040.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207723&FileName=VA797H-14-Q-0008-040.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 528-B30032 THRU 528-B33015.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207725&FileName=VA797H-14-Q-0008-041.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207725&FileName=VA797H-14-Q-0008-041.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 523-B31036 THRU 528-B23016.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207726&FileName=VA797H-14-Q-0008-042.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207726&FileName=VA797H-14-Q-0008-042.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 523-B31020 THRU 523-B31035.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207727&FileName=VA797H-14-Q-0008-043.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207727&FileName=VA797H-14-Q-0008-043.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 523-B31003 THRU 523-B31019.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207728&FileName=VA797H-14-Q-0008-044.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207728&FileName=VA797H-14-Q-0008-044.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 516-B30034 THRU 523-B31002.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207729&FileName=VA797H-14-Q-0008-045.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207729&FileName=VA797H-14-Q-0008-045.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 516-B30013 THRU 516-B30033.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207730&FileName=VA797H-14-Q-0008-046.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207730&FileName=VA797H-14-Q-0008-046.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 509-3B5006 THRU 516-B30011.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207731&FileName=VA797H-14-Q-0008-047.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207731&FileName=VA797H-14-Q-0008-047.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 506-B30063 THRU 509-3B5005.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207733&FileName=VA797H-14-Q-0008-048.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207733&FileName=VA797H-14-Q-0008-048.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 502-B35007 THRU 506-B30061.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207734&FileName=VA797H-14-Q-0008-049.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207734&FileName=VA797H-14-Q-0008-049.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 483-B20057 THRU 502-B35004.zip</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207735&FileName=VA797H-14-Q-0008-050.zip" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207735&FileName=VA797H-14-Q-0008-050.zip</a></div>
+		<div><span class="label">Description:</span> VA797H-14-Q-0008 405-B30659 THRU 483-B20042.zip</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	VA NATIONAL ACQUISITION CENTER;NATIONAL CONTRACTS SERVICE (003A4C2);HIGH TECH MEDICAL EQUIPMENT DIVISION;P.O. BOX 76, BLDG. 37;HINES, IL  60141
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	VA NATIONAL ACQUISITION CENTER;NATIONAL CONTRACTS SERVICE (003A4C2);HIGH TECH MEDICAL EQUIPMENT DIVISION;P.O. BOX 76, BLDG. 37;HINES, IL  60141<br />
+60141<br />
+USA
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	DENISE MORRISSEY<br />
+SENIOR CONTRACT SPECIALIST<br />
+BRYAN O'SHAUGHNESSY<br />
+CONTRACT SPECIALIST<br />
+<br />
+<a href="mailto:DENISE.MORRISSEY@VA.GOV; BRYAN O'SHAUGHNESSY@VA.GOV">SR. CONTRACT SPECIALIST; CONTRACT SPECIALIST</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f006a7027f5c910ac21b0b1221a36b94'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f006a7027f5c910ac21b0b1221a36b94'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=0dca80598793cefeb1543d243e89601a">Attachment</a> <a target="_blank" href="/utils/dZip?base=f006a7027f5c910ac21b0b1221a36b94&class=document_package&id=0dca80598793cefeb1543d243e89601a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 20, 2013</div></dt><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1137233&FileName=VA797H-14-Q-0008-000.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1137233&amp;FileName=VA797H-14-Q-0008-000.docx in new browser window." class="link">VA797H-14-Q-0008 HTME September 2013 Consolidation - VA797H-14-Q-0008.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e352aeb5b495eec276b59d45e88323bb">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=f006a7027f5c910ac21b0b1221a36b94&class=document_package&id=e352aeb5b495eec276b59d45e88323bb" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 13, 2014</div></dt><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207681&FileName=VA797H-14-Q-0008-001.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207681&amp;FileName=VA797H-14-Q-0008-001.docx in new browser window." class="link">VA797H-14-Q-0008 VA797H-14-Q-0008.docx</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207682&FileName=VA797H-14-Q-0008-002.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207682&amp;FileName=VA797H-14-Q-0008-002.docx in new browser window." class="link">VA797H-14-Q-0008 RFQ Instructions to Vendors -September 2013 Consolidation.docx</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207683&FileName=VA797H-14-Q-0008-003.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207683&amp;FileName=VA797H-14-Q-0008-003.docx in new browser window." class="link">VA797H-14-Q-0008 September 2013 Consolidation Schedule.docx</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207684&FileName=VA797H-14-Q-0008-004.xlsx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207684&amp;FileName=VA797H-14-Q-0008-004.xlsx in new browser window." class="link">VA797H-14-Q-0008 September 2013 Consolidation Items_ Phase 1 Highlighted.xlsx</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207685&FileName=VA797H-14-Q-0008-005.pdf" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207685&amp;FileName=VA797H-14-Q-0008-005.pdf in new browser window." class="link">VA797H-14-Q-0008 VA Directive 6550 Attachment.pdf</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207686&FileName=VA797H-14-Q-0008-006.xlsx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207686&amp;FileName=VA797H-14-Q-0008-006.xlsx in new browser window." class="link">VA797H-14-Q-0008 Vendor Workup Template1.xlsx</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207687&FileName=VA797H-14-Q-0008-007.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207687&amp;FileName=VA797H-14-Q-0008-007.zip in new browser window." class="link">VA797H-14-Q-0008 678-B30031 THRU 797NL3001.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207688&FileName=VA797H-14-Q-0008-008.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207688&amp;FileName=VA797H-14-Q-0008-008.zip in new browser window." class="link">VA797H-14-Q-0008 673-B20037  THRU  675-B37011.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207689&FileName=VA797H-14-Q-0008-009.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207689&amp;FileName=VA797H-14-Q-0008-009.zip in new browser window." class="link">VA797H-14-Q-0008 671-B30046 THRU  672-FC3021.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207690&FileName=VA797H-14-Q-0008-010.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207690&amp;FileName=VA797H-14-Q-0008-010.zip in new browser window." class="link">VA797H-14-Q-0008 663-B32021 THRU  667-B39016.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207691&FileName=VA797H-14-Q-0008-011.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207691&amp;FileName=VA797H-14-Q-0008-011.zip in new browser window." class="link">VA797H-14-Q-0008 662-B30001 THRU  662-B30019.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207692&FileName=VA797H-14-Q-0008-012.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207692&amp;FileName=VA797H-14-Q-0008-012.zip in new browser window." class="link">VA797H-14-Q-0008 658-B20006 THRU 658-B30038.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207693&FileName=VA797H-14-Q-0008-013.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207693&amp;FileName=VA797H-14-Q-0008-013.zip in new browser window." class="link">VA797H-14-Q-0008 657-B30009 THRU 657-B32011.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207694&FileName=VA797H-14-Q-0008-014.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207694&amp;FileName=VA797H-14-Q-0008-014.zip in new browser window." class="link">VA797H-14-Q-0008 652-B30041 THRU 656-B30023.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207695&FileName=VA797H-14-Q-0008-015.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207695&amp;FileName=VA797H-14-Q-0008-015.zip in new browser window." class="link">VA797H-14-Q-0008 646-B22024 THRU 648-B31007.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207696&FileName=VA797H-14-Q-0008-016.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207696&amp;FileName=VA797H-14-Q-0008-016.zip in new browser window." class="link">VA797H-14-Q-0008 642-B20031 THRU 644-B38060.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207697&FileName=VA797H-14-Q-0008-017.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207697&amp;FileName=VA797H-14-Q-0008-017.zip in new browser window." class="link">VA797H-14-Q-0008 636-B32079 THRU 640-B34017.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207698&FileName=VA797H-14-Q-0008-018.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207698&amp;FileName=VA797H-14-Q-0008-018.zip in new browser window." class="link">VA797H-14-Q-0008 635-B36024 THRU 635-B36037.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207699&FileName=VA797H-14-Q-0008-019.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207699&amp;FileName=VA797H-14-Q-0008-019.zip in new browser window." class="link">VA797H-14-Q-0008 630-B30014 THRU 635-B36023.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207700&FileName=VA797H-14-Q-0008-020.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207700&amp;FileName=VA797H-14-Q-0008-020.zip in new browser window." class="link">VA797H-14-Q-0008 626-B30024 THRU 626-B30044.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207701&FileName=VA797H-14-Q-0008-021.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207701&amp;FileName=VA797H-14-Q-0008-021.zip in new browser window." class="link">VA797H-14-Q-0008 621-B30002 THRU 621-B30012.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207702&FileName=VA797H-14-Q-0008-022.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207702&amp;FileName=VA797H-14-Q-0008-022.zip in new browser window." class="link">VA797H-14-Q-0008 618-B39045 THRU 618-B39053.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207703&FileName=VA797H-14-Q-0008-023.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207703&amp;FileName=VA797H-14-Q-0008-023.zip in new browser window." class="link">VA797H-14-Q-0008 614-B30029 THRU 614-B30049.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207704&FileName=VA797H-14-Q-0008-024.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207704&amp;FileName=VA797H-14-Q-0008-024.zip in new browser window." class="link">VA797H-14-Q-0008 614-B30001 THRU 614-B30028.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207705&FileName=VA797H-14-Q-0008-025.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207705&amp;FileName=VA797H-14-Q-0008-025.zip in new browser window." class="link">VA797H-14-Q-0008 605-B30012 THRU 613-B38001.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207706&FileName=VA797H-14-Q-0008-026.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207706&amp;FileName=VA797H-14-Q-0008-026.zip in new browser window." class="link">VA797H-14-Q-0008 603-B30008 THRU 603-B30029.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207708&FileName=VA797H-14-Q-0008-027.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207708&amp;FileName=VA797H-14-Q-0008-027.zip in new browser window." class="link">VA797H-14-Q-0008 600-B30006 THRU 600-B30016.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207709&FileName=VA797H-14-Q-0008-028.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207709&amp;FileName=VA797H-14-Q-0008-028.zip in new browser window." class="link">VA797H-14-Q-0008 598-B30005 THRU 598-B30028.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207710&FileName=VA797H-14-Q-0008-029.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207710&amp;FileName=VA797H-14-Q-0008-029.zip in new browser window." class="link">VA797H-14-Q-0008 593-B30005 THRU 596-B30012.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207711&FileName=VA797H-14-Q-0008-030.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207711&amp;FileName=VA797H-14-Q-0008-030.zip in new browser window." class="link">VA797H-14-Q-0008 586-B30018 THRU 589-B33012.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207712&FileName=VA797H-14-Q-0008-031.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207712&amp;FileName=VA797H-14-Q-0008-031.zip in new browser window." class="link">VA797H-14-Q-0008 581-B30022 THRU 583-B30115.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207713&FileName=VA797H-14-Q-0008-032.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207713&amp;FileName=VA797H-14-Q-0008-032.zip in new browser window." class="link">VA797H-14-Q-0008 573-B35020 THRU 581-B30020.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207714&FileName=VA797H-14-Q-0008-033.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207714&amp;FileName=VA797H-14-Q-0008-033.zip in new browser window." class="link">VA797H-14-Q-0008 564-B3004 THRU 570-B30031.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207715&FileName=VA797H-14-Q-0008-034.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207715&amp;FileName=VA797H-14-Q-0008-034.zip in new browser window." class="link">VA797H-14-Q-0008 554-B30050 THRU 561-B30013.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207716&FileName=VA797H-14-Q-0008-035.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207716&amp;FileName=VA797H-14-Q-0008-035.zip in new browser window." class="link">VA797H-14-Q-0008 550-B30009 THRU 554-B30038.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207717&FileName=VA797H-14-Q-0008-036.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207717&amp;FileName=VA797H-14-Q-0008-036.zip in new browser window." class="link">VA797H-14-Q-0008 546-B37009 THRU 549-B30224.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207719&FileName=VA797H-14-Q-0008-037.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207719&amp;FileName=VA797H-14-Q-0008-037.zip in new browser window." class="link">VA797H-14-Q-0008 542-B30004 THRU 546-B37008.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207720&FileName=VA797H-14-Q-0008-038.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207720&amp;FileName=VA797H-14-Q-0008-038.zip in new browser window." class="link">VA797H-14-Q-0008 537-B38020 THRU 541-B30121.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207721&FileName=VA797H-14-Q-0008-039.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207721&amp;FileName=VA797H-14-Q-0008-039.zip in new browser window." class="link">VA797H-14-Q-0008 528-B33018 THRU 534-3B5015.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207723&FileName=VA797H-14-Q-0008-040.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207723&amp;FileName=VA797H-14-Q-0008-040.zip in new browser window." class="link">VA797H-14-Q-0008 528-B30032 THRU 528-B33015.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207725&FileName=VA797H-14-Q-0008-041.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207725&amp;FileName=VA797H-14-Q-0008-041.zip in new browser window." class="link">VA797H-14-Q-0008 523-B31036 THRU 528-B23016.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207726&FileName=VA797H-14-Q-0008-042.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207726&amp;FileName=VA797H-14-Q-0008-042.zip in new browser window." class="link">VA797H-14-Q-0008 523-B31020 THRU 523-B31035.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207727&FileName=VA797H-14-Q-0008-043.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207727&amp;FileName=VA797H-14-Q-0008-043.zip in new browser window." class="link">VA797H-14-Q-0008 523-B31003 THRU 523-B31019.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207728&FileName=VA797H-14-Q-0008-044.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207728&amp;FileName=VA797H-14-Q-0008-044.zip in new browser window." class="link">VA797H-14-Q-0008 516-B30034 THRU 523-B31002.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207729&FileName=VA797H-14-Q-0008-045.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207729&amp;FileName=VA797H-14-Q-0008-045.zip in new browser window." class="link">VA797H-14-Q-0008 516-B30013 THRU 516-B30033.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207730&FileName=VA797H-14-Q-0008-046.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207730&amp;FileName=VA797H-14-Q-0008-046.zip in new browser window." class="link">VA797H-14-Q-0008 509-3B5006 THRU 516-B30011.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207731&FileName=VA797H-14-Q-0008-047.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207731&amp;FileName=VA797H-14-Q-0008-047.zip in new browser window." class="link">VA797H-14-Q-0008 506-B30063 THRU 509-3B5005.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207733&FileName=VA797H-14-Q-0008-048.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207733&amp;FileName=VA797H-14-Q-0008-048.zip in new browser window." class="link">VA797H-14-Q-0008 502-B35007 THRU 506-B30061.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207734&FileName=VA797H-14-Q-0008-049.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207734&amp;FileName=VA797H-14-Q-0008-049.zip in new browser window." class="link">VA797H-14-Q-0008 483-B20057 THRU 502-B35004.zip</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207735&FileName=VA797H-14-Q-0008-050.zip" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207735&amp;FileName=VA797H-14-Q-0008-050.zip in new browser window." class="link">VA797H-14-Q-0008 405-B30659 THRU 483-B20042.zip</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	December 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	April 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	April 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	July 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	July 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	65 -- Medical, dental & veterinary equipment &  supplies
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	334 -- Computer and Electronic Product Manufacturing/334517 -- Irradiation Apparatus Manufacturing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

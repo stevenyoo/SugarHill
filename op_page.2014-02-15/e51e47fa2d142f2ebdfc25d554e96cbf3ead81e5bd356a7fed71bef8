@@ -1,0 +1,812 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>R--REQUEST BASE YEAR (OCT 01, 2013 - SEP 31, 2014) PLUS 4 OPTION YEARS    - VA78614R0010 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392489417');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392489417';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=14f048e7c1c2bb5de6d9e174e5071272&inline_disposition=1" border="0" alt="VA National Cemetery Administration Centralized Contracting Division logo"></div><div class="agency-header agency-header-med"><h2>R--REQUEST BASE YEAR (OCT 01, 2013 - SEP 31, 2014) PLUS 4 OPTION YEARS   </h2><div class="sol-num">Solicitation Number: VA78614R0010</div><div class="agency-name">Agency: Department of Veterans Affairs<br>Office: VA National Cemetery Administration Centralized Contracting Division<br>Location: Department of Veterans Affairs National Cemetery Administration</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=44fcc891bc7cc8696210ae349e88e282&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/VA/VANCA/VANCA/VA78614R0010/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/VA/VANCA/VANCA/VA78614R0010/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/VA/VANCA/VANCA/VA78614R0010/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=44fcc891bc7cc8696210ae349e88e282&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=44fcc891bc7cc8696210ae349e88e282&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=44fcc891bc7cc8696210ae349e88e282&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=b3bf43b2d2416822e3643d63f289faa7&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Nov 04, 2013</div><div class="nh-date">12:02 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=00f6231a8c4b213745ce0459bcb86f7f&_cview=0">Changed</a><div class="nh-date">Jan 30, 2014</div><div class="nh-date">6:16 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=44fcc891bc7cc8696210ae349e88e282&_cview=0">Changed</a><div class="nh-date">Feb 13, 2014</div><div class="nh-date">5:53 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=b3bf43b2d2416822e3643d63f289faa7'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=b3bf43b2d2416822e3643d63f289faa7'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	VA78614R0010
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-11-04 12:02:31">Nov 04, 2013 12:02 pm</span>
+					</div>
+		This acquisition is a 100% set aside for Service Disabled Veteran Owned Small Business (SDVOSB).  The NAICS Code is 812220 (Cemeteries and Crematories) $19.0 Million size standard.  <br /><br />
+<br /><br />
+Please note:  That this is not a request for quotes or proposals; this is a pre-solicitation notice to inform all interested parties that the VA National Cemetery Administration as directed by the VA San Francisco National Cemetery will solicit a Service Disabled Veteran Owned Small Business (SDVOSB) Set-Aside proposal. The Request for Proposal (RFP) shall be under No: VA786-14-R-0010. Contract award will consist of One Base year and 4 one year options. A total of five years. <br /><br />
+<br /><br />
+A RFP solicitation is currently not available. The intent of an awarded contract shall be to maintain Cemetery Operations which includes: Interments, headstone maintenance, irrigation maintenance, tree and turf maintenance, trash/debris removal, and facilities Maintenance. <br /><br />
+The Contractor shall maintain the cemetery facility 365 calendar day. Subject to all terms, conditions, provisions, and schedules of the contract; contractor shall furnish all equipment, parts, materials, supplies, labor, and supervision necessary and incidental to the work required.<br /><br />
+<br /><br />
+The evaluation factors are as follows Technical, Past Performance, and Price. Technical and Past-Performance when combined are significantly more important than cost/Price.<br /><br />
+<br /><br />
+BACKGROUND: The VA National Cemeteries are a resting place for our nation's heroes and as such, the standards for management, maintenance and appearance of these cemeteries have been established by the VA National Cemetery Administration (NCA) to reflect this nation's concern and respect for those interred there. NCA mission is to honor veterans with a final resting place and lasting memorials that commemorate their service to our nation. National Cemeteries are National Shrines. The standards of maintenance and appearance at these cemeteries shall reflect this nation's concern for those interred.  <br /><br />
+<br /><br />
+PROGRAM OBJECTIVES<br /><br />
+<br /><br />
+The purpose of this Statement of Objectives is to obtain a contractor to support the San Francisco National Cemetery and the National Cemetery Administration.  Under this effort, the successful contractor shall be responsible for full management of the interment and grounds maintenance services. Technical specifications have been provided throughout this solicitation.  The contractor may use whatever method he/she chooses to meet the goals of the San Francisco National Cemetery, as long as the end result is of an acceptable quality to the satisfaction of the COR and the cemetery director of San Francisco National Cemetery.  The contractor shall submit a detailed performance plan to indicate how the contractor plans to meet the goals of the cemetery.  (i.e. performance schedule, frequency of mowing, turf maintenance, trimming. edging, plant and tree maintenance, pest control etc.)<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+CLIN	ITEM	EST. QTY	UNIT<br /><br />
+	Interments		<br /><br />
+001	Casket Interments	6	each<br /><br />
+002	Cremation Interments	60	each<br /><br />
+003	Cremation Disurnments	2	each<br /><br />
+004	Memorial Service Set-up	4	each<br /><br />
+			<br /><br />
+	Headstone Setting Maintenance and Cleaning		<br /><br />
+005	Setting New or Replacement Flat Markers	60	each<br /><br />
+006	Setting New or Replacement Upright Headstones	15 	each<br /><br />
+007	Raise & Realign Upright Headstones	5,000	each<br /><br />
+008	Raise & Realign Flat Markers	1,000	each<br /><br />
+009	Headstone & Marker cleaning (to include private monuments, max 800 psi H2O)	26,000	each<br /><br />
+			<br /><br />
+	Turf Maintenance		<br /><br />
+010	Mowing	40	job<br /><br />
+011	Trimming Upright Headstones	40	job<br /><br />
+012	Edging Flat Markers	20	job<br /><br />
+013	Edging Curbs/Sidewalks	20	job<br /><br />
+014	Sunken Grave Repair	500	each<br /><br />
+015	Renovation by Seed  Turf Areas	10,000	square feet<br /><br />
+016	Renovation by Sod Turf Areas	10,000	square feet<br /><br />
+017	Aerification	2	each<br /><br />
+018	Dethatching 	2	acre<br /><br />
+019	Fertilizer Application	3	each<br /><br />
+020	Weed Control	2	each<br /><br />
+			<br /><br />
+	Irrigation Management		<br /><br />
+021	Manage and Maintain Irrigation/Drainage System including Turf Irrigation, sprinkler head adjustments	12 	month<br /><br />
+022	Sprinkler Head Replacement	10	each<br /><br />
+023	Sprinkler Head Repair	10	each<br /><br />
+024	Electric Valve Repair	5	each<br /><br />
+025	Electric Valve Replace	5	each<br /><br />
+026	Lateral Line Repair	10	each<br /><br />
+			<br /><br />
+	Tree, Shrub, Planting Bed  Maintenance		<br /><br />
+027	Pruning/Trimming	2	job<br /><br />
+028	Planting	10	each<br /><br />
+029	Mulch Rings	10	each<br /><br />
+030	Planting Bed, Mulching, Weeding	12	month<br /><br />
+031	Planting Bed Planting 	2	job<br /><br />
+			<br /><br />
+	Trash/Debris Management		<br /><br />
+032	Leaf/Tree Branch and Debris Collection	12	months<br /><br />
+033	Trash and Debris Removal	12 	months<br /><br />
+			<br /><br />
+	Facility Maintenance		<br /><br />
+034	Sweeping/cleaning roadways, maintain lighting, trash/debris collection/removal, inspection, maintain Kiosk	12	months<br /><br />
+035	Pressure Washing (exterior of buildings, Front Entrance, Rostrum, committal shelter)	1	job<br /><br />
+036	Janitorial Duties (Daily cleaning of Public Restrooms, Admin Bldg. & Shop Area.	260	each<br /><br />
+			<br /><br />
+	Memorial and Veterans Day Ceremonies		<br /><br />
+037	Memorial Day Protocol (placement & removal of approximately 28k grave decorating flags, & placement & removal of approximately 50 avenue of flags, set-up 2k chairs & provide temporary restrooms	1	job<br /><br />
+038	Veteran's Day Protocol (placement & removal of approximately 50 avenue of flags)	1	job<br /><br />
+			<br /><br />
+039	Administration and Public Relations	12	months<br /><br />
+			<br /><br />
+	Gopher & Mole Control		<br /><br />
+040	Gopher & Mole Eradication	12	months<br /><br />
+041	Repair of Turf Damaged by Gophers & Moles	12	months
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	November 4, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1074896&FileName=VA786-14-R-0010-000.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1074896&FileName=VA786-14-R-0010-000.docx</a></div>
+		<div><span class="label">Description:</span> VA786-14-R-0010 VA786-14-R-0010.docx</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	January 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185665&FileName=VA786-14-R-0010-001.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185665&FileName=VA786-14-R-0010-001.docx</a></div>
+		<div><span class="label">Description:</span> VA786-14-R-0010 VA786-14-R-0010_2.docx</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185666&FileName=VA786-14-R-0010-002.pdf" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185666&FileName=VA786-14-R-0010-002.pdf</a></div>
+		<div><span class="label">Description:</span> VA786-14-R-0010 Wage Determination.pdf</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185667&FileName=VA786-14-R-0010-003.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185667&FileName=VA786-14-R-0010-003.docx</a></div>
+		<div><span class="label">Description:</span> VA786-14-R-0010 P09_VA786-14-R-0010_Final.docx</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207983&FileName=VA786-14-R-0010-A00001000.docx" target="_blank" class="link">https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207983&FileName=VA786-14-R-0010-A00001000.docx</a></div>
+		<div><span class="label">Description:</span> VA786-14-R-0010 A00001 VA786-14-R-0010 A00001.docx</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	Department of Veterans Affairs;NCA Contracting Service;75 Barrett Heights Rd. Suite 309;Stafford VA  22556
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Joseph Mendoza<br />
+Contracting Officer<br />
+510-637-6287<br />
+<br />
+<a href="mailto:joseph.mendoza1@va.gov">joseph.mendoza1@va.gov</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=b3bf43b2d2416822e3643d63f289faa7'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=b3bf43b2d2416822e3643d63f289faa7'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=74de33bdef301745c560b8600c4920cb">Attachment</a> <a target="_blank" href="/utils/dZip?base=b3bf43b2d2416822e3643d63f289faa7&class=document_package&id=74de33bdef301745c560b8600c4920cb" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 04, 2013</div></dt><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1074896&FileName=VA786-14-R-0010-000.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1074896&amp;FileName=VA786-14-R-0010-000.docx in new browser window." class="link">VA786-14-R-0010 VA786-14-R-0010.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=3abb43dcdd6d0f1ee71646a7bcd293d4">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=b3bf43b2d2416822e3643d63f289faa7&class=document_package&id=3abb43dcdd6d0f1ee71646a7bcd293d4" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 30, 2014</div></dt><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185665&FileName=VA786-14-R-0010-001.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185665&amp;FileName=VA786-14-R-0010-001.docx in new browser window." class="link">VA786-14-R-0010 VA786-14-R-0010_2.docx</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185666&FileName=VA786-14-R-0010-002.pdf" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185666&amp;FileName=VA786-14-R-0010-002.pdf in new browser window." class="link">VA786-14-R-0010 Wage Determination.pdf</a></dd><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185667&FileName=VA786-14-R-0010-003.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1185667&amp;FileName=VA786-14-R-0010-003.docx in new browser window." class="link">VA786-14-R-0010 P09_VA786-14-R-0010_Final.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e277c37881841ed479aad25b9bca3aa9">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=b3bf43b2d2416822e3643d63f289faa7&class=document_package&id=e277c37881841ed479aad25b9bca3aa9" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 13, 2014</div></dt><dd><a href="https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207983&FileName=VA786-14-R-0010-A00001000.docx" target="_blank" title="Go to https://www.vendorportal.ecms.va.gov/FBODocumentServer/DocumentServer.aspx?DocumentId=1207983&amp;FileName=VA786-14-R-0010-A00001000.docx in new browser window." class="link">VA786-14-R-0010 A00001 VA786-14-R-0010 A00001.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	November 4, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	March 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	February 20, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	April 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Service-Disabled Veteran-Owned Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Service-Disabled Veteran-Owned Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	812 -- Personal and Laundry Services/812220 -- Cemeteries and Crematories
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

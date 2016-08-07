@@ -1,0 +1,657 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Y--Amendment to Pre-solicitation Notice, Piers and Dredging, Umm Qasr, Iraq - W912ER-13-R-0050 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392497128');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392497128';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="U.S. Army Corps of Engineers logo"></div><div class="agency-header agency-header-med"><h2>Y--Amendment to Pre-solicitation Notice, Piers and Dredging, Umm Qasr, Iraq</h2><div class="sol-num">Solicitation Number: W912ER-13-R-0050</div><div class="agency-name">Agency: Department of the Army<br>Office: U.S. Army Corps of Engineers<br>Location: USACE Middle East District</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=e0298d1f414d6878a2563c9a7261f401&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USA/COE/DACA78/W912ER-13-R-0050/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USA/COE/DACA78/W912ER-13-R-0050/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USA/COE/DACA78/W912ER-13-R-0050/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=e0298d1f414d6878a2563c9a7261f401&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e0298d1f414d6878a2563c9a7261f401&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e0298d1f414d6878a2563c9a7261f401&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=b2e33c693ccd8fda985b5fe89bef69fe&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">May 17, 2013</div><div class="nh-date">3:37 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=866e8a9c053e6ce481f4ec1bd8326a73&_cview=0">Changed</a><div class="nh-date">Jun 10, 2013</div><div class="nh-date">5:06 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e35e11d18b1e136fb56aabb50b82c8ed&_cview=0">Changed</a><div class="nh-date">Sep 30, 2013</div><div class="nh-date">6:06 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=e0298d1f414d6878a2563c9a7261f401&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">9:52 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=b2e33c693ccd8fda985b5fe89bef69fe'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=b2e33c693ccd8fda985b5fe89bef69fe'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W912ER-13-R-0050
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-05-17 15:37:42">May 17, 2013 3:37 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2013-06-10 17:06:52">Jun 10, 2013 5:06 pm<a href="/utils/viewDifferences?class=notice_description&id=6af7cce53194812157faff2ab2597816&compared_to=2d5a7c1391c9d4a17d0fc6fe9300a55f" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=6af7cce53194812157faff2ab2597816&compared_to=2d5a7c1391c9d4a17d0fc6fe9300a55f&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		 <br> The U.S. Army Corps of Engineer (USACE) Middle East District intends to solicit names of construction firms experienced in working in the Middle East region who are interested in submitting a firm-fixed price offer for this project.  <br>  <br> Note: This Amendment to the pre-solicitation notice has been issued to publish the Foreign military financing program (FMFP) funding restrictions that apply to this procurement.   <br>  <br> In accordance with Section 42(c) of the Arms Export Control Act, as amended (22 USC  2791(c)), the Foreign Military Financing funds made available for this procurement may not be used to award to other than a United States firm, unless an Offshore Procurement (OSP) determination is made by the Director, Defense Security Cooperation Agency.  No OSP determination has been obtained for this procurement. Offers from other than United States firms are ineligible for award.  The Government reserves the right, however, to seek an OSP determination at any stage in the procurement, if doing so is in the Government's best interests. <br>  <br> PROJECT SCOPE: This project includes the following elements: <br>  <br> a.	Design and construct a floating pier, approximately 165m in length, for berthing of vessels with draft of up to 6 meters. This new pier will connect to an existing fixed concrete pier by means of a new ramp or gangway that is included in this design-build contract. The proposed pier will include utility connections to existing or future infrastructure to include electrical shore power connections, compressed air, fresh (non-potable) water, fuel lines and lighting.  <br>  <br> b.	Design and construct supporting facilities for the floating pier. These Supporting facilities include electrical, water and fuel infrastructure, transformers, site work, a paved road connecting the pier to existing road infrastructure and drainage. <br>  <br> c.	Design and execute an initial dredging operation from the boundary of the commercial port to the southern border of Iraq as shown in the attached figure. The approximate dredging area is 300,000 square meters and the approximate volume of dredged material to be removed is 900,000 cubic meters, including a 1.0 meter overdredge tolerance. The contractor will construct a dredged materials disposal area in an authorized location adjacent to the dredging area. The contractor will provide a dredged material disposal system that allows for dredging operations with no interruption of navigational traffic in the existing nearby channels.    <br>  <br> d.	For one entire year, after the initial dredging is complete, the contractor will provide maintenance dredging to maintain the required design depth. The contractor will prepare and provide an engineered maintenance dredging plan and schedule which satisfies the maintenance dredging requirements. <br>  <br> As part of the design effort, the contractor must prepare a detailed project site conditions report. This report shall include the results of several studies and investigations of the project area, including (but not limited to) geotechnical studies, navigational studies, a hydrographic survey and a bathymetric survey. <br>  <br> The anticipated period of performance is 900 calendar days for the Project. A firm fixed price contract will be awarded to a prime construction contractor. The magnitude of the project is between $10,000,000 and $25,000,000.   <br>  <br> LOCATION: The project is located at an Iraqi Naval installation at Port of Umm Qasr, approximately 35 miles to the southeast of the Iraqi city of Basrah, adjacent to the southeastern border of the country.  <br>  <br> PROPOSAL PERIOD: The Two-Phase Design-Build Solicitation is scheduled for release on or about 25 June 2013. The Phase One proposals will be due on or about 25 July 2013.  Contract award is scheduled on or about 25 October 2013.  <br>  <br> SET ASIDES and CODES: As the work will be performed outside of the continental United States, no set asides to small business or socioeconomic preference for this solicitation. This effort is classified through the North American Industry Classification System Code: 237990  quote mark Other Heavy and Civil Engineering Construction quote mark . <br>  <br> PROPOSAL PROCEDURES: The Request for Proposal (RFP) will be issued only to prime contractors. The Best Value Trade-Offs (BVTO) contracting method will be used to evaluate proposals. Evaluation criteria will be stated in the RFP. The Government may include options in the Solicitation. This acquisition will result in a single fixed price construction contract awarded based on BVTO determination.   <br>  <br> PROCESSES AND PROCEDURES/INFORMATION FOR:    <br> REQUESTING SOLICITATIONS/BIDDERS LIST REGISTRATION <br>  <br> This is a Pre-solicitation notice to the prospective offerors interested in receiving the solicitation. To respond to this Pre-solicitation notice, submit a capabilities statement through the following site: <br>  <br> http://www.aed.usace.army.mil/contracting.asp   <br>  <br> Click on the SOURCES SOUGHT tab; click the COMPLETE button under the CAPABILITIES STATEMENT column of the solicitation of interest; fill in the requested information; click REGISTER. This will automatically place a prospective offeror on the bidders list for the subject solicitation. Those offerors have already registered their Capability Statements are not required to register again.  <br>  <br> Note: DO NOT USE THE FBO INTERESTED VENDORS LIST FUNCTIONALITY TO REQUEST A COPY OF THE SOLICITATION.   <br>  <br> Solicitation release information will only be released to those who have electronically filled out a Capabilities Statement.  Capabilities Statements are required for EACH solicitation of interest. Files and notification pertaining to the solicitation will be available electronically through Safe Access File Exchange (SAFE) on or about 10 June 2013.   <br>  <br> Questions concerning the Processes and Procedures can be sent to Tino Philip, Telephone (540) 665-3953, e-mail Tino.Philip@usace.army.mil.   <br> 
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	September 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050" target="_blank" class="link">https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050</a></div>
+		<div><span class="label">Description:</span> See Solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050" target="_blank" class="link">https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050</a></div>
+		<div><span class="label">Description:</span> See Solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	USACE Middle East District, P.O. Box 2250, Winchester, VA  22604-1450
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	USACE Middle East District P.O. Box 2250, Winchester VA<br />
+22604-1450<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Tino Philip, 5406653953<br />
+<br />
+<a href="mailto:tino.philip@usace.army.mil">USACE Middle East District</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=b2e33c693ccd8fda985b5fe89bef69fe'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=b2e33c693ccd8fda985b5fe89bef69fe'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=33766b4337c5f835167053fa83f1abbf">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=b2e33c693ccd8fda985b5fe89bef69fe&class=document_package&id=33766b4337c5f835167053fa83f1abbf" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Sep 30, 2013</div></dt><dd><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050" target="_blank" title="Go to https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050 in new browser window." class="link">See Solicitation</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d223de4adacf01aa84dcf7758fcf8748">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=b2e33c693ccd8fda985b5fe89bef69fe&class=document_package&id=d223de4adacf01aa84dcf7758fcf8748" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050" target="_blank" title="Go to https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W912ER13R0050 in new browser window." class="link">See Solicitation</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	May 17, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	March 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	October 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 18, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Y -- Construction of structures and facilities
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	237 -- Heavy and Civil Engineering Construction/237990 -- Other Heavy and Civil Engineering Construction
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

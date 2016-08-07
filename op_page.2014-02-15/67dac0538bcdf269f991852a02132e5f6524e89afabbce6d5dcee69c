@@ -1,0 +1,1261 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>THE NIMH, NICHD, AND NINDS BRAIN AND TISSUE REPOSITORY  - HHS-NIH-NIDA(MH)-13-273 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495237');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495237';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=f49403464402175e50fe3536170cb204&inline_disposition=1" border="0" alt="National Institutes of Health logo"></div><div class="agency-header"><h2>THE NIMH, NICHD, AND NINDS BRAIN AND TISSUE REPOSITORY </h2><div class="sol-num">Solicitation Number: HHS-NIH-NIDA(MH)-13-273</div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: National Institutes of Health<br>Location: National Institute on Mental Health</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=0dccd528e6c7423874d23b3e45f35b5d&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/NIH/NIMH/HHS-NIH-NIDA(MH)-13-273/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/NIH/NIMH/HHS-NIH-NIDA(MH)-13-273/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/NIH/NIMH/HHS-NIH-NIDA(MH)-13-273/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=0dccd528e6c7423874d23b3e45f35b5d&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=0dccd528e6c7423874d23b3e45f35b5d&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=f7a33aceb6e32c711f011fc0a93e94f5&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Dec 19, 2013</div><div class="nh-date">4:34 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=80b8dd44dd7cb0f423998e1e279c4bd0&_cview=0">Changed</a><div class="nh-date">Dec 19, 2013</div><div class="nh-date">5:09 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=59550512a99d37a0fffa58d91075818e&_cview=0">Changed</a><div class="nh-date">Jan 07, 2014</div><div class="nh-date">4:48 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b8b08c4375635c52c6393713db59c7e8&_cview=0">Changed</a><div class="nh-date">Jan 07, 2014</div><div class="nh-date">4:53 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=94aa19777871a860b76bfe33aa77e733&_cview=0">Changed</a><div class="nh-date">Jan 16, 2014</div><div class="nh-date">5:32 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=65ce2b3ef5c1aa83c8bdf990899622a0&_cview=0">Changed</a><div class="nh-date">Jan 24, 2014</div><div class="nh-date">2:55 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d1bf10096c68ae893b38b427db075e54&_cview=0">Changed</a><div class="nh-date">Jan 28, 2014</div><div class="nh-date">4:53 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=fe455147655bbc692f3a8f86caa18c2f&_cview=0">Changed</a><div class="nh-date">Feb 06, 2014</div><div class="nh-date">3:32 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=0dccd528e6c7423874d23b3e45f35b5d&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">4:52 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f7a33aceb6e32c711f011fc0a93e94f5'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f7a33aceb6e32c711f011fc0a93e94f5'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HHS-NIH-NIDA(MH)-13-273
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-12-19 16:34:19">Dec 19, 2013 4:34 pm</span>
+					</div>
+		<p>Questions regarding this solicitation must be submitted in writing to both Points of Contact listed.&nbsp; No telephone inquiries will be entertained.&nbsp; All questions&nbsp;pertaining to this solicitation must be directed to the Contract Specialist and Contracting Officer identified&nbsp;within this&nbsp;notice and not to other NIH employees.&nbsp; An Amendment to the RFP will be published on/about January 8, 2014 to address any questions received by January 6, 2014.<br /><br />Proposals are due by February 04, 2014 4:00p.m. Eastern.<br /><br />The following Section J. Attachments are located after Section M of the RFP (following Page 91):<br /><br />Attachments 1 - 6, Attachments 9, 11, 18 and 24.&nbsp; The remainder can be obtained by following the links provided in Section J.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-12-19 17:09:37">Dec 19, 2013 5:09 pm</span>
+					</div>
+		Attached are three Appendices to Attachment 3, Statement of Work.&amp;nbsp; These are referenced in Attachment 3 which was published today within the solicitation document: HHS-NIH-NIDA(MH)-13-273.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2014-01-07 16:48:02">Jan 07, 2014 4:48 pm</span>
+					</div>
+		<p>Modification/Amendment to Amendment 01.&nbsp; This is to include the Standard Form (SF) 50 to Amendment 01 which was published on December 19, 2013.&nbsp; Offerors should acknowledge receipt of all amendments with their business proposal.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2014-01-07 16:53:27">Jan 07, 2014 4:53 pm</span>
+					</div>
+		Amendment 02 to Solicitation/Request for Proposal to provide responses to questions received as of January 06, 2014. <br /><br />Note: Any remaining questions should be submitted to the Points of Contacts listed by January 15, 2014 to allow for additional Amendment to the RFP if necessary.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2014-01-16 17:32:28">Jan 16, 2014 5:32 pm</span>
+					</div>
+		<p>Attached is (1) SF-30 for Amendment No. 03 which was previously published on 01/07/2014 and (2) Amendment 04 (with SF-30) to respond to Questions received by January 15, 2014.&nbsp;&nbsp; The proposal due date remains February 04, 2014.&nbsp; Offerors should acknowledge all published amendments by returned a signed SF-30 with their business proposal submission.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][5][added_on]" value="2014-01-24 14:55:29">Jan 24, 2014 2:55 pm</span>
+					</div>
+		This Amendment Action No. 06 extends the proposal due date and includes one file with three documents included within:&nbsp; <br />(1) SF-30 - Amendment Document No. 05 <br />(2) SF-30 - Amendment Document No. 06 <br />(3) Attachment 25 - Past Performance Survey
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][6][added_on]" value="2014-01-28 16:53:59">Jan 28, 2014 4:53 pm</span>
+					</div>
+		This Amendment Action No. 07 (including SF-30), is to respond to questions received to date (as of January 28, 2014).
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][7][added_on]" value="2014-02-06 15:32:19">Feb 06, 2014 3:32 pm</span>
+					</div>
+		This Amendment Action No. 08 (including SF-30), is to respond to questions received to date.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][8][added_on]" value="2014-02-11 16:52:12">Feb 11, 2014 4:52 pm</span>
+					</div>
+		This Amendment Action No. 09 is to resopnd to additional questions received to date.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+	
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Package #1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field first field-first default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e164715b67d65b38e021dc32fcee6d30' target='_blank' title='Download/View HHS-NIH-NIDA(MH)-13-273(Final).pdf' class='file'&gt;HHS-NIH-NIDA(MH)-13-273(Final).pdf&lt;/a&gt;"><a href='/utils/view?id=e164715b67d65b38e021dc32fcee6d30' target='_blank' title='Download/View HHS-NIH-NIDA(MH)-13-273(Final).pdf' class='file'>HHS-NIH-NIDA(MH)-13-273(Final).pdf</a> (1,017.41 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFP HHS-NIH-NIDA(MH)-13-273</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5e392f0722fd099bc27a59da3aae0fad' target='_blank' title='Download/View Appendices_1_-_3_Attachment_3_SOW_HHS-NIH-NIDA(MH)-13-273.pdf' class='file'&gt;Appendices_1_-_3_Attachment_3_SOW_HHS-NIH-NIDA(MH)-13-273.pdf&lt;/a&gt;"><a href='/utils/view?id=5e392f0722fd099bc27a59da3aae0fad' target='_blank' title='Download/View Appendices_1_-_3_Attachment_3_SOW_HHS-NIH-NIDA(MH)-13-273.pdf' class='file'>Appendices_1_-_3_Attachment_3_SOW_HHS-NIH-NIDA(MH)-13-273.pdf</a> (193.33 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 1 to HHS-NIH-NIDA(MH)-13-273 to include Appendices 1 - 3 to Attachment 3</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	January 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=63c841b6fcd2e860a2b97b399653a32f' target='_blank' title='Download/View Amendment_01-RFP_HHS-NIH-NIDA(MH)-13-273_(SF30_and_appendices).pdf' class='file'&gt;Amendment_01-RFP_HHS-NIH-NIDA(MH)-13-273_(SF30_and_appendices).pdf&lt;/a&gt;"><a href='/utils/view?id=63c841b6fcd2e860a2b97b399653a32f' target='_blank' title='Download/View Amendment_01-RFP_HHS-NIH-NIDA(MH)-13-273_(SF30_and_appendices).pdf' class='file'>Amendment_01-RFP_HHS-NIH-NIDA(MH)-13-273_(SF30_and_appendices).pdf</a> (255.66 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF-50 and Appendices 1 - 3 to Attachment 3.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	January 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5c5576450d96d2bbba8a0f6aa08ff2fb' target='_blank' title='Download/View Amendment_02_to_RFP_HHS-NIH-NIDA(MH)-13-273.pdf' class='file'&gt;Amendment_02_to_RFP_HHS-NIH-NIDA(MH)-13-273.pdf&lt;/a&gt;"><a href='/utils/view?id=5c5576450d96d2bbba8a0f6aa08ff2fb' target='_blank' title='Download/View Amendment_02_to_RFP_HHS-NIH-NIDA(MH)-13-273.pdf' class='file'>Amendment_02_to_RFP_HHS-NIH-NIDA(MH)-13-273.pdf</a> (85.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment #02</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5cb39113e87aa79b4bcee6ad6452b77d' target='_blank' title='Download/View SF-30_for_Amendment_03_published_on_01-07-14_NIDA(MH)-13-273.pdf' class='file'&gt;SF-30_for_Amendment_03_published_on_01-07-14_NIDA(MH)-13-273.pdf&lt;/a&gt;"><a href='/utils/view?id=5cb39113e87aa79b4bcee6ad6452b77d' target='_blank' title='Download/View SF-30_for_Amendment_03_published_on_01-07-14_NIDA(MH)-13-273.pdf' class='file'>SF-30_for_Amendment_03_published_on_01-07-14_NIDA(MH)-13-273.pdf</a> (48.78 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF-30 for previously published Amendment No.03.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 5</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=41d62a828380ee5b56a9eee2f0e425a2' target='_blank' title='Download/View Amendment_04_to_RFP_(questions)_011614.pdf' class='file'&gt;Amendment_04_to_RFP_(questions)_011614.pdf&lt;/a&gt;"><a href='/utils/view?id=41d62a828380ee5b56a9eee2f0e425a2' target='_blank' title='Download/View Amendment_04_to_RFP_(questions)_011614.pdf' class='file'>Amendment_04_to_RFP_(questions)_011614.pdf</a> (73.65 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment No. 04 (SF-30 included)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 6</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	January 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e01ee95aa64a1e2235c9a088740bcb48' target='_blank' title='Download/View Amend_5_Amend_6_Attach_25_NIDA(MH)-13-273.pdf' class='file'&gt;Amend_5_Amend_6_Attach_25_NIDA(MH)-13-273.pdf&lt;/a&gt;"><a href='/utils/view?id=e01ee95aa64a1e2235c9a088740bcb48' target='_blank' title='Download/View Amend_5_Amend_6_Attach_25_NIDA(MH)-13-273.pdf' class='file'>Amend_5_Amend_6_Attach_25_NIDA(MH)-13-273.pdf</a> (133.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment Documents 05, 06 and Attachment 25</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 7</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	January 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3029071959f2ae6634c9cf5be821bffd' target='_blank' title='Download/View Amendment_07_HHS-NIH-NIDA(MH)-13-273_012814.pdf' class='file'&gt;Amendment_07_HHS-NIH-NIDA(MH)-13-273_012814.pdf&lt;/a&gt;"><a href='/utils/view?id=3029071959f2ae6634c9cf5be821bffd' target='_blank' title='Download/View Amendment_07_HHS-NIH-NIDA(MH)-13-273_012814.pdf' class='file'>Amendment_07_HHS-NIH-NIDA(MH)-13-273_012814.pdf</a> (71.37 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment No. 07</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 8</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	February 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=fbde4d0b0bf375456dc79f6d6c7983d9' target='_blank' title='Download/View Amendment_08_HHS-NIH-NIDA(MH)-13-273_020614.pdf' class='file'&gt;Amendment_08_HHS-NIH-NIDA(MH)-13-273_020614.pdf&lt;/a&gt;"><a href='/utils/view?id=fbde4d0b0bf375456dc79f6d6c7983d9' target='_blank' title='Download/View Amendment_08_HHS-NIH-NIDA(MH)-13-273_020614.pdf' class='file'>Amendment_08_HHS-NIH-NIDA(MH)-13-273_020614.pdf</a> (56.56 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment No. 08</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 9</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=22f234d96508c64eb6e1916f506fc9c0' target='_blank' title='Download/View Amendment_09_HHS-NIH-NIDA(MH)-13-273_021114.pdf' class='file'&gt;Amendment_09_HHS-NIH-NIDA(MH)-13-273_021114.pdf&lt;/a&gt;"><a href='/utils/view?id=22f234d96508c64eb6e1916f506fc9c0' target='_blank' title='Download/View Amendment_09_HHS-NIH-NIDA(MH)-13-273_021114.pdf' class='file'>Amendment_09_HHS-NIH-NIDA(MH)-13-273_021114.pdf</a> (82.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment No. 09</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		Contracts Management Branch<br />
+6001 Executive Blvd, Rm 8154, MSC 9661<br/>
+
+			
+				
+		Bethesda,
+
+			
+	
+		Maryland
+
+			
+	
+		20892-9661
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Marla Jacobson,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:jacobsonmj@mail.nih.gov">jacobsonmj@mail.nih.gov</a></div>
+	<div>Phone: 301-443-3775</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Bruce E. Anderson,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:banderso@mail.nih.gov">banderso@mail.nih.gov</a></div>
+	<div>Phone: 301-443-2234</div>		<div>Fax: 301-443-6893</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f7a33aceb6e32c711f011fc0a93e94f5'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f7a33aceb6e32c711f011fc0a93e94f5'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d3751dda2bdaa9bbfd11a04ddc6319d3">Package</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=d3751dda2bdaa9bbfd11a04ddc6319d3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 19, 2013</div></dt><dd><a href="/utils/view?id=e164715b67d65b38e021dc32fcee6d30" target="_blank" title="Download/View HHS-NIH-NIDA(MH)-13-273(Final).pdf" class="file">HHS-NIH-NIDA(MH)-13-273(Final).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6c46ff411e1a950df21761a27b48e8c4">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=6c46ff411e1a950df21761a27b48e8c4" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 19, 2013</div></dt><dd><a href="/utils/view?id=5e392f0722fd099bc27a59da3aae0fad" target="_blank" title="Download/View Appendices_1_-_3_Attachment_3_SOW_HHS-NIH-NIDA(MH)-13-273.pdf" class="file">Appendices_1_-_3_Attachment_3_SOW_HHS-NIH-NIDA(MH)-13-273.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=33c3acea5683659d1fdc2faa7f02bc1f">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=33c3acea5683659d1fdc2faa7f02bc1f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 07, 2014</div></dt><dd><a href="/utils/view?id=63c841b6fcd2e860a2b97b399653a32f" target="_blank" title="Download/View Amendment_01-RFP_HHS-NIH-NIDA(MH)-13-273_(SF30_and_appendices).pdf" class="file">Amendment_01-RFP_HHS-NIH-NIDA(MH)-13-273_(SF30_and_appendices).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6b0846b4a6ba3c060dc27436c88c0ef1">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=6b0846b4a6ba3c060dc27436c88c0ef1" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 07, 2014</div></dt><dd><a href="/utils/view?id=5c5576450d96d2bbba8a0f6aa08ff2fb" target="_blank" title="Download/View Amendment_02_to_RFP_HHS-NIH-NIDA(MH)-13-273.pdf" class="file">Amendment_02_to_RFP_HHS-NIH-NIDA(MH)-13-273.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=01ecd4180b9123d4c9518aa01a2bae7a">Amendment 4</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=01ecd4180b9123d4c9518aa01a2bae7a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=5cb39113e87aa79b4bcee6ad6452b77d" target="_blank" title="Download/View SF-30_for_Amendment_03_published_on_01-07-14_NIDA(MH)-13-273.pdf" class="file">SF-30_for_Amendment_03_published_on_01-07-14_NIDA(MH)-13-273.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ec2ba49732f6930dd6f592025d0ade2b">Amendment 5</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=ec2ba49732f6930dd6f592025d0ade2b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=41d62a828380ee5b56a9eee2f0e425a2" target="_blank" title="Download/View Amendment_04_to_RFP_(questions)_011614.pdf" class="file">Amendment_04_to_RFP_(questions)_011614.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b148f29b9deaf3f026cc58f5c6c7679a">Amendment 6</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=b148f29b9deaf3f026cc58f5c6c7679a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 24, 2014</div></dt><dd><a href="/utils/view?id=e01ee95aa64a1e2235c9a088740bcb48" target="_blank" title="Download/View Amend_5_Amend_6_Attach_25_NIDA(MH)-13-273.pdf" class="file">Amend_5_Amend_6_Attach_25_NIDA(MH)-13-273.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=14eb9d4b8d04760a30bdfdee786fdd16">Amendment 7</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=14eb9d4b8d04760a30bdfdee786fdd16" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 28, 2014</div></dt><dd><a href="/utils/view?id=3029071959f2ae6634c9cf5be821bffd" target="_blank" title="Download/View Amendment_07_HHS-NIH-NIDA(MH)-13-273_012814.pdf" class="file">Amendment_07_HHS-NIH-NIDA(MH)-13-273_012814.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b656633931fd220d8b9f28ad988ad16f">Amendment 8</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=b656633931fd220d8b9f28ad988ad16f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 06, 2014</div></dt><dd><a href="/utils/view?id=fbde4d0b0bf375456dc79f6d6c7983d9" target="_blank" title="Download/View Amendment_08_HHS-NIH-NIDA(MH)-13-273_020614.pdf" class="file">Amendment_08_HHS-NIH-NIDA(MH)-13-273_020614.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=dd8e6bbb9f50801a83a12ff95b4c454b">Amendment 9</a> <a target="_blank" href="/utils/dZip?base=f7a33aceb6e32c711f011fc0a93e94f5&class=document_package&id=dd8e6bbb9f50801a83a12ff95b4c454b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=22f234d96508c64eb6e1916f506fc9c0" target="_blank" title="Download/View Amendment_09_HHS-NIH-NIDA(MH)-13-273_021114.pdf" class="file">Amendment_09_HHS-NIH-NIDA(MH)-13-273_021114.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 18, 2014 4:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 04, 2014 4:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 19, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	A -- Research & Development
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541711 -- Research and Development in Biotechnology
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

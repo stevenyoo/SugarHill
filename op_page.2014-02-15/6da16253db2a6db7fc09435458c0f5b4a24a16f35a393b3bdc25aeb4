@@ -1,0 +1,507 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>76--Books - PR2642028-1 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495287');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495287';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=289b774cb287a0f90f13e310dcdf9f48&inline_disposition=1" border="0" alt="African Posts logo"></div><div class="agency-header"><h2>76--Books</h2><div class="sol-num">Solicitation Number: PR2642028-1</div><div class="agency-name">Agency: Department of State<br>Office: African Posts<br>Location: U.S. Embassy Ouagadougou, Burkina Faso</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=ecdae1e0d854fd04cf0a718b3d61cb3a&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/ecdae1e0d854fd04cf0a718b3d61cb3a" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/ecdae1e0d854fd04cf0a718b3d61cb3a" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/ecdae1e0d854fd04cf0a718b3d61cb3a" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=ecdae1e0d854fd04cf0a718b3d61cb3a&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=ecdae1e0d854fd04cf0a718b3d61cb3a&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=151ec1160984ec0847559c92610be227&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Feb 11, 2014</div><div class="nh-date">8:13 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=ecdae1e0d854fd04cf0a718b3d61cb3a&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">4:40 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=151ec1160984ec0847559c92610be227'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=151ec1160984ec0847559c92610be227'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	PR2642028-1
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-11 08:13:31">Feb 11, 2014 8:13 am</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-11 16:40:07">Feb 11, 2014 4:40 pm<a href="/utils/viewDifferences?class=notice_description&id=3c2e78ba88045de5ff41994b3884f125&compared_to=c6e3037e4e5d7200d6d24b9d49950ebc" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=3c2e78ba88045de5ff41994b3884f125&compared_to=c6e3037e4e5d7200d6d24b9d49950ebc&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		AMENDMENT NOTICE:This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in FAR Subpart 12.6, as supplemented with additional information included in this notice.The solicitation number is PR2642028-1 and is issued as an invitation for bids (IFB), unless otherwise indicated herein.The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular FAC 2005-72. The associated North American Industrial Classification System (NAICS) code for this procurement is 323117 with a small business size standard of 500.00 employees.This requirement is unrestricted and only qualified offerors may submit bids.The solicitation pricing on www.FedBid.com will start on the date this solicitation is posted and will end on 2014-02-28 12:30:00.0 Eastern Time or as otherwise displayed at www.FedBid.com.FOB Destination shall be LINDEN, NJ 07036 <BR> <BR>The U.S. Embassy Ouagadougou, Burkina Faso requires the following items, Meet or Exceed, to the following:  <BR><span class="label">LI 001: </span>L'essentiel des Etats-Unis; Regis St Louis; 978-2816131871; Language: French, 4, EA; <BR><span class="label">LI 002: </span>Les Am?ricains, tome 1 : Naissance et essor des Etats-Unis, 1607-1945; Andr? Kaspi; 978-2020093606; Language: French, 4, EA; <BR><span class="label">LI 003: </span>Le Routard Etats-Unis Nord-Est 2013/2014; Collective; 978-2012456419; Language: French, 4, EA; <BR><span class="label">LI 004: </span>Histoire des Etats-Unis; ?Bernard Vincent?; 978-2081283046; Language: French, 4, EA; <BR><span class="label">LI 005: </span>Les Etats-Unis pour les nuls; Fran?ois Durpaire et al; 978-2754019835; Language: French, 4, EA; <BR><span class="label">LI 006: </span>Guide Bleu ?tats-Unis Ouest am?ricain; Collective; 978-2012451742; Language: French, 4, EA; <BR><span class="label">LI 007: </span>Politique et religion aux Etats-Unis; Camille Froidevaux-Metterie; 978-2707153975; Language: French, 4, EA; <BR><span class="label">LI 008: </span>Guide du Routard New York 2013; Collective; 978-2012455641; Language: French, 4, EA; <BR><span class="label">LI 009: </span>Les R?ves de Mon P?re : L'histoire d'un h?ritage en noir et blanc; Obama; 978-2757810897; Language: French, 4, EA; <BR><span class="label">LI 010: </span>La politique ?trang?re des Etats-Unis : Fondements, acteurs, formulation; Charles-Philippe David et al; 978-2724610802; Language: French, 4, EA; <BR><span class="label">LI 011: </span>American Hero: John Marshall, Chief Justice of the United States; David Bruce Smith et Clarice Smith?; 978-0985935863;, 4, EA; <BR><span class="label">LI 012: </span>Religious Liberty and the American Supreme Court: The Essential Cases and Documents; Vincent Phillip Munoz; 978-1442208278; Language: English, 4, EA; <BR><span class="label">LI 013: </span>Congress, the Supreme Court, and Religious Liberty: The Case of City of Boerne V. Flores; J. Waltman; 978-1137300638; Language: English, 4, EA; <BR><span class="label">LI 014: </span>6 mois, le XXIe si?cle en images, N? 4, Automne 2012 H : USA, Nouvelle saison; ?Laurent Beccaria and the collective; 979-1090699045; Language: French, 4, EA; <BR><span class="label">LI 015: </span>Politique et religion aux Etats-Unis; Henry Bargy; 978-2707153975; Language: French, 4, EA; <BR><span class="label">LI 016: </span>1776; David Mcoullagh; 978-2200245047; Language: English, 4, EA; <BR><span class="label">LI 017: </span>Next Generation Democracy; Jarad Duval; 978-1608190669; Language: English, 4, EA; <BR><span class="label">LI 018: </span>The Cold War in the Third World; Robert J. McMahon; 978-0199768691;, 4, EA; <BR><span class="label">LI 019: </span>Justices and Journalists: The U.S. Supreme Court and the Media; Richard Davis; 978-0521704663;, 4, EA; <BR><span class="label">LI 020: </span>U.S. Constitution For Dummies; Michael Arnheim; 978-0764587801;, 4, EA; <BR><span class="label">LI 021: </span>The Problem of the Media: U.S. Communication Politics in the Twenty-First Century; Robert W.Mchesney; 978-1583671054;, 4, EA; <BR><span class="label">LI 022: </span>Carbon Democracy: Political Power in the Age of Oil; Timothy Mitchell; 978-1844677450;, 4, EA; <BR><span class="label">LI 023: </span>U.s. Military Justice Handbook - Uniform Code of Military Justice, Title 10, U.s.c. Chapter 47; George Rush; 978-0915905515;, 4, EA; <BR><span class="label">LI 024: </span>Nation of Nations: A Narrative History of the American Republic; J.W. Davidson; 978-0073406848; Language: English, 4, EA; <BR><span class="label">LI 025: </span>Racial and Ethnic Relations.; Feagin, J.R. and Feagin, C.B.; Racial and Ethnic Relations; Language: English, 4, EA; <BR><span class="label">LI 026: </span>The Politics of United States Foreign Policy.; Rosati, J.; 978-1133939429; Language: English, 4, EA; <BR><span class="label">LI 027: </span>Women and the American Experience; Woloch, N.; 978-0073385570; Language: English, 4, EA; <BR><span class="label">LI 028: </span>The New Jim Crow: Mass Incarceration in the Age of Colorblindness; Michelle Alexander; 978-1595586438; Language: English, 4, EA; <BR><span class="label">LI 029: </span>History - Past, Present & Future - Book 1; Michael B. A. Oldstone?; Viruses, Plagues, and History: Past, Present and Future; Language: English, 4, EA; <BR><span class="label">LI 030: </span>Platform or Personality?: The Role of Party Leaders in Elections; ?Amanda Bittner; 978-0199595365; Language: English, 4, EA; <BR><span class="label">LI 031: </span>This Our Dark CountryThe American Settlers of Liberia; Reef, Catherine; 978-0618147854; Language: English, 4, EA; <BR><span class="label">LI 032: </span>The Prize: The Epic Quest for Oil, Money, & Power; Daniel Yergin; 1439110123; Language: English, 4, EA; <BR><span class="label">LI 033: </span>Racine; Alex Haley; 978-0099362814; Language: French, 4, EA; <BR><span class="label">LI 034: </span>Malcom X; Alex Haley; 978-0345350688; Language: French/English, 4, EA; <BR><span class="label">LI 035: </span>De l'esclavage en Am?rique; Fran?ois Specq,?Frederick Douglass?et?Henry-David Thoreau; 978-2728803736; Language: French, 4, EA; <BR><span class="label">LI 036: </span>Les Noirs am?ricains : Des champs de coton ? la Maison Blanche; Nicole Bacharan; 978-2262032753; Language: French, 4, EA; <BR><span class="label">LI 037: </span>L'audace d'esp?rer : Une nouvelle conception de la politique am?ricaine; Barak Obama; 978-2258074514; Language: French, 4, EA; <BR><span class="label">LI 038: </span>De la diversit? en Am?rique : Politiques de repr?sentation des minorit?s ethno-raciales aux Etats-Unis; ?Olivier Richomme; 978-2840508502; Language: French, 4, EA; <BR><span class="label">LI 039: </span>? Ils disent ?: IDA et la Reconstruction de la Race (nouveaux r?cits dans l'histoire am?ricaine); James West Davidson; 978-0195160215; Language: French, 4, EA; <BR><span class="label">LI 040: </span>Middle Passages : African American Journeys ? l'Afrique, 1787-2005; James T. Cambell; ; Language: French, 4, EA; <BR><span class="label">LI 041: </span>Panth?res noires : Histoire du Black Panther Party?; Tom Van Eersel; 978-2915830071; Language: French, 4, EA; <BR><span class="label">LI 042: </span>The Hidden Cost of Being African American:How Wealth Perpetuates Inequality; Thomas M. Shapiro; 978-0195181388; Language: English, 4, EA; <BR><span class="label">LI 043: </span>A Sourcebook on African-American Performance: Plays, People, Movements; ?Annemarie Bean; 978-0415182355; Language: English, 4, EA; <BR><span class="label">LI 044: </span>In the Black: A History of African Americans on Wall Street; Gregory S. Bell; 978-0471403920; Language: English, 4, EA; <BR><span class="label">LI 045: </span>Race and Education: The Roles of History and Society in Educating African American Students: 1st Edition; William Watkins,?James H. Lewis,?Victoria Chou; 978-0205324392; Language: English, 4, EA; <BR><span class="label">LI 046: </span>Nudge : La m?thode douce pour inspirer la bonne d?cision; Richard Thaler , Cass Sunstein; 978-2311001051; Language: French, 4, EA; <BR><span class="label">LI 047: </span>Le r?le des peuples autochtones et des communaut?s locales dans le d?veloppement durable : figurants ou acteurs; Armelle Guignier; 978-2842873028; Language: French, 4, EA; <BR><span class="label">LI 048: </span>The Challenge for Africa; ?Wangari Maathai?; 978-0307390288; Language: English, 4, EA; <BR><span class="label">LI 049: </span>The Bottom Billion: Why the Poorest Countries are Failing and What Can be Done About it; Paul Collier; 978-0195373387; Language: English, 4, EA; <BR><span class="label">LI 050: </span>The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill And So Little Good by Easterly; William Easterly; 978-0143038825; Language: English, 4, EA; <BR><span class="label">LI 051: </span>Dead Aid: Why aid is not working and how there is another way for Africa?; Dambisa Moyo; 978-0374139568; Language: English, 4, EA; <BR><span class="label">LI 052: </span>Naissances de la politique moderne : Machiavel, Hobbes, Rousseau; Pierre Manent; 978-2070786466; Language: French, 4, EA; <BR><span class="label">LI 053: </span>Le Temps de l'Afrique; Jean-Michel S?v?rino; 978-2738123275; Language: English, 4, EA; <BR><span class="label">LI 054: </span>La Grande D?sillusion; Joseph E. Stiglitz; 978-2253155386; Language: English, 4, EA; <BR><span class="label">LI 055: </span>La Chinafrique; Michel Beuret; 978-2012794795; Language: French, 4, EA; <BR><span class="label">LI 056: </span>Comprendre la pauvret?.; John Rawls, Amartya Sen; 978-2130576204; Language: English, 4, EA; <BR><span class="label">LI 057: </span>From Poverty to Power: How Active Citizens and Effective States Can Change the World?; Duncan Green; 978-0855985936; Language: English, 4, EA; <BR><span class="label">LI 058: </span>War, Guns, and Votes; Paul Collier; 61479632; Language: English, 4, EA; <BR><span class="label">LI 059: </span>Anglais Immersion Orale - Pack 4 CD 100 % Audio; Mercer Mary; 978-2098108448; Language: English, 4, EA; <BR><span class="label">LI 060: </span>Practise English ! Parler l'anglais au quotidien; Nintendo; B000W0080A; Language: English, 4, EA; <BR><span class="label">LI 061: </span>Initiation Raisonn?e ? la phon?tique de l'anglais (1 livre + 1 CD audio); Richard Lilly, Michel Viel; 978-2011452283; Language: French, 4, EA; <BR><span class="label">LI 062: </span>Le grand livre des mots : Fran?ais/anglais; Richard Scarry; 978-2218736568; Language: French, 4, EA; <BR><span class="label">LI 063: </span>L'Anglais (1 livre + coffret de 4 CD); Nathan; B00008UEH4; Language: French, 4, EA; <BR><span class="label">LI 064: </span>Anglais des affaires : 1 Livre et 1 CD audio; Nathan; 978-2098108684; Language: French, 4, EA; <BR><span class="label">LI 065: </span>Anglais professionnel, niveau 3 (1 livre + 1 CD audio); Collectif; 978-2098868946; Language: French, 4, EA; <BR><span class="label">LI 066: </span>Tourisme, h?tellerie et de restauration - anglais; Colletif; 978-2266098250; Language: French, 4, EA; <BR><span class="label">LI 067: </span>Vocabulaire et grammaire pour le nouveau TOEIC; Lin lougheed,Sylvie Hadman; 978-2744075391; Language: French, 4, EA; <BR><span class="label">LI 068: </span>Grammaire explicative de l'anglais - 4e ?dition; Paul Larreya, Claude Rivi?re; 978-2744074745; Language: French, 4, EA; <BR><span class="label">LI 069: </span>Anglais intensif : 1 logiciel interactif sonore, 3 CD audio et 1 livre; Mary Mercier; 978-2098108493; Language: French, 4, EA; <BR><span class="label">LI 070: </span>Petit livre de l'anglais correct; Brigitte Lallement,Nathalie Pierret; 978-2876917507; Language: French, 4, EA; <BR><span class="label">LI 071: </span>L'Am?ricain sans peine (1 livre + coffret de 4 CD); Assimil - Collection Sans Peine; B00008CTOZ; Language: French, 4, EA; <BR><span class="label">LI 072: </span>Plus Anglais que ?a... ; Livre locution; Antony Bulger; 978-2700502411; Language: French, 4, EA; <BR><span class="label">LI 073: </span>The Elements of Style; Strunk, W., Jr. and White, E.B.; 978-0205309023; Language: English, 4, EA; <BR><span class="label">LI 074: </span>Bescherelle anglais : Les exercices; Mich?le Malavieille,; 978-2218934506;, 4, EA; <BR><span class="label">LI 075: </span>Vocabulaire anglais courant; Jean-Bernard Piat; 978-2290339381;, 4, EA; <BR><span class="label">LI 076: </span>A Dictionary of Linguistics and Phonetics; David Crystal; B00AMPSX1Q;, 4, EA; <BR><span class="label">LI 077: </span>Writing the Sounds of English : A pr?cis of English phonetics, with exercises in phonemic transcription; David Banks; 978-2747585743;, 4, EA; <BR><span class="label">LI 078: </span>Introducing Phonetics and Phonology, Third Edition; Mike Davenport et S.J. Hannahs; B00B0YVO6O;, 4, EA; <BR><span class="label">LI 079: </span>L'anglais de A ? Z: Grammaire, conjugaison et difficult?s; Michael Swan, Fran?oise Houdart; 978-2218736568;, 4, EA; <BR><span class="label">LI 080: </span>Anglais professionnel, niveau 1 (1 livre + 1 CD audio); Collectif; 978-2098868922; Language: French, 4, EA; <BR><span class="label">LI 081: </span>Devenir bilingue en anglais : Apprendre l'anglais sans stress et avec plaisir pour pratiquer chaque jour!; Fabien Snauwaert; 978-1451523393; Language: French, 4, EA; <BR><span class="label">LI 082: </span>L'anglais pour d?butants : Cartes d'apprentissage; Susan Meredith et Christyan Fox; 978-1409529156; Language: French, 4, EA; <BR><span class="label">LI 083: </span>L'adulte surdou? - Apprendre ? faire simple quand on est compliqu?; Monique de Kermadec; 978-2226238542; Language: French, 4, EA; <BR><span class="label">LI 084: </span>Parler l'anglais en voyage; ; 978-0245508905;, 4, EA; <BR><span class="label">LI 085: </span>Anglais professionnel, niveau 2 (1 livre + 1 CD audio); Collectif; 978-2098868939; Language: French, 4, EA; <BR><span class="label">LI 086: </span>Communiquer en anglais dans l'h?tellerie et la restauration : M?thode d'apprentissage de l'anglais; Francy Brethenoux-Seguin; 978-2804155599;, 4, EA; <BR><span class="label">LI 087: </span>L'anglais facile pour les petits; Language: French, 4, EA; <BR><span class="label">LI 088: </span>Smart English - Introduction ? l'Anglais, Volume 1. Apprendre l'Anglais avec les Anglais et les Am?ricains - anglais cd; Christian Aubert; 978-1934519370; Language: French, 4, EA; <BR><span class="label">LI 089: </span>Cambridge English for Human Resources Student's Book with Audio CDs (2); George Sandford; 978-0521184694; Language: English, 4, EA; <BR><span class="label">LI 090: </span>Le vocabulaire de l'anglais commercial; Michel Marcheteau, Lionel Dahan; 978-2266178723; Language: English, 4, EA; <BR><span class="label">LI 091: </span>Astronomy: A Self-Teaching Guide (Wiley Self-Teaching Guides); Dinah L. Moche; 978-0470230831; Language: English, 4, EA; <BR><span class="label">LI 092: </span>Astronomy for the Utterly Confused (Utterly Confused Series); Dr. Terry Jones; 978-0071471589; Language: English, 4, EA; <BR><span class="label">LI 093: </span>Astronomy: A Self-Teaching Guide (Wiley Self-Teaching Guides); Dinah L. Moche; 978-1118376973; Language: English, 4, EA; <BR><span class="label">LI 094: </span>Astronomy For Dummies; Stephen P. Maran; 978-0470636244; Language: English, 4, EA; <BR><span class="label">LI 095: </span>Edge of the Universe: A Voyage to the Cosmic Horizon and Beyond; Paul Halpern; 978-1852338909; Language: English, 4, EA; <BR><span class="label">LI 096: </span>Astrophysics is Easy!: An Introduction for the Amateur Astronomer (The Patrick Moore Practical Astronomy Series); Michael Inglis; 978-0756698416; Language: English, 4, EA; <BR><span class="label">LI 097: </span>Universe?; Martin Rees; 978-0470848357; Language: English, 4, EA; <BR><span class="label">LI 098: </span>An Introduction to Modern Cosmology; Andrew Liddle; 978-0321718235; Language: English, 4, EA; <BR><span class="label">LI 099: </span>Essential Cosmic Perspective (6th Edition); Jeffrey O. Bennett; 978-0393931983; Language: English, 4, EA; <BR><span class="label">LI 100: </span>21st Century Astronomy (Full Third Edition); Jeff Hester; 978-1107600935; Language: English, 4, EA; <BR><span class="label">LI 101: </span>An Introduction to Astrobiology; David A. Rothery; 978-1107600928; Language: English, 4, EA; <BR><span class="label">LI 102: </span>An Introduction to the Solar System; David A. Rothery; 978-2822600606; Language: English, 4, EA; <BR><span class="label">LI 103: </span>Le big bang : les origines de l'univers; Paul Mallet; 978-0198526827; Language: French, 4, EA; <BR><span class="label">LI 104: </span>Cosmology; Steven Weinberg; ; Language: English, 4, EA; <BR><span class="label">LI 105: </span>CliffsNotes Anatomy & Physiology Quick Review, 2ndEdition (Cliffsnotes Quick Review); Steven Bassett; 978-0470878743; Language: English, 4, EA; <BR><span class="label">LI 106: </span>CliffsQuickReview Biology; Kelly Schweitzer; 978-0764563751; Language: English, 4, EA; <BR><span class="label">LI 107: </span>Biology Demystified (TAB Demystified); Dale Layman; 978-0071410403; Language: English, 4, EA; <BR><span class="label">LI 108: </span>Schaum's Outline of Biology (Schaum's Outline Series); George Fried; 978-0071811309; Language: English, 4, EA; <BR><span class="label">LI 109: </span>Biology: Concepts & Investigations; Mari?lle Hoefnagels; 978-0073403472; Language: English, 4, EA; <BR><span class="label">LI 110: </span>Biology for Dummies; Ren? Fester Kratz; 978-0470598757; Language: English, 4, EA; <BR><span class="label">LI 111: </span>Biology: A Self-Teaching Guide, 2nd edition; Steven Daniel Gerber; 978-0471223306; Language: English, 4, EA; <BR><span class="label">LI 112: </span>Biology: The Dynamic Science; Peter J. Russell; 978-1133587552; Language: English, 4, EA; <BR><span class="label">LI 113: </span>Campbell Biology: Concepts & Connections; Neil A. Campbell; 978-0321696816; Language: English, 4, EA; <BR><span class="label">LI 114: </span>Essential Cell Biology, Second Edition; Bruce Alberts; 978-0815341291; Language: English, 4, EA; <BR><span class="label">LI 115: </span>Biology; Peter Raven; 978-0073532240; Language: English, 4, EA; <BR><span class="label">LI 116: </span>Biology; Robert Brooker; 978-0077350024; Language: English, 4, EA; <BR><span class="label">LI 117: </span>School for Startups: The Breakthrough Course for Guaranteeing Small Business Success in 90 Days or Less; Jim Beach; 978-0071753937; Language: English, 4, EA; <BR><span class="label">LI 118: </span>R?aliser son business plan en 48 heures (CD Inclus; Xavier Durand- Eric Simon; 978-2212542844; Language: French, 4, EA; <BR><span class="label">LI 119: </span>Construire son Business Plan : Les cl?s du BP professionnel (1C?d?rom); Catherine L?ger-Jarniou; 978-2100543335; Language: French, 4, EA; <BR><span class="label">LI 120: </span>La cr?ation d'entreprise - 15e ?d. - Cr?ation, reprise, d?veloppement; Robert Papin; 978-2100587575; Language: French, 4, EA; <BR><span class="label">LI 121: </span>La finance un jeu d'enfant : Comprendre, pratiquer et ma?triser les ?tats financiers; Youssef F. Bissada; 978-2708137356; Language: French, 4, EA; <BR><span class="label">LI 122: </span>Mercator : Th?ories et nouvelles pratiques du marketing; Denis Lindon; 978-2100534418; Language: French, 4, EA; <BR><span class="label">LI 123: </span>Marketing des services 6?me Ed; Jochen Wirtz; 978-2744072659; Language: French, 4, EA; <BR><span class="label">LI 124: </span>Devenez riche !; Michael Ferrari; 978-2848994215; Language: French, 4, EA; <BR><span class="label">LI 125: </span>Strat?gies pour devenir rentier en dix ans; Philippe Proudhon; 978-2919044191; Language: French, 4, EA; <BR><span class="label">LI 126: </span>Guide du corpus des connaissances en management de projet; Project Management Institute; 978-1933890654; Language: French, 4, EA; <BR><span class="label">LI 127: </span>Portefeuille de projets : La gestion de projet par ?tapes, 4e ?tape; Hugues Marchat; 978-2212543162; Language: French, 4, EA; <BR><span class="label">LI 128: </span>Analyse technique et r?alisation : La gestion de projet par ?tapes; Hugues Marchat; 978-2212538700; Language: French, 4, EA; <BR><span class="label">LI 129: </span>Business Model: Nouvelle G?n?ration; Alexander Osterwalder; 978-2744064876; Language: French, 4, EA; <BR><span class="label">LI 130: </span>Business au f?minin; Chine Lanzmann; 978-2744065491; Language: French, 4, EA; <BR><span class="label">LI 131: </span>L'entreprise du 21e si?cle; Robert-T Kiyosaki; 978-2892257823; Language: French, 4, EA; <BR><span class="label">LI 132: </span>L'?cole des affaires : Pour les gens qui aiment aider les gens; Robert-T Kiyosaki; 978-2892255904; Language: French, 4, EA; <BR><span class="label">LI 133: </span>Avant de quitter votre emploi : 10 le?ons pratiques que tout entrepreneur devrait conna?tre s'il veut ?riger une entreprise multimillionnaire; Robert-T Kiyosaki; 978-2892256246; Language: French, 4, EA; <BR><span class="label">LI 134: </span>Gestion de la relation client; Fr?d?ric Jallat; 978-2744074097; Language: French, 4, EA; <BR><span class="label">LI 135: </span>CRM : Les cl?s de la r?ussite; Pierre Alard; 978-2708131873; Language: French, 4, EA; <BR><span class="label">LI 136: </span>Les 10 diff?rences entre les entrepreneurs et les employ?s; Keith Cameron Smith; 978-2894362372; Language: French, 4, EA; <BR><span class="label">LI 137: </span>Business development; J?r?me Gayet; 978-2212546750; Language: French, 4, EA; <BR><span class="label">LI 138: </span>Regards de femmes DRH sur un monde en mutation; Edgard Added; 978-2744064050; Language: French, 4, EA; <BR><span class="label">LI 139: </span>GRH et genre : Les d?fis de l'?galit? hommes-femmes; Annie Cornet; 978-2711769346; Language: French, 4, EA; <BR><span class="label">LI 140: </span>7 ?tapes pour un business model solide - Comment construire et r?inventer un mod?le ?conomique; Denis Dauchy; 978-2100546077; Language: French, 4, EA; <BR><span class="label">LI 141: </span>Le marketing client multicanal -3?me ?d, Prospection, fid?lisation et reconqu?te du client; Yan Claeyssen; 978-2100557615; Language: French, 4, EA; <BR><span class="label">LI 142: </span>Les 22 lois du marketing; Al Ries; 978-2100079698; Language: French, 4, EA; <BR><span class="label">LI 143: </span>The Complete Idiot's Guide to Starting a Web-Based Business; Steve Slaunwhite; 978-1592578894; Language: English, 4, EA; <BR><span class="label">LI 144: </span>The Power of Habit: Why We Do What We Do in Life and Business; Charles Duhigg?; 978-1400069286; Language: English, 4, EA; <BR><span class="label">LI 145: </span>Work for Money, Design for Love: Answers to the Most Frequently Asked Questions About Starting and Running a Successful Design Business (Voices That Matter); David Airey; 978-0321844279; Language: English, 4, EA; <BR><span class="label">LI 146: </span>Start Your Own Business, Fifth Edition: The Only Start-Up Book You'll Ever Need; Inc The Staff of Entrepreneur Media; 978-1599183879; Language: English, 4, EA; <BR><span class="label">LI 147: </span>Starting an Online Business All-in-One For Dummies; Shannon Belew; 978-1118123195; Language: English, 4, EA; <BR><span class="label">LI 148: </span>Devenez manager !: Les meilleurs textes de Peter Drucker; Peter Drucker; 978-2744064739; Language: French, 4, EA; <BR><span class="label">LI 149: </span>Blink: The Power of Thinking Without Thinking; Malcom Gladwell; 978-0316010665; Language: English, 4, EA; <BR><span class="label">LI 150: </span>Good to Great: Why Some Companies Make the Leap and Others Don?t; Jim Collins; ; Language: English, 4, EA; <BR><span class="label">LI 151: </span>Chemistry Essentials For Dummies; John T. Moore; 978-0470618363; Language: English, 4, EA; <BR><span class="label">LI 152: </span>Chemistry: Concepts and Problems: A Self-Teaching Guide (Wiley Self-Teaching Guides); Clifford C. Houk; 978-0471121206; Language: English, 4, EA; <BR><span class="label">LI 153: </span>Schaum's Outline of Beginning Chemistry (Schaum's Outlines); David Goldberg; 978-0071811347; Language: English, 4, EA; <BR><span class="label">LI 154: </span>Chimie Generale; Donald Mcquarrie; 978-2866000547; Language: French, 4, EA; <BR><span class="label">LI 155: </span>Si la chimie m'?tait cont?e; Paul Arnaud; 978-2701131337; Language: French, 4, EA; <BR><span class="label">LI 156: </span>Chimie et environnement - Cours, ?tudes de cas et exercices corrig?s; Philippe Behra; 978-2100568956; Language: French, 4, EA; <BR><span class="label">LI 157: </span>Chemistry for the Utterly Confused (Utterly Confused Series); John Moore; 978-0071475297; Language: English, 4, EA; <BR><span class="label">LI 158: </span>CHEMISTRY:CONNECTIONS TO OUR CHANGING WORLD REVISED 2ND EDITION STUDENT EDITION 2002C; PRENTICE HALL; 978-0130543837; Language: English, 4, EA; <BR><span class="label">LI 159: </span>Chemistry; Raymond Chang; 978-0073402680; Language: English, 4, EA; <BR><span class="label">LI 160: </span>Chemistry for Dummies 1 + 2 + Workbook; John T. Moore, John T. Moore, Peter J. Mikulecky; 978-1118007303          978-1118164907          978-0470251522; Language: English, 4, EA; <BR><span class="label">LI 161: </span>Organic Chemistry for Dummies 1 + 2 + Workbook; Arthur Winter, John T. Moore, Arthur Winter; 978-0764569029          978-0470251515          978-0470178157; Language: English, 4, EA; <BR><span class="label">LI 162: </span>Chemistry; Julia Burdge; 978-0077354763; Language: English, 4, EA; <BR><span class="label">LI 163: </span>Chemistry: A Molecular Approach (2nd US Edition); Nivaldo J. Tro; 978-0321809247; Language: English, 4, EA; <BR><span class="label">LI 164: </span>Unwritten Laws of Engineering: Revised and Updated Edition; W. J. King?; 978-0791801628; Language: English, 4, EA; <BR><span class="label">LI 165: </span>Mechanical and Electrical Systems in Construction and Architecture (4th Edition); Frank Dagostino; 978-0135000045; Language: English, 4, EA; <BR><span class="label">LI 166: </span>Alternative Energy For Dummies; Rik DeGunther; 978-0470430620; Language: English, 4, EA; <BR><span class="label">LI 167: </span>Solar Electricity Handbook - 2013 Edition: A Simple Practical Guide to Solar Energy - Designing and Installing Photovoltaic Solar Electric Systems; Mr Michael Boxwell; 978-1907670282; Language: English, 4, EA; <BR><span class="label">LI 168: </span>How to Diagnose and Fix Everything Electronic; Michael Geier; 978-0071744225; Language: English, 4, EA; <BR><span class="label">LI 169: </span>The Complete Idiot's Guide to Electronics 101; Sean Westcott; 978-1615640959; Language: English, 4, EA; <BR><span class="label">LI 170: </span>Electronics All-In-One Desk Reference For Dummies; Doug Lowe; 978-0470147047; Language: English, 4, EA; <BR><span class="label">LI 171: </span>Renewable Energy: Power for a Sustainable Future, Second Edition?; Godfrey Boyle; 978-0199261789; Language: English, 4, EA; <BR><span class="label">LI 172: </span>Practical Electronics for Inventors, Third Edition; Paul Scherz; 978-0071771337; Language: English, 4, EA; <BR><span class="label">LI 173: </span>Mechanics of Materials (8th Edition); Russell C. Hibbeler; 978-0133254426; Language: English, 4, EA; <BR><span class="label">LI 174: </span>Electrical Engineering 101, Third Edition: Everything You Should Have Learned in School...but Probably Didn't; Darren Ashby; 978-0123860019; Language: English, 4, EA; <BR><span class="label">LI 175: </span>Flexibility in Engineering Design (Engineering Systems); Richard de de Neufville; 978-0262016230; Language: English, 4, EA; <BR><span class="label">LI 176: </span>Stuff You Don't Learn in Engineering School: Skills for Success in the Real World; Carl Selinger; 978-0471655763; Language: English, 4, EA; <BR><span class="label">LI 177: </span>Electricity and Magnetism; Edward M. Purcell; 978-1107014022; Language: English, 4, EA; <BR><span class="label">LI 178: </span>Sustainable Thermal Storage Systems Planning Design and Operations; Lucas Hyman; 978-0071752978?; Language: English, 4, EA; <BR><span class="label">LI 179: </span>Energy Systems Engineering: Evaluation and Implementation, Second Edition; Francis Vanek; 978-0071787789; Language: English, 4, EA; <BR><span class="label">LI 180: </span>Sustainability, Energy and Architecture: Case Studies in Realizing Green Buildings; Ali Sayigh; 978-0123972699; Language: English, 4, EA; <BR><span class="label">LI 181: </span>Les Traitements de l'Eau Proc?d?s Physico-Chimiques & Biologiques G?nie de l'Environnement Niveau B?; Claude Cardot; 978-2729859817; Language: French, 4, EA; <BR><span class="label">LI 182: </span>D?couvrir et comprendre l'ing?nierie syst?me; AFIS : Association Fran?aise d'Ing?nierie Syst?me; *; Language: French, 4, EA; <BR><span class="label">LI 183: </span>Ing?nierie & M?canique : Conception et dessin; Claude Barlier; 978-2713533105; Language: French, 4, EA; <BR><span class="label">LI 184: </span>Ing?nierie de formation pour l'entreprise - 4e ?dition - Analyser, concevoir, r?aliser, ?valuer; Thierry Ardouin; 978-2100545315; Language: French, 4, EA; <BR><span class="label">LI 185: </span>Guide Bonnes Pratiques en Ing?nierie des Exigences; Collectif AFIS; 978-2364930209; Language: French, 4, EA; <BR><span class="label">LI 186: </span>L'ing?nierie de formation. Outils et m?thodes; Christophe Parmentier; 978-2212553062; Language: French, 4, EA; <BR><span class="label">LI 187: </span>L'ing?nierie culturelle; Claude Mollard; 978-2130594406; Language: French, 4, EA; <BR><span class="label">LI 188: </span>Le but : Un processus de progr?s permanent; Eliyahu M. Goldratt; 978-2124654048; Language: French, 4, EA; <BR><span class="label">LI 189: </span>Renewable Energy, Fourth Edition: Physics, Engineering, Environmental Impacts, Economics & Planning; Bent Sorensen (Sorensen); 978-0123750259; Language: English, 4, EA; <BR><span class="label">LI 190: </span>Environmental Science For Dummies; Alecia M. Spooner; 978-1118167144; Language: English, 4, EA; <BR><span class="label">LI 191: </span>Weather For Dummies; John D. Cox; 978-0764552434; Language: English, 4, EA; <BR><span class="label">LI 192: </span>Limits to Growth: The 30-Year Update; Donella H. Meadows; 978-1931498586; Language: English, 4, EA; <BR><span class="label">LI 193: </span>Wind Energy Basics: A Guide to Home and Community-Scale Wind-Energy Systems, 2nd Edition; Paul Gipe; 978-1603580304; Language: English, 4, EA; <BR><span class="label">LI 194: </span>The Crash Course: The Unsustainable Future Of Our Economy, Energy, And Environment; Chris Martenson; 978-0470927649; Language: English, 4, EA; <BR><span class="label">LI 195: </span>Water Reuse: Issues, Technologies, and Applications; Metcalf & Eddy, Inc. an AECOM Company; 978-0071459273; Language: English, 4, EA; <BR><span class="label">LI 196: </span>Environment; Peter H. Raven; 978-0470945704; Language: English, 4, EA; <BR><span class="label">LI 197: </span>A Prosperous Way Down: Principles and Policies; Howard T. Odum; 978-0870819087; Language: English, 4, EA; <BR><span class="label">LI 198: </span>Energy Transitions: History, Requirements, Prospects; Vaclav Smil; 978-0313381775; Language: English, 4, EA; <BR><span class="label">LI 199: </span>Dictionnaire de l'environnement et du d?veloppement durable : Bilingue anglais-fran?ais fran?ais-anglais; ; 978-0785974796; Language: French, 4, EA; <BR><span class="label">LI 200: </span>L'anglais de l'environnement et du d?veloppement durable; ; 978-2759004126; Language: French, 4, EA; <BR><span class="label">LI 201: </span>Le d?veloppement durable; ; 978-2130585121; Language: French, 4, EA; <BR><span class="label">LI 202: </span>Economie de l'environnement et du d?veloppement durable; ; 978-2804131326; Language: French, 4, EA; <BR><span class="label">LI 203: </span>Les m?tiers de l'environnement et du d?veloppement durable; ; 978-0231128872; Language: French, 4, EA; <BR><span class="label">LI 204: </span>The Handbook of Global Energy Policy; Andreas Goldthau; 978-0470672648;, 4, EA; <BR><span class="label">LI 205: </span>Environment, Power, and Society for the Twenty-First Century: The Hierarchy of Energy; Howard T. Odum; 978-0071713849; Language: English, 4, EA; <BR><span class="label">LI 206: </span>Water and Wastewater Engineering; Mackenzie Davis; 978-0073401140; Language: English, 4, EA; <BR><span class="label">LI 207: </span>Introduction to Environmental Engineering; P. Aarne Vesilind; 978-0071482820; Language: English, 4, EA; <BR><span class="label">LI 208: </span>Energy-Efficient Building Systems: Green Strategies for Operation and Maintenance; Lal Jayamaha; 978-0470666760; Language: English, 4, EA; <BR><span class="label">LI 209: </span>Environmental Physics: Sustainable Energy and Climate Change; Egbert Boeker; 978-0071714778; Language: English, 4, EA; <BR><span class="label">LI 210: </span>Wind Energy Engineering; Pramod Jain; 978-0470015001; Language: English, 4, EA; <BR><span class="label">LI 211: </span>Wind Energy Explained: Theory, Design and Application; James F. Manwell; 978-1441993977; Language: English, 4, EA; <BR><span class="label">LI 212: </span>Energy and the Wealth of Nations: Understanding the Biophysical Economy; Charles A. S. Hall; 978-2817601403; Language: English, 4, EA; <BR><span class="label">LI 213: </span>Geology For Dummies; Alecia M. Spooner; 978-1118021521; Language: English, 4, EA; <BR><span class="label">LI 214: </span>Essentials of Geology (Second Edition); Stephen Marshak; 978-0393928150; Language: English, 4, EA; <BR><span class="label">LI 215: </span>Physical Geology: The Science of Earth; Charles Fletcher; 978-0471220374; Language: English, 4, EA; <BR><span class="label">LI 216: </span>Bien d?buter en g?ologie : Les roches, les min?raux, les fossiles...; ; 978-2723482387; Language: French, 4, EA; <BR><span class="label">LI 217: </span>Sur les sentiers de la G?ologie - Un guide de terrain pour comprendre les paysages; ; 978-2100562831; Language: French, 4, EA; <BR><span class="label">LI 218: </span>Historical Geology; Reed Wicander; 978-1111987299; Language: English, 4, EA; <BR><span class="label">LI 219: </span>Earth: An Introduction to Physical Geology (10th Edition); Edward J. Tarbuck; 978-0321814067; Language: English, 4, EA; <BR><span class="label">LI 220: </span>Essentials of Geology (11th Edition)?; Frederick K. Lutgens; 978-0321832061; Language: English, 4, EA; <BR><span class="label">LI 221: </span>Physical Geology; Charles (Carlos) Plummer; 978-0077270667; Language: English, 4, EA; <BR><span class="label">LI 222: </span>Environmental Geology; Carla Montgomery; 978-0073524115; Language: English, 4, EA; <BR><span class="label">LI 223: </span>Geology (3rd Edition); Stanley Chernicoff; 978-0393932386; Language: English, 4, EA; <BR><span class="label">LI 224: </span>Understanding Earth; John Grotzinger; 978-1429219518; Language: English, 4, EA; <BR><span class="label">LI 225: </span>The Essential HR Handbook: A Quick and Handy Resource for Any Manager or HR Professional; Sharon Armstrong; 978-1564149909; Language: English, 4, EA; <BR><span class="label">LI 226: </span>The Manager's Guide to HR: Hiring, Firing, Performance Evaluations, Documentation, Benefits, and Everything Else You Need to Know; Max Muller; 978-0814410769; Language: English, 4, EA; <BR><span class="label">LI 227: </span>HR from the Outside In: Six Competencies for the Future of Human Resources; Dave Ulrich; 978-0071802666; Language: English, 4, EA; <BR><span class="label">LI 228: </span>Best Kept HR Secrets: 400 Most Powerful Tips For Thriving at Work, Making Yourself Indispensable & Attaining Outrageous Success in Human Resources; Alan Collins; 978-0615389004; Language: English, 4, EA; <BR><span class="label">LI 229: </span>Unwritten HR Rules: 21 Secrets For Attaining Awesome Career Success In Human Resources; Alan Collins; 978-0615315584; Language: English, 4, EA; <BR><span class="label">LI 230: </span>Fonctions RH + eText: Politiques, m?tiers et outils des ressources humaines; Maurice Th?venet; 978-2744075759; Language: French, 4, EA; <BR><span class="label">LI 231: </span>La Bo?te ? outils des Ressources Humaines; Annick haegel; 978-2100570065; Language: French, 4, EA; <BR><span class="label">LI 232: </span>La gestion des ressources humaines; Chlo? Guillot-Soulez; 978-2297032971; Language: French, 4, EA; <BR><span class="label">LI 233: </span>Exercices de Gestion des Ressources Humaines avec corrig?s d?taill?s; H?lo?se Cloet,Chlo? Guillot-Soulez; 978-2297025515; Language: French, 4, EA; <BR><span class="label">LI 234: </span>Ressources humaines et gestion des personnes; Jean-Marie Peretti; 978-2311008951; Language: French, 4, EA; <BR><span class="label">LI 235: </span>L'anglais des Ressources Humaines; Laetitia Urbach; 978-2759013371; Language: French, 4, EA; <BR><span class="label">LI 236: </span>Les Ressources humaines pour les nuls; Sabine Wojtas,; 978-2754016278; Language: French, 4, EA; <BR><span class="label">LI 237: </span>Gestion des ressources humaines; Jean-Marie Peretti; 978-2311009064; Language: French, 4, EA; <BR><span class="label">LI 238: </span>Human Resource Management in Public Service: Paradoxes, Processes, and Problems; Evan M. Berman; 978-1412991674; Language: English, 4, EA; <BR><span class="label">LI 239: </span>Listening Library for Fluency I; Various; 978-0590560597; Language: English, 4, EA; <BR><span class="label">LI 240: </span>Accelerated Reader Grade 2 (AR Levels 2.1-3.5); Various; 978-0545071635; Language: English, 4, EA; <BR><span class="label">LI 241: </span>Big Book Collection Grade 1; Various; 978-0439592796; Language: English, 4, EA; <BR><span class="label">LI 242: </span>Big Book Collection Grade 2; Various; 978-0439592819; Language: English, 4, EA; <BR><span class="label">LI 243: </span>Listening Library for Fluency II; Various; 978-0590560580; Language: English, 4, EA; <BR><span class="label">LI 244: </span>New Connections to English Grade 1; Various; 978-0439874281; Language: English, 4, EA; <BR><span class="label">LI 245: </span>New Connections to English Grade 2; Various; 978-0439874298; Language: English, 4, EA; <BR><span class="label">LI 246: </span>La Qu?ten de Deltora; Christiane Poulain; ; Language: French, 4, EA; <BR><span class="label">LI 247: </span>Junie B. Jones; Barbara Park; ; Language: French, 4, EA; <BR><span class="label">LI 248: </span>Mon Journal Full Nul; Jim Benton; ; Language: French, 4, EA; <BR><span class="label">LI 249: </span>Precalculu; Robert Blitzer; 978-0321837349; Language: English, 4, EA; <BR><span class="label">LI 250: </span>Glencoe Geometry, IL Student Edition (Glencoe Mathematics); McGraw-Hill; 978-0078652493; Language: English, 4, EA; <BR><span class="label">LI 251: </span>Statistics Explained: A Guide for Social Science Students, 2nd Edition; Perry Hinton; 978-0415332859; Language: English, 4, EA; <BR><span class="label">LI 252: </span>Statistics in Plain English, Third Edition; Timothy C. Urdan; 978-0415872911; Language: English, 4, EA; <BR><span class="label">LI 253: </span>Calculus 1 + 2 + Workbook; Mark Ryan, Mark Zegarelli, Mark Ryan; 978-0764524981          978-1118161708          978-0764587825; Language: English, 4, EA; <BR><span class="label">LI 254: </span>Guide to Essential Math, Second Edition: A Review for Physics, Chemistry and Engineering Students (Elsevier Insights); Sy M. Blinder; 978-0124071636; Language: English, 4, EA; <BR><span class="label">LI 255: </span>Cracking the AP (Chemistry + Calculus AB&BC + Physics B) Exam, 2013 Edition (College Test Preparation); Princeton Review; 978-0307944863; Language: English, 4, EA; <BR><span class="label">LI 256: </span>Engineering Mathematics; K. A. Stroud; 978-0831134709; Language: English, 4, EA; <BR><span class="label">LI 257: </span>Exos r?solus - Maths 2de; Lydia Misset; ; Language: French, 4, EA; <BR><span class="label">LI 258: </span>Algebra for Dummies 1 + workbook + basic math and pre-algebra bundle; Mary Jane Sterling, Mary Jane Sterling, Mark Zegarelli; 978-0470537008; Language: English, 4, EA; <BR><span class="label">LI 259: </span>The MedEdits Guide to Medical School Admissions: Practical Advice for Applicants and their Parents; Jessica Freedman; 978-0983129127; Language: English, 4, EA; <BR><span class="label">LI 260: </span>This item:?On Becoming a Doctor: Everything You Need to Know about Medical School, Residency, Specialization, and Practice; Tania Heller; 978-1402220135; Language: English, 4, EA; <BR><span class="label">LI 261: </span>Anatomie et vocabulaire m?dical; Evelyne Berdagu?-Boutet; 978-2843715013; Language: French, 4, EA; <BR><span class="label">LI 262: </span>Guide pratique de l'?chographie obst?tricale et gyn?cologique; 978-2294714979; Gilles grang?; Language: French, 4, EA; <BR><span class="label">LI 263: </span>Med School Confidential: A Complete Guide to the Medical School Experience: By Students, for Students; Robert H. Miller; 978-0312330088; Language: English, 4, EA; <BR><span class="label">LI 264: </span>Medical Terminology: A Short Course, 6e; Davi-Ellen Chabner BA MAT; 978-1437734409; Language: English, 4, EA; <BR><span class="label">LI 265: </span>Modern Prospecting: How to Find, Claim and Sell Mineral Deposits (Prospecting and Treasure Hunting); Roger McPherson; 978-1889786162; Language: English, 4, EA; <BR><span class="label">LI 266: </span>Information Synthesis for Mineral Exploration (Spatial Information Systems); Goucheng Pan; 978-0195118483; Language: English, 4, EA; <BR><span class="label">LI 267: </span>Drills and mills: Precious metal mining and milling methods of the frontier West; Will Meyerriecks?; 978-0971438316; Language: English, 4, EA; <BR><span class="label">LI 268: </span>Evaluation of Mineral Reserves: A Simulation Approach (Applied Geostatistics Series); Andre G. Journel; 978-0195166941; Language: English, 4, EA; <BR><span class="label">LI 269: </span>Introduction to Ore-Forming Processes; Laurence Robb; 978-0632063789; Language: English, 4, EA; <BR><span class="label">LI 270: </span>Ressources min?rales: cours et exercices corrig?s. Pr?face Claude All?gre; Nicholas Arndt; 978-2100543038; Language: French, 4, EA; <BR><span class="label">LI 271: </span>L'Activit? Miniere au Rwanda. d'une Exploitation Marginale a l'Effond Rement; Uwizeyimana; 978-2905081322; Language: French, 4, EA; <BR><span class="label">LI 272: </span>Les mines : Proc?d?s d'exploitation (Le livre pour tous, mille et un manuels populaires); Charles-Lucien Huard; B000XC9SYE; Language: French, 4, EA; <BR><span class="label">LI 273: </span>G?ologie : Objets et m?thodes - Cours et exercices r?solus; Jean Dercourt, Jacques Paquet; 978-2100494590; Language: French, 4, EA; <BR><span class="label">LI 274: </span>nExploitation Mini?re au Sud-Kivu et la Responsabilit? Sociale: Secteur minier et la RSE au Sud-Kivu; Frank Mayundo Muyumba; 978-6131578373; Language: French, 4, EA; <BR><span class="label">LI 275: </span>Initiation ? la g?ologie et ? la topographie : ? l'usage des aides-g?ologues, techniciens de chantiers et d'exploitation mini?re; Jean-Bernard Chaussier; 978-2715904538; Language: French, 4, EA; <BR><span class="label">LI 276: </span>Manuel du prospecteur minier; Jean-Bernard Chaussier; 978-2715900080; Language: French, 4, EA; <BR><span class="label">LI 277: </span>Paradis sous terre (Comment le Canada est devenu une plaque tournante pour l industrie mini?re mondiale); Alain Deneault,William Sacher; 978-2917770436; Language: French, 4, EA; <BR><span class="label">LI 278: </span>Ressources mini?res en Afrique : Quelle r?glementation pour le d?veloppement ?; Bonnie Campbell,; 978-2760525214; Language: French, 4, EA; <BR><span class="label">LI 279: </span>L'?conomie mini?re en Afrique australe; Jacques Marchand; 978-2865376162; Language: French, 4, EA; <BR><span class="label">LI 280: </span>La Montagne de fer : La SNIM (Mauritanie) - Une entreprise mini?re saharienne ? l'heure de la mondialisation; Pierre Bonte; 978-2845862227; Language: French, 4, EA; <BR><span class="label">LI 281: </span>Les Mines et la Recherche mini?re en Afrique occidentale fran?aise : Histoire et t?moignages; Pierre Legoux, Andr? Marelle et Jean Servant; 978-2738409478; Language: French, 4, EA; <BR><span class="label">LI 282: </span>La Prospection et les gisements d'or de demain : Par R. Goloubinow,... Itin?raire de Dakar ? Douala observations g?ographiques et g?ologiques a?riennes, par P. Legoux (Publications du Bureau d'?tudes g?ologiques et mini?res coloniales); R. Goloubinow, Pierre Legoux et Rostislaw Goloubinow; B0017YPTKO; Language: French, 4, EA; <BR><span class="label">LI 283: </span>Resource Curse or Blessing? Africa's Management of its Extractive Industries; ; B009BCWV5A; Language: French, 4, EA; <BR><span class="label">LI 284: </span>Extractive Industries and Sustainable Development: An Evaluation of World Bank Group Experience [; Andres Liebenthal; 978-0821357101; Language: French, 4, EA; <BR><span class="label">LI 285: </span>La recherche de de l'or : Marchands, voyageurs, missionnaires en Afrique et dans les Am?riques (XIIIe - XVIe si?cles); Anna Unali; 978-2296060340; Language: French, 4, EA; <BR><span class="label">LI 286: </span>Dictionnaire de G?ologie - 7e ?dition; Alain Foucault et Jean-Fran?ois Raoult; 978-2100547784; Language: French, 4, EA; <BR><span class="label">LI 287: </span>Guide du g?ologue amateur; Alain Foucault; 978-2100499595; Language: French, 4, EA; <BR><span class="label">LI 288: </span>Introduction to Mineral Exploration?; Charles J. Moon; 978-1405113175; Language: English, 4, EA; <BR><span class="label">LI 289: </span>Wills' Mineral Processing Technology, Seventh Edition: An Introduction to the Practical Aspects of Ore Treatment and Mineral Recovery; Barry A. Wills; 978-0750644501; Language: English, 4, EA; <BR><span class="label">LI 290: </span>Rock Mechanics: For underground mining; Barry H.G. Brady; 978-1402020643; Language: English, 4, EA; <BR><span class="label">LI 291: </span>Introductory Mining Engineering; Howard L. Hartman; 978-0471348511; Language: English, 4, EA; <BR><span class="label">LI 292: </span>Underground Mining Methods: Engineering Fundamentals and International Case Studies; William A. Hustrulid; 978-0873351935; Language: English, 4, EA; <BR><span class="label">LI 293: </span>Physics Essentials For Dummies; Steven Holzner; 978-0470618417; Language: English, 4, EA; <BR><span class="label">LI 294: </span>Physics for the Utterly Confused (Utterly Confused Series); Robert Oman; 978-0070482623; Language: English, 4, EA; <BR><span class="label">LI 295: </span>Basic Physics: A Self-Teaching Guide; Karl F. Kuhn; 978-0471134473; Language: English, 4, EA; <BR><span class="label">LI 296: </span>Schaum's Outline of College Physics, 11th Edition (Schaum's Outline Series); Frederick Bueche; 978-0071754873; Language: English, 4, EA; <BR><span class="label">LI 297: </span>The Physics Problem Solver (Problem Solvers Solution Guides); Joseph Molitoris; 978-0878915071; Language: English, 4, EA; <BR><span class="label">LI 298: </span>University Physics with Modern Physics (12th Edition); Hugh D. Young; 978-0321501219; Language: English, 4, EA; <BR><span class="label">LI 299: </span>Physics for Dummies 1 + 2 + Workbook; Steven Holzner, Steven Holzner, Steven Holzner; 978-0470903247         978-0470538067          978-0470169094; Language: English, 4, EA; <BR><span class="label">LI 300: </span>Physics for Scientists and Engineers: A Strategic Approach with Modern Physics (2nd Edition); Randall D. Knight; 978-0321740908?; Language: English, 4, EA; <BR><span class="label">LI 301: </span>La physique par les objets quotidiens; Cedric Ray?; 978-2701145525; Language: French, 4, EA; <BR><span class="label">LI 302: </span>Le grand roman de la physique quantique; Manjit Kumar; 978-2709624657; Language: French, 4, EA; <BR><span class="label">LI 303: </span>Physics for Scientists and Engineers with Modern Physics and MasteringPhysics; Douglas C. Giancoli; 978-0136139225; Language: English, 4, EA; <BR><span class="label">LI 304: </span>Erreurs de pilotage : Ces accidents qu'on aurait pu ?viter...; ; 978-2911218248; Language: French, 4, EA; <BR><span class="label">LI 305: </span>Sit-on-top : Le kayak pour tous; ; 978-2910197254; Language: English, 4, EA; <BR><span class="label">LI 306: </span>Encyclopedia of Bodybuilding: The Complete A-Z Book on Muscle Building: 21st Century Edition; Robert Kennedy; 978-1552100516; Language: English, 4, EA; <BR><span class="label">LI 307: </span>L'Histoire Du Sport; ; 978-2130592099; Language: French, 4, EA; <BR><span class="label">LI 308: </span>L'entrainement de la vitesse; ; 978-2702713518;, 4, EA; <BR><span class="label">LI 309: </span>Quiet: The Power of Introverts in a World That Can't Stop Talking; Susan Cain; 978-0307352156; Language: English, 4, EA; <BR><span class="label">LI 310: </span>Self-Improvement 101: What Every Leader Needs to Know (101 (Thomas Nelson)); John C. Maxwell; 978-1400280247; Language: English, 4, EA; <BR><span class="label">LI 311: </span>The Secret Art of Self-Development; Karl Moore?; 978-0955993503; Language: English, 4, EA; <BR><span class="label">LI 312: </span>I Had It All the Time: When Self-Improvement Gives Way to Ecstasy; Alan H. Cohen; 978-0910367530; Language: English, 4, EA; <BR><span class="label">LI 313: </span>The Power of Self-Coaching: The Five Essential Steps to Creating the Life You Want; Joseph J. Luciani; 978-0471463603; Language: English, 4, EA; <BR><span class="label">LI 314: </span>Self-Defeating Behaviors: Free Yourself from the Habits, Compulsions, Feelings, and Attitudes That Hold You Back; Milton R. Cudney; 978-0062501974; Language: English, 4, EA; <BR><span class="label">LI 315: </span>The Mind-Made Prison; Mateo Tabatabai; 978-1475136258; Language: English, 4, EA; <BR><span class="label">LI 316: </span>Self-Esteem: A Proven Program of Cognitive Techniques for Assessing, Improving, and Maintaining Your Self-Esteem; Matthew McKay; 978-1572241985; Language: English, 4, EA; <BR><span class="label">LI 317: </span>Le Point de bascule : Comment faire une grande diff?rence avec de tr?s petites choses?; Malcom Gladwell; 978-2081285743;, 4, EA; <BR><span class="label">LI 318: </span>La Sociologie des organisations : Initiation th?orique suivie de douze cas pratiques; Philippe Bernoux; 978-2757812235; Language: French, 4, EA; <BR><span class="label">LI 319: </span>Sociologie du genre: Sociologies contemporaines; Isabelle Clair; 978-2200259204; Language: French, 4, EA; <BR><span class="label">LI 320: </span>La mont?e des incertitudes : Travail, protections, statut de l'individu; Robert Castel; 978-2757834398; Language: French, 4, EA; <BR><span class="label">LI 321: </span>L'avenir de la solidarit?; Robert Castel,; 978-2130619260; Language: French, 4, EA; <BR><span class="label">LI 322: </span>The Sociolinguistics of Globalization; Dr Jan Blommaert; 978-0521710237; Language: French, 4, EA; <BR><span class="label">LI 323: </span>Sociolinguistics and Language Education; Nancy H. Hornberger et Sandra Lee McKay; n978-1847692825; Language: French, 4, EA; <BR><span class="label">LI 324: </span>Data Collection in Sociolinguistics: Methods and Applications; Christine Mallinson,Becky Childs; 978-0415898560; Language: French, 4, EA; <BR><span class="label">LI 325: </span>Qualitative Methods in Sociolinguistics; Barbara Johnstone; 978-0195133974; Language: French, 4, EA; <BR><span class="label">LI 326: </span>Ces gestes qui vous trahissent; Joseph Messinger; 978-2290035016; Language: French, 4, EA; <BR><span class="label">LI 327: </span>Le petit Social 2013; Veronique Roy; 978-2100587438; Language: French, 4, EA; <BR><span class="label">LI 328: </span>Sociolinguistics: An Introduction to Language and Society; Peter Trudgill; 978-0140289213; Language: French, 4, EA; <BR><span class="label">LI 329: </span>Sociolinguistic Fieldwork; Natalie Schilling; 978-0521127974; Language: French, 4, EA; <BR><span class="label">LI 330: </span>Working on Innovation; Christophe Midler; 978-0415498449; Language: French, 4, EA; <BR><span class="label">LI 331: </span>Sexe, genre et sexualit?s; Elsa Dorlin; 978-2130558897; Language: French, 4, EA; <BR><span class="label">LI 332: </span>Sociologie de l'homosexualit?; S?bastien Chauvin,Arnaud Lerch; 978-2707154699; Language: French, 4, EA; <BR><span class="label">LI 333: </span>Dans les plis singuliers du social : Individus, institutions, socialisations; Bernard Lahire; 978-2707175557; Language: French, 4, EA; <BR><span class="label">LI 334: </span>Introduction ? l'entreprenariat; Alain Fayolle; 978-2100486410; Language: French, 4, EA; <BR><span class="label">LI 335: </span>Business plan: Concevoir un business plan efficace; Richard Stutely?et Betsy Annen; 978-2744076183; Language: French, 4, EA; <BR><span class="label">LI 336: </span>La r?alit? de l'entrepreneuriat - Le guide irr?v?rencieux pour d?passer, devancer, distancer vos concurrents; Guy Kawasaki; 978-2354560065; Language: French, 4, EA; <BR><span class="label">LI 337: </span>Cr?er sa boite pour les nuls; Laurence de Percin; 978-2754019866; Language: French, 4, EA; <BR><span class="label">LI 338: </span>S'Organiser Pour R?ussir; David Allen; 978-2848992099; Language: French, 4, EA; <BR><span class="label">LI 339: </span>La cr?ation d?entreprise en Afrique; Ponson; 978-2100587575; Language: French, 4, EA; <BR><span class="label">LI 340: </span>Entrepreneuriat et strat?gie des PME; Carrier; 978-2760510180; Language: French, 4, EA; <BR><span class="label">LI 341: </span>Les entrepreneurs; Drucker; 978-2010128530; Language: French, 4, EA; <BR><span class="label">LI 342: </span>Les entrepreneurs parlent; Filion; 2921136007; Language: French, 4, EA; <BR><span class="label">LI 343: </span>R?aliser son projet d?entreprise; Filion; 9782894722848; Language: French, 4, EA; <BR><span class="label">LI 344: </span>Entreprises et dynamique de croissance; Haudeville; 9789973975324; Language: French, 4, EA; <BR><span class="label">LI 345: </span>L? entrepreneuriat en Afrique Francophone; Henault; 0-86196-253-2.; Language: French, 4, EA; <BR><span class="label">LI 346: </span>Entrepreneurship (lancer, ?laborer et g?rer une entreprise); Hisrich; 9782717821727; Language: French, 4, EA; <BR><span class="label">LI 347: </span>L'Entrepreneuriat; Marchesnay; 9782717829846; Language: French, 4, EA; <BR><span class="label">LI 348: </span>Comment trouver son id?e d?entreprise; Lafert?; 978-2894723357; Language: French, 4, EA; <BR><span class="label">LI 349: </span>Profession?: travailleur autonome; Lafert?; 978-2894720486; Language: French, 4, EA; <BR><span class="label">LI 350: </span>Artistes, Artisans et technocrates; Pitcher; 978-2890379114; Language: French, 4, EA; <BR><span class="label">LI 351: </span>Creation et la reprise d'une entreprise hotel?re et touristique; Pagnon-Maudet; 9782729867911; Language: French, 4, EA; <BR><span class="label">LI 352: </span>Guide pratique du nouveau cr?ateur de start-up; Basso; 978-2708125674; Language: French, 4, EA; <BR><span class="label">LI 353: </span>L'esprit d'entreprise; Ponson; 978-2742000036; Language: French, 4, EA; <BR><span class="label">LI 354: </span>Strat?gie pour la cr?ation d?entreprise; Papin; 9782100070442; Language: French, 4, EA; <BR><span class="label">LI 355: </span>Vision et relations : clefs du succ?s de l'entrepreneur; Filion; 9782921136013; Language: French, 4, EA; <BR><span class="label">LI 356: </span>Cr?er son entreprise en Europe; Moriou; 978-2721207197; Language: French, 4, EA; <BR><span class="label">LI 357: </span>Entrepreneurship technologique; Toulouse; 9782921030441; Language: French, 4, EA; <BR><span class="label">LI 358: </span>Entreprises et dynamiques de croissance; Haudeville; 9782810600458; Language: French, 4, EA; <BR><span class="label">LI 359: </span>Entrepreneurship et d?veloppement local; Prevost; 978-2921030526; Language: French, 4, EA; <BR><span class="label">LI 360: </span>Profession: entrepreneur; Gasse; 2-921030535; Language: French, 4, EA; <BR><span class="label">LI 361: </span>Le business plan; Moschetto; 2-717842039; Language: French, 4, EA; <BR><span class="label">LI 362: </span>R?aliser l??tude de march? de son projet d?entreprise; Moschetto; 9782894721544; Language: French, 4, EA; <BR><span class="label">LI 363: </span>Les entreprises de services; Paquin; 9782894720745; Language: French, 4, EA; <BR><span class="label">LI 364: </span>Un plan d?affaires gagnant; Dell'anniello; 9782921030571; Language: French, 4, EA; <BR><span class="label">LI 365: </span>Les mutilations sexuelles f?minines?; Natacha Carbonne; 978-2917191460; Language: French, 4, EA; <BR><span class="label">LI 366: </span>Chirurgie r?paratrice de l'excision et des mutilations g?nitales f?minines; Pierre Foldes, Bernard-Jean Paniel; 978-2704013753; Language: French, 4, EA; <BR><span class="label">LI 367: </span>La Dynamique Du Changement Social: Vers L'abandon De L'excision/Mutilation Genitale Feminine Dans Cinque Pays Africains; United Nations; 978-8889129791; Language: French, 4, EA; <BR><span class="label">LI 368: </span>Les Africaines : Histoire des femmes d'Afrique subsaharienne du XIXe au XXe si?cle?; Catherine Coquery-Vidrovitch; 978-2707175458; Language: French, 4, EA; <BR><span class="label">LI 369: </span>The End of Men: And the Rise of Women; Hanna Rosin; 978-1594488047; Language: English, 4, EA; <BR><span class="label">LI 370: </span>The UN Convention on the Elimination of All Forms of Discrimination Against Women: A Commentary; Marsha A.Freeman; 978-0199565061; Language: English, 4, EA; <BR><span class="label">LI 371: </span>L'art de l'allaitement maternel; La Leche League et Jean-Michel Wendling; 978-2266211093; Language: French, 4, EA; <BR><span class="label">LI 372: </span>Advanced Techniques for Modelling Maternal and Child Health in Africa?; Kandala Ngianga-Bakwin et Gebrenegus Ghilagaber; 978-9400767775; Language: English, 4, EA; <BR><span class="label">LI 373: </span>Study Guide for Foundations of Maternal-Newborn and Women's Health Nursing; Sharon Smith Murray MSN RN C et Emily Slone McKinney MSN RN C; 978-1455737482?; Language: English, 4, EA; <BR><span class="label">LI 374: </span>Livre Formation aux gestes de premiers secours : assistant(e)s maternel(le)s?; Icone Graphic; 978-2357382015; Language: French, 4, EA; <BR><span class="label">LI 375: </span>The Book On "Women Quotes"?; Neal Ranzoni; 978-1489531223; Language: English, 4, EA; <BR><span class="label">LI 376: </span>The U.S. Women's Soccer Team: An American Success Story; Clemente Angelo Lisi; 978-1589797116; Language: English, 4, EA; <BR><span class="label">LI 377: </span>Les Battantes : Comment devenir une femme leader; VIALA H?l?ne; 978-2735700714; Language: French, 4, EA; <BR><span class="label">LI 378: </span>The New Soft War on Women: How the Myth of Female Ascendance Is Hurting Women, Men-and Our Economy; Caryl Rivers et Rosalind C. Barnett; 978-0399163333; Language: English, 4, EA; <BR><span class="label">LI 379: </span>Architecture contemporaine : Tendances & inspirations; Alex Sanchez; 978-2809906967; Language: French, 4, EA; <BR><span class="label">LI 380: </span>Peaux de b?ton - 65 architectures contemporaines; ; 978-2100565542; Language: French, 4, EA; <BR><span class="label">LI 381: </span>Architecture contemporaine; Gilles de Bure; 978-2081225053; Language: French, 4, EA; <BR><span class="label">LI 382: </span>101 petits secrets d'architecture qui font les grands projets; Matthew Frederick; 978-2100572502; Language: French, 4, EA; <BR><span class="label">LI 383: </span>Bambou : Architecture, Ecologie, Design, Objets, Mobilier, Contemporain, Tradition, Artisanat; Edition Place des Victoires; 978-2809901917; Language: French, 4, EA; <BR><span class="label">LI 384: </span>Architecture Now! 5; ; ; Language: French, 4, EA; <BR><span class="label">LI 385: </span>Utopia forever : Visions of architecture and urbanism; Robert Klanten; 978-3899553352; Language: French, 4, EA; <BR><span class="label">LI 386: </span>Ecological Urbanism; Harvard University; 978-3037781890; Language: French, 4, EA; <BR><span class="label">LI 387: </span>Les Cahiers de l'Urbanisme, N? 66 : Am?nagement du territoire, urbanisme, architecture...plus durables ?; Michel Dachalet; 978-2870099735; Language: French, 4, EA; <BR><span class="label">LI 388: </span>Getting Real on Urbanism: Contextual Design for Cities; Bernard Zyscovich; 978-0874201055; Language: French, 4, EA; <BR><span class="label">LI 389: </span>Droit de l'Am?nagement, de l'Urbanisme, de l'Habitat 2013; Gridauh; 978-2281129199; Language: French, 4, EA; <BR><span class="label">LI 390: </span>R?ussir avec les r?seaux sociaux; Jean-Fran?ois Ruiz; 978-2843438288; Language: French, 4, EA; <BR><span class="label">LI 391: </span>Web Analytics 2.0: Mesurer l'impact de votre site internet et des r?seaux sociaux pour optimiser votre activit? et r?pondre aux attentes de vos visiteurs (CD inclus); ; 978-2212128017; Language: French, 4, EA; <BR><span class="label">LI 392: </span>Le r?seau social d'entreprise; Alain Garnier; 978-2746229846; Language: French, 4, EA; <BR><span class="label">LI 393: </span>Maintenance et d?pannages des PC : Cours et exercices corrig?s; Gerard Laurent; 978-2100072644; Language: French, 4, EA; <BR><span class="label">LI 394: </span>Le PC pour d?butants; JoAnne woodcock; 978-2840827573; Language: French, 4, EA; <BR><span class="label">LI 395: </span>CD-m?mes : l'enfant et les technologies ?ducatives; Claire Noy; 978-2296003958; Language: French, 4, EA; <BR><span class="label">LI 396: </span>Web 2.0 Les internautes au pouvoir : Blogs, R?seaux sociaux, Partage de vid?os, Mashups...; Jean Fran?ois Gervais; 978-2100507016; Language: French, 4, EA; <BR><span class="label">LI 397: </span>Le livre de Windows 8 en poche; Jean Fran?ois Sehan; 978-2754044134; Language: French, 4, EA; <BR><span class="label">LI 398: </span>Le livre d'Android pour tablettes versions 4; Henri Lilen; 978-2754049344; Language: French, 4, EA; <BR><span class="label">LI 399: </span>Le livre des techniques du son - 4e ?dition: Tome 2 - La technologie; Denis Mercier; 978-2100570263; Language: French, 4, EA; <BR><span class="label">LI 400: </span>Le Mac pour les nuls; David Poque; 978-2844272430; Language: French, 4, EA; <BR><span class="label">LI 401: </span>un go?ter ? New-York; Marc Grossman; 978-2501074452; Language: French, 4, EA; <BR><span class="label">LI 402: </span>Cuisine du monde : 1001 recettes; Anne-Laure Est?ves; 978-2263062513; Language: French, 4, EA; <BR><span class="label">LI 403: </span>365 recettes faciles de l'ap?ritif au dessert; Collectif; 978-2501074964; Language: French, 4, EA; <BR><span class="label">LI 404: </span>High on the Hog: A culinary Journey From Africa to America; Harris, Jessica B.; 978-1596913950;, 4, EA; <BR><span class="label">LI 405: </span>L'appui de la Banque a Lagriculture en Afrique Subsaharienne: Examen De L'ieg; World Bank Group; 978-0821375952; Language: French, 4, EA; <BR><span class="label">LI 406: </span>Consultation Sur L'Irrigation En Afrique; Food and Agriculture Organization of the United Nations; 978-9252025474; Language: French, 4, EA; <BR><span class="label">LI 407: </span>Pour Des Villes Plus Vertes En Afrique; Food and Agriculture Organization of the United Nations; 978-9252072867; Language: French, 4, EA; <BR><span class="label">LI 408: </span>Agriculture durable & nouvelle r?volution verte?de?; G?rard Kafadaroff; 978-2350610122; Language: French, 4, EA; <BR><span class="label">LI 409: </span>Les cit?s-jardins : Un mod?le pour demain?de; Jean-Fran?ois Champeaux et Nicolas Champeaux; 978-2869851757; Language: French, 4, EA; <BR><span class="label">LI 410: </span>La gestion int?gr?e des ressources en eau en Afrique subsaharienne : Paradigme occidental, pratiques africaines; Fr?d?ric Julien; 978-2760534490; Language: French, 4, EA; <BR><span class="label">LI 411: </span>Le jardinier-mara?cher - Manuel d'agriculture biologique; Jean-Martin Fortier; 978-2897190033; Language: French, 4, EA; <BR><span class="label">LI 412: </span>Le sol, la terre et les champs : Pour retrouver une agriculture saine; Claude Bourguignon et?Lydia Bourguignon?; 978-2869851887; Language: French, 4, EA; <BR><span class="label">LI 413: </span>L'Agriculture biologique : espoir ou chim?re ?; Dufumier Marc, Dor? Thierry et Rivi?re-Wekstein Gil; 979-1090685116; Language: French, 4, EA; <BR><span class="label">LI 414: </span>L'agrobusiness; Melanie Herrmann; B003UAKXTA; Language: French, 4, EA; <BR><span class="label">LI 415: </span>La ville ouest-africaine. Mod?les de planification de l'espace urbain?; J?rome Chenal; 978-2940406180;, 4, EA; <BR><span class="label">LI 416: </span>Territoires citadins : 4 villes africaines ?; Philippe Gervais-Lambony; 978-2701133751;, 4, EA; <BR><span class="label">LI 417: </span>Le capitalisme contre le droit ? la ville : N?olib?ralisme, urbanisation, r?sistances; ; 978-2354800956;, 4, EA; <BR><span class="label">LI 418: </span>Urbanisation sans urbanisme : Une histoire de la "ville diffuse"; Bernardo Secchi et?B?n?dicte Grosjean; 978-2804700461;, 4, EA; <BR><span class="label">LI 419: </span>Paradoxes de l'urbanisation : Pourquoi les catastrophes n'emp?chent-elles pas l'urbanisation ?; Patrick Pigeon; 978-2296991989;, 4, EA; <BR><span class="label">LI 420: </span>An Assessment of Home Garden Cultivation in Burkina Faso: Their composition, structure, and contribution to income generation ( -- Please refer to FedBid for complete list of contract requirement(s) and terms and conditions. <br> <br><a href="https://marketplace.fedbid.com/fbweb/fbobuyDetails.do?token=%3D%3DwBKxmaVGYR9Cg8gYKbz7CZQAAAAAHeAAgAgTFCGg%2FFzzqQbJAAyVXBA0Or">Solicitation and Buy Attachments </a> <BR> <BR>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__additional_info_link_" class="field fld_additional_info_link fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__additional_info_link__field-label">
+	<label for="dnf_class_values_procurement_notice__additional_info_link_">Additional Info</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__additional_info_link__widget">
+	<a href="http://www.fedbid.com" target="_blank">www.fedbid.com (b-587923_02, n-131985)</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Additional Info )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	2440 OUAGADOUGOU PL, DULLES, VA 20189
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	LINDEN, NJ 07036<br />
+07036<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Name: Charles Bako, Title: PROCUREMENT AGENT, Phone: 2024706990, Fax: , Email: bakock@state.gov;
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=151ec1160984ec0847559c92610be227'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=151ec1160984ec0847559c92610be227'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	February 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	February 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	August 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	August 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field last field-last default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	76 -- Books, maps & other publications
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

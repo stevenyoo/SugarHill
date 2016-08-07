@@ -1,0 +1,796 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Night Hospitalist - SSU-FY14-016-PS - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392493690');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392493690';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=a745c6e7de70e102fa8e5fcbc509039b&inline_disposition=1" border="0" alt="Indian Health Service logo"></div><div class="agency-header"><h2>Night Hospitalist</h2><div class="sol-num">Solicitation Number: SSU-FY14-016-PS</div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: Indian Health Service<br>Location: Northern Navajo Medical Center</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=6e4ff067f4b5ac27bd1bce51772a3d95&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/IHS/GPO16835/SSU-FY14-016-PS/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/IHS/GPO16835/SSU-FY14-016-PS/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/IHS/GPO16835/SSU-FY14-016-PS/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=6e4ff067f4b5ac27bd1bce51772a3d95&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=6e4ff067f4b5ac27bd1bce51772a3d95&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=6e4ff067f4b5ac27bd1bce51772a3d95&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=ebe82df26199e0937bd4f4482a592aa0&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Feb 11, 2014</div><div class="nh-date">5:17 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=6e4ff067f4b5ac27bd1bce51772a3d95&_cview=0">Changed</a><div class="nh-date">Feb 12, 2014</div><div class="nh-date">11:10 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=ebe82df26199e0937bd4f4482a592aa0'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=ebe82df26199e0937bd4f4482a592aa0'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	SSU-FY14-016-PS
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-11 17:17:47">Feb 11, 2014 5:17 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-12 11:09:41">Feb 12, 2014 11:09 am<a href="/utils/viewDifferences?class=notice_description&id=cf884b1ec89e34d625e93ba43577d6fe&compared_to=fc092f6cb75726087a42fb2ef2f1493a" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=cf884b1ec89e34d625e93ba43577d6fe&compared_to=fc092f6cb75726087a42fb2ef2f1493a&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		This is a solicitation for Physician Services; namely, Night Hospitalist in accordance with the format in the Federal Acquisition Regulation (FAR) Subpart 12.6, Streamlined Procedures for Evaluation and Solicitation for Commercial Items, as supplemented with additional information included in this notice. Please respond in the "interested vendors" section in FBO.gov and submit a CV/Profile of the candidate to the contracting officer by email referencing: SSU-FY14-016-PS in the attention line.<br />
+<p>SOCIO-ECONOMIC CONSIDERATION: <br />As provided in FAR 19, 19.201, General policy: (a) It is the policy of the Government to provide maximum practicable opportunities in its acquisitions to small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. Such concerns must also have the maximum practicable opportunity to participate as subcontractors in the contracts awarded by any executive agency, consistent with efficient contract performance. Please state your socioeconomic status.</p><br />
+<p>DESCRIPTION of SERVICE Requirements:<br />This is a non-personal service contract for the provision of providing internal medicine services to Northern Navajo Medical Center patients. Applicant MUST have completed an internal medicine residency and preferably be Board Certified in Internal Medicine. Personal Service contracts will be considered depending on number of responses.</p><br />
+<p>PERIOD OF PERFORMANCE:<br />Upon success credential and fingerprint clearance (tentative March 31, 2014) to December 31, 2014.</p><br />
+<p>WORK SCHEDULE :<br />See Statement of work</p><br />
+<p>DUTIES: <br />See Statement of work</p><br />
+<p>The contractor will provide direct cross-cover patient care to patients that are admitted to our Internal Medicine service in the Intensive Care Unit, or Medical/Surgical unit. The provider will be responsible for new admissions or consultations to the Internal Medicine service.</p><br />
+<p>The contractor will provide direct care services to patients in accordance with the Standards of Care established by recognized medical care organizations and in accordance with the policies and procedures of the service unit.</p><br />
+<p>ADDITIONAL INFORMATION:</p><br />
+<p>Indian Health Service or Veterans Administration experience preferred. <br />Seeking Board Certification in Internal Medicine</p><br />
+<p>The Contractor shall provide direct care services to NAIHS patients under the terms of this contract, appropriate and timely medical services in accordance with the Standards of Care established by recognized medical care organizations and in accordance with the policies and procedures of the SU's Medical Staff Bylaws, Rules and Regulations.</p><br />
+<p>1. The Contractor shall be subject to supervision and direction of the designated Government official.<br />2. Contractor shall be responsible for meals, and transportation.<br />3. Contractor may be sent home if the patient load does not require their services.<br />4. All state, federal, local taxes are to be included in the hourly rate.<br />5. We DO NOT accept fingerprints conducted by the Veterans Administration. Fingerprinting of contractors will be cleared and done prior to coming on board at Northern Navajo Medical Center.<br />6. HOUSING IS NOT AVAILABLE.<br />7. Only Northern Navajo Medical Center Acquisitions personnel are authorized to make commitment on behalf of the Federal government.<br />8. Contractor will no longer be needed if the vacant position they are occupying is filled with a permanent employee. The contractor is here on an "as needed" basis.<br />9. Contractor must abide to Standard Precautions. NNMC provides safety supplies for employees to use to protect themselves.<br />10. Mandatory requirements are completed the first day at Northern Navajo Medical Center, prior to working.<br />11. The identification tag provided by NNMC will be worn at eye level position during work hours.<br />12. The contractor will abide to all government regulations, policies and procedures, failure to follow any of these requirements could result in termination. <br />13. The contractor will have access to the internet to use the Electronic Health Record. All documentation on patients will be completed prior to the contractor's shift is over.<br />14. Delinquent charts will be completed prior to the contractor completion of his/her contract at Northern Navajo Medical Center. If the delinquent chart is not completed the contract company will assume the responsibility of returning the contractor to Northern Navajo Medical Center to complete any outstanding delinquent charts.<br />15. Falsification of hours or any negative work performance, personal issues brought into the work site will not be tolerated while employed at NNMC. This practice could result in immediate termination of the contractor and the contract company will be notified through the Acquisition Office.<br />16. Complaints pertaining to the contractor will be submitted to the contracting company through the Acquisition Office for corrective actions and quality control purposes.</p><br />
+<p><br />CLINICAL PRIVILEGES</p><br />
+<p>The contractor must be credentialed and clinical privileges granted by the Northern Navajo Medical Center's clinical director or designee prior to providing services. The contractor must provide the following appropriate forms for privileging from the Northern Navajo Medical Center's credential's specialist upon award of this contract. Credentialing has been taking 6-8 weeks to complete.</p><br />
+<p>1) Completed Application for IHS Medical Staff Appointment<br />2) Privileges Request Form<br />3) Completed NPDB Query Form<br />4) Medicare/Medicaid Acknowledgement Form<br />5) Medical Staff Bylaws, Rules &amp; Regulations Acknowledgement Form<br />6) All Hazards Plan Acknowledgement Form<br />7) Copies of ALL active state licenses (license must indicate an expiration date)<br />8) Copy of DEA Registration License / Controlled Substance<br />9) Copies of ALL Board Certifications<br />10) Copy of Medical School Degree<br />11) Copy of Residency Certificate(s)<br />12) Copy of NPI and UPIN Notification Letter<br />13) Copies of ECFMG (Educational Commission for Foreign Medical Graduates), if applicable<br />14) Copies of applicable BLS, ACLS, ATLS, PALS NRP (As indicated in Rules &amp; Regulations)<br />15) Copies of CME (Continuing Medical Education) for past 2 years<br />16) Copy(s) of malpractice insurance<br />17) Current Photo (Driver's License or Passport)<br />18) Curriculum Vitae</p><br />
+<p>The contractor must retain certification and licensure status as defined below throughout the term of the contract. Current and valid documents shall be provided to the Northern Navajo Medical Center's Credentialing Coordinator upon renewal of said documents.</p><br />
+<p>Valid current full and unrestricted license in all State, District of Columbia, the Commonwealth of Puerto Rico, or a Territory of the United States.</p><br />
+<p>Retain US Citizenship.</p><br />
+<p>Health status allowing physical and mental ability to carry out required functions. This is to be verified on an annual basis by the employing agency or a copy of a physical examination.</p><br />
+<p>CLIENT BACKGROUND</p><br />
+<p>Many of the patients served may only speak a native language and reside on the reservation. The contractor should be able to show sensitivity to cross-cultural and languages differences and have the ability to work through interpreters as necessary for non-English speaking patients. In situation where interpretation is required, the Northern Navajo Medical Center's staff will provide these services.</p><br />
+<p><br />****FINGERPRINTING CARD FBI-FD 258 (PROVIDED BY THE FEDERAL GOVERNMENT) FINGERPRINTING MUST BE CLEARED AND APPROVED PRIOR TO THE START DATE.</p><br />
+<p>SOLICITATION:<br />This is a Request for Quotation (RFQ).</p><br />
+<p>The North American Industry Classification System (NAICS) is 621111 - Offices of Physicians (except Mental Health Specialists). The Government anticipates award of a Firm Fixed Price contract. The Government intends to evaluate proposals based on compliance with solicitation requirements, technical capabilities, prior performance and cost. The Government intends to award one contract as a result of this solicitation. An award will made based on the requirements and evaluation factors.</p><br />
+<p>It is the firm's or individuals' responsibility to be familiar with applicable provisions and clauses.</p><br />
+<p>APPLICABLE PROVISIONS AND CLAUSES<br />The following Federal Acquisition Regulation (FAR) provisions and clauses apply to this acquisition (the full text of a clause may be accessed electronically at this address: FAR: https://www.acquistion.gov): The following Provisions and Clauses apply to this solicitation and are incorporated by full text:</p><br />
+<p>52.252-2 CLAUSES INCORPORATED BY REFERENCE (Feb 1998)This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text upon request the Contracting Officer will make their full text available.<br />52.202-1 Definitions (Jul 2004)<br />52.203-3 Gratuities (Apr 1984)<br />52.203-5 Covenant Against Contingent Fees (Apr 1984)<br />52.203-7 Anti-Kickback Procedures (Jul 1995)<br />52.204-3 Taxpayer Identification (Oct 1998)<br />52.204-7 Central Contractor Registration (Apr 2008)<br />52.222-3 Convict Labor (Jun 2003)<br />52.223-6 Drug-Free Workplace (May 2001)<br />52.229-3 Federal, State, and Local Taxes (Apr 2003)<br />52.232-1 Payments (Apr 1984)<br />52.232-8 Discounts for Prompt Payment (Feb 2002)<br />52.232-18 Availability of Funds (Apr 1984)<br />52.232-33 Payment by Electronic Funds Transfer-Central Contractor Registration. (Oct 2003)<br />52-233-1 Disputes (Jul 2002)<br />52.237-3 Continuity of Services (Jan 1991)<br />52.243-1 Changes - Fixed Price (Aug 1987)<br />52.246-4 Inspection of Services - Fixed Price (Aug 1996)<br />52.249-1 Termination for Convenience of the Government (Fixed-Price) (Short Form) (Apr 1984)<br />52.249-4 Termination for Convenience of the Government (Services) (Short Form) (Apr 1984)<br />52.249-8 Termination for Default (Fixed-Price Supply and Service) (Apr 1984)<br />52.204-9 Personal Identity Verification of Contractor Personnel (Jan 2011)<br />(a) The Contractor shall comply with agency personal identity verification procedures identified in the contract that implement Homeland Security Presidential Directive-12 (HSPD-12), Office of Management and Budget (OMB) guidance M-05-24, and Federal Information Processing Standards Publication (FIPS PUB) Number 201.<br />(b) The Contractor shall account for all forms of Government-provided identification issued to the Contractor employees in connection with performance under this contract. The Contractor shall return such identification to the issuing agency at the earliest of any of the following, unless otherwise determined by the Government;<br />(1) When no longer needed for contract performance.<br />(2) Upon completion of the Contractor employee's employment.<br />(3) Upon contract completion or termination.<br />(c) The Contracting Officer may delay final payment under a contract if the Contractor fails to comply with these requirements.<br />(d) The Contractor shall insert the substance of clause, including this paragraph (d), in all subcontracts when the subcontractor's employees are required to have routine physical access to a Federally-controlled facility and/or routine access to a Federally-controlled information system. It shall be the responsibility of the prime Contractor to return such identification to the issuing agency in accordance with the terms set forth in paragraph (b) of this section, unless otherwise approved in writing by the Contracting Officer.</p><br />
+<p>FAR 52.237-7 Indemnification and Medical Liability Insurance. <br />INDEMNIFICATION AND MEDICAL LIABILITY INSURANCE (JAN 1997) <br />(a) It is expressly agreed and understood that this is a non-personal services contract, as defined in Federal Acquisition Regulation (FAR) 37.101, under which the professional services rendered by the Contractor are rendered in its capacity as an independent contractor. The Government may evaluate the quality of professional and administrative services provided, but retains no control over professional aspects of the services rendered, including by example, the Contractors professional medical judgment, diagnosis, or specific medical treatments. The Contractor shall be solely liable for and expressly agrees to indemnify the Government with respect to any liability producing acts or omissions by it or by its employees or agents. The Contractor shall maintain during the term of this contract liability insurance issued by a responsible insurance carrier of not less than the following amount(s) per specialty per occurrence. <br />(b) An apparently successful offeror, upon request by the Contracting Officer, shall furnish prior to contract award evidence of its insurability concerning the medical liability insurance required by paragraph (a) of this clause. <br />(c) Liability insurance may be on either an occurrences basis or on a claims-made basis. If the policy is on a claims-made basis, an extended reporting endorsement (tail) for a period of not less than 3 years after the end of the contract term must also be provided. <br />(d) Evidence of insurance documenting the required coverage for each health care provider who will perform under this contract shall be provided to the Contracting Officer prior to the commencement of services under this contract. If the insurance is on a claims-made basis and evidence of an extended reporting endorsement is not provided prior to the commencement of services, evidence of such endorsement shall be provided to the Contracting Officer prior to the expiration of this contract. Final payment under this contract shall be withheld until evidence of the extended reporting endorsement is provided to the Contracting Officer. <br />(e) The policies evidencing required insurance shall also contain an endorsement to the effect that any cancellation or material change adversely affecting the Governments interest shall not be effective until 30 days after the insurer or the Contractor gives written notice to the Contracting Officer. If, during the performance period of the contract the Contractor changes insurance providers, the Contractor must provide evidence that the Government will be indemnified to the limits specified in paragraph (a) of this clause, for the entire period of the contract, either under the new policy, or a combination of old and new policies. <br />(f) The Contractor shall insert the substance of this clause, including this paragraph (f), in all subcontracts under this contract for health care services and shall require such subcontractors to provide evidence of and maintain insurance in accordance with paragraph (a) of this clause. At least 5 days before the commencement of work by any subcontractor, the Contractor shall furnish to the Contracting Officer evidence of such insurance.</p><br />
+<p>Additional Health &amp; Human Service Acquisition Regulation (HHSAR) clauses:</p><br />
+<p>352.202-1 Definitions <br />352.224-70 Confidentiality of information <br />352.232-9 Withholding of contract payments <br />352.249-14 Excusable delays <br />352.270-5 Key personnel <br />352.270-11 Privacy Act <br />352.270-13 Tobacco-free facilities <br />352.270-18 Crime Control Act - Requirement for background checks <br />352.270-19 Electronic information and technology accessibility</p><br />
+<p>GENERAL INSTRUCTIONS</p><br />
+<p>CV/Profiles, candidate direct contact telephone number, three recent (WITHIN 3 years) reference letters with valid, working phone numbers and availability dates of the candidate shall be submitted by EMAIL as an attachment on one PDF file. Other company information such as cover letter, pricing, quote, certificate of liability, status etc. shall be submitted by EMAIL as a second PDF file attachment.</p><br />
+<p>Documents are to be submitted to Philoma Singer, Contract Specialist in the Acquisitions Department at Northern Navajo Medical Center, US HWY 491 North, Shiprock, NM, 87420 or via email to Philoma.singer@ihs.gov. Phone number: (505) 368-7031. Final proposals are due NO LATER THAN February 21,2014 by 12:00 PM Mountain Standard Time.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Credential Checklist</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Credential Checklist
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=29c49afdfc5d69b17da6e28b6f82e810' target='_blank' title='Download/View NNMC_Checklist.pdf' class='file'&gt;NNMC_Checklist.pdf&lt;/a&gt;"><a href='/utils/view?id=29c49afdfc5d69b17da6e28b6f82e810' target='_blank' title='Download/View NNMC_Checklist.pdf' class='file'>NNMC_Checklist.pdf</a> (112.49 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Credential Checklist for selected candidate</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SOW</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	SOW
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=be70ecd485823cdbd50475df24357ee3' target='_blank' title='Download/View Synopsis__Internal_Medicine_Physician.docx' class='file'&gt;Synopsis__Internal_Medicine_Physician.docx&lt;/a&gt;"><a href='/utils/view?id=be70ecd485823cdbd50475df24357ee3' target='_blank' title='Download/View Synopsis__Internal_Medicine_Physician.docx' class='file'>Synopsis__Internal_Medicine_Physician.docx</a> (36.47 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SOW</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Scope of Work</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Scope of Work
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=79ac3a2312014ac3b37863a54ad5c971' target='_blank' title='Download/View NPSC_SOW-_Int_Med_Night_Hospitalist.pdf' class='file'&gt;NPSC_SOW-_Int_Med_Night_Hospitalist.pdf&lt;/a&gt;"><a href='/utils/view?id=79ac3a2312014ac3b37863a54ad5c971' target='_blank' title='Download/View NPSC_SOW-_Int_Med_Night_Hospitalist.pdf' class='file'>NPSC_SOW-_Int_Med_Night_Hospitalist.pdf</a> (157.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SOW</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		PO Box 160<br />
+US Highway 491 North<br/>
+
+			
+				
+		Shiprock,
+
+			
+	
+		New Mexico
+
+			
+	
+		87420-0160
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Philoma Singer</div>
+		<div><a href="mailto:philoma.singer@ihs.gov">philoma.singer@ihs.gov</a></div>
+	<div>Phone: 5053687031</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=ebe82df26199e0937bd4f4482a592aa0'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=ebe82df26199e0937bd4f4482a592aa0'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b19097e87e38829b0ba72866784dbf68">Credential Checklist</a> <a target="_blank" href="/utils/dZip?base=ebe82df26199e0937bd4f4482a592aa0&class=document_package&id=b19097e87e38829b0ba72866784dbf68" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=29c49afdfc5d69b17da6e28b6f82e810" target="_blank" title="Download/View NNMC_Checklist.pdf" class="file">NNMC_Checklist.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d6403b29f696c55fc05b38473aa2fb88">SOW</a> <a target="_blank" href="/utils/dZip?base=ebe82df26199e0937bd4f4482a592aa0&class=document_package&id=d6403b29f696c55fc05b38473aa2fb88" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=be70ecd485823cdbd50475df24357ee3" target="_blank" title="Download/View Synopsis__Internal_Medicine_Physician.docx" class="file">Synopsis__Internal_Medicine_Physician.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=8faa835023392dba8362cfbf98b344fc">Scope of Work</a> <a target="_blank" href="/utils/dZip?base=ebe82df26199e0937bd4f4482a592aa0&class=document_package&id=8faa835023392dba8362cfbf98b344fc" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 12, 2014</div></dt><dd><a href="/utils/view?id=79ac3a2312014ac3b37863a54ad5c971" target="_blank" title="Download/View NPSC_SOW-_Int_Med_Night_Hospitalist.pdf" class="file">NPSC_SOW-_Int_Med_Night_Hospitalist.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 21, 2014 12:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 18, 2014 3:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Q -- Medical services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	621 -- Ambulatory Health Care Services/621111 -- Offices of Physicians (except Mental Health Specialists)
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

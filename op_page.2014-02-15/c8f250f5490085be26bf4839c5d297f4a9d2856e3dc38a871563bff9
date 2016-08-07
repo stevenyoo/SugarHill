@@ -1,0 +1,946 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>A/B MAC Jurisdiction N (formerly Jurisdiction 9) - HHSM5002013RFP0012  - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392493029');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392493029';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=c0c6cca75f99eb05fd3c6f84c7ca46f3&inline_disposition=1" border="0" alt="Centers for Medicare &amp; Medicaid Services logo"></div><div class="agency-header"><h2>A/B MAC Jurisdiction N (formerly Jurisdiction 9)</h2><div class="sol-num">Solicitation Number: HHSM5002013RFP0012 </div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: Centers for Medicare & Medicaid Services<br>Location: Office of Acquisition and Grants Management</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=307f7a366d933f16fdb0bf7302f67bb3&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/HCFA/AGG/HHSM5002013RFP0012 /listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/HCFA/AGG/HHSM5002013RFP0012 /listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/HCFA/AGG/HHSM5002013RFP0012 /listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=307f7a366d933f16fdb0bf7302f67bb3&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=307f7a366d933f16fdb0bf7302f67bb3&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=89a2b02bea1adf7b8875421968c911ed&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Oct 25, 2012</div><div class="nh-date">1:56 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=ea943a23bbdce6a374446c82a1b668d2&_cview=0">Changed</a><div class="nh-date">Dec 07, 2012</div><div class="nh-date">6:46 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=220622c244e050a7a52f0fe4bb163b73&_cview=0">Changed</a><div class="nh-date">Jan 18, 2013</div><div class="nh-date">11:31 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b442efe364e9c304dcb08abbd45f4739&_cview=0">Changed</a><div class="nh-date">Jan 25, 2013</div><div class="nh-date">9:16 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=307f7a366d933f16fdb0bf7302f67bb3&_cview=0">Award</a><div class="nh-date">Feb 12, 2014</div><div class="nh-date">1:27 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">     </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HHSM5002013RFP0012 
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_date_" class="field fld_contract_award_date fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_date__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_date_">Contract Award Date</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_date__widget">
+	February 11, 2014
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Date )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_number_" class="field fld_contract_award_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_number__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_number_">Contract Award Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_number__widget">
+	HHSM5002014M0021Z
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_amount_" class="field fld_contract_award_amount fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_amount__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_amount_">Contract Award Dollar Amount</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_amount__widget">
+	$313,260,433
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Dollar Amount )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contractor_awarded_name_" class="field fld_contractor_awarded_name fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contractor_awarded_name__field-label">
+	<label for="dnf_class_values_procurement_notice__contractor_awarded_name_">Contractor Awarded Name</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contractor_awarded_name__widget">
+	First Coast Service Options, Inc.
+	</div><!-- widget -->
+	
+        </div><!--field ( Contractor Awarded Name )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contractor_awarded_address_" class="field fld_contractor_awarded_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contractor_awarded_address__field-label">
+	<label for="dnf_class_values_procurement_notice__contractor_awarded_address_">Contractor Awarded Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contractor_awarded_address__widget">
+		<div>
+	532 Riverside Avenue<br>
+	Jacksonville, Florida <br>	
+	United States
+	</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contractor Awarded Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2012-10-25 13:56:05">Oct 25, 2012 1:56 pm</span>
+					</div>
+		<p>As required by section 911 of the Medicare Prescription Drug, Improvement and Modernization Act of 2003 (MMA), CMS must re-compete its Part A &amp; B Medicare Administrative Contractor (A/B MAC) contracts every five (5) years. The purpose of this contract is to obtain an A/B MAC (hereinafter, referred to as "the Contractor") to provide specified health insurance benefit administration services, including Medicare claims processing and payment services, in support of the Medicare FFS program. The Contractor shall perform its responsibilities under the direction of CMS.</p><br />
+<p>The Contractor will perform numerous functions to support health care services for Medicare beneficiaries, which include performing claims-related activities and establishing relationships with providers of health care services, both institutional and professional, for a defined geographic area or "jurisdiction." The Contractor will perform the requirements of this contract in accordance with applicable laws, regulations, Medicare manuals, as well as CMS requirements to ensure the financial integrity of the Medicare program. The Medicare program has complex legal, policy, and operating environments. The Contractor will utilize and interact with all pertinent CMS-required payment schedules, systems, equipment, and operational capabilities in the performance of its functions. Further, the Contractor will not only coordinate its activities with CMS, but must also work with a broad range of Federal, State, and Local government agencies, CMS partners and Contractors, and any other stakeholder in the health care system of the United States.</p><br />
+<p>In accordance with CMS' technical specifications, the Contractor shall receive and control Medicare claims from institutional and professional providers, suppliers, and beneficiaries within its jurisdiction, and will perform all standard or otherwise required editing with respect to these claims to determine whether they are complete and ready for payment. An edit is defined as "logic within the Standard Claims Processing System (or PSC/ZPIC Supplemental Edit Software) that selects certain claims, evaluates or compares information on the selected claims or other accessible source, and, depending on the evaluation, takes action on the claims, such as pay in full, pay in part, or suspend for manual review."</p><br />
+<p>In addition, the Contractor will calculate Medicare payment amounts and remit those payments to the appropriate party. The Contractor also will conduct redeterminations with respect to appeals of claims; operate a Provider Customer Service Program (PCSP) which will educate providers with respect to the Medicare program; will respond to provider telephone and written inquiries; will respond to complex inquiries from Beneficiary Contact Centers (BCCs); and will make coverage decisions for new procedures and devices in local areas. The Contractor also will conduct a variety of provider services, such as enrollment of new providers in the program, answering written inquiries, and educating providers with respect to Medicare's rules, regulations, and billing procedures.</p><br />
+<p>CMS anticipates releasing a solicitation for Jurisdiction N (which includes the states and territories of Florida, Puerto Rico, and the Virgin Islands) on or about November 9, 2012. The contract will include a base year plus four one-year options. The anticipated proposal due date is January 11, 2013 with an anticipated award date of May 17, 2013.<br /><br /><br />This solicitation is expected to be issued as pending availability of funds.</p><br />
+<p>&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-02-12 13:27:52">Feb 12, 2014 1:27 pm</span>
+					</div>
+		Provide specified health insurance benefit administration services, including Medicare claims processing and payment services, in support of the Medicare program (also known as the Medicare fee-for-service, or FFS, program) for Jurisdiction N (formerly Jurisdiction 9). Jurisdiction N consists of the State of Florida, and the territories of Puerto Rico and the US Virgin Islands.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	December 7, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=cdd9df1ec9d2aa8570c0bf2b83216b15' target='_blank' title='Download/View SF33.Page1.pdf' class='file'&gt;SF33.Page1.pdf&lt;/a&gt;"><a href='/utils/view?id=cdd9df1ec9d2aa8570c0bf2b83216b15' target='_blank' title='Download/View SF33.Page1.pdf' class='file'>SF33.Page1.pdf</a> (85.87 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFP A/B MAC J-N<br />
+Section A - SF33 (Page 1)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=edfc3bdf951349fb1605e82b26c524af' target='_blank' title='Download/View RFP_JN.pdf' class='file'&gt;RFP_JN.pdf&lt;/a&gt;"><a href='/utils/view?id=edfc3bdf951349fb1605e82b26c524af' target='_blank' title='Download/View RFP_JN.pdf' class='file'>RFP_JN.pdf</a> (881.43 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFP A/B MAC J-N<br />
+Section B - M  (Pages 2 - 153)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=ff5dcf80b8c851bb59ff9088e7297962' target='_blank' title='Download/View Section_J_-_Attachments.zip' class='file'&gt;Section_J_-_Attachments.zip&lt;/a&gt;"><a href='/utils/view?id=ff5dcf80b8c851bb59ff9088e7297962' target='_blank' title='Download/View Section_J_-_Attachments.zip' class='file'>Section_J_-_Attachments.zip</a> (6,760.13 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFP A/B MAC J-N<br />
+Attachments - Section J</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	January 18, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=024bd67c043f39bf0b39f32517d0d71f' target='_blank' title='Download/View Amendment_1.zip' class='file'&gt;Amendment_1.zip&lt;/a&gt;"><a href='/utils/view?id=024bd67c043f39bf0b39f32517d0d71f' target='_blank' title='Download/View Amendment_1.zip' class='file'>Amendment_1.zip</a> (3,909.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment #1 - Questions with CMS' Responses</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	January 18, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=a6aaf716505491578a4ed7ff26acd538' target='_blank' title='Download/View Amendment_1_RFP_JN.zip' class='file'&gt;Amendment_1_RFP_JN.zip&lt;/a&gt;"><a href='/utils/view?id=a6aaf716505491578a4ed7ff26acd538' target='_blank' title='Download/View Amendment_1_RFP_JN.zip' class='file'>Amendment_1_RFP_JN.zip</a> (617.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment #1 - RFP documents (Final and Redline)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	January 25, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=ef65889c99672fc587f954ac7c41294b' target='_blank' title='Download/View Amendment_2.zip' class='file'&gt;Amendment_2.zip&lt;/a&gt;"><a href='/utils/view?id=ef65889c99672fc587f954ac7c41294b' target='_blank' title='Download/View Amendment_2.zip' class='file'>Amendment_2.zip</a> (2,301.96 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 2 to RFP HHSM5002013RFP0012 <br />
+</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		7500 Security Blvd.<br />
+C2-21-15<br/>
+
+			
+				
+		Baltimore,
+
+			
+	
+		Maryland
+
+			
+	
+		21244-1850
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		The place of contract performance will be determined at time of award.<br/>
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Shelby Minchew,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:Shelby.Minchew@cms.hhs.gov">Shelby.Minchew@cms.hhs.gov</a></div>
+	<div>Phone: 4107867346</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Craig Dash,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:Craig.Dash@cms.hhs.gov">Craig.Dash@cms.hhs.gov</a></div>
+	<div>Phone: 4107861221</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">     </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2bc7a20f5816d16ca7a34b9e1b8aac1d">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=89a2b02bea1adf7b8875421968c911ed&class=document_package&id=2bc7a20f5816d16ca7a34b9e1b8aac1d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 07, 2012</div></dt><dd><a href="/utils/view?id=cdd9df1ec9d2aa8570c0bf2b83216b15" target="_blank" title="Download/View SF33.Page1.pdf" class="file">SF33.Page1.pdf</a></dd><dd><a href="/utils/view?id=edfc3bdf951349fb1605e82b26c524af" target="_blank" title="Download/View RFP_JN.pdf" class="file">RFP_JN.pdf</a></dd><dd><a href="/utils/view?id=ff5dcf80b8c851bb59ff9088e7297962" target="_blank" title="Download/View Section_J_-_Attachments.zip" class="file">Section_J_-_Attachments.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ef26b59cff987e4ba1188957cfe59f6e">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=89a2b02bea1adf7b8875421968c911ed&class=document_package&id=ef26b59cff987e4ba1188957cfe59f6e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 18, 2013</div></dt><dd><a href="/utils/view?id=024bd67c043f39bf0b39f32517d0d71f" target="_blank" title="Download/View Amendment_1.zip" class="file">Amendment_1.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6677fbbf5a41f783b014df9f78399a02">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=89a2b02bea1adf7b8875421968c911ed&class=document_package&id=6677fbbf5a41f783b014df9f78399a02" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 18, 2013</div></dt><dd><a href="/utils/view?id=a6aaf716505491578a4ed7ff26acd538" target="_blank" title="Download/View Amendment_1_RFP_JN.zip" class="file">Amendment_1_RFP_JN.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=77b0a8044dd641b7b7b53a6f874432be">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=89a2b02bea1adf7b8875421968c911ed&class=document_package&id=77b0a8044dd641b7b7b53a6f874432be" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 25, 2013</div></dt><dd><a href="/utils/view?id=ef65889c99672fc587f954ac7c41294b" target="_blank" title="Download/View Amendment_2.zip" class="file">Amendment_2.zip</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	October 25, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after award date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	February 26, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	524 -- Insurance Carriers and Related Activities/524114 -- Direct Health and Medical Insurance Carriers
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

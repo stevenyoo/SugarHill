@@ -1,0 +1,699 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>General Services Administration (GSA) seeks to lease the following space in Worcester, MA - 2MA0111 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495224');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495224';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=a42cc99ad9c56187bc68c611e4067366&inline_disposition=1" border="0" alt="Public Buildings Service (PBS) logo"></div><div class="agency-header agency-header-med"><h2>General Services Administration (GSA) seeks to lease the following space in Worcester, MA</h2><div class="sol-num">Solicitation Number: 2MA0111</div><div class="agency-name">Agency: General Services Administration<br>Office: Public Buildings Service (PBS)<br>Location: NB Contractor - Julien J. Studley, Inc.</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=2ae0322753af25043ec8eb40ffea3da4&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/GSA/PBS/NBJJS/2MA0111/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/GSA/PBS/NBJJS/2MA0111/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/GSA/PBS/NBJJS/2MA0111/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=2ae0322753af25043ec8eb40ffea3da4&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=2ae0322753af25043ec8eb40ffea3da4&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 11, 2014</div><div class="nh-date">4:53 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=2ae0322753af25043ec8eb40ffea3da4'" class="input-button btn">   </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	2MA0111
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Presolicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-11 16:53:02">Feb 11, 2014 4:53 pm</span>
+					</div>
+		<p style="TEXT-ALIGN: center" align="center"><strong style="mso-bidi-font-weight: normal"></strong></p><br />
+<p style="TEXT-ALIGN: center" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">U.S.</span></strong><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'"> GOVERNMENT</span></strong></p><br />
+<p style="TEXT-ALIGN: center" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></strong><span style="FONT-FAMILY: 'Arial', 'sans-serif'">General Services Administration (GSA) seeks to lease the following space:</span></p><br />
+<p style="TEXT-ALIGN: center" align="center">&nbsp;</p><br />
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid black .5pt; mso-yfti-tbllook: 160; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black" border="1" cellspacing="0" cellpadding="0"><br />
+<tbody><br />
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; padding-top: 0in; mso-border-alt: solid black .5pt; border: black 1pt solid;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">State:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: black 1pt solid; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Massachusetts</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 1"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">City:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Worcester</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 2"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Delineated Area:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Point of beginning (POB) at the intersection of Highland Street and Park Avenue; east on Highland Street until an intersection with Belmont Street; continue on Belmont Street until an intersection with Interstate 290; south on I-290 until an intersection with Cambridge Street; west on Cambridge Street until an intersection with Mill Street; north on Mill Street until an intersection with Park Avenue; north on Park Avenue to POB. </span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 3"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Minimum Sq. Ft. (ABOA):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">1,752</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 4"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Maximum Sq. Ft. (ABOA):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">1,840</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 5"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Space Type:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Office</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 6"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Parking Spaces (Total):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">5</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 7"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Parking Spaces (Surface):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">0</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 8"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Parking Spaces (Structured):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">0</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 9"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Parking Spaces (Reserved):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">5</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 9.4pt; mso-yfti-irow: 10;"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; height: 9.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Full Term:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; height: 9.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">10 years</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 11"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Firm Term:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">5 years</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 12"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Option Term:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">N/A</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 13; mso-yfti-lastrow: yes"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 175.3pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="234" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Additional Requirements:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 267.5pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="357" valign="top"><br />
+<p style="TEXT-INDENT: -0.25in; mso-layout-grid-align: auto; punctuation-wrap: hanging; mso-list: l0 level1 lfo2; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Space shall be contiguous on one floor.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; mso-layout-grid-align: auto; punctuation-wrap: hanging; mso-list: l0 level1 lfo2; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Space shall be on the 2<sup>nd</sup> floor or higher, but not the top floor. </span></p><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'"><span style="mso-spacerun: yes">&nbsp;</span></span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Offered space must meet Government requirements for fire safety, accessibility, seismic and sustainability standards per the terms of the Lease.<span style="mso-spacerun: yes">&nbsp; </span>The proposed leased space shall be fully serviced.<span style="mso-spacerun: yes">&nbsp; </span>Offered space shall not be in the 100-year flood plain.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Expressions of Interest should include the following:</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-layout-grid-align: auto; punctuation-wrap: hanging; tab-stops: list .75in; mso-list: l1 level1 lfo1; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: Arial"><span>&bull;1)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Building name and address, and location of space in the building.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-layout-grid-align: auto; punctuation-wrap: hanging; tab-stops: list .75in; mso-list: l1 level1 lfo1; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: Arial"><span>&bull;2)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">CAD drawing of space offered.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-layout-grid-align: auto; punctuation-wrap: hanging; tab-stops: list .75in; mso-list: l1 level1 lfo1; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: Arial"><span>&bull;3)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">ANSI/BOMA defined Office Area Square Feet.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-layout-grid-align: auto; punctuation-wrap: hanging; tab-stops: list .75in; mso-list: l1 level1 lfo1; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: Arial"><span>&bull;4)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Rentable Square Feet Offered.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-layout-grid-align: auto; punctuation-wrap: hanging; tab-stops: list .75in; mso-list: l1 level1 lfo1; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: Arial"><span>&bull;5)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Percentage of Common Area Factor used to Determine the Rentable Square Feet.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-layout-grid-align: auto; punctuation-wrap: hanging; tab-stops: list .75in; mso-list: l1 level1 lfo1; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: Arial"><span>&bull;6)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Number and location of parking spaces available on the premises.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-layout-grid-align: auto; punctuation-wrap: hanging; tab-stops: list .75in; mso-list: l1 level1 lfo1; mso-vertical-align-alt: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: Arial"><span>&bull;7)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Name, address, telephone number, and email address of individual to be contacted.</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid black .5pt; mso-yfti-tbllook: 160; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black" border="1" cellspacing="0" cellpadding="0"><br />
+<tbody><br />
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 185.4pt; padding-right: 5.4pt; padding-top: 0in; mso-border-alt: solid black .5pt; border: black 1pt solid;" width="247" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Expressions of Interest Due:</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 293.4pt; padding-right: 5.4pt; border-top: black 1pt solid; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt;" width="391" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">February 25, 2014</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 1"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 185.4pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="247" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Market Survey (Estimated):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 293.4pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="391" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Mid March 2014</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 2"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 185.4pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="247" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Offers Due: </span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 293.4pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="391" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Early-Mid May 2014</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 3; mso-yfti-lastrow: yes"><br />
+<td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 185.4pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="247" valign="top"><br />
+<p style="TEXT-ALIGN: right; tab-stops: center 3.0in right 6.0in" align="right"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Occupancy (Estimated):</span></p><br />
+</td><br />
+<td style="border-bottom: black 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 293.4pt; padding-right: 5.4pt; border-top: medium none; border-right: black 1pt solid; padding-top: 0in; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt;" width="391" valign="top"><br />
+<p style="tab-stops: center 3.0in right 6.0in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">June 30, 2015</span></p><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Interested parties should send expressions of interest to:</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: blue">&nbsp;</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Tim Mazzucca and Robert Brunton</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Studley, Inc.</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">555 13<sup>th</sup> Street NW, Suite 420 East </span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Washington, DC 20004</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">202-624-8547 phone<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">202-624-8555 fax</span></p><br />
+<p><a href="mailto:tmazzucca@studley.com"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: windowtext; TEXT-DECORATION: none; text-underline: none">tmazzucca@studley.com</span></a></p><br />
+<p><a href="mailto:rbrunton@studley.com"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: windowtext; TEXT-DECORATION: none; text-underline: none">rbrunton@studley.com</span></a></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		555 Thirteenth Street, NW, Suite 420 East<br/>
+
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+	
+		20004
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Worcester,
+
+			
+	
+		Massachusetts
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Tim Mazzucca,</div>
+	<div>Assistant Director</div>	<div><a href="mailto:tmazzucca@studley.com">tmazzucca@studley.com</a></div>
+	<div>Phone: (202) 624-8547</div>		<div>Fax: (202) 624-8555</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Robert Brunton,</div>
+	<div>Corporate Managing Director</div>	<div><a href="mailto:rbrunton@studley.com">rbrunton@studley.com</a></div>
+	<div>Phone: 202-624-8557</div>		<div>Fax: 202-624-8555</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=2ae0322753af25043ec8eb40ffea3da4'" class="input-button btn">   </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Presolicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 25, 2014 11:59 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	X -- Lease or rental of facilities
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	531 -- Real Estate/531120 -- Lessors of Nonresidential Buildings (except Miniwarehouses)
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

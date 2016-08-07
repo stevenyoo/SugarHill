@@ -1,0 +1,2033 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Maxwell-Gunter BOS - FA300213R0012 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501514');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501514';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Installation Contracting (AFICA) logo"></div><div class="agency-header"><h2>Maxwell-Gunter BOS</h2><div class="sol-num">Solicitation Number: FA300213R0012</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Installation Contracting (AFICA)<br>Location: 338 SCONS</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=46c83b9ef400d0b5f7d4a7af8e2776f7&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/46c83b9ef400d0b5f7d4a7af8e2776f7" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/46c83b9ef400d0b5f7d4a7af8e2776f7" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/46c83b9ef400d0b5f7d4a7af8e2776f7" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=46c83b9ef400d0b5f7d4a7af8e2776f7&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=46c83b9ef400d0b5f7d4a7af8e2776f7&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=46c83b9ef400d0b5f7d4a7af8e2776f7&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=59a0c5f1fbb8d82c101eb9c7d9f9eb56&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Mar 14, 2013</div><div class="nh-date">7:51 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d49813c8547caa81f162d1143469a841&_cview=0">Changed</a><div class="nh-date">Mar 21, 2013</div><div class="nh-date">8:07 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=64c881c26bc7cc7455ee8eb7090ed112&_cview=0">Changed</a><div class="nh-date">Apr 04, 2013</div><div class="nh-date">10:15 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=cc8eb7907f4f1bc7e9b7da440dd08791&_cview=0">Changed</a><div class="nh-date">May 23, 2013</div><div class="nh-date">9:10 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=500757735f1dbdc3b80a7e6395e2ab47&_cview=0">Changed</a><div class="nh-date">Aug 21, 2013</div><div class="nh-date">4:26 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=c4134d073098c9f469bcb4d355d228b3&_cview=0">Changed</a><div class="nh-date">Aug 21, 2013</div><div class="nh-date">4:36 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=50a12a69e87b29ee772328d3b62a5ddb&_cview=0">Changed</a><div class="nh-date">Aug 21, 2013</div><div class="nh-date">4:52 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=ba71bacad093208ef330eec9cee96b65&_cview=0">Changed</a><div class="nh-date">Aug 21, 2013</div><div class="nh-date">4:58 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=df2f5b9b91dfc91cb55723501086ccac&_cview=0">Changed</a><div class="nh-date">Oct 22, 2013</div><div class="nh-date">5:55 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=15967ad4c5cb158f5af15b40859d3639&_cview=0">Changed</a><div class="nh-date">Nov 18, 2013</div><div class="nh-date">4:08 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=eab790ec216131e3dbe1bec44593ef6d&_cview=0">Changed</a><div class="nh-date">Nov 18, 2013</div><div class="nh-date">4:38 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=650402c81c528a59c5ba61cf16bf04ce&_cview=0">Changed</a><div class="nh-date">Dec 10, 2013</div><div class="nh-date">9:26 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=95bf5e29d87f67d94672a5b3ec9e8006&_cview=0">Changed</a><div class="nh-date">Dec 10, 2013</div><div class="nh-date">9:31 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=46c83b9ef400d0b5f7d4a7af8e2776f7&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">3:56 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=59a0c5f1fbb8d82c101eb9c7d9f9eb56'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=59a0c5f1fbb8d82c101eb9c7d9f9eb56'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA300213R0012
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-03-14 07:51:02">Mar 14, 2013 7:51 am</span>
+					</div>
+		<p>&nbsp;</p><br />
+<p>DESCRIPTION:</p><br />
+<p>Air Education and Training Command (AETC) Contracting Squadron (CONS) is seeking industry feedback concerning the draft Performance Work Statement (PWS) for Base Operating Support (BOS) services at Maxwell Air Force Base in Montgomery, Alabama. This notice is issued for informational and planning purposes only.</p><br />
+<p>THIS IS NOT A REQUEST FOR PROPOSAL. It is not to be construed as a commitment by the Government to issue a solicitation or ultimately award a contract. Responses will not be considered as proposals, nor will any award be made as a result of this notice. Any information provided by interested parties to the Government is strictly voluntary. The Air Force will NOT be responsible for any costs incurred by interested parties in responding to this notice. Contact with other than AETC CONS Government personnel by potential offerors or their employees regarding this project is prohibited.<br /><br />AETC CONS is interested in obtaining industry inputs regarding the requirements. Specifically, identification of areas that could require additional explanation, potential future issues, and/or areas that could be refined to provide a clearer understanding of the requirements. Time permitting, all relevant questions will be answered and uploaded in a future attachment to this posting. There will be no company identifying information in a question and answer posting. Please email all comments, suggestions, or questions to audrey.sitterly.1@us.af.mil.</p><br />
+<p>Please see the attached DRAFT PWS.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-08-21 16:36:14">Aug 21, 2013 4:36 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][modified_on]" value="2013-11-18 16:38:09">Nov 18, 2013 4:38 pm<a href="/utils/viewDifferences?class=notice_description&id=9acd426f88551d83f62cd5f5db620678&compared_to=307506c3f8ebf8da2cda20457ece044d" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=9acd426f88551d83f62cd5f5db620678&compared_to=307506c3f8ebf8da2cda20457ece044d&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />UPDATE</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> (</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">21 Aug 13)<span style="COLOR: black">&nbsp;<br /></span></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 6.5pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">There will be a Civil Engineering Specific Industry Day for Maxwell BOS.<span style="mso-spacerun: yes">&nbsp; </span>For more information and instructions, please see Special Notice # "VANCE_MAXWELL_CE_INDUSTRY_DAY" or use the direct link:</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><a href="https://www.fbo.gov/spg/USAF/AETC/SCS/VANCE_MAXWELL_CE_INDUSTRY_DAY/listing.html">https://www.fbo.gov/spg/USAF/AETC/SCS/VANCE_MAXWELL_CE_INDUSTRY_DAY/listing.html</a><br /><br />&nbsp;</span></span>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2013-08-21 16:52:36">Aug 21, 2013 4:52 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][modified_on]" value="2013-11-18 16:38:09">Nov 18, 2013 4:38 pm<a href="/utils/viewDifferences?class=notice_description&id=23a77070911c3fb3e713bb3551f49660&compared_to=c7ae929aff67f2ff0d78df8abe3e02bc" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=23a77070911c3fb3e713bb3551f49660&compared_to=c7ae929aff67f2ff0d78df8abe3e02bc&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />UPDATE</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> (</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">21 Aug 13)<br /></span><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1">DRAFT CONCEPT PERFORMANCE INCENTIVE CLAUSE <br /></span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1">DISCLAIMER </span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 6.5pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1"><br /></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1">This is NOT a request for proposal, request for quote, or invitation for bid.<span style="mso-spacerun: yes">&nbsp; </span>Do NOT submit a proposal as a result of this DRAFT posting.<br /></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1"><br />PURPOSE OF DRAFT POSTING</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 6.5pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1"><br /></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1">The purpose of this posting is to obtain industry feedback regarding content structure, any foreseen issues, and suggestions for potential improvements to this DRAFT concept Performance Incentive Clause for Maxwell-Gunter Base Operations Support. <span style="mso-spacerun: yes">&nbsp;</span>Feedback received will not be disclosed outside this agency.<span style="mso-spacerun: yes">&nbsp; </span>See attached DRAFT concept Performance Incentive Clause.</span> <br /><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1"><br />FEEBACK INSTRUCTIONS</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 6.5pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1"><br /></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1">Submit all feedback via email to the point of contact referenced below <span style="text-decoration: underline;">no later than 30 Aug 13, 1200 CST</span>:<br /><br /></span>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2013-10-22 17:55:45">Oct 22, 2013 5:55 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][modified_on]" value="2013-11-18 16:38:09">Nov 18, 2013 4:38 pm<a href="/utils/viewDifferences?class=notice_description&id=de1e5eee42d86d4ade02b21564eae0a7&compared_to=fed78ecaf81c3ae8e70374f58a9f67fa" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=de1e5eee42d86d4ade02b21564eae0a7&compared_to=fed78ecaf81c3ae8e70374f58a9f67fa&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />UPDATE</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> </span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1">(22 Oct 13) </span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 6.5pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br /></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">Maxwell BOS requirements are currently being finalized.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>The Government anticipates posting a draft Request for Proposal (RFP) by the end of this calendar year, with a potential final RFP posting in early 2014.<span style="mso-spacerun: yes">&nbsp; </span>The Government may post a similar notice should any changes to this anticipated timeline occur.<br /></span><em style="mso-bidi-font-style: normal"><br /></em>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2013-11-18 16:08:31">Nov 18, 2013 4:08 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][modified_on]" value="2013-11-18 16:38:09">Nov 18, 2013 4:38 pm<a href="/utils/viewDifferences?class=notice_description&id=8561326d24ce88d9bfb7104a31863e91&compared_to=d587dd8c91d379de8048424eb15773b9" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=8561326d24ce88d9bfb7104a31863e91&compared_to=d587dd8c91d379de8048424eb15773b9&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />UPDATE</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> (</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">18 NOV 13)</span> <br /><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">The Government will pursue award of this Maxwell BOS requirement utilizing <strong style="mso-bidi-font-weight: normal">full and open competition</strong>. <br /></span><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br /><br />UPDATE</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> (</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">18 NOV 13)<br /></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">As noted in the first update above (21 Aug 13), an Industry Day was held on 29 Aug 13 to discuss a concept pricing methodology/structure for the Civil Engineering portion of both Maxwell and Vance BOS requirements.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /></span></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />Based on industry feedback received and multiple question and answer sessions, the Government has determined the pricing methodology/structure presented at the Industry Day is <strong style="mso-bidi-font-weight: normal">NOT</strong> suitable.<span style="mso-spacerun: yes">&nbsp; </span>The Industry Day minutes, slides, and Q&amp;A have been posted at the link below for information and transparency purposes only.<span style="mso-spacerun: yes">&nbsp; </span>As this approach is no longer applicable, the Government is not seeking questions or comments regarding this original approach.<span style="mso-spacerun: yes">&nbsp; <br /></span></span><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />In response to industry feedback, a revised approach is currently being developed.</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><span style="mso-spacerun: yes">&nbsp; </span>The Government anticipates <strong style="mso-bidi-font-weight: normal">posting this approach at a later date</strong> as an attachment to the Industry Day FBO page.<span style="mso-spacerun: yes">&nbsp; <br /></span></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />See quick link below to Industry Day FBO page:<br /></span><span style="FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><br /><a href="https://www.fbo.gov/spg/USAF/AETC/SCS/VANCE_MAXWELL_CE_INDUSTRY_DAY/listing.html"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">https://www.fbo.gov/spg/USAF/AETC/SCS/VANCE_MAXWELL_CE_INDUSTRY_DAY/listing.html</span></a></span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> <br /></span>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][5][added_on]" value="2013-12-10 09:26:57">Dec 10, 2013 9:26 am</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][5][modified_on]" value="2013-12-10 09:31:35">Dec 10, 2013 9:31 am<a href="/utils/viewDifferences?class=notice_description&id=9693a9428cff1a40b90c163fe45d0d47&compared_to=29cf3e9fae86f5dc0d61d4abf78b257a" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=9693a9428cff1a40b90c163fe45d0d47&compared_to=29cf3e9fae86f5dc0d61d4abf78b257a&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		&nbsp;<br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">UPDATE</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> (</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">10 Dec 13)<br /></span><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"><br />A new approach has been developed and posted as an attachment to the industry day FBO page linked below:<br /></span></strong><span style="FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><br /><a href="https://www.fbo.gov/spg/USAF/AETC/SCS/VANCE_MAXWELL_CE_INDUSTRY_DAY/listing.html"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">https://www.fbo.gov/spg/USAF/AETC/SCS/VANCE_MAXWELL_CE_INDUSTRY_DAY/listing.html</span></strong></a></span><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> <br /><br /></span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">Please provide feedback to the new approach by 1200 hrs (noon), 18 Dec 13 to the POCs listed at the link above.<br /><br /></span></p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][6][added_on]" value="2014-02-07 15:56:51">Feb 07, 2014 3:56 pm</span>
+					</div>
+		&nbsp;<br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">UPDATE</span></strong><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'"> (</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; FONT-SIZE: 10pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">7 Feb 14)</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">The CE tiered structure approach has been updated for Maxwell AFB, and is attached to this update</span><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">.<span style="mso-spacerun: yes">&nbsp; </span>Based on industry feedback from the previous posting, the Government's focus for this updated approach is to provide a clear link between the different tiers, the PWS, and corresponding workload.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">Among the numerous attachments is a spreadsheet titled "Sample - Maxwell CLIN X016", which provides a notional example of how the Government envisions the concept to utilize current CE data to propose against a priority/tier-type pricing structure.<span style="mso-spacerun: yes">&nbsp; </span>It is intended to illustrate PWS, workload, priority/tier linkage for pricing purposes-It is <span style="text-decoration: underline;">not</span> a defined methodology industry must utilize.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span><span style="mso-spacerun: yes">&nbsp;&nbsp;</span></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">The Government is looking for industry feedback regarding this updated approach.<span style="mso-spacerun: yes">&nbsp; </span>Specifically, obtaining insight into industry's ability to price the approach, or, if unable, the specific failures in the approach.<span style="mso-spacerun: yes">&nbsp; </span>Additionally, obtaining feedback on potential proposal/pricing risks, issues, concerns, and solutions associated with each.<span style="mso-spacerun: yes">&nbsp; </span>The Government asks that responses be as specific as possible as industry feedback is crucial and valued.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">Please provide <strong style="mso-bidi-font-weight: normal">specific/detailed</strong> feedback to this approach by <span style="BACKGROUND: yellow; mso-highlight: yellow">1200 hrs (noon) 14 Feb 14</span> to the POCs listed below.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">Capt Michael Corrigan, </span><a href="mailto:michael.corrigan.2@us.af.mil"><span style="COLOR: blue; mso-bidi-font-family: Arial">michael.corrigan.2@us.af.mil</span></a><span style="text-decoration: underline;"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: blue; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial"> </span></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial">Ms. Audrey Sitterly, </span><a href="mailto:audrey.sitterly.1@us.af.mil"><span style="COLOR: blue; mso-bidi-font-family: Arial">audrey.sitterly.1@us.af.mil</span></a><span style="text-decoration: underline;"><span style="FONT-FAMILY: 'Verdana', 'sans-serif'; COLOR: blue; FONT-SIZE: 9pt; mso-bidi-font-size: 7.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial"> </span></span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft PWS (v1) - File 1 of 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Draft PWS (v1) - File 1 of 3
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	March 14, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=60715e05092f946cb139c8da18b15c46' target='_blank' title='Download/View PWS_Draft_(v1)_-_File_1_of_3.zip' class='file'&gt;PWS_Draft_(v1)_-_File_1_of_3.zip&lt;/a&gt;"><a href='/utils/view?id=60715e05092f946cb139c8da18b15c46' target='_blank' title='Download/View PWS_Draft_(v1)_-_File_1_of_3.zip' class='file'>PWS_Draft_(v1)_-_File_1_of_3.zip</a> (2,523.94 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> File 1 of 3, Draft PWS (v1) --- Maxwell-Gunter BOS</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft PWS (v1) - File 2 of 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Draft PWS (v1) - File 2 of 3
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	March 14, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7724eba4d2a120fe1740f5d85c4a49a7' target='_blank' title='Download/View PWS_Draft_(v1)_-_File_2_of_3.zip' class='file'&gt;PWS_Draft_(v1)_-_File_2_of_3.zip&lt;/a&gt;"><a href='/utils/view?id=7724eba4d2a120fe1740f5d85c4a49a7' target='_blank' title='Download/View PWS_Draft_(v1)_-_File_2_of_3.zip' class='file'>PWS_Draft_(v1)_-_File_2_of_3.zip</a> (1,953.58 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> File 2 of 3, Draft PWS (v1) --- Maxwell-Gunter BOS</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft PWS (v1) - File 3 of 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Draft PWS (v1) - File 3 of 3
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	March 14, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=a5245cd4dc6086edd6bb678339f2a7e3' target='_blank' title='Download/View PWS_Draft_(v1)_-_File_3_of_3.zip' class='file'&gt;PWS_Draft_(v1)_-_File_3_of_3.zip&lt;/a&gt;"><a href='/utils/view?id=a5245cd4dc6086edd6bb678339f2a7e3' target='_blank' title='Download/View PWS_Draft_(v1)_-_File_3_of_3.zip' class='file'>PWS_Draft_(v1)_-_File_3_of_3.zip</a> (2,822.45 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> File 3 of 3, Draft PWS (v1) --- Maxwell-Gunter BOS</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Question Comment Form</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__name__widget">
+	Question Comment Form
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	March 21, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=78c7d44faf882389813c0a087284d3c2' target='_blank' title='Download/View RFI_Comment_Question_Form.doc' class='file'&gt;RFI_Comment_Question_Form.doc&lt;/a&gt;"><a href='/utils/view?id=78c7d44faf882389813c0a087284d3c2' target='_blank' title='Download/View RFI_Comment_Question_Form.doc' class='file'>RFI_Comment_Question_Form.doc</a> (28.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attached is the question and comment form to be filled out and submitted for each question/comment in response to this draft PWS posting.  One sheet per question/comment.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Initial Draft PWS Q&A - Maxwell BOS</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__name__widget">
+	Initial Draft PWS Q&A - Maxwell BOS
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	May 23, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9ea7324619821a50e8162ca55ca0aa3b' target='_blank' title='Download/View Initial_Draft_PWS_Q&amp;A_-_Maxwell_BOS.xlsx' class='file'&gt;Initial_Draft_PWS_Q&amp;A_-_Maxwell_BOS.xlsx&lt;/a&gt;"><a href='/utils/view?id=9ea7324619821a50e8162ca55ca0aa3b' target='_blank' title='Download/View Initial_Draft_PWS_Q&A_-_Maxwell_BOS.xlsx' class='file'>Initial_Draft_PWS_Q&A_-_Maxwell_BOS.xlsx</a> (49.89 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Initial Draft PWS Q&amp;A - Maxwell BOS</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">DRAFT concept Incentive Plan Clause </h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__name__widget">
+	DRAFT concept Incentive Plan Clause 
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	August 21, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=40d041dfa43c93f901696d633a553932' target='_blank' title='Download/View DRAFT_Concept_PI_Clause.docx' class='file'&gt;DRAFT_Concept_PI_Clause.docx&lt;/a&gt;"><a href='/utils/view?id=40d041dfa43c93f901696d633a553932' target='_blank' title='Download/View DRAFT_Concept_PI_Clause.docx' class='file'>DRAFT_Concept_PI_Clause.docx</a> (34.07 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> DRAFT concept Incentive Plan Clause </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">***Tier Pricing Documents***</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__name__widget">
+	***Tier Pricing Documents***
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=d4dc8ab0afdfec13585e34391af0b713' target='_blank' title='Download/View Tier_Pricing_Documents.zip' class='file'&gt;Tier_Pricing_Documents.zip&lt;/a&gt;"><a href='/utils/view?id=d4dc8ab0afdfec13585e34391af0b713' target='_blank' title='Download/View Tier_Pricing_Documents.zip' class='file'>Tier_Pricing_Documents.zip</a> (90.03 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> ***Tier Pricing Documents***</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CE Technical Library Table of Contents</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	CE Technical Library Table of Contents
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=98b183a1e756a109cf048fb085631a42' target='_blank' title='Download/View CE_Technical_Library_Table_Content.doc' class='file'&gt;CE_Technical_Library_Table_Content.doc&lt;/a&gt;"><a href='/utils/view?id=98b183a1e756a109cf048fb085631a42' target='_blank' title='Download/View CE_Technical_Library_Table_Content.doc' class='file'>CE_Technical_Library_Table_Content.doc</a> (183.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CE Technical Library Table of Contents</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">PWS</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__name__widget">
+	PWS
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=63f42c743f28ff120d62619d43152625' target='_blank' title='Download/View PWS.zip' class='file'&gt;PWS.zip&lt;/a&gt;"><a href='/utils/view?id=63f42c743f28ff120d62619d43152625' target='_blank' title='Download/View PWS.zip' class='file'>PWS.zip</a> (2,191.48 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> PWS</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - 7115 Report</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__name__widget">
+	Tech Library - 7115 Report
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=60963463896f6c75bf175c26d03ff428' target='_blank' title='Download/View 7115_Report.zip' class='file'&gt;7115_Report.zip&lt;/a&gt;"><a href='/utils/view?id=60963463896f6c75bf175c26d03ff428' target='_blank' title='Download/View 7115_Report.zip' class='file'>7115_Report.zip</a> (134.66 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - 7115 Report</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - Base Maps</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__name__widget">
+	Tech Library - Base Maps
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e77c9c8ca60c94465237d27b0ef20bd0' target='_blank' title='Download/View Base_Maps.zip' class='file'&gt;Base_Maps.zip&lt;/a&gt;"><a href='/utils/view?id=e77c9c8ca60c94465237d27b0ef20bd0' target='_blank' title='Download/View Base_Maps.zip' class='file'>Base_Maps.zip</a> (2,556.57 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - Base Maps</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - General Transformation Information</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__name__widget">
+	Tech Library - General Transformation Information
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=4263a482216a17160cc8e95d194bea9f' target='_blank' title='Download/View General_Transformation_Information.zip' class='file'&gt;General_Transformation_Information.zip&lt;/a&gt;"><a href='/utils/view?id=4263a482216a17160cc8e95d194bea9f' target='_blank' title='Download/View General_Transformation_Information.zip' class='file'>General_Transformation_Information.zip</a> (16,348.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - General Transformation Information</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - MAS Sheets</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__name__widget">
+	Tech Library - MAS Sheets
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][12][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=720191a376e81741756c796d7df38136' target='_blank' title='Download/View MAS_Sheets.zip' class='file'&gt;MAS_Sheets.zip&lt;/a&gt;"><a href='/utils/view?id=720191a376e81741756c796d7df38136' target='_blank' title='Download/View MAS_Sheets.zip' class='file'>MAS_Sheets.zip</a> (13,195.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - MAS Sheets</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - MOUs and MOAs</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__name__widget">
+	Tech Library - MOUs and MOAs
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][13][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c04fabfff62f0f5237767cbb763f99a7' target='_blank' title='Download/View MOUs_and_MOAs.zip' class='file'&gt;MOUs_and_MOAs.zip&lt;/a&gt;"><a href='/utils/view?id=c04fabfff62f0f5237767cbb763f99a7' target='_blank' title='Download/View MOUs_and_MOAs.zip' class='file'>MOUs_and_MOAs.zip</a> (17,859.92 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - MOUs and MOAs</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - Maxwell Additional Workload</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__name__widget">
+	Tech Library - Maxwell Additional Workload
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][14][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1cd7a3e9645a931faecb8e2053f9b8e3' target='_blank' title='Download/View Maxwell_Additional_Workload_in_Tech_Library.zip' class='file'&gt;Maxwell_Additional_Workload_in_Tech_Library.zip&lt;/a&gt;"><a href='/utils/view?id=1cd7a3e9645a931faecb8e2053f9b8e3' target='_blank' title='Download/View Maxwell_Additional_Workload_in_Tech_Library.zip' class='file'>Maxwell_Additional_Workload_in_Tech_Library.zip</a> (2,141.35 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - Maxwell Additional Workload</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - RWP</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__name__widget">
+	Tech Library - RWP
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][15][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=56efe15dc9cc6efc1ae428f198b77b54' target='_blank' title='Download/View RWP.zip' class='file'&gt;RWP.zip&lt;/a&gt;"><a href='/utils/view?id=56efe15dc9cc6efc1ae428f198b77b54' target='_blank' title='Download/View RWP.zip' class='file'>RWP.zip</a> (700.25 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - RWP</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - Support Agreements</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__name__widget">
+	Tech Library - Support Agreements
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][16][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=023677509484d1da4003f93d948f4e86' target='_blank' title='Download/View Support_Agreements.zip' class='file'&gt;Support_Agreements.zip&lt;/a&gt;"><a href='/utils/view?id=023677509484d1da4003f93d948f4e86' target='_blank' title='Download/View Support_Agreements.zip' class='file'>Support_Agreements.zip</a> (41,542.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - Support Agreements</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Tech Library - WBS Example</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__name__widget">
+	Tech Library - WBS Example
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][17][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=d5dd8194f23f43e5b32939228ec4181f' target='_blank' title='Download/View WBS_Example.xlsx' class='file'&gt;WBS_Example.xlsx&lt;/a&gt;"><a href='/utils/view?id=d5dd8194f23f43e5b32939228ec4181f' target='_blank' title='Download/View WBS_Example.xlsx' class='file'>WBS_Example.xlsx</a> (15.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Tech Library - WBS Example</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		2021 1st Street West<br/>
+
+			
+				
+		Randolph,
+
+			
+	
+		Texas
+
+			
+	
+		78150-4302
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Randolph AFB,
+
+			
+	
+		Texas
+
+			
+	
+		78150
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Audrey Sitterly</div>
+		<div><a href="mailto:audrey.sitterly.1@us.af.mil">audrey.sitterly.1@us.af.mil</a></div>
+			
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=59a0c5f1fbb8d82c101eb9c7d9f9eb56'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=59a0c5f1fbb8d82c101eb9c7d9f9eb56'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6ab285e56fddac5e90cba96924c61a5a">Draft PWS (v1) - File 1 of 3</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=6ab285e56fddac5e90cba96924c61a5a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Mar 14, 2013</div></dt><dd><a href="/utils/view?id=60715e05092f946cb139c8da18b15c46" target="_blank" title="Download/View PWS_Draft_(v1)_-_File_1_of_3.zip" class="file">PWS_Draft_(v1)_-_File_1_of_3.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=559ba739e613ef59a7cd06d0bfcfb41c">Draft PWS (v1) - File 2 of 3</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=559ba739e613ef59a7cd06d0bfcfb41c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Mar 14, 2013</div></dt><dd><a href="/utils/view?id=7724eba4d2a120fe1740f5d85c4a49a7" target="_blank" title="Download/View PWS_Draft_(v1)_-_File_2_of_3.zip" class="file">PWS_Draft_(v1)_-_File_2_of_3.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6ce205e2a45f445db4e89d05cd5d5869">Draft PWS (v1) - File 3 of 3</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=6ce205e2a45f445db4e89d05cd5d5869" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Mar 14, 2013</div></dt><dd><a href="/utils/view?id=a5245cd4dc6086edd6bb678339f2a7e3" target="_blank" title="Download/View PWS_Draft_(v1)_-_File_3_of_3.zip" class="file">PWS_Draft_(v1)_-_File_3_of_3.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=aa941d9f6c35fe985b5528515f4c6748">Question Comment Form</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=aa941d9f6c35fe985b5528515f4c6748" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Mar 21, 2013</div></dt><dd><a href="/utils/view?id=78c7d44faf882389813c0a087284d3c2" target="_blank" title="Download/View RFI_Comment_Question_Form.doc" class="file">RFI_Comment_Question_Form.doc</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b4c058d40bfcfc8331b83ab8aaba75ad">Initial Draft PWS Q&A - Maxwell BOS</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=b4c058d40bfcfc8331b83ab8aaba75ad" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 23, 2013</div></dt><dd><a href="/utils/view?id=9ea7324619821a50e8162ca55ca0aa3b" target="_blank" title="Download/View Initial_Draft_PWS_Q&amp;A_-_Maxwell_BOS.xlsx" class="file">Initial_Draft_PWS_Q&A_-_Maxwell_BOS.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=9559d40bdaa63ea31847f6c9f581a850">DRAFT concept Incentive Plan Clause </a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=9559d40bdaa63ea31847f6c9f581a850" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 21, 2013</div></dt><dd><a href="/utils/view?id=40d041dfa43c93f901696d633a553932" target="_blank" title="Download/View DRAFT_Concept_PI_Clause.docx" class="file">DRAFT_Concept_PI_Clause.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=4788dae532b87954fece19680f179745">***Tier Pricing Documents***</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=4788dae532b87954fece19680f179745" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=d4dc8ab0afdfec13585e34391af0b713" target="_blank" title="Download/View Tier_Pricing_Documents.zip" class="file">Tier_Pricing_Documents.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e08af7b32b9fcef252651a54afa77230">CE Technical Library Table of Contents</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=e08af7b32b9fcef252651a54afa77230" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=98b183a1e756a109cf048fb085631a42" target="_blank" title="Download/View CE_Technical_Library_Table_Content.doc" class="file">CE_Technical_Library_Table_Content.doc</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=8b7e3bbcb89d612be15382b61e3e482c">PWS</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=8b7e3bbcb89d612be15382b61e3e482c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=63f42c743f28ff120d62619d43152625" target="_blank" title="Download/View PWS.zip" class="file">PWS.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ee2c2ba5a67511eb902096c73b4c7657">Tech Library - 7115 Report</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=ee2c2ba5a67511eb902096c73b4c7657" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=60963463896f6c75bf175c26d03ff428" target="_blank" title="Download/View 7115_Report.zip" class="file">7115_Report.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=520daab6680b4788b9e331f5f1233b7c">Tech Library - Base Maps</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=520daab6680b4788b9e331f5f1233b7c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=e77c9c8ca60c94465237d27b0ef20bd0" target="_blank" title="Download/View Base_Maps.zip" class="file">Base_Maps.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ed7e548b9482b2923ce2ffed844ee81a">Tech Library - General Transformation Information</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=ed7e548b9482b2923ce2ffed844ee81a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=4263a482216a17160cc8e95d194bea9f" target="_blank" title="Download/View General_Transformation_Information.zip" class="file">General_Transformation_Information.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c039731a93d3b4a3cb40dbaeaaacd02e">Tech Library - MAS Sheets</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=c039731a93d3b4a3cb40dbaeaaacd02e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=720191a376e81741756c796d7df38136" target="_blank" title="Download/View MAS_Sheets.zip" class="file">MAS_Sheets.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=40e075803572551cb35c2a6f54ddd3be">Tech Library - Maxwell Additional Workload</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=40e075803572551cb35c2a6f54ddd3be" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=1cd7a3e9645a931faecb8e2053f9b8e3" target="_blank" title="Download/View Maxwell_Additional_Workload_in_Tech_Library.zip" class="file">Maxwell_Additional_Workload_in_Tech_Library.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=af4ce021c464a09175510c46adc982f1">Tech Library - MOUs and MOAs</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=af4ce021c464a09175510c46adc982f1" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=c04fabfff62f0f5237767cbb763f99a7" target="_blank" title="Download/View MOUs_and_MOAs.zip" class="file">MOUs_and_MOAs.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a2ac3d7c906b75f5ba2dfd6eeb72213c">Tech Library - RWP</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=a2ac3d7c906b75f5ba2dfd6eeb72213c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=56efe15dc9cc6efc1ae428f198b77b54" target="_blank" title="Download/View RWP.zip" class="file">RWP.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2af647e486b848d282844dbdaa5ca61b">Tech Library - Support Agreements</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=2af647e486b848d282844dbdaa5ca61b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=023677509484d1da4003f93d948f4e86" target="_blank" title="Download/View Support_Agreements.zip" class="file">Support_Agreements.zip</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=5ed50f3c46072c628aaae86eaf86b5b8">Tech Library - WBS Example</a> <a target="_blank" href="/utils/dZip?base=59a0c5f1fbb8d82c101eb9c7d9f9eb56&class=document_package&id=5ed50f3c46072c628aaae86eaf86b5b8" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=d5dd8194f23f43e5b32939228ec4181f" target="_blank" title="Download/View WBS_Example.xlsx" class="file">WBS_Example.xlsx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	March 14, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Apr 04, 2013 3:30 pm&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	561 -- Administrative and Support Services/561210 -- Facilities Support Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

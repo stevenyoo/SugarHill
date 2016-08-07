@@ -1,0 +1,473 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>D--TC AIMS II System Sources Sought - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392488523');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392488523';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="Army Contracting Command logo"></div><div class="agency-header"><h2>D--TC AIMS II System Sources Sought</h2><div class="sol-num">Solicitation Number: W52P1J-14-R-0015</div><div class="agency-name">Agency: Department of the Army<br>Office: Army Contracting Command<br>Location: ACC - Rock Island (ACC-RI)</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=b3c34b542119981e66a65653ba1bd4b3&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/b3c34b542119981e66a65653ba1bd4b3" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/b3c34b542119981e66a65653ba1bd4b3" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/b3c34b542119981e66a65653ba1bd4b3" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=b3c34b542119981e66a65653ba1bd4b3&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=b3c34b542119981e66a65653ba1bd4b3&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=b3c34b542119981e66a65653ba1bd4b3&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 14, 2014</div><div class="nh-date">11:26 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=b3c34b542119981e66a65653ba1bd4b3'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=b3c34b542119981e66a65653ba1bd4b3'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W52P1J-14-R-0015
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-14 11:26:44">Feb 14, 2014 11:26 am</span>
+					</div>
+		1. DESCRIPTION <br>  <br> The U.S. Army Contracting Command - Rock Island (ACC-RI) is seeking potential sources and information related to a possible follow-on acquisition to the Transportation Coordinator's-Automated Information for Movement System II (TC-AIMS II).  This is a Sources Sought Synopsis pursuant to FAR Part 10 to determine if an adequate number of qualified interested contractors are capable of performing the TC-AIMS II Systems Integration and Operation mission  <br>  <br> The proposed North American Industry Classification Systems (NAICS) Code is 511210 - Software Publishers- which has a corresponding Size Standard of $35.5 million. The Government will use this information to determine the best acquisition strategy for this procurement <br>  <br> This does not constitute a Request for Quote (RFQ), Request for Proposal (RFP), an Invitation for Bid (IFB) or as an obligation or commitment on the part of the Government to acquire any product or service. This notice is for market research purposes only and is not indicative of a full requirement. There is no basis for claims against the Government as a result of information submitted or demonstrations provided in response to this Sources Sought announcement.  Responders are solely responsible for all expenses associated with responding to this sources sought. ACC-RI will not pay for information received in response to this sources sought.  Responses to the sources sought will not be returned. <br>  <br>  <br> 2. BACKGROUND:  <br>  <br> The TC-AIMS II System is currently in sustainment.  The current contract is a suite of capabilities, described below, in which a single integrator is required to ensure proper operations and maintenance of the system. Historically there has been an occasional need for development due to change in policy or new guidance for new/updated features or capabilities during the sustainment lifecycle of the TC AIMS II contract. AMIS expects that future sustainment will include the need for a contractor to have the capabilities to develop and integrate new features or update the current system  <br>  <br>  <br> 3. SPECIFIED REQUIREMENT:  <br>  <br> The Product Director Automated Movement & Identification Solutions (AMIS) is seeking sources for operations and maintenance of the TC-AIMS II System. AMIS's mission requires that the service provider have the ability and skill sets necessary to provide Operations and Maintenance (infrastructure, installation of software, program changes, patches, and correct program errors) and software programming support for the current release of the TC-AIMS II software and all servers, and Radio Frequency Identification (RFID) mobile devices. Personnel will be required for day-to-day support in DC Metro Area and server hosting locations.  <br>  <br> The scope of this effort will require approximately 75 percent of tasks related to the contract to be performed within the Continental United States (CONUS) and 25 percent of tasks related to Automated Movement Flow Tracking - In-Transit Visibility (AMFT-ITV), Unit Move, Transportation Tracking Account Number / Transportation Tracking Number, (TTAN / TTN), database management, testing, stand alone systems in South West Asia (SWA), network management, Software Operations Center (SOC) Help Desk tickets from Tier 3, 4 and/or 5 from South West Asia (SWA), Germany, Korea, Pacific Command (PACOM), Information Assurance Vulnerability Alerts (IAVA) changes to servers, and CITRIX management for SWA servers to be performed Outside CONUS (OCONUS) locations. <br>  <br> Below is a list of existing software modules that make up the TC AIMS II System. The TC AIMS II system has the capability to run on the enterprise and a breakaway system. Software modules include:  <br> TC-AIMS II - Primary software modules  <br> -Navigator  <br> -System Administration <br> -Asset Management <br> -Movement Execution <br> -Automatic Information Technology  <br> -Movement Planning  <br> -Automated Movement Flow Tracking - In-Transit Visibility (AMFT-ITV).  <br> -Data Interfaces including, but not limited to, interfaces between the various components/modules of the system, interfaces with embedded Commercial Off-The-Shelf (COTS) software, and interfaces with other DoD systems. <br>  <br>  <br> 4. EXPERIENCE and CAPABILITIES: <br>  <br> Submit an Executive Level and General Summary, with DUNS number and cage code, ten (10) pages or less - excluding the cover page and table of contents that demonstrates how your company has the required organization, key personnel, experience, reach back and technical capabilities and software development/maintenance experience at CMMI level 3 or above. <br>  <br> Describe your capability to measure enterprise and system performance, and monitor and identify underperforming components of the system  <br>  <br> Describe your experience level and capability to maintain the external data interfaces to include but not limited to systems such as GATES, IBS, CMOS, COMPASS, JFRG, PBUSE, EMILPO and ICODES that connects AMIS applications to other Army and DoD systems. <br>  <br> Describe your experience level and capability to provide on-site personnel for support to Government staff and contracted personnel with the following responsibilities: a) Training, b) Technical Assistance, c) Data Management and Reporting, d) Data Integrity, e) Meetings and Briefings, and f) Deployment Support. Describe your capability to perform software programming support with up to four (4) releases each year for software development and maintenance, application design, database management, software installation, software documentation, government acceptance testing set-up and support, test and evaluation, emergency software support, hardware maintenance, enterprise systems management, infrastructure integration, network management, systems engineering and integration, disaster recovery, software and hardware test and evaluation, Commercial-Off-The-Shelf (COTS) / Government-Off-The-Shelf (GOTS) / Non Defense Industry (NDI) software integration, helpdesk activities, configuration management, functional requirements assessment, customer support, information assurance compliance, data replication, and training. Describe your capability to provide Data Quality Engineering, Database Administration Support and provide Interface and Interoperability support.   <br>  <br> Describe your experience level and capability to review and provide functional analysis of new change requests process though a requirements board and make appropriate software changes for enhances and fixes to include create and maintain scenario test plans, and conduct individual, and joint system testing of the system interfaces before changes are initiated. Describe your experience level and capability to support RFID mobile device technical expertise to provide mobile application maintenance. Describe your capability to provide the personnel qualified to support administration, maintenance, and operation of the handheld devices and effectively interface with In-Transit Visibility (ITV) applications. <br>  <br> Describe or demonstrate your knowledge and capability via experience and/or other Government contracts to independently comply with the appropriate DoD, Services, and Army architectures, programs, policies, standards and guidelines (e.g., Security Technical Implementation Guide (STIG), Net-Centric Enterprise Services (NCES), Defense and Information Systems Network (DISN)). The contractor will be required to Meet Global Information Grid (GIG), Internet Protocol version 6 (IPv6), Net-Centric Enterprise Services (NCES), Defense Reform Initiative Directive 54 (DRID-54), Army Knowledge Management, Public Key Infrastructure (PKI), Common Operating Environment, and all applicable current and emerging DoD and Army mandates.  <br>  <br> Describe your experience and expertise using Serena Business Manager (SBM) to support the build release cycle of application systems.  PD AMIS uses SBM software to coordinate requirements for software features and developing release plans in association with configuration management and fielding activities. This effort will require regression testing of the products throughout a development cycle.   <br>  <br> Describe how your business performance metrics can be used by the Government to better manage the services provided (i.e., Software Development and Maintenance, Hardware Maintenance, Enterprise Systems Management, Infrastructure Integration, Network Management, Systems Engineering and Integration, Disaster Recovery, Software and Hardware Test and Evaluation, Commercial-Off-The-Shelf (COTS)/Government-Off-The-Shelf (GOTS)/Non Defense Industry (NDI) Software Integration, Helpdesk Activities, Configuration Management, Functional Requirements Assessment, and other customer support); <br>  <br> Describe typical metrics used by the Provider or Industry to monitor and manage a software development and service delivery environments?  What actions can the Government avoid that impact Service Level Agreements and Key Performance Indicators? <br>  <br> Describe what information Industry requires from the Government in terms of accurately sizing/estimating the workload?   <br>  <br> Describe how the Government can prepare and anticipate transition requirements (e.g., pre-activities that reduce risk; documentation, etc.)?  How has due diligence been conducted in previous and similar situations with the Federal Government? <br>  <br> Contractor personnel are required to have a secret clearance and ensure compliance with DoD information assurance requirements for systems that process  quote mark Secret, quote mark   quote mark Sensitive But Unclassified quote mark  (SBU), and Privacy Act information.  <br> The Contractor will have processes and procedures in place, which can optimize the various development, operations, and maintenance activities across all PD AMIS systems. The Government requires Contractors to be certified at Capability Maturity Model Integration (CMMI) Level 3 or higher.  <br>  <br>  <br> 5. RESPONSES:  <br>  <br> Responses must be emailed to Amanda.k.struve.civ@mail.mil no later than 11:00AM CST, Friday, February 28, 2014.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	ACC - Rock Island (ACC-RI), ATTN:  AMSAS-AC, Rock Island, IL  61299-6500
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	ACC - Rock Island (ACC-RI) ATTN:  AMSAS-AC, Rock Island IL<br />
+61299-6500<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	astruve, 309-782-1150<br />
+<br />
+<a href="mailto:amanda.k.struve.civ@mail.mil">ACC - Rock Island (ACC-RI)</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=b3c34b542119981e66a65653ba1bd4b3'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=b3c34b542119981e66a65653ba1bd4b3'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	February 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 15, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	511 -- Publishing Industries (except Internet)/511210 -- Software Publishers
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

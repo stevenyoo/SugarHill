@@ -1,0 +1,570 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Development of Web-Based Pain Education Training Modules - HHS-NIH-NIDA-SSSA-CSS-14-0068 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501446');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501446';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=f49403464402175e50fe3536170cb204&inline_disposition=1" border="0" alt="National Institutes of Health logo"></div><div class="agency-header agency-header-med"><h2>Development of Web-Based Pain Education Training Modules</h2><div class="sol-num">Solicitation Number: HHS-NIH-NIDA-SSSA-CSS-14-0068</div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: National Institutes of Health<br>Location: National Institute on Drug Abuse, Station Support/Simplified Acquisitions</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=8ab81c2460c02578ad9c5d47eacb3227&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/NIH/NIDA-2/HHS-NIH-NIDA-SSSA-CSS-14-0068/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/NIH/NIDA-2/HHS-NIH-NIDA-SSSA-CSS-14-0068/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/NIH/NIDA-2/HHS-NIH-NIDA-SSSA-CSS-14-0068/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=8ab81c2460c02578ad9c5d47eacb3227&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8ab81c2460c02578ad9c5d47eacb3227&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8ab81c2460c02578ad9c5d47eacb3227&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=31eac9aa73bb3f5187069fc893f42bf2&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Feb 03, 2014</div><div class="nh-date">1:53 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=fcb8938c19438b522b9b444e6b865265&_cview=0">Changed</a><div class="nh-date">Feb 05, 2014</div><div class="nh-date">7:54 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=8ab81c2460c02578ad9c5d47eacb3227&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">4:16 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=31eac9aa73bb3f5187069fc893f42bf2'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=31eac9aa73bb3f5187069fc893f42bf2'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HHS-NIH-NIDA-SSSA-CSS-14-0068
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation / Cancelled
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-03 13:53:51">Feb 03, 2014 1:53 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-05 07:53:54">Feb 05, 2014 7:53 am<a href="/utils/viewDifferences?class=notice_description&id=ac91d70325fa03e565b6a6ec8fb04afa&compared_to=7a98af75d0bed9604e2337db180af3f2" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=ac91d70325fa03e565b6a6ec8fb04afa&compared_to=7a98af75d0bed9604e2337db180af3f2&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong>INTRODUCTION<br /></strong>This is a combined synopsis/solicitation for commercial items. This announcement constitutes the only solicitation; quotations are being requested and a written solicitation will not be issued. This acquisition is being conducted in accordance with the procedures of FAR Part 13-Simplified Acquisition Procedures. <br /><br />The solicitation number is HHS-NIH-NIDA-SSSA-CSS-14-0068 and the solicitation is issued as request for quotation (RFQ).<br /><br /><strong>NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODE<br /></strong>The intended procurement is classified under NAICS code 541511 with a Size Standard of $25 Million.<br />&nbsp;<br />
+<p><strong>SET-ASIDE STATUS<br /></strong>This acquisition is not set-aside and is issued for full and open competition.</p><br />
+<p><strong>ACQUISITION AUTHORITY <br /></strong>The resultant purchase order will include all applicable provisions and clauses in effect through the Federal Acquisition Circular (FAC) 05-72 dated January 30, 2014.</p><br />
+<p>This acquisition is for a commercial item or service and is conducted under the authority of the Federal Acquisition Regulation (FAR) Part 13-Simplified Acquisition Procedures; FAR Subpart 13.5-Test Program for Certain Commercial Items; and FAR Part 12-Acquisition of Commercial Items, and is not expected to exceed the simplified acquisition threshold.<br /><br /><strong>DESCRIPTION OF REQUIREMENT </strong></p><br />
+<p><strong>Background<br /></strong>The Centers of Excellence in Pain Education (CoEPEs) Initiative of the National Institutes of Health (NIH) Pain Consortium intends to develop pain management training and educational resources for medical, dental, nursing, and pharmacy students to advance the assessment, diagnosis, and safe treatment of pain.</p><br />
+<p>The NIH Pain Consortium is working to create a free, publically-available pain management teaching repository and has developed content including text, video, and audio to be used in creation of interactive web-based case scenarios which will educate users.</p><br />
+<p><strong>Project Description<br /></strong>The NIH Pain Consortium requires the following:<br /><br />1. The Contractor shall program four (4) interactive web-based case scenarios which shall be used for pain management training purposes. <br /><br />a. One (1) interactive web-based training scenario will be created for each of the following topics: <br />i. an alcoholic patient with throat cancer<br />ii. a geriatric patient with low back pain<br />iii. a patient with post-thoracotomy pain<br />iv. a case of opioid abuse after tooth extraction. <br /><br />b. The Government shall provide the content (text, pictures, audio files, video, etc.) for the required training scenarios. <br /><br />c. All scenarios must be Section 508 Compliant.<br /><br />d. Upon completion of the required training scenario creation, the Government intends to make the training scenarios publically available to end users at no cost. The scenarios must be developed with this in mind.</p><br />
+<p>2. The Contractor shall program the interactive web-based training case scenarios using any programming system that will meet the following guidelines:<br /><br />a. The program supports the creation of interactive web-based training modules.<br /><br />b. The program is capable of incorporating text, pictures, audio files, and videos within the training modules. This content shall be provided by the Government.<br /><br />c. The program must support Section 508 Compliance.<br /><br />d. The program must be compatible with current Blackboard, Moodle, and Desire2Learn platforms.</p><br />
+<p>3. The Contractor shall review, edit, and organize content for the interactive web-based training case scenarios for proper grammar and logical order of information. The Contractor shall also ensure that any hyperlinks included in the content are accurate and functional. The content shall be provided by the Government.</p><br />
+<p>4. The Contractor shall assist in the creation of new content as required by the Government to create the four above described pain management training scenarios. Accordingly, the Contractor is expected to have a background in both health sciences curriculum development and mechanisms of pain for the four cases described above.</p><br />
+<p>5. The Contractor shall create and maintain a collaboration site to support cross-CoEPE and cross-NIH Pain Consortium interaction.</p><br />
+<p>6. The Contractor shall manage any interactions with authors of Government-provided content. In particular, should minor changes to content be suggested by the content authors, the Contractor shall notify the COR and make any changes which are approved.</p><br />
+<p>7. The Contractor shall receive, compile, proofread, and edit any supplementary materials to be used in conjunction with the training scenarios such as instructor manuals. Any supplementary materials will be provided by the Government.</p><br />
+<p>8. The Contractor shall provide written progress reports to the Contracting Officer's Representative (COR) on a monthly basis.</p><br />
+<p><br /><strong>PERIOD OF PERFORMANCE<br /></strong>The period of performance is four months from date of award. It is expected that all four training scenarios shall be completely programmed within this period of performance.<br /><br /><strong>CONTRACT TYPE<br /></strong>It is anticipated that this solicitation will result in a firm fixed price purchase order.<br /><br /><strong>TECHNICAL EVALUATION CRITERIA<br /></strong>Offeror's proposals will be evaluated using the evaluation factors detailed below. Factor #1: Section 508 Compliance is a pass/fail evaluation criterion. After meeting this requirement, Offeror's proposals shall be evaluated in reference to the remaining two evaluation factors.</p><br />
+<p><strong>1. Section 508 Compliance<br /></strong>The Contractor must affirm compliance with Section 508 requirements.</p><br />
+<p><strong>2. Technical Approach<br /></strong>The Contractor must detail its technical approach to meeting the requirements of this statement of work. The technical approach should include the professional qualifications of proposed personnel.</p><br />
+<p><strong>3. Corporate Experience<br /></strong>The Contractor must provide three examples of previous experience with contracts regarding health sciences curriculum development, programming of interactive web-based training materials, and/or other educational material development.</p><br />
+<p>The Government will award a purchase order resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the government. <strong>Offers will be evaluated for best value to the Government, technical factors and price considered. <br /></strong><br /><strong>QUESTION AND ANSWER PERIOD<br /></strong>Interested Contractors may submit questions regarding this solicitation&nbsp;to the Contract Specialist via email at <a href="mailto:Lauren.Phelps@nih.gov">Lauren.Phelps@nih.gov</a>.&nbsp;<strong>All questions must be received by&nbsp;Feburary 6, 2014 at 12:00 PM EST.</strong> Questions submitted by this time will be&nbsp;anonymized and answered. All anonymized questions and answers will then be posted&nbsp;as an attachment to this solicitation. Questions received after 12:00 PM EST on February 6, 2014 <strong>will not</strong> be answered. &nbsp;<br /><br /><strong>RESPONSE REQUIREMENTS <br /></strong>Contractors that believe they possess the ability to provide the required services should submit to the Contract Specialist their quotation and documentation of their ability to meet the project requirements. Responses should be developed in reference to the technical evaluation criteria listed above and must also include offered pricing.<br /><br />Contractors <strong>must</strong> provide their Company Name, Dun &amp; Bradstreet Number (DUNS), Taxpayer Identficiation Number (TIN), Business Size, Physical Address, and Point of Contact Information in their responses. All offerors <strong>must</strong> have an active registration in the System for Award Management (SAM) www.sam.gov."<br /><br />All responses <strong>must</strong> be submitted electronically (via email) to Lauren Phelps, Contract Specialist, at Lauren.Phelps@nih.gov in <strong>MS Word format</strong> by the closing date and time of this announcement. All responses must be received by the specified due date and time in order to be considered.</p><br />
+<p>&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-02-07 16:16:48">Feb 07, 2014 4:16 pm</span>
+					</div>
+		<p>This solicitation is cancelled effective Friday 02/07/2014. Responses to this solicitation will not be accepted. The Government anticipates reissuing a new solicitation in the future.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		31 Center Drive<br />
+Room 1B59<br/>
+
+			
+				
+		Bethesda,
+
+			
+	
+		Maryland
+
+			
+	
+		20892
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		6001 Executive Boulevard<br/>
+
+			
+				
+		Rockville,
+
+			
+	
+		Maryland
+
+			
+	
+		20892-9555
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Lauren M. Phelps,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:lauren.phelps@nih.gov">lauren.phelps@nih.gov</a></div>
+	<div>Phone: 3015942490</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=31eac9aa73bb3f5187069fc893f42bf2'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=31eac9aa73bb3f5187069fc893f42bf2'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation / Cancelled
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 3, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 14, 2014 12:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 10, 2014 9:00 am&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 25, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 1, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541511 -- Custom Computer Programming Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

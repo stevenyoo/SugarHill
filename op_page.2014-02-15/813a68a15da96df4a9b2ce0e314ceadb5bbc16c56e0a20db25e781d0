@@ -1,0 +1,790 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>2NE0072 Notice of Award of Lease - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392497040');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392497040';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=a42cc99ad9c56187bc68c611e4067366&inline_disposition=1" border="0" alt="Public Buildings Service (PBS) logo"></div><div class="agency-header"><h2>2NE0072 Notice of Award of Lease</h2><div class="sol-num">Solicitation Number: </div><div class="agency-name">Agency: General Services Administration<br>Office: Public Buildings Service (PBS)<br>Location: Rocky Mtn Region, Colorado Service Center Division (8PSC)</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=28cc688442a0b41cf59d4071ffeb4cb8&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/28cc688442a0b41cf59d4071ffeb4cb8" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/28cc688442a0b41cf59d4071ffeb4cb8" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/28cc688442a0b41cf59d4071ffeb4cb8" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=28cc688442a0b41cf59d4071ffeb4cb8&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=28cc688442a0b41cf59d4071ffeb4cb8&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=eb55d16fe8aaf10fbc4d0a981df69a23&_cview=0">Original Synopsis</a><div class="nh-date"><em>Award Notice</em></div><div class="nh-date">Jan 30, 2014</div><div class="nh-date">10:53 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=28cc688442a0b41cf59d4071ffeb4cb8&_cview=0">J&A</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">10:12 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=eb55d16fe8aaf10fbc4d0a981df69a23'" class="input-button btn">   </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__ja_statutory_" class="field fld_ja_statutory fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__ja_statutory__field-label">
+	<label for="dnf_class_values_procurement_notice__ja_statutory_">J&A Statutory Authority</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__ja_statutory__widget">
+	FAR 6.302-1 - Only one responsible source (except brand name)
+	</div><!-- widget -->
+	
+        </div><!--field ( J&A Statutory Authority )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_date_" class="field fld_contract_award_date fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_date__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_date_">Contract Award Date</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_date__widget">
+	January 29, 2014
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Date )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_number_" class="field fld_contract_award_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_number__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_number_">Contract Award Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_number__widget">
+	2NE0072
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-30 10:53:43">Jan 30, 2014 10:53 am</span>
+					</div>
+		<p class="MsoNormal" style="margin-top: 16.2pt; margin-right: -226.0pt; margin-bottom: .0001pt; margin-left: 0in; text-align: justify; text-justify: inter-ideograph; line-height: 130%;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.1pt;">This serves as notice that the United States Government </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.2pt;">has accepted an offer to lease 140,127 rentable square feet of space yielding a minimum of 132,627 ANSI/BOMA office area square feet and </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.1pt;">4 surface parking spaces using Other than Full and Open Competition practices for a new/replacing lease for the U.S. Citizenship and Immigration Services&nbsp;</span><span style="font-family: Arial, sans-serif; letter-spacing: -0.15pt;">in&nbsp;</span><span style="font-family: Arial, sans-serif; letter-spacing: -0.2pt;">Lincoln, Nebraska</span><span style="line-height: 130%; font-family: Arial, sans-serif; letter-spacing: -0.1pt;">. The </span><span style="line-height: 130%; font-family: Arial, sans-serif; letter-spacing: -0.15pt;">lease has been awarded to Star City/Federal, LLC </span><span style="line-height: 130%; font-family: Arial, sans-serif; letter-spacing: -0.2pt;">.</span></p><br />
+<p class="MsoNormal" style="margin-top: 16.2pt; margin-right: -226.0pt; margin-bottom: .0001pt; margin-left: 0in; text-align: justify; text-justify: inter-ideograph; line-height: 130%;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.2pt;">The lease shall commence on or about October 14, 2014 through October 13, 2024</span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.25pt;">, </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.3pt;">&nbsp;The lease </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.25pt;">terms are set at 10 years / 6 years firm. GSA may terminate this </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; letter-spacing: -.2pt;">lease after October 14, 2020 with 180 days written notice to the </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Lessor.</span></p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-02-11 10:12:49">Feb 11, 2014 10:12 am</span>
+					</div>
+		<p class="MsoTitle"><span style="font-size: 16.0pt; mso-bidi-font-size: 12.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">U.S. General Services Administration</span></p><br />
+<p class="MsoTitle"><span style="font-size: 16.0pt; mso-bidi-font-size: 12.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Region 6, West Leasing Services</span></p><br />
+<p class="MsoTitle"><span style="font-size: 16.0pt; mso-bidi-font-size: 12.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Justification for Other Than Full and Open Competition</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; mso-bidi-font-size: 12.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<h1><strong><span style="font-family: Arial, sans-serif; text-transform: uppercase;">LEASE NUMBER:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GS-06P-31015</span></strong></h1><br />
+<p class="MsoNormal"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">REXUS PROJECT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2NE0072</span></strong></p><br />
+<p class="MsoNormal"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoNormal"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">AGENCY NAME:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. Citizenship and Immigration Services (CIS)</span></strong></p><br />
+<h1><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">&nbsp;</span></strong></h1><br />
+<h1 style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><strong><span style="font-family: Arial, sans-serif; text-transform: uppercase;">1.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Identification and Description of Action Being Approved</span></strong></h1><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">The General Services Administration (GSA) currently leases approximately 152,548 rentable square feet (134,662 ABOA sf)* of office and related space at 850 S Street in Lincoln, Nebraska under lease GS-06P-39062 for The U.S. Citizenship and Immigration Service (CIS).&nbsp; Approval is requested to negotiate a superseding lease with the incumbent lessor without full and open competition for continued occupancy at this leased location.&nbsp; A superseding lease replaces the current lease prior to the expiration of the lease term (10/13/2014).&nbsp; This space is utilized as a major service center for the processing of applications for citizenship with an anticipated workload expansion in connection with the Deferred Action for Childhood Arrivals (DACA) as directed by the President in June 2012.&nbsp; </span></p><br />
+<p class="MsoBodyText"><span style="text-decoration: underline;"><span style="font-size: 8.0pt; mso-bidi-font-size: 12.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></p><br />
+<p class="MsoBodyText"><em><span style="font-size: 8.0pt; mso-bidi-font-size: 12.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">*ABOA is ANSI BOMA Office Area square feet and is the area where a tenant normally houses personnel, and/or furniture, for which a measurement is to be computed.&nbsp; Rentable square feet (rsf) is the ABOA plus </span></em><em><span style="font-size: 8pt; font-family: Arial, sans-serif; background-position: initial initial; background-repeat: initial initial;">a tenant&rsquo;s share of the building common areas, such as lobbies, hallways, and bathrooms.</span></em><em></em></p><br />
+<p class="MsoBodyText"><span style="text-decoration: underline;"><span style="font-size: 8.0pt; mso-bidi-font-size: 12.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></p><br />
+<p class="MsoBodyText" style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial; text-transform: uppercase;">2.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Description of Supplies and Services REQUIRED</span></span></strong></p><br />
+<p class="MsoBodyText"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">CIS submitted a request for a continuing need at 850 S Street in Lincoln, NE on September 19, 2011.&nbsp; To satisfy the agency requirements, the facility must be located within the city limits of Lincoln and within a walkable distance of public transportation and services such as restaurants and retailers. </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">On September 24, 2012, CIS requested the assistance of GSA in expediting the project to accommodate the rapid growth of DACA applications.&nbsp; The basic requirements did not change.&nbsp; The requested term is ten (10) years, six (6) years firm to commence July 1, 2014.&nbsp; The estimated annual rent will be $<span style="background: black; mso-highlight: black;">20.57</span>/rsf for an annual cost of $<span style="background: black; mso-highlight: black;">3,137,912</span> and a total contract value of $<span style="background: black; mso-highlight: black;">28,553,935</span>**.&nbsp; The delineated area remains the city limits of Lincoln, NE.&nbsp; &nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><em><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">**The total contract value also factors an anticipated rental <span style="text-decoration: underline;">decrease</span> in years 7-10 because of the amortization of tenant improvements.</span></em><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp; </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Page Two</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Justification for Other Than Full and Open Competition</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">CIS &ndash; Lincoln, NE</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText" style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial; text-transform: uppercase;">3.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Identification of Statutory Authority</span></span></strong></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">41 U.S.C. 253 (c) (1) provides that an executive agency may use procedures other than full competitive procedures when the property or services needed by the executive agency are available from only one responsible source and no other property or services will satisfy the needs of the executive agency, and award to another source would result in s<span style="background-position: initial initial; background-repeat: initial initial;">ubstantial duplication of cost to the Government that is not expected to be recovered through competition.</span></span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText" style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial; text-transform: uppercase;">4.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Demonstration That the ACQUISITION RequireS Use of the Authority Cited</span></span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></strong></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">The General Services Acquisition Manual (GSAM) Part 570.402-5 allows for negotiation with the incumbent lessor when a cost benefit analysis shows that the Government cannot expect to recover relocation and duplication costs through competition.&nbsp; </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">In accordance with GSAM 570.402-2, an advertisement was placed on <span style="text-decoration: underline;"><span style="color: #002060;">FedBizOpps.gov</span></span> on December 14, 2012 seeking 130,000 ABOA sf to 150,000 ABOA sf.&nbsp; <span style="background: black; mso-highlight: black;">Three Expressions of Interest (EOI) were received -- one from the incumbent and two EOI&rsquo;s from investors who could not currently fulfill the requirement (see item #5 below).&nbsp; Rent proposals were received from the incumbent lessor and from a broker representing one of the other property investors.</span></span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText2"><span style="font-family: Arial, sans-serif;">The attached cost benefit analysis provides additional details of projected costs for both relocation and staying in place.&nbsp; The cost of relocating CIS using the lowest cost quote exceeds the cost of remaining at 850 S Street in Lincoln.&nbsp; The aggregate cost savings to the Government is $<span style="background: black; mso-highlight: black;">2.48 million</span>, and the present value cost savings is $<span style="background: black; mso-highlight: black;">3.42 million</span>.&nbsp; Based on this analysis, the Government cannot expect to recover relocation and duplication costs through competition.&nbsp; Therefore, the Government intends to negotiate a superseding lease and remain in the current location </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<h2 style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><span style="font-family: Arial, sans-serif; text-transform: uppercase;">5.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Description</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">of</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Efforts</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">to</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Solicit</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">AS MANY</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Offers</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">AS</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;"> </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">PRACTICAL</span></h2><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Research of office and industrial space in the Lincoln market was conducted in November 2012 by GSA appraisal staff and the GSA leasing specialist.&nbsp; Fully serviced rates range from <span style="background: black; mso-highlight: black;">$14.75/rsf to $22.00/rsf</span> for Class A and B office space.&nbsp; </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Page Three</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Justification for Other Than Full and Open Competition</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">CIS &ndash; Lincoln, NE</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Estimated rates for industrial space range from $<span style="background: black; mso-highlight: black;">7.00.</span>/rsf to $<span style="background: black; mso-highlight: black;">9.50.</span>/rsf and assumes $<span style="background: black; mso-highlight: black;">5.50./</span>rsf for operating expenses, real estate taxes, and insurance.&nbsp; As the majority of the building at 850 S Street is office space, the best comparable rates are the office rates above.&nbsp; Information sources included CoStar, other GSA leases, and local real estate brokers.</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">In addition, an advertisement was placed on <span style="text-decoration: underline;"><span style="color: #002060;">FedBizOpps.gov</span></span> on December 14, 2012 seeking 130,000 ABOA sf to 150,000 ABOA sf.&nbsp; </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Three expressions of interest were received:&nbsp; </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoBodyText" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial; background: black; mso-highlight: black;">1.<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">The incumbent lessor of property at <strong>850 S Street, Lincoln, NE </strong>where GSA currently leases space through 10/13/2014.&nbsp; The current property meets all the criteria requested in the advertisement;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoBodyText" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial; background: black; mso-highlight: black;">2.<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">A broker representing the current ownership of an existing building located at <strong>6400 Cornhusker Highway in Lincoln</strong> -- for the sale of the property to an investor (undisclosed) who proposes to buy the building and execute a lease to the government.&nbsp; This property appears to be deficient in the amount of space available, number of parking spaces, and proximity to public transportation routes.&nbsp; The broker has indicated a willingness to correct all three deficiencies.</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoBodyText" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial; background: black; mso-highlight: black;">3.<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">An investor interested in purchasing an existing building located at <strong>6400 Cornhusker Highway in Lincoln</strong> (same building as above).&nbsp; It is not clear </span></p><br />
+<p class="MsoBodyText" style="margin-left: .5in;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">whether this investor is the same party the broker and building ownership is working with above.&nbsp; For confidentiality reasons, it was not appropriate to inform either party of the other.&nbsp; This party later withdrew interest;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">An analysis of the property offered at 6400 Cornhusker Highway reveals that the proposed space does not meet the 130,000 ABOA sf minimum requirement.&nbsp; Measurements taken from a set of plans provided by the owner indicate the building is approximately 116,285 <span style="text-decoration: underline;">ABOA</span> sf.&nbsp; </span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">The broker representing the ownership of the building and the investment group has indicated a willingness to build an addition in order to meet the requirement.&nbsp; For comparison purposes in the cost benefit analysis above, an assumption was made to expand the building by the amount of space necessary to make the ABOA sf of both buildings equal.</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Page Four</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Justification for Other Than Full and Open Competition</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">CIS &ndash; Lincoln, NE</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<h2 style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><span style="font-family: Arial, sans-serif; text-transform: uppercase;">6.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Demonstration that the Anticipated Cost WILL BE Fair and Reasonable</span></h2><br />
+<p class="MsoNormal" style="text-align: justify;"><strong><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></strong></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-bidi-font-weight: bold;">The anticipated rental rate for 850 S Street is as follows based upon initial asking rates</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-bidi-font-weight: bold;">**</span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-bidi-font-weight: bold;">:</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-bidi-font-weight: bold;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">Shell Rent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $&nbsp; 8.83 / rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">Operating Rent&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $&nbsp; 7.11 / rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">TI&rsquo;s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">$&nbsp; 4.63 / rsf</span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">TOTAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $20.57 / rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-bidi-font-weight: bold;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Anticipated rental rate for <span style="background: black; mso-highlight: black;">6400 Cornhusker Highway</span> based upon initial asking rates</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-bidi-font-weight: bold;">**</span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-bidi-font-weight: bold;">:</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">Shell Rent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $&nbsp; 8.32 / rsf&nbsp; </span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">Operating Rent&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $&nbsp; 4.50 / rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">TI&rsquo;s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">$&nbsp; 7.08 / rsf</span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">TOTAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $19.90 / rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><em><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; mso-bidi-font-weight: bold;">**Rates have been converted to rsf for market comparison purposes and were provided by the building owner/representative with the EOI received.&nbsp; The attached Cost Benefit Analysis uses ABOA sf.&nbsp; </span></em></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Both building owners offer rates within acceptable market ranges as outlined in Section 5 above.</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<h2 style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><span style="font-family: Arial, sans-serif; text-transform: uppercase;">7.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; text-transform: uppercase;">Description of the Market Survey Conducted</span></h2><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">In November 2012, market research was conducted to identify potential locations for lease in Lincoln.&nbsp; The following properties were identified:</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Name/Address</span></span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">Bldg Type (Class)</span> <span style="text-decoration: underline;">Available Space</span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">Full Svc Rate ***</span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Sharp Bldg, 206 S 13<sup>th</sup> St&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office (B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 96,579 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $14.55/rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">US Bank Tower, 233 S 13<sup>th</sup> St&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office (B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 21,579 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $15.63/rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Atrium, 1200 N Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office (B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 31,607 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $14.00/rsf</span></p><br />
+<p class="MsoNormal"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">1221 Tower, 1221 N St&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office (B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 71,266 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $16.00-21.50/rsf</span></p><br />
+<p class="MsoNormal"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Gold&rsquo;s Bldg, 1033 O Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office (B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;7,174 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $16.47/rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Wells Fargo Center, 1248 O Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office (B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 31,026 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $17.50-18.50/rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Pine Lake Medical, 3901 Pine Lake Rd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office (B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 35,500 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $22.00/rsf</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">3700 NW 12<sup>th</sup> St&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industrial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 286,000 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $16.00/rsf (est)</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">6000 Fulton Ave&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industrial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 168,000 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $15.20/rsf (est)</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">1200 Upland Ave&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industrial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 160,930 rsf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $13.25/rsf (est)</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">***The only properties with the amount of space capable of meeting the requirement are the industrial buildings.&nbsp; They are primarily basic warehouse space and will require significant modifications to the building shell to meet Government standards.&nbsp; The rental rates for these buildings are estimates and may not fully account for shell upgrades.</span><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp; </span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText2" style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial;">8.<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">OTHER FACTS SUPPORTING THE USE OF OTHER THAN FULL AND OPEN COMPETITION</span></span></p><br />
+<p class="MsoBodyText2" style="margin-left: .25in;"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></p><br />
+<p class="MsoBodyText2"><span style="font-family: Arial, sans-serif;">The Deferred Action for Childhood Arrivals is an Executive Order of the President.&nbsp; Since implementation of DACA, CIS has experienced significant </span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Page Five</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Justification for Other Than Full and Open Competition</span></p><br />
+<p class="MsoBodyText2"><span style="font-family: Arial, sans-serif;">CIS &ndash; Lincoln, NE</span></p><br />
+<p class="MsoBodyText2"><span style="font-family: Arial, sans-serif;">&nbsp;</span></p><br />
+<p class="MsoBodyText2"><span style="font-family: Arial, sans-serif;">increases in the volume of applications.&nbsp; <span style="background: black; mso-highlight: black;">Although the mission and name of this agency has changed since lease inception in 1994, the building has been modified numerous times and adapted well for current use.&nbsp; CIS and the present lessor also have invested heavily in the building in recent months in an effort to keep pace with the growing workload.</span>&nbsp; </span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<h3 style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial;">9.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">LIST OF SOURCES THAT EXPRESSED INTEREST IN THIS ACQUISITION</span></span></h3><br />
+<h3><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></h3><br />
+<h3><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black; font-weight: normal; mso-bidi-font-weight: bold;">Listed in Section 5 above.</span></h3><br />
+<h3><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; font-weight: normal; mso-bidi-font-weight: bold;">&nbsp;</span></h3><br />
+<h3 style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial;">10.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';"> </span></span><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">STATEMENT</span></span><span style="text-decoration: underline;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"> </span></span><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">OF</span></span><span style="text-decoration: underline;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"> </span></span><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">ACTIONS</span></span><span style="text-decoration: underline;"><span style="font-size: 8.0pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"> </span></span><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">TO OVERCOME BARRIERS TO COMPETITION</span></span></h3><br />
+<h3><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></span></h3><br />
+<h3><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; font-weight: normal; mso-bidi-font-weight: bold;">It is the policy of this office to follow all applicable acquisition regulations.&nbsp; In this&nbsp; instance, however, the cost benefit analysis indicates the cost of relocation and duplication cannot be recovered through competition.&nbsp; </span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h3><br />
+<h3><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></h3><br />
+<h3 style="margin-left: .25in; text-indent: -.25in; mso-list: l1 level1 lfo2;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Arial;">11.<span style="font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';"> </span></span><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">CONTRACTING OFFICER CERTIFICATION</span></span></h3><br />
+<p class="MsoNormal" style="text-align: justify;"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">This justification for other than full and open competition for the acquisition of approximately 152,548 rentable square feet of office and related space for USCIS is accurate and complete to the best of my knowledge and belief.</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">It is in the best interest of the Government to award a superseding lease for all the reasons stated herein.</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Russell Furry, Leasing Specialist / Contracting Officer</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Page Six</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Justification for Other Than Full and Open Competition</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">CIS &ndash; Lincoln, NE</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></strong></p><br />
+<p class="MsoBodyText"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">GSA Concurrences:</span></strong></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoBodyText"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mark Warnick, Regional Counsel</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p class="MsoNormal" style="margin-left: 2.0in; text-align: justify; text-indent: -2.0in;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cindy Jackson-Kiley, Branch Chief, West Leasing Services</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bill McGowan, Director, Leasing Division</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theresa Wells, Regional Procurement Officer</span></p><br />
+<p class="MsoBodyText2"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoBodyText2"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><strong><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></strong></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tim Pfohl, Competition Advocate</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p class="MsoNormal" style="text-align: justify;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background: black; mso-highlight: black;">Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cy Houston, Acting Regional Commissioner</span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		One Denver Federal Center<br />
+Building 41<br />
+PO Box 25546<br/>
+
+			
+				
+		Denver,
+
+			
+	
+		Colorado
+
+			
+	
+		80225-0546
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		850 S Street<br/>
+
+			
+				
+		Lincoln,
+
+			
+	
+		Nebraska
+
+			
+	
+		68508
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Russell Furry</div>
+		<div><a href="mailto:russell.furry@gsa.gov">russell.furry@gsa.gov</a></div>
+	<div>Phone: (303) 236-2581</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Sheri DeMartino</div>
+		<div><a href="mailto:sheri.demartino@gsa.gov">sheri.demartino@gsa.gov</a></div>
+	<div>Phone: 816-823-1558</div>		<div>Fax: 816-926-1140</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=eb55d16fe8aaf10fbc4d0a981df69a23'" class="input-button btn">   </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 30 days after award date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	February 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	X -- Lease or rental of facilities
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	531 -- Real Estate/531120 -- Lessors of Nonresidential Buildings (except Miniwarehouses)
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

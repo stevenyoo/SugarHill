@@ -1,0 +1,1284 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>YouthPower Project - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495358');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495358';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6019ad0ba5aeaf83e69db679304afb24&inline_disposition=1" border="0" alt="Washington D.C. logo"></div><div class="agency-header"><h2>YouthPower Project</h2><div class="sol-num">Solicitation Number: SOL-OAA-13-000084andSOL-OAA-13-000085</div><div class="agency-name">Agency: Agency for International Development<br>Office: Washington D.C.<br>Location: USAID/Washington</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=7b430b3938b69becf98947e540255e3a&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OAA-13-000084andSOL-OAA-13-000085/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OAA-13-000084andSOL-OAA-13-000085/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OAA-13-000084andSOL-OAA-13-000085/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=7b430b3938b69becf98947e540255e3a&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=7b430b3938b69becf98947e540255e3a&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=7b430b3938b69becf98947e540255e3a&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=efd36ec09f7f6d5b03f2562b70d439c5&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">May 24, 2013</div><div class="nh-date">4:50 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=8e854be6456a2e882e2106f184f5936e&_cview=0">Changed</a><div class="nh-date">May 30, 2013</div><div class="nh-date">7:31 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2f893a8014392c8c9b33f98a77d67eff&_cview=0">Changed</a><div class="nh-date">Jun 03, 2013</div><div class="nh-date">9:41 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=ffd04ab429ac9f93a4ee581cdf3a2b78&_cview=0">Changed</a><div class="nh-date">Jun 04, 2013</div><div class="nh-date">7:34 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=a21191ef72a0d4780452e3713969f094&_cview=0">Changed</a><div class="nh-date">Dec 20, 2013</div><div class="nh-date">9:58 am</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=27cb8832d5c2bbd31cd531358cec181e&_cview=0">Changed</a><div class="nh-date">Jan 14, 2014</div><div class="nh-date">10:29 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=556096e5e61069feb12325f61cd962d1&_cview=0">Changed</a><div class="nh-date">Jan 30, 2014</div><div class="nh-date">6:19 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=240687d5ecdeb19288af302dff71fe43&_cview=0">Changed</a><div class="nh-date">Feb 06, 2014</div><div class="nh-date">5:40 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=7b430b3938b69becf98947e540255e3a&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">4:26 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=efd36ec09f7f6d5b03f2562b70d439c5'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=efd36ec09f7f6d5b03f2562b70d439c5'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	SOL-OAA-13-000084andSOL-OAA-13-000085
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-05-24 16:50:49">May 24, 2013 4:50 pm</span>
+					</div>
+		The Agency for International Development (USAID) in Washington, DC intends to issue the YouthPower Request for Proposals (RFP) for the following multi-award, partial small business set-aside, Indefinite Delivery Indefinite Quantity (IDIQ) contracts and the first Task Order under each:<br /><br /><br />
+<p>1. YouthPower: Implementation IDIQ<br /> YouthPower: Implementation-Task Order 1</p><br />
+<p>2. YouthPower: Evidence and Evaluation IDIQ <br /> YouthPower: Evidence and Evaluation-Task Order 1</p><br />
+<p>Please see attached "Letter to Potential Offerors and Invitation to Industry Day" (to be held Tuesday, June 4, 2013) and other posted draft documents attached for more information regarding USAID's YouthPower Project.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-05-30 07:31:25">May 30, 2013 7:31 am</span>
+					</div>
+		As of 5.30.13 the location (but not the date and time) of the YouthPower Industry Day has changed.&nbsp; Also, due to space limitations, we are now ask that each organizations identify no more than two representatives to attend Industry Day.&nbsp; Finally, we've added a call-in number for those that cannot attend in person.<br /><br />Please see the attached letter titled, "Industry Day Invitation--Revision 5.30.13" for specific details on the event and how to RSVP.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2013-06-03 09:41:11">Jun 03, 2013 9:41 am</span>
+					</div>
+		<strong>As of 9:30am on 6.3.2013 we have greatly exceeded the capacity available for our YouthPower Industry Day. &nbsp;Therefore, we will not be accepting additional RSVPs for Industry Day from now moving forward. &nbsp;We encourage organizations that had not previously RSVPed to download the YouthPower presentation that will be posted tomorrow before the event and follow along with the presentation via the call-in number provided in the attached letter titled, "Industry Day Invitation--Revision 5.30.13". &nbsp;Thank you.</strong>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2013-06-04 07:34:16">Jun 04, 2013 7:34 am</span>
+					</div>
+		Please see the attached PowerPoint presentation titled, &quot;YouthPower Project Presentation for Industry Day 6.4.13&quot;. &amp;nbsp;
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2013-12-20 09:58:10">Dec 20, 2013 9:58 am</span>
+					</div>
+		The United States Government, represented by the U.S. Agency for International Development (USAID) is seeking proposal for the YouthPower Project: implement and scale up sustainable youth programs, within and across multiple sectors; improve the ability of youth-led and youth-serving institutions to design, implement and evaluate youth programs and policies; strengthen the capacity of youth to engage in development processes in their communities; and support USAID as a leader in the development of the international evidence base for positive youth development approaches.<br /><br />The YouthPower project is a single solicitation for two global multi-award Indefinite Delivery, Indefinite Quanity (IDIQ) contracts, herein referred to as YouthPower Implementation IDIQ&nbsp;and YouthPower Evidence and Evaluation IDIQ. The YouthPower: Implementation IDIQ will focus on the design and implementation of positive youth development programming and policies, capacity strengthening of youth serving organizations and institutions including governmental and civil society organizations (CSO), and support of youth engagement within development. The YouthPower: Evidence and Evaluation IDIQ will focus on research and evaluation of youth programming and facilitate technical leadership and dissemination of knowledge in the field of positive youth development.<br /><br />USAID anticipates awarding up to seven (7) IDIQ contracts for YouthPower: Implementation, with approximately three (3) set aside for award to small business concerns. The maximum contract ceiling for all contracts awarded for this IDIQ is $375 million dollars. The YouthPower: Implementation - Task Order 1 will be awarded simultaneously with the YouthPower: Implementation IDIQ. The offeror determined to provide the best overall value to the government will be awarded an IDIQ and the Task Order included in this solicitation. The offeror(s) found to provide the next best value to the government in either the unrestricted or small business reserved competitions (up to the approximate totals, provided above) will be awarded IDIQs only. The statement of work for the task order is Annex A of this solicitation.<br /><br />USAID anticipates awarding up to five (5) IDIQ contracts for YouthPower: Evidence and Evaluation, with at least two (2) set aside for award to small business concerns. The maximum contract ceiling for all contracts awarded for this IDIQ is $72 million dollars. The YouthPOwer: evidence and Evaluation - TAsk Order 1 will be awarded simultaneously with the YouthPower: Evidence and Evaluation IDIQ contracts. The offeror determined to provide the best overall value to the govenment will be awarded an IDIQ and the Task Order included in this solicitation. The offeror(s) found to provide the nwext best value to the government in either the unrestricted or small business reserved competitions (up to the approximate totals, provide above) will be awarded IDIQs only. The statement of work for this task order is Annes B of this solicitation. <br /><br />The North American Industry Classification System (NAICS) code for this acquisition is 541990. The small business size standard is $14 million. <br /><br />In accordance with FAR 5.102(d), the availability of this solicitation is limited to this electronic medium only. <br /><br />Thank you for your interest in USAID program opportunities.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">YouthPower Project</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	YouthPower Project
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	May 24, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=ac815961ff19d0835e953286c18dcf57' target='_blank' title='Download/View USAIDs_YouthPower_Project_Letter_to_Offerors_and_Industry_Day_Invitation_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf' class='file'&gt;USAIDs_YouthPower_Project_Letter_to_Offerors_and_Industry_Day_Invitation_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf&lt;/a&gt;"><a href='/utils/view?id=ac815961ff19d0835e953286c18dcf57' target='_blank' title='Download/View USAIDs_YouthPower_Project_Letter_to_Offerors_and_Industry_Day_Invitation_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf' class='file'>USAIDs_YouthPower_Project_Letter_to_Offerors_and_Industry_Day_Invitation_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf</a> (60.87 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> USAIDs YouthPower Project Letter to Offerors and Industry Day Invitation 5.24.13 (SOL-OAA-13-000084 / SOL-OAA-13-000085)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=3f069968e5de2852b7397efcd994162c' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_Section_C_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf' class='file'&gt;USAIDs_YouthPower_Project_Draft_Section_C_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf&lt;/a&gt;"><a href='/utils/view?id=3f069968e5de2852b7397efcd994162c' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_Section_C_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf' class='file'>USAIDs_YouthPower_Project_Draft_Section_C_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf</a> (360.44 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> USAIDs YouthPower Project Draft Section C 5.24.13 (SOL-OAA-13-000084 / SOL-OAA-13-000085)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=ced54d3f4d778855943b38a1e12ab88d' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_Annex_A_&amp;_B_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf' class='file'&gt;USAIDs_YouthPower_Project_Draft_Annex_A_&amp;_B_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf&lt;/a&gt;"><a href='/utils/view?id=ced54d3f4d778855943b38a1e12ab88d' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_Annex_A_&_B_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf' class='file'>USAIDs_YouthPower_Project_Draft_Annex_A_&_B_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf</a> (456.07 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> USAIDs YouthPower Project Draft Annex A &amp; B 5.24.13 (SOL-OAA-13-000084 / SOL-OAA-13-000085)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=aaa521f78f4acaaeea2eff5fb4b13f03' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_YouthPower_Implementation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000084).pdf' class='file'&gt;USAIDs_YouthPower_Project_Draft_YouthPower_Implementation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000084).pdf&lt;/a&gt;"><a href='/utils/view?id=aaa521f78f4acaaeea2eff5fb4b13f03' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_YouthPower_Implementation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000084).pdf' class='file'>USAIDs_YouthPower_Project_Draft_YouthPower_Implementation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000084).pdf</a> (57.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> USAIDs YouthPower Project Draft YouthPower Implementation- Task Order 1 Cost Proposal Template 5.24.13 (SOL-OAA-13-000084)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=5e1d7c371c5abbe3b1dff2f18bb10f44' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_YouthPower_Evidence_and_Evaluation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000085).pdf' class='file'&gt;USAIDs_YouthPower_Project_Draft_YouthPower_Evidence_and_Evaluation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000085).pdf&lt;/a&gt;"><a href='/utils/view?id=5e1d7c371c5abbe3b1dff2f18bb10f44' target='_blank' title='Download/View USAIDs_YouthPower_Project_Draft_YouthPower_Evidence_and_Evaluation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000085).pdf' class='file'>USAIDs_YouthPower_Project_Draft_YouthPower_Evidence_and_Evaluation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000085).pdf</a> (71.01 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> USAIDs YouthPower Project Draft YouthPower Evidence and Evaluation- Task Order 1 Cost Proposal Template 5.24.13 (SOL-OAA-13-000085)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">YouthPower Project</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	YouthPower Project
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	May 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=d58d0ec5d4a17e8d3dba1fe2bd6abd40' target='_blank' title='Download/View USAIDs_YouthPower_Project_Industry_Day_Invitation--Revision_5.30.13.PDF' class='file'&gt;USAIDs_YouthPower_Project_Industry_Day_Invitation--Revision_5.30.13.PDF&lt;/a&gt;"><a href='/utils/view?id=d58d0ec5d4a17e8d3dba1fe2bd6abd40' target='_blank' title='Download/View USAIDs_YouthPower_Project_Industry_Day_Invitation--Revision_5.30.13.PDF' class='file'>USAIDs_YouthPower_Project_Industry_Day_Invitation--Revision_5.30.13.PDF</a> (87.17 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> USAIDs YouthPower Project Industry Day Invitation--Revision 5.30.13</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">YouthPower Project</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	YouthPower Project
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	June 4, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=533e91488e7d15cfa6624c4e9de89225' target='_blank' title='Download/View USAID's_YouthPower_Project_Presentation_for_Industry_Day_6.4.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pptx' class='file'&gt;USAID's_YouthPower_Project_Presentation_for_Industry_Day_6.4.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pptx&lt;/a&gt;"><a href='/utils/view?id=533e91488e7d15cfa6624c4e9de89225' target='_blank' title='Download/View USAID's_YouthPower_Project_Presentation_for_Industry_Day_6.4.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pptx' class='file'>USAID's_YouthPower_Project_Presentation_for_Industry_Day_6.4.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pptx</a> (350.43 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> USAID's YouthPower Project Presentation for Industry Day 6.4.13 (SOL-OAA-13-000084  SOL-OAA-13-000085)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	December 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=6014f2ef69c9879202ddf65bd20b9c21' target='_blank' title='Download/View Cover_Page_12.20.2013.pdf' class='file'&gt;Cover_Page_12.20.2013.pdf&lt;/a&gt;"><a href='/utils/view?id=6014f2ef69c9879202ddf65bd20b9c21' target='_blank' title='Download/View Cover_Page_12.20.2013.pdf' class='file'>Cover_Page_12.20.2013.pdf</a> (73.23 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Cover Page</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=3f1e16942354e6ca8498d6c87d34bb96' target='_blank' title='Download/View SOL-OAA-13-000084_YouthPower_-_Final_RFP_12.20.2013.pdf' class='file'&gt;SOL-OAA-13-000084_YouthPower_-_Final_RFP_12.20.2013.pdf&lt;/a&gt;"><a href='/utils/view?id=3f1e16942354e6ca8498d6c87d34bb96' target='_blank' title='Download/View SOL-OAA-13-000084_YouthPower_-_Final_RFP_12.20.2013.pdf' class='file'>SOL-OAA-13-000084_YouthPower_-_Final_RFP_12.20.2013.pdf</a> (2,163.95 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Final RFP</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=9376acd6be842eefcc6c523a6482616a' target='_blank' title='Download/View USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Posted_12.18.13.pdf' class='file'&gt;USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Posted_12.18.13.pdf&lt;/a&gt;"><a href='/utils/view?id=9376acd6be842eefcc6c523a6482616a' target='_blank' title='Download/View USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Posted_12.18.13.pdf' class='file'>USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Posted_12.18.13.pdf</a> (481.05 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Annex A,B,C, and D</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	January 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9618258a9725e06a83bf3d8d7edd5175' target='_blank' title='Download/View YouthPower_Amendment_01-_Posted_1.14.2014.pdf' class='file'&gt;YouthPower_Amendment_01-_Posted_1.14.2014.pdf&lt;/a&gt;"><a href='/utils/view?id=9618258a9725e06a83bf3d8d7edd5175' target='_blank' title='Download/View YouthPower_Amendment_01-_Posted_1.14.2014.pdf' class='file'>YouthPower_Amendment_01-_Posted_1.14.2014.pdf</a> (52.76 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 01 (letter) highlighting specific changes to the RFP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=e9481a1e8216b4e7dd56d96467cec6e3' target='_blank' title='Download/View SOL-OAA-13-000084_YouthPower_-_Amended_RFP_1.14.2014.pdf' class='file'&gt;SOL-OAA-13-000084_YouthPower_-_Amended_RFP_1.14.2014.pdf&lt;/a&gt;"><a href='/utils/view?id=e9481a1e8216b4e7dd56d96467cec6e3' target='_blank' title='Download/View SOL-OAA-13-000084_YouthPower_-_Amended_RFP_1.14.2014.pdf' class='file'>SOL-OAA-13-000084_YouthPower_-_Amended_RFP_1.14.2014.pdf</a> (1,130.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amended RFP with specific changes highlighted in yellow</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=4be8cc137e004042f3f9b93cf7524033' target='_blank' title='Download/View USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Amended_Annex_A_and_B_Posted_01.14.14.pdf' class='file'&gt;USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Amended_Annex_A_and_B_Posted_01.14.14.pdf&lt;/a&gt;"><a href='/utils/view?id=4be8cc137e004042f3f9b93cf7524033' target='_blank' title='Download/View USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Amended_Annex_A_and_B_Posted_01.14.14.pdf' class='file'>USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Amended_Annex_A_and_B_Posted_01.14.14.pdf</a> (339.34 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amended Annex A and B with specific changes highlighted in yellow</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=8b1b5828b43b4309cf7ab85c25e9cedb' target='_blank' title='Download/View YouthPower_Questions_and_Answers_-_Posted_1.14.2014.pdf' class='file'&gt;YouthPower_Questions_and_Answers_-_Posted_1.14.2014.pdf&lt;/a&gt;"><a href='/utils/view?id=8b1b5828b43b4309cf7ab85c25e9cedb' target='_blank' title='Download/View YouthPower_Questions_and_Answers_-_Posted_1.14.2014.pdf' class='file'>YouthPower_Questions_and_Answers_-_Posted_1.14.2014.pdf</a> (1,695.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Responses to questions received 12.31.2013</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=6e482ec0eab6e52d38b75c8940776076' target='_blank' title='Download/View SOL-OAA-13-000084_-_SF-30.pdf' class='file'&gt;SOL-OAA-13-000084_-_SF-30.pdf&lt;/a&gt;"><a href='/utils/view?id=6e482ec0eab6e52d38b75c8940776076' target='_blank' title='Download/View SOL-OAA-13-000084_-_SF-30.pdf' class='file'>SOL-OAA-13-000084_-_SF-30.pdf</a> (134.17 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF-30 Amendment to Solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	January 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e31c28ae4142e31ee42657190b4cae3a' target='_blank' title='Download/View SOL-OAA-13-000084_Amendment_02.pdf' class='file'&gt;SOL-OAA-13-000084_Amendment_02.pdf&lt;/a&gt;"><a href='/utils/view?id=e31c28ae4142e31ee42657190b4cae3a' target='_blank' title='Download/View SOL-OAA-13-000084_Amendment_02.pdf' class='file'>SOL-OAA-13-000084_Amendment_02.pdf</a> (63.79 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 02 - Extension of submission deadline</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	February 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=6c2b67a7665d08fc65f247595cbd33a4' target='_blank' title='Download/View SOL-OAA-13-000084_Amendment_03_-_SF_30.pdf' class='file'&gt;SOL-OAA-13-000084_Amendment_03_-_SF_30.pdf&lt;/a&gt;"><a href='/utils/view?id=6c2b67a7665d08fc65f247595cbd33a4' target='_blank' title='Download/View SOL-OAA-13-000084_Amendment_03_-_SF_30.pdf' class='file'>SOL-OAA-13-000084_Amendment_03_-_SF_30.pdf</a> (128.30 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF-30 Amendment 03 </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=12b416ca6a186b77b928a25bc691049c' target='_blank' title='Download/View Questions_&amp;_Answers_-_Amendment_01_(Abbreviated_Repost).pdf' class='file'&gt;Questions_&amp;_Answers_-_Amendment_01_(Abbreviated_Repost).pdf&lt;/a&gt;"><a href='/utils/view?id=12b416ca6a186b77b928a25bc691049c' target='_blank' title='Download/View Questions_&_Answers_-_Amendment_01_(Abbreviated_Repost).pdf' class='file'>Questions_&_Answers_-_Amendment_01_(Abbreviated_Repost).pdf</a> (86.81 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Q &amp; A - Amendment 01 Abreviated Repost of Selected Questions</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=de82e2748b8150e9d1ede8d2028a0fab' target='_blank' title='Download/View YouthPower_Amendment_03.pdf' class='file'&gt;YouthPower_Amendment_03.pdf&lt;/a&gt;"><a href='/utils/view?id=de82e2748b8150e9d1ede8d2028a0fab' target='_blank' title='Download/View YouthPower_Amendment_03.pdf' class='file'>YouthPower_Amendment_03.pdf</a> (32.29 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 03 Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=ea69df9fa7638a1b46d91edf6887397e' target='_blank' title='Download/View Q_&amp;_A_-_Amendment_03.pdf' class='file'&gt;Q_&amp;_A_-_Amendment_03.pdf&lt;/a&gt;"><a href='/utils/view?id=ea69df9fa7638a1b46d91edf6887397e' target='_blank' title='Download/View Q_&_A_-_Amendment_03.pdf' class='file'>Q_&_A_-_Amendment_03.pdf</a> (96.88 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 03 Q &amp; A </div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=302a837f14c44cbca8b13068112582b5' target='_blank' title='Download/View Cost_Proposal_-_Addl_Instructions_Amendment_03.pdf' class='file'&gt;Cost_Proposal_-_Addl_Instructions_Amendment_03.pdf&lt;/a&gt;"><a href='/utils/view?id=302a837f14c44cbca8b13068112582b5' target='_blank' title='Download/View Cost_Proposal_-_Addl_Instructions_Amendment_03.pdf' class='file'>Cost_Proposal_-_Addl_Instructions_Amendment_03.pdf</a> (26.18 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Additional Instructions for Cost Proposal - Amendment 03</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">General Notice </h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	General Notice 
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=72b60ef2edc7bb453ba8f9f7e60d67ac' target='_blank' title='Download/View GENERAL_NOTICE_for_the_YOUTHPOWER_SOLICITATION.docx' class='file'&gt;GENERAL_NOTICE_for_the_YOUTHPOWER_SOLICITATION.docx&lt;/a&gt;"><a href='/utils/view?id=72b60ef2edc7bb453ba8f9f7e60d67ac' target='_blank' title='Download/View GENERAL_NOTICE_for_the_YOUTHPOWER_SOLICITATION.docx' class='file'>GENERAL_NOTICE_for_the_YOUTHPOWER_SOLICITATION.docx</a> (14.75 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Gneral notice for YouthPower solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		1300 Pennsylvania Avenue, NW<br />
+Room 7.10-006<br/>
+
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+	
+		20523
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Worldwide<br/>
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Erica Bigelow,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:ebigelow@usaid.gov">ebigelow@usaid.gov</a></div>
+			
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Sallie H. McElrath,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:smcelrath@USAID.gov">smcelrath@USAID.gov</a></div>
+	<div>Phone: 2027121875</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=efd36ec09f7f6d5b03f2562b70d439c5'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=efd36ec09f7f6d5b03f2562b70d439c5'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6f32237f119bff5618b703c1d88dc519">YouthPower Project</a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=6f32237f119bff5618b703c1d88dc519" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 24, 2013</div></dt><dd><a href="/utils/view?id=ac815961ff19d0835e953286c18dcf57" target="_blank" title="Download/View USAIDs_YouthPower_Project_Letter_to_Offerors_and_Industry_Day_Invitation_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf" class="file">USAIDs_YouthPower_Project_Letter_to_Offerors_and_Industry_Day_Invitation_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf</a></dd><dd><a href="/utils/view?id=3f069968e5de2852b7397efcd994162c" target="_blank" title="Download/View USAIDs_YouthPower_Project_Draft_Section_C_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf" class="file">USAIDs_YouthPower_Project_Draft_Section_C_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf</a></dd><dd><a href="/utils/view?id=ced54d3f4d778855943b38a1e12ab88d" target="_blank" title="Download/View USAIDs_YouthPower_Project_Draft_Annex_A_&amp;_B_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf" class="file">USAIDs_YouthPower_Project_Draft_Annex_A_&_B_5.24.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pdf</a></dd><dd><a href="/utils/view?id=aaa521f78f4acaaeea2eff5fb4b13f03" target="_blank" title="Download/View USAIDs_YouthPower_Project_Draft_YouthPower_Implementation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000084).pdf" class="file">USAIDs_YouthPower_Project_Draft_YouthPower_Implementation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000084).pdf</a></dd><dd><a href="/utils/view?id=5e1d7c371c5abbe3b1dff2f18bb10f44" target="_blank" title="Download/View USAIDs_YouthPower_Project_Draft_YouthPower_Evidence_and_Evaluation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000085).pdf" class="file">USAIDs_YouthPower_Project_Draft_YouthPower_Evidence_and_Evaluation-_Task_Order_1_Cost_Proposal_Template_5.24.13_(SOL-OAA-13-000085).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f57d82c99c449c23e1c043e57e6a5353">YouthPower Project</a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=f57d82c99c449c23e1c043e57e6a5353" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 30, 2013</div></dt><dd><a href="/utils/view?id=d58d0ec5d4a17e8d3dba1fe2bd6abd40" target="_blank" title="Download/View USAIDs_YouthPower_Project_Industry_Day_Invitation--Revision_5.30.13.PDF" class="file">USAIDs_YouthPower_Project_Industry_Day_Invitation--Revision_5.30.13.PDF</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b406dff649f674422c95075917fe260b">YouthPower Project</a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=b406dff649f674422c95075917fe260b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 04, 2013</div></dt><dd><a href="/utils/view?id=533e91488e7d15cfa6624c4e9de89225" target="_blank" title="Download/View USAID's_YouthPower_Project_Presentation_for_Industry_Day_6.4.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pptx" class="file">USAID's_YouthPower_Project_Presentation_for_Industry_Day_6.4.13_(SOL-OAA-13-000084__SOL-OAA-13-000085).pptx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=8fccf4f467ef7dd9c215693996b04190">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=8fccf4f467ef7dd9c215693996b04190" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 20, 2013</div></dt><dd><a href="/utils/view?id=6014f2ef69c9879202ddf65bd20b9c21" target="_blank" title="Download/View Cover_Page_12.20.2013.pdf" class="file">Cover_Page_12.20.2013.pdf</a></dd><dd><a href="/utils/view?id=3f1e16942354e6ca8498d6c87d34bb96" target="_blank" title="Download/View SOL-OAA-13-000084_YouthPower_-_Final_RFP_12.20.2013.pdf" class="file">SOL-OAA-13-000084_YouthPower_-_Final_RFP_12.20.2013.pdf</a></dd><dd><a href="/utils/view?id=9376acd6be842eefcc6c523a6482616a" target="_blank" title="Download/View USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Posted_12.18.13.pdf" class="file">USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Posted_12.18.13.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=385ccf864961bf354457dbd6985277c4">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=385ccf864961bf354457dbd6985277c4" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 14, 2014</div></dt><dd><a href="/utils/view?id=9618258a9725e06a83bf3d8d7edd5175" target="_blank" title="Download/View YouthPower_Amendment_01-_Posted_1.14.2014.pdf" class="file">YouthPower_Amendment_01-_Posted_1.14.2014.pdf</a></dd><dd><a href="/utils/view?id=e9481a1e8216b4e7dd56d96467cec6e3" target="_blank" title="Download/View SOL-OAA-13-000084_YouthPower_-_Amended_RFP_1.14.2014.pdf" class="file">SOL-OAA-13-000084_YouthPower_-_Amended_RFP_1.14.2014.pdf</a></dd><dd><a href="/utils/view?id=4be8cc137e004042f3f9b93cf7524033" target="_blank" title="Download/View USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Amended_Annex_A_and_B_Posted_01.14.14.pdf" class="file">USAID_YouthPower_Project_Annexes_A,_B,_C_and_D_-_Amended_Annex_A_and_B_Posted_01.14.14.pdf</a></dd><dd><a href="/utils/view?id=8b1b5828b43b4309cf7ab85c25e9cedb" target="_blank" title="Download/View YouthPower_Questions_and_Answers_-_Posted_1.14.2014.pdf" class="file">YouthPower_Questions_and_Answers_-_Posted_1.14.2014.pdf</a></dd><dd><a href="/utils/view?id=6e482ec0eab6e52d38b75c8940776076" target="_blank" title="Download/View SOL-OAA-13-000084_-_SF-30.pdf" class="file">SOL-OAA-13-000084_-_SF-30.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6b82ab9b6195c7f1b59001040d4245b7">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=6b82ab9b6195c7f1b59001040d4245b7" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 30, 2014</div></dt><dd><a href="/utils/view?id=e31c28ae4142e31ee42657190b4cae3a" target="_blank" title="Download/View SOL-OAA-13-000084_Amendment_02.pdf" class="file">SOL-OAA-13-000084_Amendment_02.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e678762899aa37aaea2ff320c624feff">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=e678762899aa37aaea2ff320c624feff" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 06, 2014</div></dt><dd><a href="/utils/view?id=6c2b67a7665d08fc65f247595cbd33a4" target="_blank" title="Download/View SOL-OAA-13-000084_Amendment_03_-_SF_30.pdf" class="file">SOL-OAA-13-000084_Amendment_03_-_SF_30.pdf</a></dd><dd><a href="/utils/view?id=12b416ca6a186b77b928a25bc691049c" target="_blank" title="Download/View Questions_&amp;_Answers_-_Amendment_01_(Abbreviated_Repost).pdf" class="file">Questions_&_Answers_-_Amendment_01_(Abbreviated_Repost).pdf</a></dd><dd><a href="/utils/view?id=de82e2748b8150e9d1ede8d2028a0fab" target="_blank" title="Download/View YouthPower_Amendment_03.pdf" class="file">YouthPower_Amendment_03.pdf</a></dd><dd><a href="/utils/view?id=ea69df9fa7638a1b46d91edf6887397e" target="_blank" title="Download/View Q_&amp;_A_-_Amendment_03.pdf" class="file">Q_&_A_-_Amendment_03.pdf</a></dd><dd><a href="/utils/view?id=302a837f14c44cbca8b13068112582b5" target="_blank" title="Download/View Cost_Proposal_-_Addl_Instructions_Amendment_03.pdf" class="file">Cost_Proposal_-_Addl_Instructions_Amendment_03.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=328d378107a33f588c71f1908e28dad8">General Notice </a> <a target="_blank" href="/utils/dZip?base=efd36ec09f7f6d5b03f2562b70d439c5&class=document_package&id=328d378107a33f588c71f1908e28dad8" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=72b60ef2edc7bb453ba8f9f7e60d67ac" target="_blank" title="Download/View GENERAL_NOTICE_for_the_YOUTHPOWER_SOLICITATION.docx" class="file">GENERAL_NOTICE_for_the_YOUTHPOWER_SOLICITATION.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	May 24, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 04, 2014 11:00 am&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 04, 2014 11:00 am
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Partial Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Partial Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541990 -- All Other Professional, Scientific, and Technical Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

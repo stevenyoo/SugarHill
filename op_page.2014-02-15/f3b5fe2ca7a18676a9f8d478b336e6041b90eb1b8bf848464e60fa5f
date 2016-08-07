@@ -1,0 +1,1281 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Quality Innovation Network (QIN) Quality Improvement Organizations (QIOs) - HHSM-500-2014-RFP-QIN-QIO - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392498908');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392498908';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=c0c6cca75f99eb05fd3c6f84c7ca46f3&inline_disposition=1" border="0" alt="Centers for Medicare &amp; Medicaid Services logo"></div><div class="agency-header agency-header-med"><h2>Quality Innovation Network (QIN) Quality Improvement Organizations (QIOs)</h2><div class="sol-num">Solicitation Number: HHSM-500-2014-RFP-QIN-QIO</div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: Centers for Medicare & Medicaid Services<br>Location: Office of Acquisition and Grants Management</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=84eeac166d9d85017592f430b77aa5b7&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/HCFA/AGG/HHSM-500-2014-RFP-QIN-QIO/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/HCFA/AGG/HHSM-500-2014-RFP-QIN-QIO/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/HCFA/AGG/HHSM-500-2014-RFP-QIN-QIO/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=84eeac166d9d85017592f430b77aa5b7&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=84eeac166d9d85017592f430b77aa5b7&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=84eeac166d9d85017592f430b77aa5b7&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=dff522bababb6b9859bb783c08db6074&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Dec 05, 2013</div><div class="nh-date">3:08 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2e1720a8f1dde8d5163439468cf23da1&_cview=0">Changed</a><div class="nh-date">Dec 24, 2013</div><div class="nh-date">12:15 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b4881253cf462b1c5a3857fcc8dfc88d&_cview=0">Changed</a><div class="nh-date">Jan 17, 2014</div><div class="nh-date">2:57 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=7026613b8e52b85c5340a9ee30cb3eaf&_cview=0">Changed</a><div class="nh-date">Jan 29, 2014</div><div class="nh-date">12:14 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=84eeac166d9d85017592f430b77aa5b7&_cview=0">Changed</a><div class="nh-date">Feb 10, 2014</div><div class="nh-date">2:11 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=dff522bababb6b9859bb783c08db6074'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=dff522bababb6b9859bb783c08db6074'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HHSM-500-2014-RFP-QIN-QIO
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-12-05 15:08:06">Dec 05, 2013 3:08 pm</span>
+					</div>
+		This is a single Indefinite Delivery/Indefinite Quantity (IDIQ) umbrella contract under which individual task orders will be awarded to procure expert healthcare quality improvement services from Quality Innovation Networks - Quality Improvement Organizations (QIN-QIOs) for purposes of improving care for Medicare beneficiaries in a manner that aligns with the work that Centers of Medicare and Medicaid Services (CMS) will be doing in its efforts towards achievement of the National Quality Strategy (NQS) and the CMS Quality Strategy along with the other strategies, goals, recommendations, and priorities listed in the Statement of Work.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-01-17 14:57:27">Jan 17, 2014 2:57 pm</span>
+					</div>
+		The purpose of this amendment is to transmit additional industry questions and the government's responses. Any references to an amendment in the government's responses shall pertain to Amendment 000003, which will be posted soon after. Additional industry questions and responses will be provided in the subsequent amendment.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2014-01-29 12:14:42">Jan 29, 2014 12:14 pm</span>
+					</div>
+		<p>The purpose of Amendment 0003 is to extend the due date for proposals through 2:00PM local prevailing time on 2/21/2014, to extend the due date for letters of Intent to Submit proposals to 1/31/2014, to provide additional responses to industry questions, and to REVISE sections B, C, and G through M of the solicitation.<br /><br />Please note:&nbsp; to be eligible for consideration for award, all offerors MUST propose a minimum of three (3) states, and a maximum of six (6) states.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2014-02-10 14:11:50">Feb 10, 2014 2:11 pm</span>
+					</div>
+		<p>The purpose of this Amendment is to revise the intended contract type from a single award IDIQ to multiple award IDIQ, transmit additional Industry Questions and the government's Responses, and make revisions to Section B, G, J, L, and M.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">QIN-QIO Solicitation</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	QIN-QIO Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	December 5, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9f5cd1f863069d3cdfb1616a8857075f' target='_blank' title='Download/View QIN-QIO_Solicitation_Cover_Letter.pdf' class='file'&gt;QIN-QIO_Solicitation_Cover_Letter.pdf&lt;/a&gt;"><a href='/utils/view?id=9f5cd1f863069d3cdfb1616a8857075f' target='_blank' title='Download/View QIN-QIO_Solicitation_Cover_Letter.pdf' class='file'>QIN-QIO_Solicitation_Cover_Letter.pdf</a> (87.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Cover letter for RFP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=279e634f90f8b9e36bbc4396929eff65' target='_blank' title='Download/View SF33_QIN.pdf' class='file'&gt;SF33_QIN.pdf&lt;/a&gt;"><a href='/utils/view?id=279e634f90f8b9e36bbc4396929eff65' target='_blank' title='Download/View SF33_QIN.pdf' class='file'>SF33_QIN.pdf</a> (81.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF33</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=a94cb69b692fcdd7147bfd88ed52e44f' target='_blank' title='Download/View QIN-QIO_Solicitation.doc' class='file'&gt;QIN-QIO_Solicitation.doc&lt;/a&gt;"><a href='/utils/view?id=a94cb69b692fcdd7147bfd88ed52e44f' target='_blank' title='Download/View QIN-QIO_Solicitation.doc' class='file'>QIN-QIO_Solicitation.doc</a> (1,435.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> QIN-QIO Solicitation Document</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=ea93afe22971708b8a22dac91c8ee7e9' target='_blank' title='Download/View J.1_QIN-QIO_Task_Order_001.docx' class='file'&gt;J.1_QIN-QIO_Task_Order_001.docx&lt;/a&gt;"><a href='/utils/view?id=ea93afe22971708b8a22dac91c8ee7e9' target='_blank' title='Download/View J.1_QIN-QIO_Task_Order_001.docx' class='file'>J.1_QIN-QIO_Task_Order_001.docx</a> (312.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1: QIN-QIO Task Order 001 &quot;Excellence in Operations and Quality Improvement&quot;</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=14ff7d3c0414a3980c98e38cc86abad6' target='_blank' title='Download/View J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx' class='file'&gt;J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx&lt;/a&gt;"><a href='/utils/view?id=14ff7d3c0414a3980c98e38cc86abad6' target='_blank' title='Download/View J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx' class='file'>J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx</a> (137.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(a): QIN-QIO Schedule of Deliverables</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=9a8d186a8ef92e4ba74c72d4938d37dd' target='_blank' title='Download/View J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx' class='file'&gt;J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx&lt;/a&gt;"><a href='/utils/view?id=9a8d186a8ef92e4ba74c72d4938d37dd' target='_blank' title='Download/View J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx' class='file'>J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx</a> (64.79 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(b): QIN-QIO EVALUATION MEASURES TABLE</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=52e9ab8aa4502293f445265a3be62e8f' target='_blank' title='Download/View J.1(c)_QIN-QIO_Squire_Guidelines_for_Reporting_Intervention_Trials.docx' class='file'&gt;J.1(c)_QIN-QIO_Squire_Guidelines_for_Reporting_Intervention_Trials.docx&lt;/a&gt;"><a href='/utils/view?id=52e9ab8aa4502293f445265a3be62e8f' target='_blank' title='Download/View J.1(c)_QIN-QIO_Squire_Guidelines_for_Reporting_Intervention_Trials.docx' class='file'>J.1(c)_QIN-QIO_Squire_Guidelines_for_Reporting_Intervention_Trials.docx</a> (33.64 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(c): QIN-QIO SQUIRE GUIDELINES FOR REPORTING INTERVENTIONS TRIALS</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=45856a82d215e19bf86b461c27d12f49' target='_blank' title='Download/View J.1(d)_QIN-QIO_Community_Selection_Criterion.docx' class='file'&gt;J.1(d)_QIN-QIO_Community_Selection_Criterion.docx&lt;/a&gt;"><a href='/utils/view?id=45856a82d215e19bf86b461c27d12f49' target='_blank' title='Download/View J.1(d)_QIN-QIO_Community_Selection_Criterion.docx' class='file'>J.1(d)_QIN-QIO_Community_Selection_Criterion.docx</a> (27.51 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(d): QIN-QIO COMMUNITY SELECTION CRITERIA</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=c9d4b9d620d621368adfe03b2ba0c594' target='_blank' title='Download/View J.1(e)_QIN-QIO_Table_of_Evidence_Based_Interventions.docx' class='file'&gt;J.1(e)_QIN-QIO_Table_of_Evidence_Based_Interventions.docx&lt;/a&gt;"><a href='/utils/view?id=c9d4b9d620d621368adfe03b2ba0c594' target='_blank' title='Download/View J.1(e)_QIN-QIO_Table_of_Evidence_Based_Interventions.docx' class='file'>J.1(e)_QIN-QIO_Table_of_Evidence_Based_Interventions.docx</a> (119.29 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(e): QIN-QIO TABLE OF EVIDENCE BASED INTERVENTIONS</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=b093f1881256d2b370eafac51e2f9c83' target='_blank' title='Download/View J.1(f)_Sample_LAN_Meeting_Strategy.docx' class='file'&gt;J.1(f)_Sample_LAN_Meeting_Strategy.docx&lt;/a&gt;"><a href='/utils/view?id=b093f1881256d2b370eafac51e2f9c83' target='_blank' title='Download/View J.1(f)_Sample_LAN_Meeting_Strategy.docx' class='file'>J.1(f)_Sample_LAN_Meeting_Strategy.docx</a> (45.99 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(f): SAMPLE LAN MEETING STRATEGY</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=e58126985131c32a40a20b42673e0bbd' target='_blank' title='Download/View J.2_Items_Incorporated_by_Reference.docx' class='file'&gt;J.2_Items_Incorporated_by_Reference.docx&lt;/a&gt;"><a href='/utils/view?id=e58126985131c32a40a20b42673e0bbd' target='_blank' title='Download/View J.2_Items_Incorporated_by_Reference.docx' class='file'>J.2_Items_Incorporated_by_Reference.docx</a> (27.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.2: ITEMS INCORPORATED BY REFERENCE (URLS) </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=9f1c4fbf8fd17f4c04dbc3d417aa6083' target='_blank' title='Download/View J.3_List_of_IT_Systems_Narrative.docx' class='file'&gt;J.3_List_of_IT_Systems_Narrative.docx&lt;/a&gt;"><a href='/utils/view?id=9f1c4fbf8fd17f4c04dbc3d417aa6083' target='_blank' title='Download/View J.3_List_of_IT_Systems_Narrative.docx' class='file'>J.3_List_of_IT_Systems_Narrative.docx</a> (49.28 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.3: LIST OF INFORMATION TECHNOLOGY SYSTEMS NARRATIVE </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=f5cdc54885c462334c8f11a2f87360b6' target='_blank' title='Download/View J.4_Engineering_Review_Board_(ERB)_User's_Guide.doc' class='file'&gt;J.4_Engineering_Review_Board_(ERB)_User's_Guide.doc&lt;/a&gt;"><a href='/utils/view?id=f5cdc54885c462334c8f11a2f87360b6' target='_blank' title='Download/View J.4_Engineering_Review_Board_(ERB)_User's_Guide.doc' class='file'>J.4_Engineering_Review_Board_(ERB)_User's_Guide.doc</a> (152.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.4: ENGINEERING REVIEW BOARD [ERB] USERS GUIDE </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=d7c926e63d97888d6463bd4238f4d604' target='_blank' title='Download/View J.5_Data_Supplied_by_CMS.docx' class='file'&gt;J.5_Data_Supplied_by_CMS.docx&lt;/a&gt;"><a href='/utils/view?id=d7c926e63d97888d6463bd4238f4d604' target='_blank' title='Download/View J.5_Data_Supplied_by_CMS.docx' class='file'>J.5_Data_Supplied_by_CMS.docx</a> (32.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.5: DATA SUPPLIED BY CMS </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=1b499bec27433cd433f7b872f8b4db41' target='_blank' title='Download/View J.6_Data_Use_Request_User_Guide.doc' class='file'&gt;J.6_Data_Use_Request_User_Guide.doc&lt;/a&gt;"><a href='/utils/view?id=1b499bec27433cd433f7b872f8b4db41' target='_blank' title='Download/View J.6_Data_Use_Request_User_Guide.doc' class='file'>J.6_Data_Use_Request_User_Guide.doc</a> (274.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.6: DATA USE REQUEST USER GUIDE </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][15][file][0][preview]" value="&lt;a href='/utils/view?id=4d550ad57e3bd7ae0e6cfea152a56a9a' target='_blank' title='Download/View J.6(a)_Data_Use_Agreement.DOCX' class='file'&gt;J.6(a)_Data_Use_Agreement.DOCX&lt;/a&gt;"><a href='/utils/view?id=4d550ad57e3bd7ae0e6cfea152a56a9a' target='_blank' title='Download/View J.6(a)_Data_Use_Agreement.DOCX' class='file'>J.6(a)_Data_Use_Agreement.DOCX</a> (24.48 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.6(a): DATA USE AGREEMENT</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][16][file][0][preview]" value="&lt;a href='/utils/view?id=fbb9736b31db38ae533c7db41801aa57' target='_blank' title='Download/View J.7_QIO_Communications_Handbook.pdf' class='file'&gt;J.7_QIO_Communications_Handbook.pdf&lt;/a&gt;"><a href='/utils/view?id=fbb9736b31db38ae533c7db41801aa57' target='_blank' title='Download/View J.7_QIO_Communications_Handbook.pdf' class='file'>J.7_QIO_Communications_Handbook.pdf</a> (412.13 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.7: QIO COMMUNICATIONS HANDBOOK  </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][17][file][0][preview]" value="&lt;a href='/utils/view?id=44f38ab2d5945735409e61aa86f21f62' target='_blank' title='Download/View J.7(a)_QIO_Program_Brand_Guidelines_Manual.pdf' class='file'&gt;J.7(a)_QIO_Program_Brand_Guidelines_Manual.pdf&lt;/a&gt;"><a href='/utils/view?id=44f38ab2d5945735409e61aa86f21f62' target='_blank' title='Download/View J.7(a)_QIO_Program_Brand_Guidelines_Manual.pdf' class='file'>J.7(a)_QIO_Program_Brand_Guidelines_Manual.pdf</a> (17,217.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.7(a): QIO PROGRAM BRAND GUIDELINES MANUAL  </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][18][file][0][preview]" value="&lt;a href='/utils/view?id=81d9115384d4cea214d01820f47973de' target='_blank' title='Download/View J.8_Glossary_of_Terms_and_Acronyms.docx' class='file'&gt;J.8_Glossary_of_Terms_and_Acronyms.docx&lt;/a&gt;"><a href='/utils/view?id=81d9115384d4cea214d01820f47973de' target='_blank' title='Download/View J.8_Glossary_of_Terms_and_Acronyms.docx' class='file'>J.8_Glossary_of_Terms_and_Acronyms.docx</a> (50.97 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.8: GLOSSARY OF TERMS AND ACRONYMS    </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][19][file][0][preview]" value="&lt;a href='/utils/view?id=f569f71ec89b6d520b22b21b0a4790ed' target='_blank' title='Download/View J.9_Past_Performance_Questionnaire.doc' class='file'&gt;J.9_Past_Performance_Questionnaire.doc&lt;/a&gt;"><a href='/utils/view?id=f569f71ec89b6d520b22b21b0a4790ed' target='_blank' title='Download/View J.9_Past_Performance_Questionnaire.doc' class='file'>J.9_Past_Performance_Questionnaire.doc</a> (47.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.9: PAST PERFORMANCE QUESTIONNAIRE</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][20][file][0][preview]" value="&lt;a href='/utils/view?id=de0456ce84253fd360bbefcdfa4f1f59' target='_blank' title='Download/View J.10_Question_Submission_Template.docx' class='file'&gt;J.10_Question_Submission_Template.docx&lt;/a&gt;"><a href='/utils/view?id=de0456ce84253fd360bbefcdfa4f1f59' target='_blank' title='Download/View J.10_Question_Submission_Template.docx' class='file'>J.10_Question_Submission_Template.docx</a> (24.95 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.10: QUESTION SUBMISSION TEMPLATE</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][21][file][0][preview]" value="&lt;a href='/utils/view?id=4307e97f3577237039fd32fe267c60e5' target='_blank' title='Download/View J.11_Compliance_Program_Attestation.docx' class='file'&gt;J.11_Compliance_Program_Attestation.docx&lt;/a&gt;"><a href='/utils/view?id=4307e97f3577237039fd32fe267c60e5' target='_blank' title='Download/View J.11_Compliance_Program_Attestation.docx' class='file'>J.11_Compliance_Program_Attestation.docx</a> (24.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.11: COMPLIANCE PROGRAM ATTESTATION </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][22][file][0][preview]" value="&lt;a href='/utils/view?id=2f3fb814762c60ce2b192f0b5b7c7dc4' target='_blank' title='Download/View J.13_Consent_to_Subcontract.docx' class='file'&gt;J.13_Consent_to_Subcontract.docx&lt;/a&gt;"><a href='/utils/view?id=2f3fb814762c60ce2b192f0b5b7c7dc4' target='_blank' title='Download/View J.13_Consent_to_Subcontract.docx' class='file'>J.13_Consent_to_Subcontract.docx</a> (21.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.13: CONSENT TO SUBCONTRACT</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][23][file][0][preview]" value="&lt;a href='/utils/view?id=5207918ada322aef549d40c383f2d5a8' target='_blank' title='Download/View J.14_Small_Business_Subcontracting_Plan.doc' class='file'&gt;J.14_Small_Business_Subcontracting_Plan.doc&lt;/a&gt;"><a href='/utils/view?id=5207918ada322aef549d40c383f2d5a8' target='_blank' title='Download/View J.14_Small_Business_Subcontracting_Plan.doc' class='file'>J.14_Small_Business_Subcontracting_Plan.doc</a> (139.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.14: SMALL BUSINESS SUBCONTRACTING PLAN</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][24][file][0][preview]" value="&lt;a href='/utils/view?id=79fb2311fb969af670a57daf074640de' target='_blank' title='Download/View J.15_Business_Proposal_Template.xlsx' class='file'&gt;J.15_Business_Proposal_Template.xlsx&lt;/a&gt;"><a href='/utils/view?id=79fb2311fb969af670a57daf074640de' target='_blank' title='Download/View J.15_Business_Proposal_Template.xlsx' class='file'>J.15_Business_Proposal_Template.xlsx</a> (785.19 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.15: BUSINESS PROPOSAL TEMPLATE </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][25][file][0][preview]" value="&lt;a href='/utils/view?id=f8cf65eeca644b60cc43a381dc52cd91' target='_blank' title='Download/View J.15(a)_Business_Proposal_Instructions.docx' class='file'&gt;J.15(a)_Business_Proposal_Instructions.docx&lt;/a&gt;"><a href='/utils/view?id=f8cf65eeca644b60cc43a381dc52cd91' target='_blank' title='Download/View J.15(a)_Business_Proposal_Instructions.docx' class='file'>J.15(a)_Business_Proposal_Instructions.docx</a> (76.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.15(a): BUSINESS PROPOSAL INSTRUCTIONS</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][26][file][0][preview]" value="&lt;a href='/utils/view?id=9ad992d05bdc5eaa970675b3d3727467' target='_blank' title='Download/View J.16_HCQIS_QIO_Basic_IT_Procurement_List.xlsx' class='file'&gt;J.16_HCQIS_QIO_Basic_IT_Procurement_List.xlsx&lt;/a&gt;"><a href='/utils/view?id=9ad992d05bdc5eaa970675b3d3727467' target='_blank' title='Download/View J.16_HCQIS_QIO_Basic_IT_Procurement_List.xlsx' class='file'>J.16_HCQIS_QIO_Basic_IT_Procurement_List.xlsx</a> (18.94 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.16: HCQIS QIO BASIC IT PROCUREMENT LIST</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][27][file][0][preview]" value="&lt;a href='/utils/view?id=ef96e408d18d3be01968f765f3befbfc' target='_blank' title='Download/View 2014_QIO_Program_Contract_Structure.pdf' class='file'&gt;2014_QIO_Program_Contract_Structure.pdf&lt;/a&gt;"><a href='/utils/view?id=ef96e408d18d3be01968f765f3befbfc' target='_blank' title='Download/View 2014_QIO_Program_Contract_Structure.pdf' class='file'>2014_QIO_Program_Contract_Structure.pdf</a> (233.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 2014 QIO Program Contract Structure</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	December 24, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5381472f73f5fd4629295904d8707441' target='_blank' title='Download/View QIN-QIO_Amendment_1_Cover_Letter_.pdf' class='file'&gt;QIN-QIO_Amendment_1_Cover_Letter_.pdf&lt;/a&gt;"><a href='/utils/view?id=5381472f73f5fd4629295904d8707441' target='_blank' title='Download/View QIN-QIO_Amendment_1_Cover_Letter_.pdf' class='file'>QIN-QIO_Amendment_1_Cover_Letter_.pdf</a> (3,318.26 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001 Cover Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=d11c20b4d8f4355c788a509e34e38f36' target='_blank' title='Download/View SF30_Cover.pdf' class='file'&gt;SF30_Cover.pdf&lt;/a&gt;"><a href='/utils/view?id=d11c20b4d8f4355c788a509e34e38f36' target='_blank' title='Download/View SF30_Cover.pdf' class='file'>SF30_Cover.pdf</a> (3,153.42 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001 SF30</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=36b5b3943f4b7f0ead5c2924401a246c' target='_blank' title='Download/View AMENDMENT_0001.docx' class='file'&gt;AMENDMENT_0001.docx&lt;/a&gt;"><a href='/utils/view?id=36b5b3943f4b7f0ead5c2924401a246c' target='_blank' title='Download/View AMENDMENT_0001.docx' class='file'>AMENDMENT_0001.docx</a> (33.57 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=4776a6de7c726119ada172cfd4926fa5' target='_blank' title='Download/View DRAFT_J15b_QIN_LOE_Amendment_0001.xlsx' class='file'&gt;DRAFT_J15b_QIN_LOE_Amendment_0001.xlsx&lt;/a&gt;"><a href='/utils/view?id=4776a6de7c726119ada172cfd4926fa5' target='_blank' title='Download/View DRAFT_J15b_QIN_LOE_Amendment_0001.xlsx' class='file'>DRAFT_J15b_QIN_LOE_Amendment_0001.xlsx</a> (29.04 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001 Draft LOE</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=45b632fb682978e26e26315dba122a9f' target='_blank' title='Download/View Appendix_A_Section_H_3_replacement_pages.docx' class='file'&gt;Appendix_A_Section_H_3_replacement_pages.docx&lt;/a&gt;"><a href='/utils/view?id=45b632fb682978e26e26315dba122a9f' target='_blank' title='Download/View Appendix_A_Section_H_3_replacement_pages.docx' class='file'>Appendix_A_Section_H_3_replacement_pages.docx</a> (31.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001 Section H.3 replacement</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	January 17, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3fdb184f7b73f6576f27d8f206261fd0' target='_blank' title='Download/View SF30_Cover_for_amendment.pdf' class='file'&gt;SF30_Cover_for_amendment.pdf&lt;/a&gt;"><a href='/utils/view?id=3fdb184f7b73f6576f27d8f206261fd0' target='_blank' title='Download/View SF30_Cover_for_amendment.pdf' class='file'>SF30_Cover_for_amendment.pdf</a> (78.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF30 Cover Page for Amendment 0002</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=145cfbc50ac0141721b5ebc3d0050252' target='_blank' title='Download/View Amendment_2_Questions_and_Responses.docx' class='file'&gt;Amendment_2_Questions_and_Responses.docx&lt;/a&gt;"><a href='/utils/view?id=145cfbc50ac0141721b5ebc3d0050252' target='_blank' title='Download/View Amendment_2_Questions_and_Responses.docx' class='file'>Amendment_2_Questions_and_Responses.docx</a> (122.56 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Responses to Solicitation Questions</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	January 29, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=ca8996d98dfdda9383abdd5b0358db90' target='_blank' title='Download/View Amendment_003_Cover_Letter.pdf' class='file'&gt;Amendment_003_Cover_Letter.pdf&lt;/a&gt;"><a href='/utils/view?id=ca8996d98dfdda9383abdd5b0358db90' target='_blank' title='Download/View Amendment_003_Cover_Letter.pdf' class='file'>Amendment_003_Cover_Letter.pdf</a> (93.33 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003 Cover Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=4d86b7a5dd86c8d4e390d43a953d1bfd' target='_blank' title='Download/View SF30_Amendment_0003.pdf' class='file'&gt;SF30_Amendment_0003.pdf&lt;/a&gt;"><a href='/utils/view?id=4d86b7a5dd86c8d4e390d43a953d1bfd' target='_blank' title='Download/View SF30_Amendment_0003.pdf' class='file'>SF30_Amendment_0003.pdf</a> (79.57 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003 SF30</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=a0cba4b6a38401d62f3b8938f7947c45' target='_blank' title='Download/View Amendment_0003_final.docx' class='file'&gt;Amendment_0003_final.docx&lt;/a&gt;"><a href='/utils/view?id=a0cba4b6a38401d62f3b8938f7947c45' target='_blank' title='Download/View Amendment_0003_final.docx' class='file'>Amendment_0003_final.docx</a> (100.65 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=73057de43ad3414e7cda765d1de4560a' target='_blank' title='Download/View Appendix_1_Technical_Q&amp;As.docx' class='file'&gt;Appendix_1_Technical_Q&amp;As.docx&lt;/a&gt;"><a href='/utils/view?id=73057de43ad3414e7cda765d1de4560a' target='_blank' title='Download/View Appendix_1_Technical_Q&As.docx' class='file'>Appendix_1_Technical_Q&As.docx</a> (391.01 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003 Technical Q&amp;A's</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=1194e03e2a706e4f4dc1b5c644c7c2d8' target='_blank' title='Download/View Appendix_2_Procurement_Q&amp;As.docx' class='file'&gt;Appendix_2_Procurement_Q&amp;As.docx&lt;/a&gt;"><a href='/utils/view?id=1194e03e2a706e4f4dc1b5c644c7c2d8' target='_blank' title='Download/View Appendix_2_Procurement_Q&As.docx' class='file'>Appendix_2_Procurement_Q&As.docx</a> (52.51 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003 Procurement Q&amp;A's</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=44cf842d90a1bb95ace965963579f525' target='_blank' title='Download/View Attachment_J.1_QIN-QIO_Task_Order_001.docx' class='file'&gt;Attachment_J.1_QIN-QIO_Task_Order_001.docx&lt;/a&gt;"><a href='/utils/view?id=44cf842d90a1bb95ace965963579f525' target='_blank' title='Download/View Attachment_J.1_QIN-QIO_Task_Order_001.docx' class='file'>Attachment_J.1_QIN-QIO_Task_Order_001.docx</a> (341.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003 Attachment J.1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=c96df1a443667c29e29f56fc809e863e' target='_blank' title='Download/View Attachment_J.1(a)_QIN-QIO_Schedule_of_Deliverables_2.docx' class='file'&gt;Attachment_J.1(a)_QIN-QIO_Schedule_of_Deliverables_2.docx&lt;/a&gt;"><a href='/utils/view?id=c96df1a443667c29e29f56fc809e863e' target='_blank' title='Download/View Attachment_J.1(a)_QIN-QIO_Schedule_of_Deliverables_2.docx' class='file'>Attachment_J.1(a)_QIN-QIO_Schedule_of_Deliverables_2.docx</a> (149.43 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(a)_QIN-QIO_Schedule_of_Deliverables 2</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=83e468fb69e08e4ba4b76ed94d859323' target='_blank' title='Download/View Attachment_J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx' class='file'&gt;Attachment_J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx&lt;/a&gt;"><a href='/utils/view?id=83e468fb69e08e4ba4b76ed94d859323' target='_blank' title='Download/View Attachment_J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx' class='file'>Attachment_J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx</a> (86.39 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(b)_QIN-QIO_Evaluation_Measures_Table</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=6e809711e1097d1d39cf4c2f45c6a650' target='_blank' title='Download/View Attachment_J.1(g)_Confirmed_Quality_Concerns_Report_2011_and_2012.pdf' class='file'&gt;Attachment_J.1(g)_Confirmed_Quality_Concerns_Report_2011_and_2012.pdf&lt;/a&gt;"><a href='/utils/view?id=6e809711e1097d1d39cf4c2f45c6a650' target='_blank' title='Download/View Attachment_J.1(g)_Confirmed_Quality_Concerns_Report_2011_and_2012.pdf' class='file'>Attachment_J.1(g)_Confirmed_Quality_Concerns_Report_2011_and_2012.pdf</a> (80.68 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1(g) Confirmed Quality Concerns Report 2011 and 2012</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=81a0950cfed24328007382c1b5296937' target='_blank' title='Download/View Attachment_J.8_Glossary_of_Terms_and_Acronyms.docx' class='file'&gt;Attachment_J.8_Glossary_of_Terms_and_Acronyms.docx&lt;/a&gt;"><a href='/utils/view?id=81a0950cfed24328007382c1b5296937' target='_blank' title='Download/View Attachment_J.8_Glossary_of_Terms_and_Acronyms.docx' class='file'>Attachment_J.8_Glossary_of_Terms_and_Acronyms.docx</a> (60.90 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.8_Glossary_of_Terms_and_Acronyms</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=8d81b11f276616e936340e8e8d47e567' target='_blank' title='Download/View Attachment_J.15_Business_Proposal_Template.xlsx' class='file'&gt;Attachment_J.15_Business_Proposal_Template.xlsx&lt;/a&gt;"><a href='/utils/view?id=8d81b11f276616e936340e8e8d47e567' target='_blank' title='Download/View Attachment_J.15_Business_Proposal_Template.xlsx' class='file'>Attachment_J.15_Business_Proposal_Template.xlsx</a> (801.10 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.15 Business Proposal Template</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=23e6575ded48030c63f2e300832c4e08' target='_blank' title='Download/View Attachment_J.15(a)_revised_BP_Instructions.docx' class='file'&gt;Attachment_J.15(a)_revised_BP_Instructions.docx&lt;/a&gt;"><a href='/utils/view?id=23e6575ded48030c63f2e300832c4e08' target='_blank' title='Download/View Attachment_J.15(a)_revised_BP_Instructions.docx' class='file'>Attachment_J.15(a)_revised_BP_Instructions.docx</a> (89.81 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.15(a) revised BP Instructions</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=07ef55665a3edc0829968d7c285f43ea' target='_blank' title='Download/View Attachment_J.15(b)_QIN_LEVEL_OF_EFFORT_(FINAL).xlsx' class='file'&gt;Attachment_J.15(b)_QIN_LEVEL_OF_EFFORT_(FINAL).xlsx&lt;/a&gt;"><a href='/utils/view?id=07ef55665a3edc0829968d7c285f43ea' target='_blank' title='Download/View Attachment_J.15(b)_QIN_LEVEL_OF_EFFORT_(FINAL).xlsx' class='file'>Attachment_J.15(b)_QIN_LEVEL_OF_EFFORT_(FINAL).xlsx</a> (11.41 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.15(b) QIN LEVEL OF EFFORT (FINAL)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=4c4d9cf6f480c3507aa8d5f42e733d9c' target='_blank' title='Download/View Attachment_J.17__Medicare_Beneficiary_Population_by_State.pdf' class='file'&gt;Attachment_J.17__Medicare_Beneficiary_Population_by_State.pdf&lt;/a&gt;"><a href='/utils/view?id=4c4d9cf6f480c3507aa8d5f42e733d9c' target='_blank' title='Download/View Attachment_J.17__Medicare_Beneficiary_Population_by_State.pdf' class='file'>Attachment_J.17__Medicare_Beneficiary_Population_by_State.pdf</a> (34.93 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.17  Medicare Beneficiary Population by State</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=bf2dced304d993c051198b200eef8fd8' target='_blank' title='Download/View Attachment_J.17(a)_Medicare_Beneficiary_Population_for_outlying_areas.xlsx' class='file'&gt;Attachment_J.17(a)_Medicare_Beneficiary_Population_for_outlying_areas.xlsx&lt;/a&gt;"><a href='/utils/view?id=bf2dced304d993c051198b200eef8fd8' target='_blank' title='Download/View Attachment_J.17(a)_Medicare_Beneficiary_Population_for_outlying_areas.xlsx' class='file'>Attachment_J.17(a)_Medicare_Beneficiary_Population_for_outlying_areas.xlsx</a> (12.39 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.17(a) Medicare Beneficiary Population for outlying areas</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][15][file][0][preview]" value="&lt;a href='/utils/view?id=2c47b5b3ca2e43ffb85b3f2f6838c216' target='_blank' title='Download/View Attachment_J.18__HHS_Policy_on_Conferences_and_Meeting_Space_-_Dec_16_2013.pdf' class='file'&gt;Attachment_J.18__HHS_Policy_on_Conferences_and_Meeting_Space_-_Dec_16_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=2c47b5b3ca2e43ffb85b3f2f6838c216' target='_blank' title='Download/View Attachment_J.18__HHS_Policy_on_Conferences_and_Meeting_Space_-_Dec_16_2013.pdf' class='file'>Attachment_J.18__HHS_Policy_on_Conferences_and_Meeting_Space_-_Dec_16_2013.pdf</a> (1,081.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.18  HHS Policy on Conferences and Meeting Space - Dec 16 2013</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][16][file][0][preview]" value="&lt;a href='/utils/view?id=3965b3c72fe7f1a685dc5808b8f81e55' target='_blank' title='Download/View Attachment_J.19_QIN_QIO_Conference_Attendance_Table.docx' class='file'&gt;Attachment_J.19_QIN_QIO_Conference_Attendance_Table.docx&lt;/a&gt;"><a href='/utils/view?id=3965b3c72fe7f1a685dc5808b8f81e55' target='_blank' title='Download/View Attachment_J.19_QIN_QIO_Conference_Attendance_Table.docx' class='file'>Attachment_J.19_QIN_QIO_Conference_Attendance_Table.docx</a> (17.82 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.19 QIN QIO Conference Attendance Table</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][17][file][0][preview]" value="&lt;a href='/utils/view?id=2049ad52cb42dda6fbac8c4569212fcf' target='_blank' title='Download/View Attachment_J.20_Personal_Conflict_of_Interest_Sample_Disclosure_Format_Template.docx' class='file'&gt;Attachment_J.20_Personal_Conflict_of_Interest_Sample_Disclosure_Format_Template.docx&lt;/a&gt;"><a href='/utils/view?id=2049ad52cb42dda6fbac8c4569212fcf' target='_blank' title='Download/View Attachment_J.20_Personal_Conflict_of_Interest_Sample_Disclosure_Format_Template.docx' class='file'>Attachment_J.20_Personal_Conflict_of_Interest_Sample_Disclosure_Format_Template.docx</a> (27.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.20 Personal Conflict of Interest Sample Disclosure Format Template</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][18][file][0][preview]" value="&lt;a href='/utils/view?id=2f4f19d2c9d21d35caa53a007563d9a4' target='_blank' title='Download/View RED_LINED_J.1_QIN-QIO_Task_Order_001.docx' class='file'&gt;RED_LINED_J.1_QIN-QIO_Task_Order_001.docx&lt;/a&gt;"><a href='/utils/view?id=2f4f19d2c9d21d35caa53a007563d9a4' target='_blank' title='Download/View RED_LINED_J.1_QIN-QIO_Task_Order_001.docx' class='file'>RED_LINED_J.1_QIN-QIO_Task_Order_001.docx</a> (392.06 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RED LINED J.1_QIN-QIO_Task_Order_001</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][19][file][0][preview]" value="&lt;a href='/utils/view?id=4e97182517964820496f73262ece7fd7' target='_blank' title='Download/View RED_LINED_J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx' class='file'&gt;RED_LINED_J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx&lt;/a&gt;"><a href='/utils/view?id=4e97182517964820496f73262ece7fd7' target='_blank' title='Download/View RED_LINED_J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx' class='file'>RED_LINED_J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx</a> (175.55 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RED LINED J.1(a)_QIN-QIO_Schedule_of_Deliverables</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=42c7b76a9388daf1cfb9e81dcadde71f' target='_blank' title='Download/View Signed_QIN-QIO_Amendment_0004_cover_letter.pdf' class='file'&gt;Signed_QIN-QIO_Amendment_0004_cover_letter.pdf&lt;/a&gt;"><a href='/utils/view?id=42c7b76a9388daf1cfb9e81dcadde71f' target='_blank' title='Download/View Signed_QIN-QIO_Amendment_0004_cover_letter.pdf' class='file'>Signed_QIN-QIO_Amendment_0004_cover_letter.pdf</a> (1,005.78 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Cover Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=80176a7b90760a5ef3767ad78dc7d38d' target='_blank' title='Download/View SF30_Amendment_0004.pdf' class='file'&gt;SF30_Amendment_0004.pdf&lt;/a&gt;"><a href='/utils/view?id=80176a7b90760a5ef3767ad78dc7d38d' target='_blank' title='Download/View SF30_Amendment_0004.pdf' class='file'>SF30_Amendment_0004.pdf</a> (78.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF30</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=3623894775d8ee11d36aa105f5e89ed8' target='_blank' title='Download/View Amendment_0004.docx' class='file'&gt;Amendment_0004.docx&lt;/a&gt;"><a href='/utils/view?id=3623894775d8ee11d36aa105f5e89ed8' target='_blank' title='Download/View Amendment_0004.docx' class='file'>Amendment_0004.docx</a> (42.18 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0004</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=eecbe3e5beba2286ab3cd704d39c4790' target='_blank' title='Download/View Attachment_A-_Task_B.4.xlsx' class='file'&gt;Attachment_A-_Task_B.4.xlsx&lt;/a&gt;"><a href='/utils/view?id=eecbe3e5beba2286ab3cd704d39c4790' target='_blank' title='Download/View Attachment_A-_Task_B.4.xlsx' class='file'>Attachment_A-_Task_B.4.xlsx</a> (14.19 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment A</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=4e7aff9646ead442a1d5b772632d7ab3' target='_blank' title='Download/View Additional_Q&amp;As.docx' class='file'&gt;Additional_Q&amp;As.docx&lt;/a&gt;"><a href='/utils/view?id=4e7aff9646ead442a1d5b772632d7ab3' target='_blank' title='Download/View Additional_Q&As.docx' class='file'>Additional_Q&As.docx</a> (42.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment Questions and answers</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		7500 Security Blvd.<br />
+C2-21-15<br/>
+
+			
+				
+		Baltimore,
+
+			
+	
+		Maryland
+
+			
+	
+		21244-1850
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Kimberly Belli Tatum,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:QINmailbox@cms.hhs.gov">QINmailbox@cms.hhs.gov</a></div>
+	<div>Phone: 4107867440</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=dff522bababb6b9859bb783c08db6074'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=dff522bababb6b9859bb783c08db6074'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d91e4638a824bf208fb747fb5b1f644d">QIN-QIO Solicitation</a> <a target="_blank" href="/utils/dZip?base=dff522bababb6b9859bb783c08db6074&class=document_package&id=d91e4638a824bf208fb747fb5b1f644d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 05, 2013</div></dt><dd><a href="/utils/view?id=9f5cd1f863069d3cdfb1616a8857075f" target="_blank" title="Download/View QIN-QIO_Solicitation_Cover_Letter.pdf" class="file">QIN-QIO_Solicitation_Cover_Letter.pdf</a></dd><dd><a href="/utils/view?id=279e634f90f8b9e36bbc4396929eff65" target="_blank" title="Download/View SF33_QIN.pdf" class="file">SF33_QIN.pdf</a></dd><dd><a href="/utils/view?id=a94cb69b692fcdd7147bfd88ed52e44f" target="_blank" title="Download/View QIN-QIO_Solicitation.doc" class="file">QIN-QIO_Solicitation.doc</a></dd><dd><a href="/utils/view?id=ea93afe22971708b8a22dac91c8ee7e9" target="_blank" title="Download/View J.1_QIN-QIO_Task_Order_001.docx" class="file">J.1_QIN-QIO_Task_Order_001.docx</a></dd><dd><a href="/utils/view?id=14ff7d3c0414a3980c98e38cc86abad6" target="_blank" title="Download/View J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx" class="file">J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx</a></dd><dd><a href="/utils/view?id=9a8d186a8ef92e4ba74c72d4938d37dd" target="_blank" title="Download/View J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx" class="file">J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx</a></dd><dd><a href="/utils/view?id=52e9ab8aa4502293f445265a3be62e8f" target="_blank" title="Download/View J.1(c)_QIN-QIO_Squire_Guidelines_for_Reporting_Intervention_Trials.docx" class="file">J.1(c)_QIN-QIO_Squire_Guidelines_for_Reporting_Intervention_Trials.docx</a></dd><dd><a href="/utils/view?id=45856a82d215e19bf86b461c27d12f49" target="_blank" title="Download/View J.1(d)_QIN-QIO_Community_Selection_Criterion.docx" class="file">J.1(d)_QIN-QIO_Community_Selection_Criterion.docx</a></dd><dd><a href="/utils/view?id=c9d4b9d620d621368adfe03b2ba0c594" target="_blank" title="Download/View J.1(e)_QIN-QIO_Table_of_Evidence_Based_Interventions.docx" class="file">J.1(e)_QIN-QIO_Table_of_Evidence_Based_Interventions.docx</a></dd><dd><a href="/utils/view?id=b093f1881256d2b370eafac51e2f9c83" target="_blank" title="Download/View J.1(f)_Sample_LAN_Meeting_Strategy.docx" class="file">J.1(f)_Sample_LAN_Meeting_Strategy.docx</a></dd><dd><a href="/utils/view?id=e58126985131c32a40a20b42673e0bbd" target="_blank" title="Download/View J.2_Items_Incorporated_by_Reference.docx" class="file">J.2_Items_Incorporated_by_Reference.docx</a></dd><dd><a href="/utils/view?id=9f1c4fbf8fd17f4c04dbc3d417aa6083" target="_blank" title="Download/View J.3_List_of_IT_Systems_Narrative.docx" class="file">J.3_List_of_IT_Systems_Narrative.docx</a></dd><dd><a href="/utils/view?id=f5cdc54885c462334c8f11a2f87360b6" target="_blank" title="Download/View J.4_Engineering_Review_Board_(ERB)_User's_Guide.doc" class="file">J.4_Engineering_Review_Board_(ERB)_User's_Guide.doc</a></dd><dd><a href="/utils/view?id=d7c926e63d97888d6463bd4238f4d604" target="_blank" title="Download/View J.5_Data_Supplied_by_CMS.docx" class="file">J.5_Data_Supplied_by_CMS.docx</a></dd><dd><a href="/utils/view?id=1b499bec27433cd433f7b872f8b4db41" target="_blank" title="Download/View J.6_Data_Use_Request_User_Guide.doc" class="file">J.6_Data_Use_Request_User_Guide.doc</a></dd><dd><a href="/utils/view?id=4d550ad57e3bd7ae0e6cfea152a56a9a" target="_blank" title="Download/View J.6(a)_Data_Use_Agreement.DOCX" class="file">J.6(a)_Data_Use_Agreement.DOCX</a></dd><dd><a href="/utils/view?id=fbb9736b31db38ae533c7db41801aa57" target="_blank" title="Download/View J.7_QIO_Communications_Handbook.pdf" class="file">J.7_QIO_Communications_Handbook.pdf</a></dd><dd><a href="/utils/view?id=44f38ab2d5945735409e61aa86f21f62" target="_blank" title="Download/View J.7(a)_QIO_Program_Brand_Guidelines_Manual.pdf" class="file">J.7(a)_QIO_Program_Brand_Guidelines_Manual.pdf</a></dd><dd><a href="/utils/view?id=81d9115384d4cea214d01820f47973de" target="_blank" title="Download/View J.8_Glossary_of_Terms_and_Acronyms.docx" class="file">J.8_Glossary_of_Terms_and_Acronyms.docx</a></dd><dd><a href="/utils/view?id=f569f71ec89b6d520b22b21b0a4790ed" target="_blank" title="Download/View J.9_Past_Performance_Questionnaire.doc" class="file">J.9_Past_Performance_Questionnaire.doc</a></dd><dd><a href="/utils/view?id=de0456ce84253fd360bbefcdfa4f1f59" target="_blank" title="Download/View J.10_Question_Submission_Template.docx" class="file">J.10_Question_Submission_Template.docx</a></dd><dd><a href="/utils/view?id=4307e97f3577237039fd32fe267c60e5" target="_blank" title="Download/View J.11_Compliance_Program_Attestation.docx" class="file">J.11_Compliance_Program_Attestation.docx</a></dd><dd><a href="/utils/view?id=2f3fb814762c60ce2b192f0b5b7c7dc4" target="_blank" title="Download/View J.13_Consent_to_Subcontract.docx" class="file">J.13_Consent_to_Subcontract.docx</a></dd><dd><a href="/utils/view?id=5207918ada322aef549d40c383f2d5a8" target="_blank" title="Download/View J.14_Small_Business_Subcontracting_Plan.doc" class="file">J.14_Small_Business_Subcontracting_Plan.doc</a></dd><dd><a href="/utils/view?id=79fb2311fb969af670a57daf074640de" target="_blank" title="Download/View J.15_Business_Proposal_Template.xlsx" class="file">J.15_Business_Proposal_Template.xlsx</a></dd><dd><a href="/utils/view?id=f8cf65eeca644b60cc43a381dc52cd91" target="_blank" title="Download/View J.15(a)_Business_Proposal_Instructions.docx" class="file">J.15(a)_Business_Proposal_Instructions.docx</a></dd><dd><a href="/utils/view?id=9ad992d05bdc5eaa970675b3d3727467" target="_blank" title="Download/View J.16_HCQIS_QIO_Basic_IT_Procurement_List.xlsx" class="file">J.16_HCQIS_QIO_Basic_IT_Procurement_List.xlsx</a></dd><dd><a href="/utils/view?id=ef96e408d18d3be01968f765f3befbfc" target="_blank" title="Download/View 2014_QIO_Program_Contract_Structure.pdf" class="file">2014_QIO_Program_Contract_Structure.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c8be48b1325cc0395b336109d57999da">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=dff522bababb6b9859bb783c08db6074&class=document_package&id=c8be48b1325cc0395b336109d57999da" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 24, 2013</div></dt><dd><a href="/utils/view?id=5381472f73f5fd4629295904d8707441" target="_blank" title="Download/View QIN-QIO_Amendment_1_Cover_Letter_.pdf" class="file">QIN-QIO_Amendment_1_Cover_Letter_.pdf</a></dd><dd><a href="/utils/view?id=d11c20b4d8f4355c788a509e34e38f36" target="_blank" title="Download/View SF30_Cover.pdf" class="file">SF30_Cover.pdf</a></dd><dd><a href="/utils/view?id=36b5b3943f4b7f0ead5c2924401a246c" target="_blank" title="Download/View AMENDMENT_0001.docx" class="file">AMENDMENT_0001.docx</a></dd><dd><a href="/utils/view?id=4776a6de7c726119ada172cfd4926fa5" target="_blank" title="Download/View DRAFT_J15b_QIN_LOE_Amendment_0001.xlsx" class="file">DRAFT_J15b_QIN_LOE_Amendment_0001.xlsx</a></dd><dd><a href="/utils/view?id=45b632fb682978e26e26315dba122a9f" target="_blank" title="Download/View Appendix_A_Section_H_3_replacement_pages.docx" class="file">Appendix_A_Section_H_3_replacement_pages.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=74e41e6539a6e5bbb62239e42c2b4f46">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=dff522bababb6b9859bb783c08db6074&class=document_package&id=74e41e6539a6e5bbb62239e42c2b4f46" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 17, 2014</div></dt><dd><a href="/utils/view?id=3fdb184f7b73f6576f27d8f206261fd0" target="_blank" title="Download/View SF30_Cover_for_amendment.pdf" class="file">SF30_Cover_for_amendment.pdf</a></dd><dd><a href="/utils/view?id=145cfbc50ac0141721b5ebc3d0050252" target="_blank" title="Download/View Amendment_2_Questions_and_Responses.docx" class="file">Amendment_2_Questions_and_Responses.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=22618533bf75ae56a7e2439b1f22e9bc">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=dff522bababb6b9859bb783c08db6074&class=document_package&id=22618533bf75ae56a7e2439b1f22e9bc" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 29, 2014</div></dt><dd><a href="/utils/view?id=ca8996d98dfdda9383abdd5b0358db90" target="_blank" title="Download/View Amendment_003_Cover_Letter.pdf" class="file">Amendment_003_Cover_Letter.pdf</a></dd><dd><a href="/utils/view?id=4d86b7a5dd86c8d4e390d43a953d1bfd" target="_blank" title="Download/View SF30_Amendment_0003.pdf" class="file">SF30_Amendment_0003.pdf</a></dd><dd><a href="/utils/view?id=a0cba4b6a38401d62f3b8938f7947c45" target="_blank" title="Download/View Amendment_0003_final.docx" class="file">Amendment_0003_final.docx</a></dd><dd><a href="/utils/view?id=73057de43ad3414e7cda765d1de4560a" target="_blank" title="Download/View Appendix_1_Technical_Q&amp;As.docx" class="file">Appendix_1_Technical_Q&As.docx</a></dd><dd><a href="/utils/view?id=1194e03e2a706e4f4dc1b5c644c7c2d8" target="_blank" title="Download/View Appendix_2_Procurement_Q&amp;As.docx" class="file">Appendix_2_Procurement_Q&As.docx</a></dd><dd><a href="/utils/view?id=44cf842d90a1bb95ace965963579f525" target="_blank" title="Download/View Attachment_J.1_QIN-QIO_Task_Order_001.docx" class="file">Attachment_J.1_QIN-QIO_Task_Order_001.docx</a></dd><dd><a href="/utils/view?id=c96df1a443667c29e29f56fc809e863e" target="_blank" title="Download/View Attachment_J.1(a)_QIN-QIO_Schedule_of_Deliverables_2.docx" class="file">Attachment_J.1(a)_QIN-QIO_Schedule_of_Deliverables_2.docx</a></dd><dd><a href="/utils/view?id=83e468fb69e08e4ba4b76ed94d859323" target="_blank" title="Download/View Attachment_J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx" class="file">Attachment_J.1(b)_QIN-QIO_Evaluation_Measures_Table.xlsx</a></dd><dd><a href="/utils/view?id=6e809711e1097d1d39cf4c2f45c6a650" target="_blank" title="Download/View Attachment_J.1(g)_Confirmed_Quality_Concerns_Report_2011_and_2012.pdf" class="file">Attachment_J.1(g)_Confirmed_Quality_Concerns_Report_2011_and_2012.pdf</a></dd><dd><a href="/utils/view?id=81a0950cfed24328007382c1b5296937" target="_blank" title="Download/View Attachment_J.8_Glossary_of_Terms_and_Acronyms.docx" class="file">Attachment_J.8_Glossary_of_Terms_and_Acronyms.docx</a></dd><dd><a href="/utils/view?id=8d81b11f276616e936340e8e8d47e567" target="_blank" title="Download/View Attachment_J.15_Business_Proposal_Template.xlsx" class="file">Attachment_J.15_Business_Proposal_Template.xlsx</a></dd><dd><a href="/utils/view?id=23e6575ded48030c63f2e300832c4e08" target="_blank" title="Download/View Attachment_J.15(a)_revised_BP_Instructions.docx" class="file">Attachment_J.15(a)_revised_BP_Instructions.docx</a></dd><dd><a href="/utils/view?id=07ef55665a3edc0829968d7c285f43ea" target="_blank" title="Download/View Attachment_J.15(b)_QIN_LEVEL_OF_EFFORT_(FINAL).xlsx" class="file">Attachment_J.15(b)_QIN_LEVEL_OF_EFFORT_(FINAL).xlsx</a></dd><dd><a href="/utils/view?id=4c4d9cf6f480c3507aa8d5f42e733d9c" target="_blank" title="Download/View Attachment_J.17__Medicare_Beneficiary_Population_by_State.pdf" class="file">Attachment_J.17__Medicare_Beneficiary_Population_by_State.pdf</a></dd><dd><a href="/utils/view?id=bf2dced304d993c051198b200eef8fd8" target="_blank" title="Download/View Attachment_J.17(a)_Medicare_Beneficiary_Population_for_outlying_areas.xlsx" class="file">Attachment_J.17(a)_Medicare_Beneficiary_Population_for_outlying_areas.xlsx</a></dd><dd><a href="/utils/view?id=2c47b5b3ca2e43ffb85b3f2f6838c216" target="_blank" title="Download/View Attachment_J.18__HHS_Policy_on_Conferences_and_Meeting_Space_-_Dec_16_2013.pdf" class="file">Attachment_J.18__HHS_Policy_on_Conferences_and_Meeting_Space_-_Dec_16_2013.pdf</a></dd><dd><a href="/utils/view?id=3965b3c72fe7f1a685dc5808b8f81e55" target="_blank" title="Download/View Attachment_J.19_QIN_QIO_Conference_Attendance_Table.docx" class="file">Attachment_J.19_QIN_QIO_Conference_Attendance_Table.docx</a></dd><dd><a href="/utils/view?id=2049ad52cb42dda6fbac8c4569212fcf" target="_blank" title="Download/View Attachment_J.20_Personal_Conflict_of_Interest_Sample_Disclosure_Format_Template.docx" class="file">Attachment_J.20_Personal_Conflict_of_Interest_Sample_Disclosure_Format_Template.docx</a></dd><dd><a href="/utils/view?id=2f4f19d2c9d21d35caa53a007563d9a4" target="_blank" title="Download/View RED_LINED_J.1_QIN-QIO_Task_Order_001.docx" class="file">RED_LINED_J.1_QIN-QIO_Task_Order_001.docx</a></dd><dd><a href="/utils/view?id=4e97182517964820496f73262ece7fd7" target="_blank" title="Download/View RED_LINED_J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx" class="file">RED_LINED_J.1(a)_QIN-QIO_Schedule_of_Deliverables.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=0eab24d28687dbe59a23d77cfe214451">Amendment 4</a> <a target="_blank" href="/utils/dZip?base=dff522bababb6b9859bb783c08db6074&class=document_package&id=0eab24d28687dbe59a23d77cfe214451" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="/utils/view?id=42c7b76a9388daf1cfb9e81dcadde71f" target="_blank" title="Download/View Signed_QIN-QIO_Amendment_0004_cover_letter.pdf" class="file">Signed_QIN-QIO_Amendment_0004_cover_letter.pdf</a></dd><dd><a href="/utils/view?id=80176a7b90760a5ef3767ad78dc7d38d" target="_blank" title="Download/View SF30_Amendment_0004.pdf" class="file">SF30_Amendment_0004.pdf</a></dd><dd><a href="/utils/view?id=3623894775d8ee11d36aa105f5e89ed8" target="_blank" title="Download/View Amendment_0004.docx" class="file">Amendment_0004.docx</a></dd><dd><a href="/utils/view?id=eecbe3e5beba2286ab3cd704d39c4790" target="_blank" title="Download/View Attachment_A-_Task_B.4.xlsx" class="file">Attachment_A-_Task_B.4.xlsx</a></dd><dd><a href="/utils/view?id=4e7aff9646ead442a1d5b772632d7ab3" target="_blank" title="Download/View Additional_Q&amp;As.docx" class="file">Additional_Q&As.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	December 5, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 21, 2014 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 14, 2014 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Q -- Medical services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541618 -- Other Management Consulting Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

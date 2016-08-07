@@ -1,0 +1,804 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>USAF PKI SMART CARD INTERFACE DEVELOPMENT (SCID) - FA8307-14-Q-0043 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392494043');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392494043';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Materiel Command logo"></div><div class="agency-header"><h2>USAF PKI SMART CARD INTERFACE DEVELOPMENT (SCID)</h2><div class="sol-num">Solicitation Number: FA8307-14-Q-0043</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Materiel Command<br>Location: AFLCMC - Hanscom</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=8addc3cc4ab1aba5a92fe0720aa43506&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AFMC/ESC/FA8307-14-Q-0043/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AFMC/ESC/FA8307-14-Q-0043/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AFMC/ESC/FA8307-14-Q-0043/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=8addc3cc4ab1aba5a92fe0720aa43506&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8addc3cc4ab1aba5a92fe0720aa43506&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8addc3cc4ab1aba5a92fe0720aa43506&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<div class='notice'>
+<div class='miw'>
+<h2>Note: </h2>
+This opportunity allows for electronic responses.  <a href="?s=main&mode=list&tab=login&_eresp=8addc3cc4ab1aba5a92fe0720aa43506">Click here</a> to log in and submit a response.
+</div>
+</div>
+<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=d96b6c41f98d02da2ef36140bfb9f169&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Feb 04, 2014</div><div class="nh-date">5:10 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=8addc3cc4ab1aba5a92fe0720aa43506&_cview=0">Changed</a><div class="nh-date">Feb 12, 2014</div><div class="nh-date">9:56 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d96b6c41f98d02da2ef36140bfb9f169'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d96b6c41f98d02da2ef36140bfb9f169'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA8307-14-Q-0043
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-04 17:10:17">Feb 04, 2014 5:10 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-12 09:53:01">Feb 12, 2014 9:53 am<a href="/utils/viewDifferences?class=notice_description&id=e881bb15d1fa1476f3a9e52c54cd6c9b&compared_to=3201fb80e2167d1cdb64a8a1ae9c1d71" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=e881bb15d1fa1476f3a9e52c54cd6c9b&compared_to=3201fb80e2167d1cdb64a8a1ae9c1d71&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		&nbsp;&nbsp;&nbsp;<br />
+<h2 style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt"><span style="FONT-STYLE: normal; FONT-SIZE: 12pt; mso-bidi-font-style: italic">REQUEST FOR INFORMATION (RFI)</span></h2><br />
+<h2 style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt"><span style="TEXT-TRANSFORM: uppercase; FONT-STYLE: normal; COLOR: black; FONT-SIZE: 12pt; mso-bidi-font-style: italic">USAF PKI Smart Card Interface Development</span><span style="TEXT-TRANSFORM: uppercase; FONT-STYLE: normal; FONT-SIZE: 12pt; mso-bidi-font-style: italic"> (SCID)</span></h2><br />
+<p style="TEXT-ALIGN: center" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">11 February 2014</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="mso-fareast-language: EN-US">&nbsp;</span></p><br />
+<h1 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 12pt">&nbsp;</span></h1><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: black; mso-bidi-font-style: italic; mso-fareast-language: EN-US">INTRODUCTION:</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: black; mso-bidi-font-style: italic; mso-fareast-language: EN-US">&nbsp;</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: black; mso-bidi-font-style: italic; mso-fareast-language: EN-US">THIS IS A REQUEST FOR INFORMATION (RFI) ONLY.<strong style="mso-bidi-font-weight: normal"><span style="mso-spacerun: yes">&nbsp; </span></strong>This is an RFI released pursuant to FAR 15.201(e).<span style="mso-spacerun: yes">&nbsp; </span>This RFI is issued solely for information, planning purposes and market research only; it does not constitute a Request for Proposal (RFP).<span style="mso-spacerun: yes">&nbsp; </span>This RFI does not commit the U.S. Government (USG) to contract for any supply or service. </span></p><br />
+<h1 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="COLOR: black; FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-style: italic; mso-bidi-font-weight: bold; mso-fareast-language: EN-US">&nbsp;</span></h1><br />
+<h1 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="COLOR: black; FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-style: italic; mso-bidi-font-weight: bold; mso-fareast-language: EN-US">The USG is not at this time seeking proposals.<span style="mso-spacerun: yes">&nbsp; </span>Respondents are advised that the USG will not pay any cost incurred in response to this RFI.<span style="mso-spacerun: yes">&nbsp; </span>All costs associated with responding to this RFI will be solely at the interested party's expense.<span style="mso-spacerun: yes">&nbsp; </span>Not responding to this RFI does not preclude participation in any future RFP.<span style="mso-spacerun: yes">&nbsp; </span>The information provided in this RFI is subject to change and is considered non-binding.<span style="mso-spacerun: yes">&nbsp; </span>All submissions become the property of the USG, and will not be returned.</span></h1><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify">&nbsp;</p><br />
+<h1 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 12pt">BACKGROUND:</span></h1><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">The Air Force Life Cycle Management Center, Cryptologic and Cyber Systems Division, Air Force PKI SPO (AFLCMC/HNCYP), requests your response to the following RFI.<span style="mso-spacerun: yes">&nbsp; </span>The purpose of this RFI is to collect information that will potentially assist in the development of the Smart Card Interface Development (SCID).<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">The Air Force is seeking commercially available information or utilities that will improve and/or modernize the current smart card-host software interface.<span style="mso-spacerun: yes">&nbsp; </span>Desired functionality and features are described in a classified addendum.<span style="mso-spacerun: yes">&nbsp; </span>To request a copy of the classified addendum, please contact Ms. Jeanne Morey at </span><a href="mailto:jeanne.morey.ctr@us.af.mil"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">jeanne.morey.ctr@us.af.mil</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'">.</span></p><br />
+<h2 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="FONT-STYLE: normal; FONT-SIZE: 12pt; mso-bidi-font-style: italic">&nbsp;</span></h2><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Any firm receiving a copy of the classified addendum will agree to destroy the copy IAW DoDM 5200.01 by the RFI due date.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-bidi-font-weight: bold">The proposed North American Industry Classification System (NAICS) Code is 541511 (Custom Computer Programming Services)</span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: black">; proposed Product and Service Code (PSC) is AJ25 (R&amp;D - General Science/Technology: Mathematical/Computer Sciences (Operational Systems Development)), and </span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-bidi-font-weight: bold">the Small Business Size Standard is $25.5M.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<h2 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="FONT-STYLE: normal; FONT-SIZE: 12pt; mso-bidi-font-style: italic">REQUESTED INFORMATION:</span></h2><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Respondents are requested to provide a concise capability statement/white paper, addressing the following:</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -0.25in; MARGIN-BOTTOM: 0pt; mso-add-space: auto; mso-list: l0 level1 lfo1"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Arial"><span>&bull;1)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">General approach to meeting SCID project goals as detailed in the classified addendum.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-add-space: auto"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -0.25in; MARGIN-BOTTOM: 0pt; mso-add-space: auto; mso-list: l0 level1 lfo1"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Arial"><span>&bull;2)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">Rough order of magnitude (ROM) cost estimate for development and licensing that meets SCID project goals as detailed in the classified addendum.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -0.25in; MARGIN-BOTTOM: 0pt; mso-add-space: auto; mso-list: l0 level1 lfo1"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Arial"><span>&bull;3)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">Top-level work breakdown structure (WBS) of the project. </span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -0.25in; MARGIN-BOTTOM: 0pt; mso-add-space: auto; mso-list: l0 level1 lfo1"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Arial"><span>&bull;4)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">Current ability to provide personnel that are cleared to the Collateral SECRET level. <span style="mso-spacerun: yes">&nbsp;</span></span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Arial"><span>&bull;5)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">Company name, address, points of contact, telephone numbers, fax numbers, email addresses (to include SIPRNET if any), CAGE code, and NAICS code.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;6)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">Identification of business size and if currently designated as a small business as defined in FAR 19.1 (i.e. 8(a), Small Disadvantaged Business, Woman Owned Small Business, Veteran Owned Small Business, HUB Zone Small Business, Service Disabled Veteran Owned Small Business, and HBCU/MI<span style="mso-bidi-font-weight: bold">).</span></span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;7)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Any teaming arrangements if applicable.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;8)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Past and current performance background as it relates to supporting the above requirements, to include the following:</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;a.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Contract Number</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;b.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Title and brief summary of the objective of the effort</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;c.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Contracting agency or firm (Government or commercial)</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;d.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Value of the contract and period of performance</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;e.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Type of contract (i.e. fixed price, cost reimbursable, labor hour, etc.)</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;f.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">NAICS code/small business size standard</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;g.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Any other information deemed useful to the effort</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;9)<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Identification of current contract vehicles held by the respondent which may accommodate the scope of this effort (i.e. GSA Schedule, GSA GWAC, NETCENTS, etc.)</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold; mso-fareast-font-family: Arial"><span>&bull;10)<span style="FONT: 7pt 'Times New Roman'"> </span></span></span><span style="LINE-HEIGHT: 105%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold"><span style="mso-spacerun: yes">&nbsp;</span>Validate the proposed NAICS &amp; PSC codes.<span style="mso-spacerun: yes">&nbsp; </span>Based on the information received in response to this RFI, the Contracting Officer may change the NAICS and PSC codes.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">SUBMISSION PROCEDURES:</span></strong></p><br />
+<h2 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold">&nbsp;</span></h2><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Capability statements/white papers must be identified with "USAF PKI Smart Card Interface Development" and are due <strong style="mso-bidi-font-weight: normal">no later than Friday, 21 Feb 2014, 4:00 P.M. CST</strong>.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Questions regarding this RFI must be submitted and received <strong style="mso-bidi-font-weight: normal">no later than Friday, 14 Feb 2014, 4:00 P.M. CST.<span style="mso-spacerun: yes">&nbsp; </span></strong>Questions received after the required submission date will not be accepted.<span style="mso-spacerun: yes">&nbsp; </span>Telephone calls regarding this RFI will not be accepted.<span style="mso-spacerun: yes">&nbsp; </span>Questions regarding this RFI must be emailed to: </span><a href="mailto:richard.bremer.4@us.af.mil"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">richard.bremer.4@us.af.mil</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'"> and </span><a href="mailto:dino.perez@us.af.mil"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">dino.perez@us.af.mil</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'">. </span></p><br />
+<h2 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="FONT-STYLE: normal; FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-style: italic; mso-bidi-font-weight: bold">&nbsp;</span></h2><br />
+<h2 style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0in 0in 0pt"><span style="FONT-STYLE: normal; FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-style: italic; mso-bidi-font-weight: bold">Send one (1) electronic copy in either MS Word or Adobe PDF format on SIPRNET to </span><a href="mailto:dinoperez@lackland.af.smil.mil"><span style="FONT-STYLE: normal; FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-style: italic; mso-bidi-font-weight: bold">dinoperez@lackland.af.smil.mil</span></a><span style="FONT-STYLE: normal; FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-style: italic; mso-bidi-font-weight: bold"> ; or deliver one (1) hard copy to: Attn: Dino Perez, 230 Hall Blvd Ste 131, AFLCMC/HNCOI, San Antonio TX, 78243.</span></h2><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Acknowledgement of receipt of responses will not be made, nor will respondents be notified of the Government's evaluation of the information received.<span style="mso-spacerun: yes">&nbsp; </span>However, should such a requirement materialize, no basis for claims against the Government shall arise as a result of a response to this RFI or the Government's use of such information as either part of the evaluation process or in developing specifications for any subsequent requirement.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Information will be accepted at the unclassified levels up to secret collateral levels per Department of Defense Instruction, Number 0-3600.2 dated November 28, 2005. Use appropriate mailing guidelines for specific classified levels.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Page Limitation: Ten (10), 8-1/2 x 11 pages except for fold-outs used for charts, tables, or diagrams which may not exceed 11 x 17.<span style="mso-spacerun: yes">&nbsp; </span>The maximum number of pages to be submitted shall not exceed ten (10).<span style="mso-spacerun: yes">&nbsp; </span>This does not include charts or drawings.<span style="mso-spacerun: yes">&nbsp; </span>Typing shall not be less than twelve (12) pitch.<span style="mso-spacerun: yes">&nbsp; </span>Eight (8) pitch may be used for tables and graphics.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">POINTS OF CONTACT:</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Direct technical questions to Mr. Dino Perez at </span><a href="mailto:dino.perez@us.af.mil"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">dino.perez@us.af.mil</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'">; security questions to Ms. Jeanne Morey at </span><a href="mailto:jeanne.morey.ctr@us.af.mil"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">jeanne.morey.ctr@us.af.mil</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'">; and contractual questions to Mr. Richard Bremer at </span><a href="mailto:richard.bremer.4@us.af.mil"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">richard.bremer.4@us.af.mil</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'">.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">HANDLING OF INFORMATION:</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">It is preferred that only non-proprietary data be provided.<span style="mso-spacerun: yes">&nbsp; </span>However, proprietary data may be submitted.<span style="mso-spacerun: yes">&nbsp; </span>Proprietary data shall be clearly identified and marked. Any respondent consents to the Government allowing the MITRE Corp., a Federally Funded Research and Development Center, and Systems Engineering and Technical Assistance support contractors, access to the RFI. They will assist the Government on an as needed basis in evaluating the capabilities of the companies responding to this RFI. The role of the support contractors is purely advisory, and the exclusive responsibility for defining requirements and evaluating responses will remain with the Government. The contracts with these support contractors prohibit the unauthorized use or dissemination of any proprietary information companies may submit in response to this RFI. Supporting contractors have signed a nondisclosure certification form prior to being granted access to proprietary information. These executed forms will be available for examination at the AFLCMC/HNCY location.</span></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></strong></p><br />
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify"><span style="FONT-FAMILY: 'Arial', 'sans-serif'">&nbsp;</span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">RFI</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	RFI
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=64071031a52e0cf93657a01ea5d173c1' target='_blank' title='Download/View SCID_RFI_3Feb2014.pdf' class='file'&gt;SCID_RFI_3Feb2014.pdf&lt;/a&gt;"><a href='/utils/view?id=64071031a52e0cf93657a01ea5d173c1' target='_blank' title='Download/View SCID_RFI_3Feb2014.pdf' class='file'>SCID_RFI_3Feb2014.pdf</a> (26.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFI </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e620d9f5a074137be3c688f5589dd2cb' target='_blank' title='Download/View SCID_RFI_Amed_1_11Feb2014.docx' class='file'&gt;SCID_RFI_Amed_1_11Feb2014.docx&lt;/a&gt;"><a href='/utils/view?id=e620d9f5a074137be3c688f5589dd2cb' target='_blank' title='Download/View SCID_RFI_Amed_1_11Feb2014.docx' class='file'>SCID_RFI_Amed_1_11Feb2014.docx</a> (30.52 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment to RFI.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		9 Eglin Street<br/>
+
+			
+				
+		Hanscom AFB,
+
+			
+	
+		Massachusetts
+
+			
+	
+		01731
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		230 Hall Blvd<br/>
+
+			
+				
+		San Antonio,
+
+			
+	
+		Texas
+
+			
+	
+		78243
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Miranda Self,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:miranda.self@us.af.mil">miranda.self@us.af.mil</a></div>
+	<div>Phone: 2109252588</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Richard Bremer,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:richard.bremer.4@us.af.mil">richard.bremer.4@us.af.mil</a></div>
+			
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d96b6c41f98d02da2ef36140bfb9f169'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d96b6c41f98d02da2ef36140bfb9f169'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1506396617eddbc4bc2c388f0743743a">RFI</a> <a target="_blank" href="/utils/dZip?base=d96b6c41f98d02da2ef36140bfb9f169&class=document_package&id=1506396617eddbc4bc2c388f0743743a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=64071031a52e0cf93657a01ea5d173c1" target="_blank" title="Download/View SCID_RFI_3Feb2014.pdf" class="file">SCID_RFI_3Feb2014.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=649f9b53906715299796a37093f6b5c1">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=d96b6c41f98d02da2ef36140bfb9f169&class=document_package&id=649f9b53906715299796a37093f6b5c1" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 12, 2014</div></dt><dd><a href="/utils/view?id=e620d9f5a074137be3c688f5589dd2cb" target="_blank" title="Download/View SCID_RFI_Amed_1_11Feb2014.docx" class="file">SCID_RFI_Amed_1_11Feb2014.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 18, 2014 4:00 pm&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 18, 2014 4:00 pm&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	March 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	A -- Research & Development
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541511 -- Custom Computer Programming Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

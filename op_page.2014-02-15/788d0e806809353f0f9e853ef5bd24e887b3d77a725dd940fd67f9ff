@@ -1,0 +1,1354 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Multiple Award Task Order Contract (MATOC) - NIHOF2013536 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392492778');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392492778';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=f49403464402175e50fe3536170cb204&inline_disposition=1" border="0" alt="National Institutes of Health logo"></div><div class="agency-header"><h2>Multiple Award Task Order Contract (MATOC)</h2><div class="sol-num">Solicitation Number: NIHOF2013536</div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: National Institutes of Health<br>Location: Office of Research Facilities/Office of Acquisitions</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=fd5a6969f070adcabda7f9c6b74bff33&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/NIH/ORS/NIHOF2013536/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/NIH/ORS/NIHOF2013536/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/NIH/ORS/NIHOF2013536/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=fd5a6969f070adcabda7f9c6b74bff33&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=fd5a6969f070adcabda7f9c6b74bff33&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=fd5a6969f070adcabda7f9c6b74bff33&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=17196b674f8e2d0c09e2bc53caeabf7a&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Dec 12, 2013</div><div class="nh-date">3:41 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2ccb734093ad0f74bb5a4333385e9756&_cview=0">Changed</a><div class="nh-date">Dec 18, 2013</div><div class="nh-date">1:37 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e3e0350136fb105478702aa828608d25&_cview=0">Changed</a><div class="nh-date">Jan 17, 2014</div><div class="nh-date">3:44 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b39d67c47d4ba67a75cb3823934c4535&_cview=0">Changed</a><div class="nh-date">Jan 24, 2014</div><div class="nh-date">5:00 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b947db7ed9a88d591c7f4cfd68272055&_cview=0">Changed</a><div class="nh-date">Feb 03, 2014</div><div class="nh-date">11:36 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=13409ffd55ae0687c38978fffd1d8978&_cview=0">Changed</a><div class="nh-date">Feb 06, 2014</div><div class="nh-date">6:55 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=be20606c7a9d3316c973b5536382f061&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">6:36 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=fd5a6969f070adcabda7f9c6b74bff33&_cview=0">Changed</a><div class="nh-date">Feb 12, 2014</div><div class="nh-date">2:15 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=17196b674f8e2d0c09e2bc53caeabf7a'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=17196b674f8e2d0c09e2bc53caeabf7a'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	NIHOF2013536
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-12-12 15:41:24">Dec 12, 2013 3:41 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-01-17 15:24:24">Jan 17, 2014 3:24 pm<a href="/utils/viewDifferences?class=notice_description&id=7eeb7ed42589d9aed4e166c02f8c1848&compared_to=2cb0f36be3a3ac5f73b84953c505d22f" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=7eeb7ed42589d9aed4e166c02f8c1848&compared_to=2cb0f36be3a3ac5f73b84953c505d22f&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		The National Institutes of Health, Office of Research Facilities - Office of Acquisitions (NIH, ORF-OA) intends to award a Multiple Award Task Order Contract (MATOC). The contracts will be awarded as firm-fixed-price Indefinite-Delivery Indefinite-Quantity (IDIQ) contracts with a base period of one year and four one-year option periods. <br /><br />The MATOC is for construction and design-build efforts at the National Institute of Environmental Health Sciences in Research Triangle Park, North Carolina. Task orders for design only shall not be placed against the contract but Architect-Engineering services related to design-build task orders may be required.<br /><br />This procurement is being solicited to 8(a) firms that have a Certificate of Existence or Certificate of Authority on file with the North Carolina - Secretary of State. This is a requirement to perform work in the State of North Carolina. Only North Carolina District Office Participants or 8(a) firms that have been reviewed by the North Carolina District Office and approved as having a Bonafide Office in the State of North Carolina are eligible to response to this solicitation. An 8(a) firm that proposes as a Bonafide Office must maintain their Bonafide Office eligibility for the life of the contract.<br /><br />The acquisition will be conducted in accordance with FAR 15, Negotiated Procurement using the Best Value Trade-off Process. The Government will consider technical factors, past performance, and price as the basis for selecting awardees. The Government anticipates awarding contracts to those firms whose proposals are determined to be the most beneficial to the Government. Subsequent (individual) task orders will be awarded pursuant to FAR 16.505 - Ordering, and in accordance with the task order terms and conditions including the designated Statement of Work.<br /><br />NIH, ORF-OA intends to issue all documents to include amendments, clarifications letters and other applicable documents electronically. Offerors are solely responsible for obtaining solicitation documents from the Federal Business Opportunities (FedBizOpps) website (http://www.fbo.gov). Hard copies of the solicitation will not be provided.<br /><br />Offerors must be registered in System for Award Management (SAM), formerly known as the Central Contractor Registration (CCR), in order to be eligible to receive an award from this solicitation. Contractors may obtain information on registration and annual confirmation requirements via the SAM accessed through https://www.sam.gov. If submitting as a joint venture, the joint venture entity must be registered in SAM in order to be eligible to receive an award from this solicitation.<br /><br />The applicable North American Industry Classification System (NAICS) code for this acquisition is 236220 - Commercial and Institutional Building Construction. The small business size standard for this code is $33.5 Million in average revenue over the past 3 years.<br /><br />Prospective contractors are responsible for monitoring the FedBizOpps website for any changes or updates. It is highly recommended that, while viewing this synopsis on FedBizOpps, contractors register as interested vendors and register to receive notification of updates.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	January 17, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=81c35d4eef04dfdb98d10d37ff94137e' target='_blank' title='Download/View SF_1442.pdf' class='file'&gt;SF_1442.pdf&lt;/a&gt;"><a href='/utils/view?id=81c35d4eef04dfdb98d10d37ff94137e' target='_blank' title='Download/View SF_1442.pdf' class='file'>SF_1442.pdf</a> (89.72 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF 1442</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=d991b1a75f26fd0d5a2c00907ad127f7' target='_blank' title='Download/View Solicitation_NIHOF2013536_-_RTP_MATOC.pdf' class='file'&gt;Solicitation_NIHOF2013536_-_RTP_MATOC.pdf&lt;/a&gt;"><a href='/utils/view?id=d991b1a75f26fd0d5a2c00907ad127f7' target='_blank' title='Download/View Solicitation_NIHOF2013536_-_RTP_MATOC.pdf' class='file'>Solicitation_NIHOF2013536_-_RTP_MATOC.pdf</a> (1,269.58 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Solicitation</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=94cd0abee0495e805a33342eabca4063' target='_blank' title='Download/View Statement_of_Work--12-6-13.pdf' class='file'&gt;Statement_of_Work--12-6-13.pdf&lt;/a&gt;"><a href='/utils/view?id=94cd0abee0495e805a33342eabca4063' target='_blank' title='Download/View Statement_of_Work--12-6-13.pdf' class='file'>Statement_of_Work--12-6-13.pdf</a> (157.95 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Statement of Work</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=13ce9ed6993a575d23a093bea4da4f1e' target='_blank' title='Download/View FMB-NC_Engineering_Guidelines_and_Material_Requirements--Revision_C.pdf' class='file'&gt;FMB-NC_Engineering_Guidelines_and_Material_Requirements--Revision_C.pdf&lt;/a&gt;"><a href='/utils/view?id=13ce9ed6993a575d23a093bea4da4f1e' target='_blank' title='Download/View FMB-NC_Engineering_Guidelines_and_Material_Requirements--Revision_C.pdf' class='file'>FMB-NC_Engineering_Guidelines_and_Material_Requirements--Revision_C.pdf</a> (1,276.10 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FMB-NC Engineering Guidelines and Material Requirements</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=84e28ac6d24621362d777b62dc134a12' target='_blank' title='Download/View Task_Order_Pricing_Template.xlsx' class='file'&gt;Task_Order_Pricing_Template.xlsx&lt;/a&gt;"><a href='/utils/view?id=84e28ac6d24621362d777b62dc134a12' target='_blank' title='Download/View Task_Order_Pricing_Template.xlsx' class='file'>Task_Order_Pricing_Template.xlsx</a> (49.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Task Order Pricing Template</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=136ddf64a72e0fc8bc8415df7551b5df' target='_blank' title='Download/View Certificate_of_Current_Cost_or_Pricing_Data.pdf' class='file'&gt;Certificate_of_Current_Cost_or_Pricing_Data.pdf&lt;/a&gt;"><a href='/utils/view?id=136ddf64a72e0fc8bc8415df7551b5df' target='_blank' title='Download/View Certificate_of_Current_Cost_or_Pricing_Data.pdf' class='file'>Certificate_of_Current_Cost_or_Pricing_Data.pdf</a> (207.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Certificate of Current Cost or Pricing Data</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=739c79d08b23a984ae7b6f68d31fec5f' target='_blank' title='Download/View Wage_Determination--NC130028--Building.pdf' class='file'&gt;Wage_Determination--NC130028--Building.pdf&lt;/a&gt;"><a href='/utils/view?id=739c79d08b23a984ae7b6f68d31fec5f' target='_blank' title='Download/View Wage_Determination--NC130028--Building.pdf' class='file'>Wage_Determination--NC130028--Building.pdf</a> (34.37 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Wage Determination NC130028 - Building</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=b7cc3324a7abd8ab2bc2b71bb833d1fe' target='_blank' title='Download/View Wage_Determination--NC130019--Heavy_Dredging.pdf' class='file'&gt;Wage_Determination--NC130019--Heavy_Dredging.pdf&lt;/a&gt;"><a href='/utils/view?id=b7cc3324a7abd8ab2bc2b71bb833d1fe' target='_blank' title='Download/View Wage_Determination--NC130019--Heavy_Dredging.pdf' class='file'>Wage_Determination--NC130019--Heavy_Dredging.pdf</a> (17.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Wage Determination NC130019 - Heavy Dredging</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=fd6b821a53871d34afc998b3fa7da73b' target='_blank' title='Download/View Wage_Determination--NC130080--Heavy.pdf' class='file'&gt;Wage_Determination--NC130080--Heavy.pdf&lt;/a&gt;"><a href='/utils/view?id=fd6b821a53871d34afc998b3fa7da73b' target='_blank' title='Download/View Wage_Determination--NC130080--Heavy.pdf' class='file'>Wage_Determination--NC130080--Heavy.pdf</a> (14.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Wage Determination NC130080 - Heavy</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=432bd05f3c7a2726b61fb795503e842f' target='_blank' title='Download/View Wage_Determination--NC130093--Highway.pdf' class='file'&gt;Wage_Determination--NC130093--Highway.pdf&lt;/a&gt;"><a href='/utils/view?id=432bd05f3c7a2726b61fb795503e842f' target='_blank' title='Download/View Wage_Determination--NC130093--Highway.pdf' class='file'>Wage_Determination--NC130093--Highway.pdf</a> (19.14 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Wage Determination NC130093 - Highway</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=811b61d851c887e42462648ea65e19be' target='_blank' title='Download/View Disclosure_of_Lobbying_Activities.pdf' class='file'&gt;Disclosure_of_Lobbying_Activities.pdf&lt;/a&gt;"><a href='/utils/view?id=811b61d851c887e42462648ea65e19be' target='_blank' title='Download/View Disclosure_of_Lobbying_Activities.pdf' class='file'>Disclosure_of_Lobbying_Activities.pdf</a> (54.97 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Disclosure of Lobbying Activities, OMB Form SF-LLL</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=de919e5dac592f78ecd3cbb0a6fc1317' target='_blank' title='Download/View Safety_and_Health.pdf' class='file'&gt;Safety_and_Health.pdf&lt;/a&gt;"><a href='/utils/view?id=de919e5dac592f78ecd3cbb0a6fc1317' target='_blank' title='Download/View Safety_and_Health.pdf' class='file'>Safety_and_Health.pdf</a> (21.49 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Safety and Health</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=a69b93b449b2353cfd9f0278432718d8' target='_blank' title='Download/View Attachment_L1_Experience_Summary_Sheet.pdf' class='file'&gt;Attachment_L1_Experience_Summary_Sheet.pdf&lt;/a&gt;"><a href='/utils/view?id=a69b93b449b2353cfd9f0278432718d8' target='_blank' title='Download/View Attachment_L1_Experience_Summary_Sheet.pdf' class='file'>Attachment_L1_Experience_Summary_Sheet.pdf</a> (51.56 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L1 - Experience Summary Sheet</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=dcb5b4d75f985dfc27f894cc66d78feb' target='_blank' title='Download/View Attachment_L2_Past_Performance_Transmittal_Letter.pdf' class='file'&gt;Attachment_L2_Past_Performance_Transmittal_Letter.pdf&lt;/a&gt;"><a href='/utils/view?id=dcb5b4d75f985dfc27f894cc66d78feb' target='_blank' title='Download/View Attachment_L2_Past_Performance_Transmittal_Letter.pdf' class='file'>Attachment_L2_Past_Performance_Transmittal_Letter.pdf</a> (37.79 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L2 - Past Performance Transmittal Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=4009849f1fac70f1dfe9ccfc2c903096' target='_blank' title='Download/View Attachment_L3_Past_Performance_Questionnaire.pdf' class='file'&gt;Attachment_L3_Past_Performance_Questionnaire.pdf&lt;/a&gt;"><a href='/utils/view?id=4009849f1fac70f1dfe9ccfc2c903096' target='_blank' title='Download/View Attachment_L3_Past_Performance_Questionnaire.pdf' class='file'>Attachment_L3_Past_Performance_Questionnaire.pdf</a> (77.94 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L3 - Past Performance Questionnaire</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][15][file][0][preview]" value="&lt;a href='/utils/view?id=8fd79c36c526346adea65c20db394763' target='_blank' title='Download/View Attachment_L4_TOR_213-00--Statement_of_Work.pdf' class='file'&gt;Attachment_L4_TOR_213-00--Statement_of_Work.pdf&lt;/a&gt;"><a href='/utils/view?id=8fd79c36c526346adea65c20db394763' target='_blank' title='Download/View Attachment_L4_TOR_213-00--Statement_of_Work.pdf' class='file'>Attachment_L4_TOR_213-00--Statement_of_Work.pdf</a> (27.51 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L4 - TOR 213-00 - Statement of Work</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][16][file][0][preview]" value="&lt;a href='/utils/view?id=ac5522b68e03fef2f860e5a1c6b44a73' target='_blank' title='Download/View Attachment_L5_TOR_214-20--Statement_of_Work.pdf' class='file'&gt;Attachment_L5_TOR_214-20--Statement_of_Work.pdf&lt;/a&gt;"><a href='/utils/view?id=ac5522b68e03fef2f860e5a1c6b44a73' target='_blank' title='Download/View Attachment_L5_TOR_214-20--Statement_of_Work.pdf' class='file'>Attachment_L5_TOR_214-20--Statement_of_Work.pdf</a> (595.75 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L5 - TOR 213-20 - Statement of Work</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][17][file][0][preview]" value="&lt;a href='/utils/view?id=cc9c8fa98938059ed53a03ca76315540' target='_blank' title='Download/View Attachment_L6_TOR_214-26--Statement_of_Work.pdf' class='file'&gt;Attachment_L6_TOR_214-26--Statement_of_Work.pdf&lt;/a&gt;"><a href='/utils/view?id=cc9c8fa98938059ed53a03ca76315540' target='_blank' title='Download/View Attachment_L6_TOR_214-26--Statement_of_Work.pdf' class='file'>Attachment_L6_TOR_214-26--Statement_of_Work.pdf</a> (88.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L6 - TOR 214-26 - Statement of Work</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	January 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=821b00dd05bc9affae458e4348c4ca32' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0001.pdf' class='file'&gt;SF_30_-_NIHOF2013536_-_Amendment_0001.pdf&lt;/a&gt;"><a href='/utils/view?id=821b00dd05bc9affae458e4348c4ca32' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0001.pdf' class='file'>SF_30_-_NIHOF2013536_-_Amendment_0001.pdf</a> (16.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF 30 - NIHOF2013536 - Amendment 0001</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=e9407bcaab12372d42dc88b2a8f57aef' target='_blank' title='Download/View Amendment_0001.docx' class='file'&gt;Amendment_0001.docx&lt;/a&gt;"><a href='/utils/view?id=e9407bcaab12372d42dc88b2a8f57aef' target='_blank' title='Download/View Amendment_0001.docx' class='file'>Amendment_0001.docx</a> (25.26 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> NIHOF2013536 - Amendment 0001 - Pages 2 - 8</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=9e8499d1d71da08cadf049ec56ab8e92' target='_blank' title='Download/View Section_E_-_Inspection_and_Acceptance_-_Revision_1.pdf' class='file'&gt;Section_E_-_Inspection_and_Acceptance_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=9e8499d1d71da08cadf049ec56ab8e92' target='_blank' title='Download/View Section_E_-_Inspection_and_Acceptance_-_Revision_1.pdf' class='file'>Section_E_-_Inspection_and_Acceptance_-_Revision_1.pdf</a> (11.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section E - Inspection and Acceptance - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=751aed7e8ac97ab3f8397811995d08e3' target='_blank' title='Download/View Section_J_-_List_of_Attachments_-_Revision_1.pdf' class='file'&gt;Section_J_-_List_of_Attachments_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=751aed7e8ac97ab3f8397811995d08e3' target='_blank' title='Download/View Section_J_-_List_of_Attachments_-_Revision_1.pdf' class='file'>Section_J_-_List_of_Attachments_-_Revision_1.pdf</a> (11.80 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J - List of Attachments - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=dbb9c03c97499c4f0b93c3324f68f1d2' target='_blank' title='Download/View Statement_of_Work_-_Revision_1_-_01-24-14.pdf' class='file'&gt;Statement_of_Work_-_Revision_1_-_01-24-14.pdf&lt;/a&gt;"><a href='/utils/view?id=dbb9c03c97499c4f0b93c3324f68f1d2' target='_blank' title='Download/View Statement_of_Work_-_Revision_1_-_01-24-14.pdf' class='file'>Statement_of_Work_-_Revision_1_-_01-24-14.pdf</a> (133.84 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Statement of Work - Revision 1 - 01-24-14</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=0798d0fc5cf4738745268b40e6965615' target='_blank' title='Download/View Specification_Section_01_33_00.docx' class='file'&gt;Specification_Section_01_33_00.docx&lt;/a&gt;"><a href='/utils/view?id=0798d0fc5cf4738745268b40e6965615' target='_blank' title='Download/View Specification_Section_01_33_00.docx' class='file'>Specification_Section_01_33_00.docx</a> (46.97 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Specification Section 01 33 00</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=162319c02257a2c52f595b9ba818bab4' target='_blank' title='Download/View Specification_Section_01_35_26.docx' class='file'&gt;Specification_Section_01_35_26.docx&lt;/a&gt;"><a href='/utils/view?id=162319c02257a2c52f595b9ba818bab4' target='_blank' title='Download/View Specification_Section_01_35_26.docx' class='file'>Specification_Section_01_35_26.docx</a> (46.38 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Specification Section 01 35 26</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=7b778f075f2c08388440cea66058cd65' target='_blank' title='Download/View Specification_Section_01_45_00.docx' class='file'&gt;Specification_Section_01_45_00.docx&lt;/a&gt;"><a href='/utils/view?id=7b778f075f2c08388440cea66058cd65' target='_blank' title='Download/View Specification_Section_01_45_00.docx' class='file'>Specification_Section_01_45_00.docx</a> (38.10 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Specification Section 01 45 00</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=7546b70d3bff685987dc39eed48372ef' target='_blank' title='Download/View New_Equipment_Submission_Worksheet_Template.xls' class='file'&gt;New_Equipment_Submission_Worksheet_Template.xls&lt;/a&gt;"><a href='/utils/view?id=7546b70d3bff685987dc39eed48372ef' target='_blank' title='Download/View New_Equipment_Submission_Worksheet_Template.xls' class='file'>New_Equipment_Submission_Worksheet_Template.xls</a> (24.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> New Equipment Submission Worksheet Template</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=4a8c570820fb4bb296a103986766accb' target='_blank' title='Download/View NIH_As-Built_Drawing_LOP_for_Contractors.doc' class='file'&gt;NIH_As-Built_Drawing_LOP_for_Contractors.doc&lt;/a&gt;"><a href='/utils/view?id=4a8c570820fb4bb296a103986766accb' target='_blank' title='Download/View NIH_As-Built_Drawing_LOP_for_Contractors.doc' class='file'>NIH_As-Built_Drawing_LOP_for_Contractors.doc</a> (232.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> NIH As-Built Drawing LOP for Contractors</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=963764d0a71a629497a03c7e6d1f964f' target='_blank' title='Download/View Section_L_-_Instructions,_Conditions,_and_Notices_to_Offerors_-_Revision_1.pdf' class='file'&gt;Section_L_-_Instructions,_Conditions,_and_Notices_to_Offerors_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=963764d0a71a629497a03c7e6d1f964f' target='_blank' title='Download/View Section_L_-_Instructions,_Conditions,_and_Notices_to_Offerors_-_Revision_1.pdf' class='file'>Section_L_-_Instructions,_Conditions,_and_Notices_to_Offerors_-_Revision_1.pdf</a> (50.90 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section L - Instructions, Conditions, and Notices to Offerors - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=927c3b713d33eb81c5764915a0d9a48e' target='_blank' title='Download/View Attachment_L2_-_Past_Performance_Transmittal_Letter_-_Revision_1.docx' class='file'&gt;Attachment_L2_-_Past_Performance_Transmittal_Letter_-_Revision_1.docx&lt;/a&gt;"><a href='/utils/view?id=927c3b713d33eb81c5764915a0d9a48e' target='_blank' title='Download/View Attachment_L2_-_Past_Performance_Transmittal_Letter_-_Revision_1.docx' class='file'>Attachment_L2_-_Past_Performance_Transmittal_Letter_-_Revision_1.docx</a> (18.94 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L2 - Past Performance Transmittal Letter - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=06104e7823aa87397afaf3c611e9fac6' target='_blank' title='Download/View Attachment_L4_-_TOR_13-00_-_Statement_of_Work_-_Revision_1.pdf' class='file'&gt;Attachment_L4_-_TOR_13-00_-_Statement_of_Work_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=06104e7823aa87397afaf3c611e9fac6' target='_blank' title='Download/View Attachment_L4_-_TOR_13-00_-_Statement_of_Work_-_Revision_1.pdf' class='file'>Attachment_L4_-_TOR_13-00_-_Statement_of_Work_-_Revision_1.pdf</a> (979.82 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L4 - TOR 13-00 - Statement of Work - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=f476d98afb5cea248355409eba9faadd' target='_blank' title='Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_1.xlsx' class='file'&gt;Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_1.xlsx&lt;/a&gt;"><a href='/utils/view?id=f476d98afb5cea248355409eba9faadd' target='_blank' title='Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_1.xlsx' class='file'>Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_1.xlsx</a> (52.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L5 - TOR 13-00 - Task Order Pricing Template - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=87acefdf17fa5943675640b7a0754f66' target='_blank' title='Download/View Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_1.pdf' class='file'&gt;Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=87acefdf17fa5943675640b7a0754f66' target='_blank' title='Download/View Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_1.pdf' class='file'>Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_1.pdf</a> (7,269.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L6 - TOR 214-20 - Statement of Work - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][15][file][0][preview]" value="&lt;a href='/utils/view?id=f95ccced0eb1754a4c8f2ae116417f5f' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template.xlsx' class='file'&gt;Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template.xlsx&lt;/a&gt;"><a href='/utils/view?id=f95ccced0eb1754a4c8f2ae116417f5f' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template.xlsx' class='file'>Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template.xlsx</a> (51.01 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L7 - TOR 214-20 - Task Order Pricing Template</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][16][file][0][preview]" value="&lt;a href='/utils/view?id=9a23c3b39518bf134e1603455fb5279d' target='_blank' title='Download/View Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_1.pdf' class='file'&gt;Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=9a23c3b39518bf134e1603455fb5279d' target='_blank' title='Download/View Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_1.pdf' class='file'>Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_1.pdf</a> (6,345.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L8 - TOR 214-26 - Statement of Work - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][17][file][0][preview]" value="&lt;a href='/utils/view?id=f81c5042e4d98c841fbdd9ffe05b0e3d' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template.xlsx' class='file'&gt;Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template.xlsx&lt;/a&gt;"><a href='/utils/view?id=f81c5042e4d98c841fbdd9ffe05b0e3d' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template.xlsx' class='file'>Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template.xlsx</a> (68.90 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L9 - TOR 214-26 - Task Order Pricing Template</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	February 3, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5697b5b213c4be86ccea1139cdb7127d' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0002.pdf' class='file'&gt;SF_30_-_NIHOF2013536_-_Amendment_0002.pdf&lt;/a&gt;"><a href='/utils/view?id=5697b5b213c4be86ccea1139cdb7127d' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0002.pdf' class='file'>SF_30_-_NIHOF2013536_-_Amendment_0002.pdf</a> (16.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF 30 - NIHOF2013536 - Amendment 0002</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=29c056802cd97ccf238ea52909d93ab8' target='_blank' title='Download/View Amendment_0002.docx' class='file'&gt;Amendment_0002.docx&lt;/a&gt;"><a href='/utils/view?id=29c056802cd97ccf238ea52909d93ab8' target='_blank' title='Download/View Amendment_0002.docx' class='file'>Amendment_0002.docx</a> (20.02 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> NIHOF2013536 - Amendment 0002 - Pages 2-4</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=8f5b3511d1397c008d8526658801b6b6' target='_blank' title='Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_2.xlsx' class='file'&gt;Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_2.xlsx&lt;/a&gt;"><a href='/utils/view?id=8f5b3511d1397c008d8526658801b6b6' target='_blank' title='Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_2.xlsx' class='file'>Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_2.xlsx</a> (41.23 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L5 - TOR 13-00 - Task Order Pricing Template - Revision 2</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=bb3575b0a6a6558da3cd284dde42a2ec' target='_blank' title='Download/View Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_2.pdf' class='file'&gt;Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_2.pdf&lt;/a&gt;"><a href='/utils/view?id=bb3575b0a6a6558da3cd284dde42a2ec' target='_blank' title='Download/View Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_2.pdf' class='file'>Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_2.pdf</a> (7,793.63 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L6 - TOR 214-20 - Statement of Work - Revision 2</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=1fa9235c81cfe74a0819c0a8743611d0' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_1.xlsx' class='file'&gt;Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_1.xlsx&lt;/a&gt;"><a href='/utils/view?id=1fa9235c81cfe74a0819c0a8743611d0' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_1.xlsx' class='file'>Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_1.xlsx</a> (40.29 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L7 - TOR 214-20 - Task Order Pricing Template - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=2404d050f53d342453e4872ea61a2950' target='_blank' title='Download/View Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_2.pdf' class='file'&gt;Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_2.pdf&lt;/a&gt;"><a href='/utils/view?id=2404d050f53d342453e4872ea61a2950' target='_blank' title='Download/View Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_2.pdf' class='file'>Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_2.pdf</a> (8,231.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L8 - TOR 214-26 - Statement of Work - Revision 2</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=7f9946569b5069cb07ea4c150dc5d649' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_1.xlsx' class='file'&gt;Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_1.xlsx&lt;/a&gt;"><a href='/utils/view?id=7f9946569b5069cb07ea4c150dc5d649' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_1.xlsx' class='file'>Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_1.xlsx</a> (58.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L9 - TOR 214-26 - Task Order Pricing Template - Revision 1</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	February 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7cc29ab776f2d46d6b31b79aa61a9879' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0003.pdf' class='file'&gt;SF_30_-_NIHOF2013536_-_Amendment_0003.pdf&lt;/a&gt;"><a href='/utils/view?id=7cc29ab776f2d46d6b31b79aa61a9879' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0003.pdf' class='file'>SF_30_-_NIHOF2013536_-_Amendment_0003.pdf</a> (16.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF 30 - NIHOF2013536 - Amendment 0003</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=4eaeebbd3fc79b38e50e4847049fd2a3' target='_blank' title='Download/View Amendment_0003.docx' class='file'&gt;Amendment_0003.docx&lt;/a&gt;"><a href='/utils/view?id=4eaeebbd3fc79b38e50e4847049fd2a3' target='_blank' title='Download/View Amendment_0003.docx' class='file'>Amendment_0003.docx</a> (16.19 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003 - Page 2</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=994c6e5853cda96ca2c8076ec63c411a' target='_blank' title='Download/View MATOC_Pre-Proposal_Conference_Briefing.pptx' class='file'&gt;MATOC_Pre-Proposal_Conference_Briefing.pptx&lt;/a&gt;"><a href='/utils/view?id=994c6e5853cda96ca2c8076ec63c411a' target='_blank' title='Download/View MATOC_Pre-Proposal_Conference_Briefing.pptx' class='file'>MATOC_Pre-Proposal_Conference_Briefing.pptx</a> (6,219.63 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> MATOC Pre-Proposal Conference Briefing</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=b599d3ca470fa16bd33c4dae0a722833' target='_blank' title='Download/View MATOC_Pre-Proposal_Conference_Sign-in_Sheet.pdf' class='file'&gt;MATOC_Pre-Proposal_Conference_Sign-in_Sheet.pdf&lt;/a&gt;"><a href='/utils/view?id=b599d3ca470fa16bd33c4dae0a722833' target='_blank' title='Download/View MATOC_Pre-Proposal_Conference_Sign-in_Sheet.pdf' class='file'>MATOC_Pre-Proposal_Conference_Sign-in_Sheet.pdf</a> (526.98 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> MATOC Pre-Proposal Conference Sign-in Sheet</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=c10051dbea426b7d93751f4c796d3928' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_2.xlsx' class='file'&gt;Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_2.xlsx&lt;/a&gt;"><a href='/utils/view?id=c10051dbea426b7d93751f4c796d3928' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_2.xlsx' class='file'>Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_2.xlsx</a> (41.67 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L7 - TOR 214-20 - Task Order Pricing Template - Revision 2</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=bafe135e50f62e68673cfb18dafaf0c7' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_2.xlsx' class='file'&gt;Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_2.xlsx&lt;/a&gt;"><a href='/utils/view?id=bafe135e50f62e68673cfb18dafaf0c7' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_2.xlsx' class='file'>Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_2.xlsx</a> (61.12 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L9 - TOR 214-26 - Task Order Pricing Template - Revision 2</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5751e5def573e263294048206027a8e9' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0004.pdf' class='file'&gt;SF_30_-_NIHOF2013536_-_Amendment_0004.pdf&lt;/a&gt;"><a href='/utils/view?id=5751e5def573e263294048206027a8e9' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0004.pdf' class='file'>SF_30_-_NIHOF2013536_-_Amendment_0004.pdf</a> (16.37 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF 30 - NIHOF2013536 - Amendment 0004</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 5</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=97ba4ed10b88437658ec17793eca9b6b' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0005.pdf' class='file'&gt;SF_30_-_NIHOF2013536_-_Amendment_0005.pdf&lt;/a&gt;"><a href='/utils/view?id=97ba4ed10b88437658ec17793eca9b6b' target='_blank' title='Download/View SF_30_-_NIHOF2013536_-_Amendment_0005.pdf' class='file'>SF_30_-_NIHOF2013536_-_Amendment_0005.pdf</a> (16.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF 30 - NIHOF2013536 - Amendment 0005</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=9415b2d7785c4eca19a90dd8d0cce478' target='_blank' title='Download/View Amendment_0005.docx' class='file'&gt;Amendment_0005.docx&lt;/a&gt;"><a href='/utils/view?id=9415b2d7785c4eca19a90dd8d0cce478' target='_blank' title='Download/View Amendment_0005.docx' class='file'>Amendment_0005.docx</a> (34.26 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> NIHOF2013536 - Amendment 0005 - Pages 2-9</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=8704a2e0f3838e15c55acb00c41c6642' target='_blank' title='Download/View Section_G_-_Contract_Administration_Data_-_Revision_1.pdf' class='file'&gt;Section_G_-_Contract_Administration_Data_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=8704a2e0f3838e15c55acb00c41c6642' target='_blank' title='Download/View Section_G_-_Contract_Administration_Data_-_Revision_1.pdf' class='file'>Section_G_-_Contract_Administration_Data_-_Revision_1.pdf</a> (28.45 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section G - Contract Administration Data - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=9fb9fbed2b4b373983f41c806eaa29d3' target='_blank' title='Download/View Section_H_-_Special_Contract_Requirements_-_Revision_1.pdf' class='file'&gt;Section_H_-_Special_Contract_Requirements_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=9fb9fbed2b4b373983f41c806eaa29d3' target='_blank' title='Download/View Section_H_-_Special_Contract_Requirements_-_Revision_1.pdf' class='file'>Section_H_-_Special_Contract_Requirements_-_Revision_1.pdf</a> (87.43 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section H - Special Contract Requirements - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=d864aa8eacd1f3ae1dc23e20cf99f903' target='_blank' title='Download/View Specification_Section_01_33_00_-_Revision_1.pdf' class='file'&gt;Specification_Section_01_33_00_-_Revision_1.pdf&lt;/a&gt;"><a href='/utils/view?id=d864aa8eacd1f3ae1dc23e20cf99f903' target='_blank' title='Download/View Specification_Section_01_33_00_-_Revision_1.pdf' class='file'>Specification_Section_01_33_00_-_Revision_1.pdf</a> (81.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Specification Section 01 33 00 - Revision 1</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=8a304295ada8ff77c0793515f726db22' target='_blank' title='Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_3.xlsx' class='file'&gt;Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_3.xlsx&lt;/a&gt;"><a href='/utils/view?id=8a304295ada8ff77c0793515f726db22' target='_blank' title='Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_3.xlsx' class='file'>Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_3.xlsx</a> (41.05 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L5 - TOR 13-00 - Task Order Pricing Template - Revision 3</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=981b37204fab9324f3fca0b4b2d7484d' target='_blank' title='Download/View TOR_00-13_-_Revised_Drawings_-_dated_02-10-14.pdf' class='file'&gt;TOR_00-13_-_Revised_Drawings_-_dated_02-10-14.pdf&lt;/a&gt;"><a href='/utils/view?id=981b37204fab9324f3fca0b4b2d7484d' target='_blank' title='Download/View TOR_00-13_-_Revised_Drawings_-_dated_02-10-14.pdf' class='file'>TOR_00-13_-_Revised_Drawings_-_dated_02-10-14.pdf</a> (951.01 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> TOR 00-13 - Revised Drawings - dated 02-10-14</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=fd783cf49bc27aa0f33015f05284b980' target='_blank' title='Download/View Attachment_L6__TOR_214-20__Statement_of_Work__Revision_3.pdf' class='file'&gt;Attachment_L6__TOR_214-20__Statement_of_Work__Revision_3.pdf&lt;/a&gt;"><a href='/utils/view?id=fd783cf49bc27aa0f33015f05284b980' target='_blank' title='Download/View Attachment_L6__TOR_214-20__Statement_of_Work__Revision_3.pdf' class='file'>Attachment_L6__TOR_214-20__Statement_of_Work__Revision_3.pdf</a> (7,568.47 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L6  TOR 214-20  Statement of Work  Revision 3</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=d3afc0310a8a704ba1a13f8dab700ab6' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_3.xlsx' class='file'&gt;Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_3.xlsx&lt;/a&gt;"><a href='/utils/view?id=d3afc0310a8a704ba1a13f8dab700ab6' target='_blank' title='Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_3.xlsx' class='file'>Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_3.xlsx</a> (41.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L7 - TOR 214-20 - Task Order Pricing Template - Revision 3</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=1e56ea871c294254814f444610902317' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_3.xlsx' class='file'&gt;Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_3.xlsx&lt;/a&gt;"><a href='/utils/view?id=1e56ea871c294254814f444610902317' target='_blank' title='Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_3.xlsx' class='file'>Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_3.xlsx</a> (61.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment L9 - TOR 214-26 - Task Order Pricing Template - Revision 3</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		13 South St., Room 2E43<br />
+MSC 5711<br/>
+
+			
+				
+		Bethesda,
+
+			
+	
+		Maryland
+
+			
+	
+		20892-5738
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		111 T.W. Alexander Drive<br/>
+
+			
+				
+		Research Triangle Park,
+
+			
+	
+		North Carolina
+
+			
+	
+		27709
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Daniel F. Burk,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:daniel.burk@nih.gov">daniel.burk@nih.gov</a></div>
+	<div>Phone: 919-541-5763</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=17196b674f8e2d0c09e2bc53caeabf7a'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=17196b674f8e2d0c09e2bc53caeabf7a'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a501772922cce5445d3bb0dd613f7a3f">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=17196b674f8e2d0c09e2bc53caeabf7a&class=document_package&id=a501772922cce5445d3bb0dd613f7a3f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 17, 2014</div></dt><dd><a href="/utils/view?id=81c35d4eef04dfdb98d10d37ff94137e" target="_blank" title="Download/View SF_1442.pdf" class="file">SF_1442.pdf</a></dd><dd><a href="/utils/view?id=d991b1a75f26fd0d5a2c00907ad127f7" target="_blank" title="Download/View Solicitation_NIHOF2013536_-_RTP_MATOC.pdf" class="file">Solicitation_NIHOF2013536_-_RTP_MATOC.pdf</a></dd><dd><a href="/utils/view?id=94cd0abee0495e805a33342eabca4063" target="_blank" title="Download/View Statement_of_Work--12-6-13.pdf" class="file">Statement_of_Work--12-6-13.pdf</a></dd><dd><a href="/utils/view?id=13ce9ed6993a575d23a093bea4da4f1e" target="_blank" title="Download/View FMB-NC_Engineering_Guidelines_and_Material_Requirements--Revision_C.pdf" class="file">FMB-NC_Engineering_Guidelines_and_Material_Requirements--Revision_C.pdf</a></dd><dd><a href="/utils/view?id=84e28ac6d24621362d777b62dc134a12" target="_blank" title="Download/View Task_Order_Pricing_Template.xlsx" class="file">Task_Order_Pricing_Template.xlsx</a></dd><dd><a href="/utils/view?id=136ddf64a72e0fc8bc8415df7551b5df" target="_blank" title="Download/View Certificate_of_Current_Cost_or_Pricing_Data.pdf" class="file">Certificate_of_Current_Cost_or_Pricing_Data.pdf</a></dd><dd><a href="/utils/view?id=739c79d08b23a984ae7b6f68d31fec5f" target="_blank" title="Download/View Wage_Determination--NC130028--Building.pdf" class="file">Wage_Determination--NC130028--Building.pdf</a></dd><dd><a href="/utils/view?id=b7cc3324a7abd8ab2bc2b71bb833d1fe" target="_blank" title="Download/View Wage_Determination--NC130019--Heavy_Dredging.pdf" class="file">Wage_Determination--NC130019--Heavy_Dredging.pdf</a></dd><dd><a href="/utils/view?id=fd6b821a53871d34afc998b3fa7da73b" target="_blank" title="Download/View Wage_Determination--NC130080--Heavy.pdf" class="file">Wage_Determination--NC130080--Heavy.pdf</a></dd><dd><a href="/utils/view?id=432bd05f3c7a2726b61fb795503e842f" target="_blank" title="Download/View Wage_Determination--NC130093--Highway.pdf" class="file">Wage_Determination--NC130093--Highway.pdf</a></dd><dd><a href="/utils/view?id=811b61d851c887e42462648ea65e19be" target="_blank" title="Download/View Disclosure_of_Lobbying_Activities.pdf" class="file">Disclosure_of_Lobbying_Activities.pdf</a></dd><dd><a href="/utils/view?id=de919e5dac592f78ecd3cbb0a6fc1317" target="_blank" title="Download/View Safety_and_Health.pdf" class="file">Safety_and_Health.pdf</a></dd><dd><a href="/utils/view?id=a69b93b449b2353cfd9f0278432718d8" target="_blank" title="Download/View Attachment_L1_Experience_Summary_Sheet.pdf" class="file">Attachment_L1_Experience_Summary_Sheet.pdf</a></dd><dd><a href="/utils/view?id=dcb5b4d75f985dfc27f894cc66d78feb" target="_blank" title="Download/View Attachment_L2_Past_Performance_Transmittal_Letter.pdf" class="file">Attachment_L2_Past_Performance_Transmittal_Letter.pdf</a></dd><dd><a href="/utils/view?id=4009849f1fac70f1dfe9ccfc2c903096" target="_blank" title="Download/View Attachment_L3_Past_Performance_Questionnaire.pdf" class="file">Attachment_L3_Past_Performance_Questionnaire.pdf</a></dd><dd><a href="/utils/view?id=8fd79c36c526346adea65c20db394763" target="_blank" title="Download/View Attachment_L4_TOR_213-00--Statement_of_Work.pdf" class="file">Attachment_L4_TOR_213-00--Statement_of_Work.pdf</a></dd><dd><a href="/utils/view?id=ac5522b68e03fef2f860e5a1c6b44a73" target="_blank" title="Download/View Attachment_L5_TOR_214-20--Statement_of_Work.pdf" class="file">Attachment_L5_TOR_214-20--Statement_of_Work.pdf</a></dd><dd><a href="/utils/view?id=cc9c8fa98938059ed53a03ca76315540" target="_blank" title="Download/View Attachment_L6_TOR_214-26--Statement_of_Work.pdf" class="file">Attachment_L6_TOR_214-26--Statement_of_Work.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a9108bf6bd0d53e828a2ac5d92d7251b">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=17196b674f8e2d0c09e2bc53caeabf7a&class=document_package&id=a9108bf6bd0d53e828a2ac5d92d7251b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 24, 2014</div></dt><dd><a href="/utils/view?id=821b00dd05bc9affae458e4348c4ca32" target="_blank" title="Download/View SF_30_-_NIHOF2013536_-_Amendment_0001.pdf" class="file">SF_30_-_NIHOF2013536_-_Amendment_0001.pdf</a></dd><dd><a href="/utils/view?id=e9407bcaab12372d42dc88b2a8f57aef" target="_blank" title="Download/View Amendment_0001.docx" class="file">Amendment_0001.docx</a></dd><dd><a href="/utils/view?id=9e8499d1d71da08cadf049ec56ab8e92" target="_blank" title="Download/View Section_E_-_Inspection_and_Acceptance_-_Revision_1.pdf" class="file">Section_E_-_Inspection_and_Acceptance_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=751aed7e8ac97ab3f8397811995d08e3" target="_blank" title="Download/View Section_J_-_List_of_Attachments_-_Revision_1.pdf" class="file">Section_J_-_List_of_Attachments_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=dbb9c03c97499c4f0b93c3324f68f1d2" target="_blank" title="Download/View Statement_of_Work_-_Revision_1_-_01-24-14.pdf" class="file">Statement_of_Work_-_Revision_1_-_01-24-14.pdf</a></dd><dd><a href="/utils/view?id=0798d0fc5cf4738745268b40e6965615" target="_blank" title="Download/View Specification_Section_01_33_00.docx" class="file">Specification_Section_01_33_00.docx</a></dd><dd><a href="/utils/view?id=162319c02257a2c52f595b9ba818bab4" target="_blank" title="Download/View Specification_Section_01_35_26.docx" class="file">Specification_Section_01_35_26.docx</a></dd><dd><a href="/utils/view?id=7b778f075f2c08388440cea66058cd65" target="_blank" title="Download/View Specification_Section_01_45_00.docx" class="file">Specification_Section_01_45_00.docx</a></dd><dd><a href="/utils/view?id=7546b70d3bff685987dc39eed48372ef" target="_blank" title="Download/View New_Equipment_Submission_Worksheet_Template.xls" class="file">New_Equipment_Submission_Worksheet_Template.xls</a></dd><dd><a href="/utils/view?id=4a8c570820fb4bb296a103986766accb" target="_blank" title="Download/View NIH_As-Built_Drawing_LOP_for_Contractors.doc" class="file">NIH_As-Built_Drawing_LOP_for_Contractors.doc</a></dd><dd><a href="/utils/view?id=963764d0a71a629497a03c7e6d1f964f" target="_blank" title="Download/View Section_L_-_Instructions,_Conditions,_and_Notices_to_Offerors_-_Revision_1.pdf" class="file">Section_L_-_Instructions,_Conditions,_and_Notices_to_Offerors_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=927c3b713d33eb81c5764915a0d9a48e" target="_blank" title="Download/View Attachment_L2_-_Past_Performance_Transmittal_Letter_-_Revision_1.docx" class="file">Attachment_L2_-_Past_Performance_Transmittal_Letter_-_Revision_1.docx</a></dd><dd><a href="/utils/view?id=06104e7823aa87397afaf3c611e9fac6" target="_blank" title="Download/View Attachment_L4_-_TOR_13-00_-_Statement_of_Work_-_Revision_1.pdf" class="file">Attachment_L4_-_TOR_13-00_-_Statement_of_Work_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=f476d98afb5cea248355409eba9faadd" target="_blank" title="Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_1.xlsx" class="file">Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_1.xlsx</a></dd><dd><a href="/utils/view?id=87acefdf17fa5943675640b7a0754f66" target="_blank" title="Download/View Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_1.pdf" class="file">Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=f95ccced0eb1754a4c8f2ae116417f5f" target="_blank" title="Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template.xlsx" class="file">Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template.xlsx</a></dd><dd><a href="/utils/view?id=9a23c3b39518bf134e1603455fb5279d" target="_blank" title="Download/View Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_1.pdf" class="file">Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=f81c5042e4d98c841fbdd9ffe05b0e3d" target="_blank" title="Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template.xlsx" class="file">Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=950d4a12757b1b4541bb327b8b856153">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=17196b674f8e2d0c09e2bc53caeabf7a&class=document_package&id=950d4a12757b1b4541bb327b8b856153" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 03, 2014</div></dt><dd><a href="/utils/view?id=5697b5b213c4be86ccea1139cdb7127d" target="_blank" title="Download/View SF_30_-_NIHOF2013536_-_Amendment_0002.pdf" class="file">SF_30_-_NIHOF2013536_-_Amendment_0002.pdf</a></dd><dd><a href="/utils/view?id=29c056802cd97ccf238ea52909d93ab8" target="_blank" title="Download/View Amendment_0002.docx" class="file">Amendment_0002.docx</a></dd><dd><a href="/utils/view?id=8f5b3511d1397c008d8526658801b6b6" target="_blank" title="Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_2.xlsx" class="file">Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_2.xlsx</a></dd><dd><a href="/utils/view?id=bb3575b0a6a6558da3cd284dde42a2ec" target="_blank" title="Download/View Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_2.pdf" class="file">Attachment_L6_-_TOR_214-20_-_Statement_of_Work_-_Revision_2.pdf</a></dd><dd><a href="/utils/view?id=1fa9235c81cfe74a0819c0a8743611d0" target="_blank" title="Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_1.xlsx" class="file">Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_1.xlsx</a></dd><dd><a href="/utils/view?id=2404d050f53d342453e4872ea61a2950" target="_blank" title="Download/View Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_2.pdf" class="file">Attachment_L8_-_TOR_214-26_-_Statement_of_Work_-_Revision_2.pdf</a></dd><dd><a href="/utils/view?id=7f9946569b5069cb07ea4c150dc5d649" target="_blank" title="Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_1.xlsx" class="file">Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_1.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1e5289ab79816a9fb0bde975333f5611">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=17196b674f8e2d0c09e2bc53caeabf7a&class=document_package&id=1e5289ab79816a9fb0bde975333f5611" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 06, 2014</div></dt><dd><a href="/utils/view?id=7cc29ab776f2d46d6b31b79aa61a9879" target="_blank" title="Download/View SF_30_-_NIHOF2013536_-_Amendment_0003.pdf" class="file">SF_30_-_NIHOF2013536_-_Amendment_0003.pdf</a></dd><dd><a href="/utils/view?id=4eaeebbd3fc79b38e50e4847049fd2a3" target="_blank" title="Download/View Amendment_0003.docx" class="file">Amendment_0003.docx</a></dd><dd><a href="/utils/view?id=994c6e5853cda96ca2c8076ec63c411a" target="_blank" title="Download/View MATOC_Pre-Proposal_Conference_Briefing.pptx" class="file">MATOC_Pre-Proposal_Conference_Briefing.pptx</a></dd><dd><a href="/utils/view?id=b599d3ca470fa16bd33c4dae0a722833" target="_blank" title="Download/View MATOC_Pre-Proposal_Conference_Sign-in_Sheet.pdf" class="file">MATOC_Pre-Proposal_Conference_Sign-in_Sheet.pdf</a></dd><dd><a href="/utils/view?id=c10051dbea426b7d93751f4c796d3928" target="_blank" title="Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_2.xlsx" class="file">Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_2.xlsx</a></dd><dd><a href="/utils/view?id=bafe135e50f62e68673cfb18dafaf0c7" target="_blank" title="Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_2.xlsx" class="file">Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_2.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=8f948cfddbb58b4fb1db9ce9e12ffa97">Amendment 4</a> <a target="_blank" href="/utils/dZip?base=17196b674f8e2d0c09e2bc53caeabf7a&class=document_package&id=8f948cfddbb58b4fb1db9ce9e12ffa97" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=5751e5def573e263294048206027a8e9" target="_blank" title="Download/View SF_30_-_NIHOF2013536_-_Amendment_0004.pdf" class="file">SF_30_-_NIHOF2013536_-_Amendment_0004.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=bdcf44e72105caf9b0164e8f429c9c95">Amendment 5</a> <a target="_blank" href="/utils/dZip?base=17196b674f8e2d0c09e2bc53caeabf7a&class=document_package&id=bdcf44e72105caf9b0164e8f429c9c95" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 12, 2014</div></dt><dd><a href="/utils/view?id=97ba4ed10b88437658ec17793eca9b6b" target="_blank" title="Download/View SF_30_-_NIHOF2013536_-_Amendment_0005.pdf" class="file">SF_30_-_NIHOF2013536_-_Amendment_0005.pdf</a></dd><dd><a href="/utils/view?id=9415b2d7785c4eca19a90dd8d0cce478" target="_blank" title="Download/View Amendment_0005.docx" class="file">Amendment_0005.docx</a></dd><dd><a href="/utils/view?id=8704a2e0f3838e15c55acb00c41c6642" target="_blank" title="Download/View Section_G_-_Contract_Administration_Data_-_Revision_1.pdf" class="file">Section_G_-_Contract_Administration_Data_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=9fb9fbed2b4b373983f41c806eaa29d3" target="_blank" title="Download/View Section_H_-_Special_Contract_Requirements_-_Revision_1.pdf" class="file">Section_H_-_Special_Contract_Requirements_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=d864aa8eacd1f3ae1dc23e20cf99f903" target="_blank" title="Download/View Specification_Section_01_33_00_-_Revision_1.pdf" class="file">Specification_Section_01_33_00_-_Revision_1.pdf</a></dd><dd><a href="/utils/view?id=8a304295ada8ff77c0793515f726db22" target="_blank" title="Download/View Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_3.xlsx" class="file">Attachment_L5_-_TOR_13-00_-_Task_Order_Pricing_Template_-_Revision_3.xlsx</a></dd><dd><a href="/utils/view?id=981b37204fab9324f3fca0b4b2d7484d" target="_blank" title="Download/View TOR_00-13_-_Revised_Drawings_-_dated_02-10-14.pdf" class="file">TOR_00-13_-_Revised_Drawings_-_dated_02-10-14.pdf</a></dd><dd><a href="/utils/view?id=fd783cf49bc27aa0f33015f05284b980" target="_blank" title="Download/View Attachment_L6__TOR_214-20__Statement_of_Work__Revision_3.pdf" class="file">Attachment_L6__TOR_214-20__Statement_of_Work__Revision_3.pdf</a></dd><dd><a href="/utils/view?id=d3afc0310a8a704ba1a13f8dab700ab6" target="_blank" title="Download/View Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_3.xlsx" class="file">Attachment_L7_-_TOR_214-20_-_Task_Order_Pricing_Template_-_Revision_3.xlsx</a></dd><dd><a href="/utils/view?id=1e56ea871c294254814f444610902317" target="_blank" title="Download/View Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_3.xlsx" class="file">Attachment_L9_-_TOR_214-26_-_Task_Order_Pricing_Template_-_Revision_3.xlsx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	December 12, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 18, 2014 4:30 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 18, 2014 4:30 pm
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Competitive 8(a)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Competitive 8(a)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Z -- Maintenance, repair, and alteration of real property
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	236 -- Construction of Buildings/236220 -- Commercial and Institutional Building Construction
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

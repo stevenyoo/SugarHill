@@ -1,0 +1,2145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>AFWA Systems Engineering, Planning and Integration Support (SEPIS) - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392498236');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392498236';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Combat Command logo"></div><div class="agency-header agency-header-med"><h2>AFWA Systems Engineering, Planning and Integration Support (SEPIS)</h2><div class="sol-num">Solicitation Number: FA4600-13-R-0005</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Combat Command<br>Location: 55 CONS</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=f929e8a842ec4f76e3025fea6b90fab2&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/ACC/55CONS/FA4600-13-R-0005/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/ACC/55CONS/FA4600-13-R-0005/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/ACC/55CONS/FA4600-13-R-0005/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=f929e8a842ec4f76e3025fea6b90fab2&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=f929e8a842ec4f76e3025fea6b90fab2&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=f929e8a842ec4f76e3025fea6b90fab2&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=3471359edcaa9475cb3b9dad1427a5e1&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Feb 21, 2013</div><div class="nh-date">12:46 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=841393956f56c6d4e486ae1b5b701d04&_cview=0">Changed</a><div class="nh-date">Feb 25, 2013</div><div class="nh-date">5:59 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=06138d2e029161c54fae22b1c658b245&_cview=0">Changed</a><div class="nh-date">Feb 25, 2013</div><div class="nh-date">6:05 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=a640f23306582005573e0af55a62468b&_cview=0">Changed</a><div class="nh-date">May 01, 2013</div><div class="nh-date">4:53 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=816c52d2c15bb16819da81943a771fec&_cview=0">Changed</a><div class="nh-date">May 07, 2013</div><div class="nh-date">4:29 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=bb0d8197cbb1ce6b15efe99c85d78c5a&_cview=0">Changed</a><div class="nh-date">May 31, 2013</div><div class="nh-date">1:53 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3ca0f6d7a5165c349da35207ae4c2db9&_cview=0">Changed</a><div class="nh-date">Jun 06, 2013</div><div class="nh-date">4:18 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=9d48fcc886eab0a2be10c7c60059c285&_cview=0">Changed</a><div class="nh-date">Jun 21, 2013</div><div class="nh-date">3:13 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=518306b490749659804a04a848ea7db7&_cview=0">Changed</a><div class="nh-date">Jun 21, 2013</div><div class="nh-date">3:57 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2e0653b55aa5afdd1dc37f2bf4d96763&_cview=0">Changed</a><div class="nh-date">Jun 25, 2013</div><div class="nh-date">11:59 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=526bd4c71d29057985ec3e71693cf1b3&_cview=0">Changed</a><div class="nh-date">Jun 25, 2013</div><div class="nh-date">12:09 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=a3f178ab15cfb7ae150fc5943b04265b&_cview=0">Changed</a><div class="nh-date">Jun 25, 2013</div><div class="nh-date">12:14 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=4ef53bf8035799297334c428bac4f084&_cview=0">Changed</a><div class="nh-date">Jun 25, 2013</div><div class="nh-date">5:13 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=ebecce5b1d6fce0878f0fcb80fc84b09&_cview=0">Changed</a><div class="nh-date">Jun 26, 2013</div><div class="nh-date">2:51 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=9dc7d4729b5729b49ae82d1f8cfca8d9&_cview=0">Changed</a><div class="nh-date">Jun 27, 2013</div><div class="nh-date">9:33 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e16bba1e7ed95ae977011ffeb982278c&_cview=0">Changed</a><div class="nh-date">Jul 02, 2013</div><div class="nh-date">11:01 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=7bdd437da1435c2619a4ef2e3a5856a0&_cview=0">Changed</a><div class="nh-date">Jul 02, 2013</div><div class="nh-date">11:14 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=9baebdbd104a7cac17234e10db214636&_cview=0">Changed</a><div class="nh-date">Aug 01, 2013</div><div class="nh-date">11:15 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d55f6bc9a37d3802b84bc478f8443e23&_cview=0">Changed</a><div class="nh-date">Jan 15, 2014</div><div class="nh-date">11:57 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=f929e8a842ec4f76e3025fea6b90fab2&_cview=0">Changed</a><div class="nh-date">Feb 10, 2014</div><div class="nh-date">5:01 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=3471359edcaa9475cb3b9dad1427a5e1'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=3471359edcaa9475cb3b9dad1427a5e1'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA4600-13-R-0005
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-02-21 12:46:37">Feb 21, 2013 12:46 pm</span>
+					</div>
+		Interested parties are notified that the solicitation number for SEPIS has changed from FA4600-12-R-9999 (draft RFP) to FA4600-13-R-0005. Please refer to FA4600-13-R-0005 on FedBizOpps for forthcoming information regarding SEPIS. Interested parties may also refer to SE3162011 and 06242011 for prior information posted during the market research phase of SEPIS. APPROXIMATE SOLICITATION ISSUE DATE: March 2013. The 55th Contracting Squadron will be conducting the solicitation and award of a cascading set-aside, non-personal services, single award contract for a base period and four (4) one year option periods. In addition, FAR clause 52.217-8, Option to Extend Services will be included. The Cascade Set-Aside with include two tiers. Tier 1 will be set-aside for Small Businesses and Tier 2 will feature full and open competition. This contract will have Cost Plus Incentive Fee (CPIF) CLINs along with a Firm Fixed Price (FFP) CLIN and Cost Reimbursement CLINs. Contract Transition period is expected to be 90 days starting on either 1 October 2013 or 1 January 2014. The acquisition&amp;rsquo;s objective is to provide the systems engineering products for AFW to order the system services necessary to ensure that AFW systems deliver an increasingly higher level of effectiveness, reliability and performance (technically, functionally and in terms of customer support) while reducing ownership costs. The Contractor shall dedicate themselves to providing world-class, industry standard systems engineering services. The planning for efficient and reliable systems to reduce ownership costs while improving system performance, combined with strong and up-to-date knowledge of technology solutions are key components of this service. Additionally, the Contractor is expected to partner with AFW personnel and serve as a proactive catalyst in continuously improving the effectiveness of AFW systems and the products these systems provide to AFW customers in supporting current and emerging missions. The Contractor is expected to bring the tools, experience, practices and leadership to AFW to move its information technology environment into a proactive, highly customer responsive system following best business practices. Contractor must be able to meet all requirements of the Contract Performance Work Statements (PWS), certification requirements, and appropriate security clearances. Contractor must comply with guidelines specified in the DD Form 254, Contract Security Classification Specification. This project is classified up to Top Secret. Specific contractor employees who require access to Sensitive Compartmented Information (SCI) will be required to meet ICD 704 personnel security standards. The number of SCI positions required to perform this contract will be approved by the AFWA Special Security Officer based on validated needs. All contractor personnel assigned to perform work under this contract shall have a minimum of Secret security clearance except those assigned to SCI Billets. No waivers will be considered. This acquisition will be conducted using negotiated procedures in accordance with FAR Part 15. The Request For Proposal (RFP) and all associated documents, when issued, will be posted on the required government wide point of entry (FedBizOpps). Draft RFP documents have been posted on the FedBizOpps website under the previous solicitation number FA4600-12-R-9999. Offerors are reminded that the new solicitation number for SEPIS is FA4600-13-R-0005. Offerors are encouraged to subscribe/register for this solicitation number through http://www.fedbizopps.gov to ensure they automatically receive all documents associated with the procurement in a timely manner. All associated documents will be released electronically, except for the Technical Library DVD established for the SEPIS solicitation. The library is composed of technical, architecture, and schematic information. One copy of the Technical Library DVD will be provided to each prospective company. The Technical Library will contain Unclassified For Official Use Only (FOUO) information, documents that are on AFWA's OPSEC Critical Information List and some are considered Controlled Unclassified Information (CUI). Because of this, the technical library will only be released to companies that currently hold a Facility Clearance (FCL). To obtain a copy, please send your company's name and Cage Code to both Melissa Hergenrader at melissa.hergenrader@offutt.af.mil and Stacy Mazurek at stacy.mazurek@offutt.af.mil so the Government can verify your company has a FCL. Once your FCL is verified, 55 CONS will send out a notification that your company can obtain a copy of the Technical Library DVD. A completed and signed Non-Disclosure Agreement (NDA) must be completed by the person receiving/picking up the DVD (see attachment posted with this synopsis). The NDA must be returned to 55 CONS either prior to or provided at the pickup date/time arranged with 55 CONS. If multiple people in the Contractor's organization/team have a need to know or require access to the Technical Library Data, each person must fill out a NDA and return it to 55 CONS. If an interested company is not in the local area, 55 CONS will mail out a copy of the Technical Library DVD after the FCL is verified and a NDA is received from the recipient. The NAICS code is 541512, and the size standard is $25.5M. Anticipated award date is Fall 2013 or early Winter of 2014. Please send all questions to Melissa Hergenrader at melissa.hergenrader@offutt.af.mil and Stacy Mazurek at stacy.mazurek@offutt.af.mil. No discussions will be conducted telephonically.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-02-25 17:59:27">Feb 25, 2013 5:59 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][modified_on]" value="2013-02-25 18:04:32">Feb 25, 2013 6:04 pm<a href="/utils/viewDifferences?class=notice_description&id=8544bacd08b4d5bd2054da666a2229af&compared_to=e1ae301451945889b0126765e7c38da9" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=8544bacd08b4d5bd2054da666a2229af&compared_to=e1ae301451945889b0126765e7c38da9&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<p>***The purpose of this announcement amendment is to identify a question for industry feedback:</p><br />
+<p>The Government has defined a three month transition period for the awardee to prepare to assume full performance responsibility. The SEPIS Contractor must be fully capable to accomplish all SEPIS PWS requirements by the start of full performance. The Government seeks comments on whether three months is sufficient time for an awardee to prepare to assume full performance responsibility. In addition, the Government seeks a brief explanation of any challenges an awardee may encounter during a three month transition.</p><br />
+<p>Any feedback/comments regarding this question would be greatly appreciated; please submit to Melissa Hergenrader at melissa.hergenrader@offutt.af.mil and Stacy Mazurek at stacy.mazurek@offutt.af.mil no later than 1200 Central Time on Thursday, 28 February 2013.</p><br />
+<p>&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2013-05-01 16:53:48">May 01, 2013 4:53 pm</span>
+					</div>
+		The purpose of this amendment is to make the following changes:<br /><br />1.&nbsp; Additional Draft RFP Q&amp;As have been posted on 1 May 13.<br /><br />2.&nbsp; Change the primary POC from Melissa Hergenrader&nbsp;to Lt Jesse Jacobson at <a href="mailto:jesse.jacobson@offutt.af.mil">jesse.jacobson@offutt.af.mil</a>.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2013-05-07 16:29:13">May 07, 2013 4:29 pm</span>
+					</div>
+		The purpose of this amendment is to post an&amp;nbsp;additional draft RFP Q&amp;amp;A on 7 May 13.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2013-05-31 13:53:08">May 31, 2013 1:53 pm</span>
+					</div>
+		<br /><strong>***The purpose of this amendment is to post the final Request for Proposal (RFP) FA4600-13-R-0005 and all Section J attachments.&nbsp; See the RFP for proposal due date.</strong>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][5][added_on]" value="2013-06-06 16:18:35">Jun 06, 2013 4:18 pm</span>
+					</div>
+		***The purpose of this amendment is to post Q&amp;amp;A#1.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][6][added_on]" value="2013-06-21 15:13:51">Jun 21, 2013 3:13 pm</span>
+					</div>
+		***The purpose of this amendment is to post Final RFP Questions and Answers #2.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][7][added_on]" value="2013-06-21 15:57:21">Jun 21, 2013 3:57 pm</span>
+					</div>
+		<p>***The purpose of this amendment is to post Final RFP Questions and Answers #3.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][8][added_on]" value="2013-06-25 11:59:22">Jun 25, 2013 11:59 am</span>
+					</div>
+		***The purpose of this amendment is to post Final RFP Questions and Answers #4.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][9][added_on]" value="2013-06-25 12:09:19">Jun 25, 2013 12:09 pm</span>
+					</div>
+		***The purpose of this amendment is to post Final RFP Questions and Answers #5.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][10][added_on]" value="2013-06-25 12:14:07">Jun 25, 2013 12:14 pm</span>
+					</div>
+		***The purpose of this amendment is to post Final RFP Questions and Answers #6.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][11][added_on]" value="2013-06-25 17:13:32">Jun 25, 2013 5:13 pm</span>
+					</div>
+		***The purpose of this amendment is to post Final RFP Questions and Answers #7.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][12][added_on]" value="2013-06-26 14:51:32">Jun 26, 2013 2:51 pm</span>
+					</div>
+		<br /><strong>***The purpose of this amendment is to post Amendment 0001 to RFP FA4600-13-R-0005 along with the incorporated revised Section J Attachments 7, 10, 14. 15, 17 and 18.&nbsp; See the RFP for the revised proposal due date.</strong>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][13][added_on]" value="2013-06-27 09:33:54">Jun 27, 2013 9:33 am</span>
+					</div>
+		<br />***The purpose of this amendment is to post final RFP Questions and Answers #8.&nbsp;
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][14][added_on]" value="2013-07-02 11:01:48">Jul 02, 2013 11:01 am</span>
+					</div>
+		<p>***The purpose of this amendment is to post Final RFP Questions &amp; Answers #9.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][15][added_on]" value="2013-07-02 11:14:52">Jul 02, 2013 11:14 am</span>
+					</div>
+		<strong>***The purpose of this amendment is to post Amendment 0002 to RFP FA4600-13-R-0005.</strong>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][16][added_on]" value="2013-08-01 11:15:20">Aug 01, 2013 11:15 am</span>
+					</div>
+		<strong>***The purpose of this amendment is to post Amendment 0003 to RFP FA4600-13-R-0005.</strong>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][17][added_on]" value="2014-01-15 11:57:48">Jan 15, 2014 11:57 am</span>
+					</div>
+		<strong>***The purpose of this amendment is to post the following question that was submitted.<br /><br />Question:&nbsp; Would it be possible to get an update on the status of SEPIS source selection? It would be beneficial for our planning to have an idea of the Government's progress within the source selection process. Telling us where you are-still accomplishing source selection team evaluation of proposals, at level X of Y within your multiple levels of review of the source selection team's recommendation, or preparing to open discussions (evaluation notices) allows us to gauge timing and manage our resources for this acquisition.<br /><br />Answer:&nbsp; The SEPIS acqusition is in the initial evaluation process of the source selection.&nbsp; That is all of the information that we can provide at this time.&nbsp; Thank you for your patience.</strong>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][18][added_on]" value="2014-02-10 17:01:39">Feb 10, 2014 5:01 pm</span>
+					</div>
+		<p><strong>***The purpose of this notification is to inform offerors that the Government has delayed the SEPIS Tier 1 start date from 1 Apr 14 to 1 Nov 14 and the Tier 2 start date from 1 Jul 14 to 1 Feb 15. An amendment to the RFP will be posted to FBO with further details and instructions in mid to late March.</strong></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS Technical Library Non-Disclosure Agreement</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	SEPIS Technical Library Non-Disclosure Agreement
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 21, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=2ec3e620377e2743c31d829bc62f7c5c' target='_blank' title='Download/View SEPIS_Technical_Library_NDA.docx' class='file'&gt;SEPIS_Technical_Library_NDA.docx&lt;/a&gt;"><a href='/utils/view?id=2ec3e620377e2743c31d829bc62f7c5c' target='_blank' title='Download/View SEPIS_Technical_Library_NDA.docx' class='file'>SEPIS_Technical_Library_NDA.docx</a> (24.13 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> See the attached SEPIS Technical Library Non-Disclosure Agreement.  Refer to the Pre-Solicitation notice for instructions.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft RFP Q&A - 1 MAY 1013</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Draft RFP Q&A - 1 MAY 1013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	May 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=167e9d7b64328ee070d049b24b90bc1f' target='_blank' title='Download/View Draft_RFP_Q&amp;A_1_MAY_2013.pdf' class='file'&gt;Draft_RFP_Q&amp;A_1_MAY_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=167e9d7b64328ee070d049b24b90bc1f' target='_blank' title='Download/View Draft_RFP_Q&A_1_MAY_2013.pdf' class='file'>Draft_RFP_Q&A_1_MAY_2013.pdf</a> (15.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft RFP Q&amp;As 1 MAY 2013</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft RFP Q&A #2 - 7 May 13</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Draft RFP Q&A #2 - 7 May 13
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	May 7, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3bac2aa7c03da0812b71da6313022c42' target='_blank' title='Download/View Draft_RFP_Q&amp;A__2_-_7_MAY_13.docx' class='file'&gt;Draft_RFP_Q&amp;A__2_-_7_MAY_13.docx&lt;/a&gt;"><a href='/utils/view?id=3bac2aa7c03da0812b71da6313022c42' target='_blank' title='Download/View Draft_RFP_Q&A__2_-_7_MAY_13.docx' class='file'>Draft_RFP_Q&A__2_-_7_MAY_13.docx</a> (16.04 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft RFP Q&amp;A #2 - 7 May 13</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	May 31, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=31eea45c470c1171ac3ef7af1c24cfcd' target='_blank' title='Download/View FA4600-13-R-0005_as_in_PD2_31_May_13.doc' class='file'&gt;FA4600-13-R-0005_as_in_PD2_31_May_13.doc&lt;/a&gt;"><a href='/utils/view?id=31eea45c470c1171ac3ef7af1c24cfcd' target='_blank' title='Download/View FA4600-13-R-0005_as_in_PD2_31_May_13.doc' class='file'>FA4600-13-R-0005_as_in_PD2_31_May_13.doc</a> (1,560.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Final RFP# FA4600-13-R-0005</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=8abf362cade07d1736485f65177d4432' target='_blank' title='Download/View CDRL_A001-A002.pdf' class='file'&gt;CDRL_A001-A002.pdf&lt;/a&gt;"><a href='/utils/view?id=8abf362cade07d1736485f65177d4432' target='_blank' title='Download/View CDRL_A001-A002.pdf' class='file'>CDRL_A001-A002.pdf</a> (217.61 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A001-A002</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=0f3c4a32bac59030b4f29500cd8f9f6e' target='_blank' title='Download/View CDRL_A003-A004.pdf' class='file'&gt;CDRL_A003-A004.pdf&lt;/a&gt;"><a href='/utils/view?id=0f3c4a32bac59030b4f29500cd8f9f6e' target='_blank' title='Download/View CDRL_A003-A004.pdf' class='file'>CDRL_A003-A004.pdf</a> (217.55 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A003-A004</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=d913e6b8251516bda7cf6cf2efb1c915' target='_blank' title='Download/View CDRL_A005-A006.pdf' class='file'&gt;CDRL_A005-A006.pdf&lt;/a&gt;"><a href='/utils/view?id=d913e6b8251516bda7cf6cf2efb1c915' target='_blank' title='Download/View CDRL_A005-A006.pdf' class='file'>CDRL_A005-A006.pdf</a> (217.58 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A005-A006</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=e6c443ac338861b590c21723dfe25248' target='_blank' title='Download/View CDRL_A007-A008.pdf' class='file'&gt;CDRL_A007-A008.pdf&lt;/a&gt;"><a href='/utils/view?id=e6c443ac338861b590c21723dfe25248' target='_blank' title='Download/View CDRL_A007-A008.pdf' class='file'>CDRL_A007-A008.pdf</a> (217.59 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A007-A008</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=7d5e6c4a001d6b944a997bbbf210dacd' target='_blank' title='Download/View CDRL_A009-A010.pdf' class='file'&gt;CDRL_A009-A010.pdf&lt;/a&gt;"><a href='/utils/view?id=7d5e6c4a001d6b944a997bbbf210dacd' target='_blank' title='Download/View CDRL_A009-A010.pdf' class='file'>CDRL_A009-A010.pdf</a> (216.92 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A009-A010</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=ceb5e1ca7af545352e6e8ef46bf6efd6' target='_blank' title='Download/View CDRL_A011_-_A012.pdf' class='file'&gt;CDRL_A011_-_A012.pdf&lt;/a&gt;"><a href='/utils/view?id=ceb5e1ca7af545352e6e8ef46bf6efd6' target='_blank' title='Download/View CDRL_A011_-_A012.pdf' class='file'>CDRL_A011_-_A012.pdf</a> (217.51 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A011-A012</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=3e65cc86dd3e9ca7ef253933db50bab4' target='_blank' title='Download/View CDRL_A013_-_A014.pdf' class='file'&gt;CDRL_A013_-_A014.pdf&lt;/a&gt;"><a href='/utils/view?id=3e65cc86dd3e9ca7ef253933db50bab4' target='_blank' title='Download/View CDRL_A013_-_A014.pdf' class='file'>CDRL_A013_-_A014.pdf</a> (213.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A013-A014</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=88ca0c19b1303509bf2fe8b409426c78' target='_blank' title='Download/View CDRL_A015_-_A016.pdf' class='file'&gt;CDRL_A015_-_A016.pdf&lt;/a&gt;"><a href='/utils/view?id=88ca0c19b1303509bf2fe8b409426c78' target='_blank' title='Download/View CDRL_A015_-_A016.pdf' class='file'>CDRL_A015_-_A016.pdf</a> (218.31 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Exhibit A - CDRLs A015-A016</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=90d298b1a63a4f01cde12a02e7610b26' target='_blank' title='Download/View 01_Section_J,_Attachment_1_-_SEPIS_Solicitation_Fm_254_dtd_28_Feb_13.docx' class='file'&gt;01_Section_J,_Attachment_1_-_SEPIS_Solicitation_Fm_254_dtd_28_Feb_13.docx&lt;/a&gt;"><a href='/utils/view?id=90d298b1a63a4f01cde12a02e7610b26' target='_blank' title='Download/View 01_Section_J,_Attachment_1_-_SEPIS_Solicitation_Fm_254_dtd_28_Feb_13.docx' class='file'>01_Section_J,_Attachment_1_-_SEPIS_Solicitation_Fm_254_dtd_28_Feb_13.docx</a> (48.22 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 1 - Contract Security Classification Specification, DD Form 254</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=56399f283c8c3d808cf439e4ac0fd22b' target='_blank' title='Download/View 02_Section_J,_Attachment_2_-_Integrated_Team_Process_User's_Guide.docx' class='file'&gt;02_Section_J,_Attachment_2_-_Integrated_Team_Process_User's_Guide.docx&lt;/a&gt;"><a href='/utils/view?id=56399f283c8c3d808cf439e4ac0fd22b' target='_blank' title='Download/View 02_Section_J,_Attachment_2_-_Integrated_Team_Process_User's_Guide.docx' class='file'>02_Section_J,_Attachment_2_-_Integrated_Team_Process_User's_Guide.docx</a> (259.98 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 2 - Integrated Team Process (ITP)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=6dff0abff6d77689c264581d6c74a7d5' target='_blank' title='Download/View 03_Section_J,_Attachment_3_-_Sys_Engr_Planning_Incentive_Fee_Plan_V1.0.docx' class='file'&gt;03_Section_J,_Attachment_3_-_Sys_Engr_Planning_Incentive_Fee_Plan_V1.0.docx&lt;/a&gt;"><a href='/utils/view?id=6dff0abff6d77689c264581d6c74a7d5' target='_blank' title='Download/View 03_Section_J,_Attachment_3_-_Sys_Engr_Planning_Incentive_Fee_Plan_V1.0.docx' class='file'>03_Section_J,_Attachment_3_-_Sys_Engr_Planning_Incentive_Fee_Plan_V1.0.docx</a> (131.41 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 3 - Incentive Fee Plan (IFP)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=7d5bbcf2af9844f2b7bc5d2d0dfb0056' target='_blank' title='Download/View 04_Section_J,_Attachment_4_-_SEPIS_QASP_v0_0.docx' class='file'&gt;04_Section_J,_Attachment_4_-_SEPIS_QASP_v0_0.docx&lt;/a&gt;"><a href='/utils/view?id=7d5bbcf2af9844f2b7bc5d2d0dfb0056' target='_blank' title='Download/View 04_Section_J,_Attachment_4_-_SEPIS_QASP_v0_0.docx' class='file'>04_Section_J,_Attachment_4_-_SEPIS_QASP_v0_0.docx</a> (53.53 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 4 - Quality Asurance Surveillance Plan (QASP)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=d47573925a3fae0d5edd32bb5c50cf9b' target='_blank' title='Download/View 05_Section_J,_Attachment_5_-_NCIC_Data.docx' class='file'&gt;05_Section_J,_Attachment_5_-_NCIC_Data.docx&lt;/a&gt;"><a href='/utils/view?id=d47573925a3fae0d5edd32bb5c50cf9b' target='_blank' title='Download/View 05_Section_J,_Attachment_5_-_NCIC_Data.docx' class='file'>05_Section_J,_Attachment_5_-_NCIC_Data.docx</a> (20.30 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 5 - NCIC Data</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=95e1eaa1d6a0a2e1fd0dcd60fe9af706' target='_blank' title='Download/View 06_Section_J,_Attachment_6_-_Certificate_of_Insurance.doc' class='file'&gt;06_Section_J,_Attachment_6_-_Certificate_of_Insurance.doc&lt;/a&gt;"><a href='/utils/view?id=95e1eaa1d6a0a2e1fd0dcd60fe9af706' target='_blank' title='Download/View 06_Section_J,_Attachment_6_-_Certificate_of_Insurance.doc' class='file'>06_Section_J,_Attachment_6_-_Certificate_of_Insurance.doc</a> (25.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 6 - Certificate of Compliance with Insurance Requirements</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][15][file][0][preview]" value="&lt;a href='/utils/view?id=881b497c18a4e807ec7ec42694e07463' target='_blank' title='Download/View 07_Section_J,_Attachment_7_-_SEPIS_Matrix_V1.0.docx' class='file'&gt;07_Section_J,_Attachment_7_-_SEPIS_Matrix_V1.0.docx&lt;/a&gt;"><a href='/utils/view?id=881b497c18a4e807ec7ec42694e07463' target='_blank' title='Download/View 07_Section_J,_Attachment_7_-_SEPIS_Matrix_V1.0.docx' class='file'>07_Section_J,_Attachment_7_-_SEPIS_Matrix_V1.0.docx</a> (16.55 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 7 - Technical Cross Reference Matrixes</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][16][file][0][preview]" value="&lt;a href='/utils/view?id=716e743a29a84dd343328436929cda1d' target='_blank' title='Download/View 08_Section_J,_Attachment_8_-_Past_Performance_Information.docx' class='file'&gt;08_Section_J,_Attachment_8_-_Past_Performance_Information.docx&lt;/a&gt;"><a href='/utils/view?id=716e743a29a84dd343328436929cda1d' target='_blank' title='Download/View 08_Section_J,_Attachment_8_-_Past_Performance_Information.docx' class='file'>08_Section_J,_Attachment_8_-_Past_Performance_Information.docx</a> (19.51 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 8 - Past Performance Information </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][17][file][0][preview]" value="&lt;a href='/utils/view?id=e639f963f26c3736ca36503f344d8117' target='_blank' title='Download/View 09_Section_J,_Attachment_9_-_Past_and_Present_Performance_Questionnaire_Cover_Letter.docx' class='file'&gt;09_Section_J,_Attachment_9_-_Past_and_Present_Performance_Questionnaire_Cover_Letter.docx&lt;/a&gt;"><a href='/utils/view?id=e639f963f26c3736ca36503f344d8117' target='_blank' title='Download/View 09_Section_J,_Attachment_9_-_Past_and_Present_Performance_Questionnaire_Cover_Letter.docx' class='file'>09_Section_J,_Attachment_9_-_Past_and_Present_Performance_Questionnaire_Cover_Letter.docx</a> (18.28 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 9 - Past and Present Performance Questionnaire Cover Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][18][file][0][preview]" value="&lt;a href='/utils/view?id=74c71104d203f115b537b769fca232e0' target='_blank' title='Download/View 10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire.docx' class='file'&gt;10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire.docx&lt;/a&gt;"><a href='/utils/view?id=74c71104d203f115b537b769fca232e0' target='_blank' title='Download/View 10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire.docx' class='file'>10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire.docx</a> (26.29 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 10 - Past and Present Performance Questionnaire</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][19][file][0][preview]" value="&lt;a href='/utils/view?id=e688f09f67b20e5cd750930fea34d690' target='_blank' title='Download/View 11_Section_J,_Attachment_11_-_Past_Performance_Tracking_Record.docx' class='file'&gt;11_Section_J,_Attachment_11_-_Past_Performance_Tracking_Record.docx&lt;/a&gt;"><a href='/utils/view?id=e688f09f67b20e5cd750930fea34d690' target='_blank' title='Download/View 11_Section_J,_Attachment_11_-_Past_Performance_Tracking_Record.docx' class='file'>11_Section_J,_Attachment_11_-_Past_Performance_Tracking_Record.docx</a> (16.02 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 11 - Past Performance Tracking Record</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][20][file][0][preview]" value="&lt;a href='/utils/view?id=ccb772bd3ce02ed8b6e7649dfecdad38' target='_blank' title='Download/View 12_Section_J,_Attachment_12_-_Subcontractor-Teaming_Partner_Consent_Letter.docx' class='file'&gt;12_Section_J,_Attachment_12_-_Subcontractor-Teaming_Partner_Consent_Letter.docx&lt;/a&gt;"><a href='/utils/view?id=ccb772bd3ce02ed8b6e7649dfecdad38' target='_blank' title='Download/View 12_Section_J,_Attachment_12_-_Subcontractor-Teaming_Partner_Consent_Letter.docx' class='file'>12_Section_J,_Attachment_12_-_Subcontractor-Teaming_Partner_Consent_Letter.docx</a> (17.39 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 12 - Subcontracting/Teaming Partner Consent Letter for the Release of Past and Present Performance Information to the Prime Contractor</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][21][file][0][preview]" value="&lt;a href='/utils/view?id=1b10221bf8c3d23794060e03f785ec0f' target='_blank' title='Download/View 13_Section_J,_Attachment_13_-_Client_Authorization_Letter.docx' class='file'&gt;13_Section_J,_Attachment_13_-_Client_Authorization_Letter.docx&lt;/a&gt;"><a href='/utils/view?id=1b10221bf8c3d23794060e03f785ec0f' target='_blank' title='Download/View 13_Section_J,_Attachment_13_-_Client_Authorization_Letter.docx' class='file'>13_Section_J,_Attachment_13_-_Client_Authorization_Letter.docx</a> (19.24 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 13 - Client Authorization Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][22][file][0][preview]" value="&lt;a href='/utils/view?id=5eadf2abb6579af07ccd48318673a22e' target='_blank' title='Download/View 14_Section_J,_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start.xls' class='file'&gt;14_Section_J,_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start.xls&lt;/a&gt;"><a href='/utils/view?id=5eadf2abb6579af07ccd48318673a22e' target='_blank' title='Download/View 14_Section_J,_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start.xls' class='file'>14_Section_J,_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start.xls</a> (325.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 14 - SEPIS Cost/Price Model Apr 14 Start</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][23][file][0][preview]" value="&lt;a href='/utils/view?id=9eccec9fbf9b1c648c234538bb746856' target='_blank' title='Download/View 15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start.xls' class='file'&gt;15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start.xls&lt;/a&gt;"><a href='/utils/view?id=9eccec9fbf9b1c648c234538bb746856' target='_blank' title='Download/View 15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start.xls' class='file'>15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start.xls</a> (324.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 15 - SEPIS Cost/Price Model Jul 14 Start</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][24][file][0][preview]" value="&lt;a href='/utils/view?id=d17965066f877617216f2233e120019b' target='_blank' title='Download/View 16_Section_J,_Attachment_16_-_DOL,_EEOC_Clearance_Request_Information.doc' class='file'&gt;16_Section_J,_Attachment_16_-_DOL,_EEOC_Clearance_Request_Information.doc&lt;/a&gt;"><a href='/utils/view?id=d17965066f877617216f2233e120019b' target='_blank' title='Download/View 16_Section_J,_Attachment_16_-_DOL,_EEOC_Clearance_Request_Information.doc' class='file'>16_Section_J,_Attachment_16_-_DOL,_EEOC_Clearance_Request_Information.doc</a> (41.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 16 - DOL, EEOC Clearance Request Information </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][25][file][0][preview]" value="&lt;a href='/utils/view?id=7f042304340a29f7afeb8400aac3d6ee' target='_blank' title='Download/View 17_Section_J,_Attachment_17_-_SEPIS_CWBS.xlsx' class='file'&gt;17_Section_J,_Attachment_17_-_SEPIS_CWBS.xlsx&lt;/a&gt;"><a href='/utils/view?id=7f042304340a29f7afeb8400aac3d6ee' target='_blank' title='Download/View 17_Section_J,_Attachment_17_-_SEPIS_CWBS.xlsx' class='file'>17_Section_J,_Attachment_17_-_SEPIS_CWBS.xlsx</a> (18.67 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 17 - Work Breakdown Structure (WBS)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][26][file][0][preview]" value="&lt;a href='/utils/view?id=44732bc00c9a8f0d40afabdee39dfea2' target='_blank' title='Download/View 18_Section_J,_Attachment_18_-_Workload_Estimates_RFP_Attachment_v1.0.docx' class='file'&gt;18_Section_J,_Attachment_18_-_Workload_Estimates_RFP_Attachment_v1.0.docx&lt;/a&gt;"><a href='/utils/view?id=44732bc00c9a8f0d40afabdee39dfea2' target='_blank' title='Download/View 18_Section_J,_Attachment_18_-_Workload_Estimates_RFP_Attachment_v1.0.docx' class='file'>18_Section_J,_Attachment_18_-_Workload_Estimates_RFP_Attachment_v1.0.docx</a> (15.41 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 18 - Workload Estimate</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][27][file][0][preview]" value="&lt;a href='/utils/view?id=1511ba05d074d5e59cf375315bd67666' target='_blank' title='Download/View 19_Section_J,_Attachment_19_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Apr_14_Start.xls' class='file'&gt;19_Section_J,_Attachment_19_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Apr_14_Start.xls&lt;/a&gt;"><a href='/utils/view?id=1511ba05d074d5e59cf375315bd67666' target='_blank' title='Download/View 19_Section_J,_Attachment_19_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Apr_14_Start.xls' class='file'>19_Section_J,_Attachment_19_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Apr_14_Start.xls</a> (90.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 19 - Small Business Subcontracting Plan Review Checklist Apr 14 Start</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][28][file][0][preview]" value="&lt;a href='/utils/view?id=ab6ff40df80fa8f838244b799411ed2f' target='_blank' title='Download/View 20_Section_J,_Attachment_20_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Jul_14_Start.xls' class='file'&gt;20_Section_J,_Attachment_20_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Jul_14_Start.xls&lt;/a&gt;"><a href='/utils/view?id=ab6ff40df80fa8f838244b799411ed2f' target='_blank' title='Download/View 20_Section_J,_Attachment_20_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Jul_14_Start.xls' class='file'>20_Section_J,_Attachment_20_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Jul_14_Start.xls</a> (89.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 20 - Small Business Subcontracting Review Checklist Jul 14 Start</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Final RFP Q&A #1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__name__widget">
+	Final RFP Q&A #1
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	June 6, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5b534ca3525dba0da9db862722fd8f27' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__1_-_6_JUN_13.pdf' class='file'&gt;SEPIS_RFP_Q&amp;A__1_-_6_JUN_13.pdf&lt;/a&gt;"><a href='/utils/view?id=5b534ca3525dba0da9db862722fd8f27' target='_blank' title='Download/View SEPIS_RFP_Q&A__1_-_6_JUN_13.pdf' class='file'>SEPIS_RFP_Q&A__1_-_6_JUN_13.pdf</a> (13.33 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Final RFP Q&amp;A #1</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS RFP Q&A #2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__name__widget">
+	SEPIS RFP Q&A #2
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	June 21, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7679dc6718c7201fc0e4f23e33621c5b' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__2.pdf' class='file'&gt;SEPIS_RFP_Q&amp;A__2.pdf&lt;/a&gt;"><a href='/utils/view?id=7679dc6718c7201fc0e4f23e33621c5b' target='_blank' title='Download/View SEPIS_RFP_Q&A__2.pdf' class='file'>SEPIS_RFP_Q&A__2.pdf</a> (58.82 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS Final RFP Questions and Answers #2</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS RFP Q&A #3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__name__widget">
+	SEPIS RFP Q&A #3
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	June 21, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b13c4fbcd47ae19f15ba558ad199dd0e' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__3.pdf' class='file'&gt;SEPIS_RFP_Q&amp;A__3.pdf&lt;/a&gt;"><a href='/utils/view?id=b13c4fbcd47ae19f15ba558ad199dd0e' target='_blank' title='Download/View SEPIS_RFP_Q&A__3.pdf' class='file'>SEPIS_RFP_Q&A__3.pdf</a> (32.89 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS Final RFP Questions and Answers #3.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS RFP Q&A #4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	SEPIS RFP Q&A #4
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	June 25, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7c819dd58c0c3d94dbd491c2920d121d' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__4.pdf' class='file'&gt;SEPIS_RFP_Q&amp;A__4.pdf&lt;/a&gt;"><a href='/utils/view?id=7c819dd58c0c3d94dbd491c2920d121d' target='_blank' title='Download/View SEPIS_RFP_Q&A__4.pdf' class='file'>SEPIS_RFP_Q&A__4.pdf</a> (37.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS Final RFP Q&amp;A #4</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=12200eb1eca6f0a90a9a703fef83f926' target='_blank' title='Download/View Enterprise_Overview_Briefing_-_Aug_12[1].pptx' class='file'&gt;Enterprise_Overview_Briefing_-_Aug_12[1].pptx&lt;/a&gt;"><a href='/utils/view?id=12200eb1eca6f0a90a9a703fef83f926' target='_blank' title='Download/View Enterprise_Overview_Briefing_-_Aug_12[1].pptx' class='file'>Enterprise_Overview_Briefing_-_Aug_12[1].pptx</a> (934.92 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> AFWA Enterprise Overview Briefing</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS RFP Q&A #5</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__name__widget">
+	SEPIS RFP Q&A #5
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	June 25, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=ac376ab9fe1f8b995ed858528c48e4a3' target='_blank' title='Download/View SEPIS_RFP_QA__5.pdf' class='file'&gt;SEPIS_RFP_QA__5.pdf&lt;/a&gt;"><a href='/utils/view?id=ac376ab9fe1f8b995ed858528c48e4a3' target='_blank' title='Download/View SEPIS_RFP_QA__5.pdf' class='file'>SEPIS_RFP_QA__5.pdf</a> (43.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS RFP Q&amp;A #5</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS RFP #6</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__name__widget">
+	SEPIS RFP #6
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	June 25, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=6acdc5a9003f5f99902cda517d069811' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__6.pdf' class='file'&gt;SEPIS_RFP_Q&amp;A__6.pdf&lt;/a&gt;"><a href='/utils/view?id=6acdc5a9003f5f99902cda517d069811' target='_blank' title='Download/View SEPIS_RFP_Q&A__6.pdf' class='file'>SEPIS_RFP_Q&A__6.pdf</a> (29.42 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS RFP #6</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS RFP Q&A #7</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__name__widget">
+	SEPIS RFP Q&A #7
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	June 25, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=38b155102579d40cc4139e7c28c2d669' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__7.pdf' class='file'&gt;SEPIS_RFP_Q&amp;A__7.pdf&lt;/a&gt;"><a href='/utils/view?id=38b155102579d40cc4139e7c28c2d669' target='_blank' title='Download/View SEPIS_RFP_Q&A__7.pdf' class='file'>SEPIS_RFP_Q&A__7.pdf</a> (33.35 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS RFP Q&amp;A #7</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__posted_date__widget">
+	June 26, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9bf70a90a7b65819fdad7abd158db276' target='_blank' title='Download/View SEPIS_RFP_Amendment_FA4600-13-R-0005-0001.doc' class='file'&gt;SEPIS_RFP_Amendment_FA4600-13-R-0005-0001.doc&lt;/a&gt;"><a href='/utils/view?id=9bf70a90a7b65819fdad7abd158db276' target='_blank' title='Download/View SEPIS_RFP_Amendment_FA4600-13-R-0005-0001.doc' class='file'>SEPIS_RFP_Amendment_FA4600-13-R-0005-0001.doc</a> (417.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA4600-13-R-0005 Amendment 0001</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=36d392d35df5a5c114db7dd0c327ceb9' target='_blank' title='Download/View 07_Section_J,_Attachment_07_-_SEPIS_Matrix_V1.1.docx' class='file'&gt;07_Section_J,_Attachment_07_-_SEPIS_Matrix_V1.1.docx&lt;/a&gt;"><a href='/utils/view?id=36d392d35df5a5c114db7dd0c327ceb9' target='_blank' title='Download/View 07_Section_J,_Attachment_07_-_SEPIS_Matrix_V1.1.docx' class='file'>07_Section_J,_Attachment_07_-_SEPIS_Matrix_V1.1.docx</a> (16.58 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 7, Technical Cross Reference Matrixes (Amendment 0001)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=2bda0462fc21efed7ab9f5b50d084ace' target='_blank' title='Download/View 10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire_v1.1.docx' class='file'&gt;10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire_v1.1.docx&lt;/a&gt;"><a href='/utils/view?id=2bda0462fc21efed7ab9f5b50d084ace' target='_blank' title='Download/View 10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire_v1.1.docx' class='file'>10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire_v1.1.docx</a> (26.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 10, Past and Present Performance Questionnaire (Amendment 0001)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=b63a7e2a2910e7af80eac7ab0952f8de' target='_blank' title='Download/View 14_Section_J_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start(1)_26_Jun_13_(3).xls' class='file'&gt;14_Section_J_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start(1)_26_Jun_13_(3).xls&lt;/a&gt;"><a href='/utils/view?id=b63a7e2a2910e7af80eac7ab0952f8de' target='_blank' title='Download/View 14_Section_J_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start(1)_26_Jun_13_(3).xls' class='file'>14_Section_J_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start(1)_26_Jun_13_(3).xls</a> (345.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 14, SEPIS Cost/Price Model Apr 14 Start (Amendment 0001)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=bf42231c3dc3291e0603279438d3e676' target='_blank' title='Download/View 15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start(1)_26_Jun_13.xls' class='file'&gt;15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start(1)_26_Jun_13.xls&lt;/a&gt;"><a href='/utils/view?id=bf42231c3dc3291e0603279438d3e676' target='_blank' title='Download/View 15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start(1)_26_Jun_13.xls' class='file'>15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start(1)_26_Jun_13.xls</a> (344.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 15, SEPIS Cost/Price Model Jul 14 Start (Amendment 0001)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=3001f1ec07557b2d0f081709d0a1a43c' target='_blank' title='Download/View 17_Section_J,_Attachment_17_-_SEPIS_CWBS_18_Jun_13.xlsx' class='file'&gt;17_Section_J,_Attachment_17_-_SEPIS_CWBS_18_Jun_13.xlsx&lt;/a&gt;"><a href='/utils/view?id=3001f1ec07557b2d0f081709d0a1a43c' target='_blank' title='Download/View 17_Section_J,_Attachment_17_-_SEPIS_CWBS_18_Jun_13.xlsx' class='file'>17_Section_J,_Attachment_17_-_SEPIS_CWBS_18_Jun_13.xlsx</a> (21.17 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 17, Work Breakdown Structure (WBS) (Amendment 0001)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=cec5f4f93e74957dce00fcdc5170d63d' target='_blank' title='Download/View 18_Section_J,_Attachment_18_-_SEPIS_Workload_Estimates_RFP_Attachment_v1.1.docx' class='file'&gt;18_Section_J,_Attachment_18_-_SEPIS_Workload_Estimates_RFP_Attachment_v1.1.docx&lt;/a&gt;"><a href='/utils/view?id=cec5f4f93e74957dce00fcdc5170d63d' target='_blank' title='Download/View 18_Section_J,_Attachment_18_-_SEPIS_Workload_Estimates_RFP_Attachment_v1.1.docx' class='file'>18_Section_J,_Attachment_18_-_SEPIS_Workload_Estimates_RFP_Attachment_v1.1.docx</a> (20.66 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Section J, Attachment 18, Workload Estimate (Amendment 0001)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions and Answers #8 to RFP# FA4600-13-R-0005</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__name__widget">
+	Questions and Answers #8 to RFP# FA4600-13-R-0005
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__posted_date__widget">
+	June 27, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][12][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=022df9b115bc2f90c66df4a3ea273ad8' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__8_-_26_JUN_13.docx' class='file'&gt;SEPIS_RFP_Q&amp;A__8_-_26_JUN_13.docx&lt;/a&gt;"><a href='/utils/view?id=022df9b115bc2f90c66df4a3ea273ad8' target='_blank' title='Download/View SEPIS_RFP_Q&A__8_-_26_JUN_13.docx' class='file'>SEPIS_RFP_Q&A__8_-_26_JUN_13.docx</a> (22.77 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions &amp; Answers #8 to SEPIS RFP# FA4600-13-R-0005</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">SEPIS RFP Q&A #9</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__name__widget">
+	SEPIS RFP Q&A #9
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__posted_date__widget">
+	July 2, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][13][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b54b80ffd64060e259c2d636ffb0907e' target='_blank' title='Download/View SEPIS_RFP_Q&amp;A__9.pdf' class='file'&gt;SEPIS_RFP_Q&amp;A__9.pdf&lt;/a&gt;"><a href='/utils/view?id=b54b80ffd64060e259c2d636ffb0907e' target='_blank' title='Download/View SEPIS_RFP_Q&A__9.pdf' class='file'>SEPIS_RFP_Q&A__9.pdf</a> (26.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS RFP Q&amp;A #9</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__posted_date__widget">
+	July 2, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][14][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c4da213be52879cd508acb4747c36cd7' target='_blank' title='Download/View FA4600-13-R-0005-0002.pdf' class='file'&gt;FA4600-13-R-0005-0002.pdf&lt;/a&gt;"><a href='/utils/view?id=c4da213be52879cd508acb4747c36cd7' target='_blank' title='Download/View FA4600-13-R-0005-0002.pdf' class='file'>FA4600-13-R-0005-0002.pdf</a> (310.13 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0002 to RFP FA4600-13-R-0005</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__posted_date__widget">
+	August 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][15][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7acd40565aa6f1e5c66b1199e4d0579c' target='_blank' title='Download/View FA4600-13-R-0005-0003.pdf' class='file'&gt;FA4600-13-R-0005-0003.pdf&lt;/a&gt;"><a href='/utils/view?id=7acd40565aa6f1e5c66b1199e4d0579c' target='_blank' title='Download/View FA4600-13-R-0005-0003.pdf' class='file'>FA4600-13-R-0005-0003.pdf</a> (51.52 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SEPIS RFP Amendment 0003.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		101 Washington Sq Bldg 40<br/>
+
+			
+				
+		Offutt AFB,
+
+			
+	
+		Nebraska
+
+			
+	
+		68113-2107
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		55 CONS/LGCZ<br/>
+
+			
+				
+		Offutt AFB,
+
+			
+	
+		Nebraska
+
+			
+	
+		68113
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>1Lt Jesse Jacobson,</div>
+	<div>Contract Administrator</div>	<div><a href="mailto:jesse.jacobson@us.af.mil">jesse.jacobson@us.af.mil</a></div>
+	<div>Phone: 4022949811</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Stacy Mazurek,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:Stacy.Mazurek@us.af.mil">Stacy.Mazurek@us.af.mil</a></div>
+	<div>Phone: 402-294-6203</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=3471359edcaa9475cb3b9dad1427a5e1'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=3471359edcaa9475cb3b9dad1427a5e1'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=39316da91ca3bd9626b15a95455647a4">SEPIS Technical Library Non-Disclosure Agreement</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=39316da91ca3bd9626b15a95455647a4" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 21, 2013</div></dt><dd><a href="/utils/view?id=2ec3e620377e2743c31d829bc62f7c5c" target="_blank" title="Download/View SEPIS_Technical_Library_NDA.docx" class="file">SEPIS_Technical_Library_NDA.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6abca013ddd94d9c910930554911498c">Draft RFP Q&A - 1 MAY 1013</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=6abca013ddd94d9c910930554911498c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 01, 2013</div></dt><dd><a href="/utils/view?id=167e9d7b64328ee070d049b24b90bc1f" target="_blank" title="Download/View Draft_RFP_Q&amp;A_1_MAY_2013.pdf" class="file">Draft_RFP_Q&A_1_MAY_2013.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7b1cea95baced15276f736982424055f">Draft RFP Q&A #2 - 7 May 13</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=7b1cea95baced15276f736982424055f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 07, 2013</div></dt><dd><a href="/utils/view?id=3bac2aa7c03da0812b71da6313022c42" target="_blank" title="Download/View Draft_RFP_Q&amp;A__2_-_7_MAY_13.docx" class="file">Draft_RFP_Q&A__2_-_7_MAY_13.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=263d6fbe31bf82502897461f8d6d2ba9">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=263d6fbe31bf82502897461f8d6d2ba9" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 31, 2013</div></dt><dd><a href="/utils/view?id=31eea45c470c1171ac3ef7af1c24cfcd" target="_blank" title="Download/View FA4600-13-R-0005_as_in_PD2_31_May_13.doc" class="file">FA4600-13-R-0005_as_in_PD2_31_May_13.doc</a></dd><dd><a href="/utils/view?id=8abf362cade07d1736485f65177d4432" target="_blank" title="Download/View CDRL_A001-A002.pdf" class="file">CDRL_A001-A002.pdf</a></dd><dd><a href="/utils/view?id=0f3c4a32bac59030b4f29500cd8f9f6e" target="_blank" title="Download/View CDRL_A003-A004.pdf" class="file">CDRL_A003-A004.pdf</a></dd><dd><a href="/utils/view?id=d913e6b8251516bda7cf6cf2efb1c915" target="_blank" title="Download/View CDRL_A005-A006.pdf" class="file">CDRL_A005-A006.pdf</a></dd><dd><a href="/utils/view?id=e6c443ac338861b590c21723dfe25248" target="_blank" title="Download/View CDRL_A007-A008.pdf" class="file">CDRL_A007-A008.pdf</a></dd><dd><a href="/utils/view?id=7d5e6c4a001d6b944a997bbbf210dacd" target="_blank" title="Download/View CDRL_A009-A010.pdf" class="file">CDRL_A009-A010.pdf</a></dd><dd><a href="/utils/view?id=ceb5e1ca7af545352e6e8ef46bf6efd6" target="_blank" title="Download/View CDRL_A011_-_A012.pdf" class="file">CDRL_A011_-_A012.pdf</a></dd><dd><a href="/utils/view?id=3e65cc86dd3e9ca7ef253933db50bab4" target="_blank" title="Download/View CDRL_A013_-_A014.pdf" class="file">CDRL_A013_-_A014.pdf</a></dd><dd><a href="/utils/view?id=88ca0c19b1303509bf2fe8b409426c78" target="_blank" title="Download/View CDRL_A015_-_A016.pdf" class="file">CDRL_A015_-_A016.pdf</a></dd><dd><a href="/utils/view?id=90d298b1a63a4f01cde12a02e7610b26" target="_blank" title="Download/View 01_Section_J,_Attachment_1_-_SEPIS_Solicitation_Fm_254_dtd_28_Feb_13.docx" class="file">01_Section_J,_Attachment_1_-_SEPIS_Solicitation_Fm_254_dtd_28_Feb_13.docx</a></dd><dd><a href="/utils/view?id=56399f283c8c3d808cf439e4ac0fd22b" target="_blank" title="Download/View 02_Section_J,_Attachment_2_-_Integrated_Team_Process_User's_Guide.docx" class="file">02_Section_J,_Attachment_2_-_Integrated_Team_Process_User's_Guide.docx</a></dd><dd><a href="/utils/view?id=6dff0abff6d77689c264581d6c74a7d5" target="_blank" title="Download/View 03_Section_J,_Attachment_3_-_Sys_Engr_Planning_Incentive_Fee_Plan_V1.0.docx" class="file">03_Section_J,_Attachment_3_-_Sys_Engr_Planning_Incentive_Fee_Plan_V1.0.docx</a></dd><dd><a href="/utils/view?id=7d5bbcf2af9844f2b7bc5d2d0dfb0056" target="_blank" title="Download/View 04_Section_J,_Attachment_4_-_SEPIS_QASP_v0_0.docx" class="file">04_Section_J,_Attachment_4_-_SEPIS_QASP_v0_0.docx</a></dd><dd><a href="/utils/view?id=d47573925a3fae0d5edd32bb5c50cf9b" target="_blank" title="Download/View 05_Section_J,_Attachment_5_-_NCIC_Data.docx" class="file">05_Section_J,_Attachment_5_-_NCIC_Data.docx</a></dd><dd><a href="/utils/view?id=95e1eaa1d6a0a2e1fd0dcd60fe9af706" target="_blank" title="Download/View 06_Section_J,_Attachment_6_-_Certificate_of_Insurance.doc" class="file">06_Section_J,_Attachment_6_-_Certificate_of_Insurance.doc</a></dd><dd><a href="/utils/view?id=881b497c18a4e807ec7ec42694e07463" target="_blank" title="Download/View 07_Section_J,_Attachment_7_-_SEPIS_Matrix_V1.0.docx" class="file">07_Section_J,_Attachment_7_-_SEPIS_Matrix_V1.0.docx</a></dd><dd><a href="/utils/view?id=716e743a29a84dd343328436929cda1d" target="_blank" title="Download/View 08_Section_J,_Attachment_8_-_Past_Performance_Information.docx" class="file">08_Section_J,_Attachment_8_-_Past_Performance_Information.docx</a></dd><dd><a href="/utils/view?id=e639f963f26c3736ca36503f344d8117" target="_blank" title="Download/View 09_Section_J,_Attachment_9_-_Past_and_Present_Performance_Questionnaire_Cover_Letter.docx" class="file">09_Section_J,_Attachment_9_-_Past_and_Present_Performance_Questionnaire_Cover_Letter.docx</a></dd><dd><a href="/utils/view?id=74c71104d203f115b537b769fca232e0" target="_blank" title="Download/View 10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire.docx" class="file">10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire.docx</a></dd><dd><a href="/utils/view?id=e688f09f67b20e5cd750930fea34d690" target="_blank" title="Download/View 11_Section_J,_Attachment_11_-_Past_Performance_Tracking_Record.docx" class="file">11_Section_J,_Attachment_11_-_Past_Performance_Tracking_Record.docx</a></dd><dd><a href="/utils/view?id=ccb772bd3ce02ed8b6e7649dfecdad38" target="_blank" title="Download/View 12_Section_J,_Attachment_12_-_Subcontractor-Teaming_Partner_Consent_Letter.docx" class="file">12_Section_J,_Attachment_12_-_Subcontractor-Teaming_Partner_Consent_Letter.docx</a></dd><dd><a href="/utils/view?id=1b10221bf8c3d23794060e03f785ec0f" target="_blank" title="Download/View 13_Section_J,_Attachment_13_-_Client_Authorization_Letter.docx" class="file">13_Section_J,_Attachment_13_-_Client_Authorization_Letter.docx</a></dd><dd><a href="/utils/view?id=5eadf2abb6579af07ccd48318673a22e" target="_blank" title="Download/View 14_Section_J,_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start.xls" class="file">14_Section_J,_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start.xls</a></dd><dd><a href="/utils/view?id=9eccec9fbf9b1c648c234538bb746856" target="_blank" title="Download/View 15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start.xls" class="file">15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start.xls</a></dd><dd><a href="/utils/view?id=d17965066f877617216f2233e120019b" target="_blank" title="Download/View 16_Section_J,_Attachment_16_-_DOL,_EEOC_Clearance_Request_Information.doc" class="file">16_Section_J,_Attachment_16_-_DOL,_EEOC_Clearance_Request_Information.doc</a></dd><dd><a href="/utils/view?id=7f042304340a29f7afeb8400aac3d6ee" target="_blank" title="Download/View 17_Section_J,_Attachment_17_-_SEPIS_CWBS.xlsx" class="file">17_Section_J,_Attachment_17_-_SEPIS_CWBS.xlsx</a></dd><dd><a href="/utils/view?id=44732bc00c9a8f0d40afabdee39dfea2" target="_blank" title="Download/View 18_Section_J,_Attachment_18_-_Workload_Estimates_RFP_Attachment_v1.0.docx" class="file">18_Section_J,_Attachment_18_-_Workload_Estimates_RFP_Attachment_v1.0.docx</a></dd><dd><a href="/utils/view?id=1511ba05d074d5e59cf375315bd67666" target="_blank" title="Download/View 19_Section_J,_Attachment_19_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Apr_14_Start.xls" class="file">19_Section_J,_Attachment_19_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Apr_14_Start.xls</a></dd><dd><a href="/utils/view?id=ab6ff40df80fa8f838244b799411ed2f" target="_blank" title="Download/View 20_Section_J,_Attachment_20_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Jul_14_Start.xls" class="file">20_Section_J,_Attachment_20_-_SB_Subcontracting_Plan_Review_Checklist_-_1_Jul_14_Start.xls</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b1f6b613e38b5f3aeb362d44457b68b4">Final RFP Q&A #1</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=b1f6b613e38b5f3aeb362d44457b68b4" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 06, 2013</div></dt><dd><a href="/utils/view?id=5b534ca3525dba0da9db862722fd8f27" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__1_-_6_JUN_13.pdf" class="file">SEPIS_RFP_Q&A__1_-_6_JUN_13.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ac1e01778bdba69f3ad28bf2f97de94b">SEPIS RFP Q&A #2</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=ac1e01778bdba69f3ad28bf2f97de94b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 21, 2013</div></dt><dd><a href="/utils/view?id=7679dc6718c7201fc0e4f23e33621c5b" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__2.pdf" class="file">SEPIS_RFP_Q&A__2.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7603b2fdcc2ecec59bf29a85874bad47">SEPIS RFP Q&A #3</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=7603b2fdcc2ecec59bf29a85874bad47" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 21, 2013</div></dt><dd><a href="/utils/view?id=b13c4fbcd47ae19f15ba558ad199dd0e" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__3.pdf" class="file">SEPIS_RFP_Q&A__3.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=47a5f3a80965b091276a6a71b376326d">SEPIS RFP Q&A #4</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=47a5f3a80965b091276a6a71b376326d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 25, 2013</div></dt><dd><a href="/utils/view?id=7c819dd58c0c3d94dbd491c2920d121d" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__4.pdf" class="file">SEPIS_RFP_Q&A__4.pdf</a></dd><dd><a href="/utils/view?id=12200eb1eca6f0a90a9a703fef83f926" target="_blank" title="Download/View Enterprise_Overview_Briefing_-_Aug_12[1].pptx" class="file">Enterprise_Overview_Briefing_-_Aug_12[1].pptx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2822125e5534a9f243171881a686c14d">SEPIS RFP Q&A #5</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=2822125e5534a9f243171881a686c14d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 25, 2013</div></dt><dd><a href="/utils/view?id=ac376ab9fe1f8b995ed858528c48e4a3" target="_blank" title="Download/View SEPIS_RFP_QA__5.pdf" class="file">SEPIS_RFP_QA__5.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c4978f19789d10727a17fc79e7c9452a">SEPIS RFP #6</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=c4978f19789d10727a17fc79e7c9452a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 25, 2013</div></dt><dd><a href="/utils/view?id=6acdc5a9003f5f99902cda517d069811" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__6.pdf" class="file">SEPIS_RFP_Q&A__6.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=89e172562779fa8afb0db1cd574a5baf">SEPIS RFP Q&A #7</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=89e172562779fa8afb0db1cd574a5baf" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 25, 2013</div></dt><dd><a href="/utils/view?id=38b155102579d40cc4139e7c28c2d669" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__7.pdf" class="file">SEPIS_RFP_Q&A__7.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=19c632dd27c393b39de8e3d3df8f75a0">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=19c632dd27c393b39de8e3d3df8f75a0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 26, 2013</div></dt><dd><a href="/utils/view?id=9bf70a90a7b65819fdad7abd158db276" target="_blank" title="Download/View SEPIS_RFP_Amendment_FA4600-13-R-0005-0001.doc" class="file">SEPIS_RFP_Amendment_FA4600-13-R-0005-0001.doc</a></dd><dd><a href="/utils/view?id=36d392d35df5a5c114db7dd0c327ceb9" target="_blank" title="Download/View 07_Section_J,_Attachment_07_-_SEPIS_Matrix_V1.1.docx" class="file">07_Section_J,_Attachment_07_-_SEPIS_Matrix_V1.1.docx</a></dd><dd><a href="/utils/view?id=2bda0462fc21efed7ab9f5b50d084ace" target="_blank" title="Download/View 10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire_v1.1.docx" class="file">10_Section_J,_Attachment_10_-_Past_and_Present_Performance_Questionnaire_v1.1.docx</a></dd><dd><a href="/utils/view?id=b63a7e2a2910e7af80eac7ab0952f8de" target="_blank" title="Download/View 14_Section_J_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start(1)_26_Jun_13_(3).xls" class="file">14_Section_J_Attachment_14_-_SEPIS_Cost_Price_Model_Apr_14_start(1)_26_Jun_13_(3).xls</a></dd><dd><a href="/utils/view?id=bf42231c3dc3291e0603279438d3e676" target="_blank" title="Download/View 15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start(1)_26_Jun_13.xls" class="file">15_Section_J,_Attachment_15_-_SEPIS_Cost_Price_Model_Jul_14_start(1)_26_Jun_13.xls</a></dd><dd><a href="/utils/view?id=3001f1ec07557b2d0f081709d0a1a43c" target="_blank" title="Download/View 17_Section_J,_Attachment_17_-_SEPIS_CWBS_18_Jun_13.xlsx" class="file">17_Section_J,_Attachment_17_-_SEPIS_CWBS_18_Jun_13.xlsx</a></dd><dd><a href="/utils/view?id=cec5f4f93e74957dce00fcdc5170d63d" target="_blank" title="Download/View 18_Section_J,_Attachment_18_-_SEPIS_Workload_Estimates_RFP_Attachment_v1.1.docx" class="file">18_Section_J,_Attachment_18_-_SEPIS_Workload_Estimates_RFP_Attachment_v1.1.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=00af2f3ee718b1d6e946de89f97b7392">Questions and Answers #8 to RFP# FA4600-13-R-0005</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=00af2f3ee718b1d6e946de89f97b7392" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 27, 2013</div></dt><dd><a href="/utils/view?id=022df9b115bc2f90c66df4a3ea273ad8" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__8_-_26_JUN_13.docx" class="file">SEPIS_RFP_Q&A__8_-_26_JUN_13.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2b7ea6f796bf3464ffc80e52e3c632d7">SEPIS RFP Q&A #9</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=2b7ea6f796bf3464ffc80e52e3c632d7" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jul 02, 2013</div></dt><dd><a href="/utils/view?id=b54b80ffd64060e259c2d636ffb0907e" target="_blank" title="Download/View SEPIS_RFP_Q&amp;A__9.pdf" class="file">SEPIS_RFP_Q&A__9.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a83d75ed044f6bda56f6327a34760972">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=a83d75ed044f6bda56f6327a34760972" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jul 02, 2013</div></dt><dd><a href="/utils/view?id=c4da213be52879cd508acb4747c36cd7" target="_blank" title="Download/View FA4600-13-R-0005-0002.pdf" class="file">FA4600-13-R-0005-0002.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=848394a28202a71c72b711d51f057375">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=3471359edcaa9475cb3b9dad1427a5e1&class=document_package&id=848394a28202a71c72b711d51f057375" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 01, 2013</div></dt><dd><a href="/utils/view?id=7acd40565aa6f1e5c66b1199e4d0579c" target="_blank" title="Download/View FA4600-13-R-0005-0003.pdf" class="file">FA4600-13-R-0005-0003.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 21, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541512 -- Computer Systems Design Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

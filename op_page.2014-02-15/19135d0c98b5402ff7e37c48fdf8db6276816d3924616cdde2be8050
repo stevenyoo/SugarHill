@@ -1,0 +1,487 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>70--Interactive Digital Signage Solution - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392498536');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392498536';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=05ce23f55581ead821212da66e302d55&inline_disposition=1" border="0" alt="National Guard Bureau logo"></div><div class="agency-header"><h2>70--Interactive Digital Signage Solution</h2><div class="sol-num">Solicitation Number: W912SV-14-T-0004A</div><div class="agency-name">Agency: Department of the Army<br>Office: National Guard Bureau<br>Location: USPFO for Massachusetts</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=88511d03400c53894fa45cbdafde1348&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USA/NGB/DAHA19/W912SV-14-T-0004A/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USA/NGB/DAHA19/W912SV-14-T-0004A/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USA/NGB/DAHA19/W912SV-14-T-0004A/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=88511d03400c53894fa45cbdafde1348&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=88511d03400c53894fa45cbdafde1348&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=88511d03400c53894fa45cbdafde1348&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 10, 2014</div><div class="nh-date">3:34 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=88511d03400c53894fa45cbdafde1348'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=88511d03400c53894fa45cbdafde1348'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W912SV-14-T-0004A
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-10 15:34:36">Feb 10, 2014 3:34 pm</span>
+					</div>
+		This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice.  This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued.   <br>  <br> This is a Total Small Business set-aside for NAICS code 334310.  Small Business size is no more than 750 employees. Establishments who do not provide a proposal based on receipt and review of this statement of work will be deemed non-responsive. The Statement of Work is as follows: <br>  <br> STATEMENT OF WORK <br> Purpose:  The purpose of this Statement of Work (SOW) is to define the necessary skill sets required to implement the interactive digital signage solution at the JFHQ-MA. The contractor must meet the following requirements as a minimum: <br>  <br>  	Contractor must primarily provide services in interactive digital signage solutions. <br>  	Contractor must provide a  quote mark turnkey quote mark  solution <br>  	Contractor must have a valid Certificate of Net-worthiness (CoN) for the digital signage software platform proposed with an expiration date of no less than 12 months from the awarded contract date (submit with quote) <br>  	Contractor shall offer a maintenance support package.  <br>  	Contractor must provide training on the use and operation of the interactive digital signage solution. <br>  <br> Scope of Work:  The scope of this project consists of purchasing, installing, and programming an Interactive Digital Signage Solution to offer visitors up-to-date information as well as directions to help guide them throughout the building.  The initial solution must include four (4) touch screen monitors with four (4) content players.  The solution must allow the ability to add additional devices in the future. <br> The contractor will provide an interactive digital signage solution for the above stated mission and organization according to the following requirements: <br>  <br> Interactive Digital Signage Solution Requirements <br> 1.	Ease of use is a primary factor in consideration. <br> 2.	The solution must have the ability to deploy to displays on the network as well as remote locations. <br> 3.	Solution must have drag and drop media placement within the scheduling software. <br> 4.	Solution must provide dynamic integration for live data sources. <br> 5.	Solution must present and up to date preview of the signs to allow review of appearance prior to deployment. <br> 6.	Solution must provide fully functional transitions. <br> 7.	Solution must be capable of remote control for installed hardware. <br> 8.	Solution must have multi-user security allowing for groups with different administrative permission levels to access and control different regions of the signs. <br> 9.	Advance scheduling features must include: <br> a.	Content Duration <br> b.	Ability to schedule future events <br> c.	Multiple content scheduled to play simultaneously <br> d.	Scheduling of different templates or layouts on the same sign <br> e.	Interruption capability <br> f.	Live preview of future dates <br> g.	Scheduling of individual content or categories of content <br> 10.	A template creation tool to design screen display formats and configurations. <br> 11.	H.264 support. <br> 12.	Design of mapping, path finding and way finding imagery <br> a.	Must be able to render buildings in three dimensional images <br> b.	Must be able to tailor the design of the maps to match with properties design styles <br> c.	Must be able to integrate with the interactive touch screen to allow zoom and pan for close up viewing of regions. <br> d.	Way finding must be able to dynamically generate directional icons to guide users to their requested location   <br> e.	Interactive way finding must be able to generate a programmable path to guide users to their requested location <br> f.	Interactive way finding must be able to dynamically generate directional text to guide users to their requested location   <br> 13.	Support of interactive displays <br> 14.	Must be able to design and implement an interactive touch screen environment that will allow users to easily navigate through the building's directory, event calendar, and other items as needed. <br> 15.	Administrative capability to monitor signage network performance <br> 16.	Emergency Messaging Support <br> a.	The system must provide multiple triggers to accommodate the displaying of an emergency message. <br> 17.	Multiple content deployment methods <br> a.	Multiple deployment methodologies should be available including regular network deployments but also deployments through other means such as FTP or SFTP <br> Media Type Support and Display Requirements <br> 1.	The provided solution must be able to play and support all standard content types without having to resize or modify content for proper displaying.  <br> 2.	Must support the following internal data types: .ppt, pptx, .doc, .docx, .pdf, .swf, .flv, .jpeg, .png, .bmp, .tif, .wmv, .mpg, .mp4, .avi, .mpv, .htm. Must support the following external data interfaces: .xls, .csv, .rss, .xml <br> Planning Phase: <br> 1.	Requires Kick off meeting with all key players  <br> a.	Discuss functionality  <br> b.	Identify requirements from government <br> a.	IP addresses needed <br> b.	display /content player locations <br> c.	servers (physical or virtual) <br> d.	network configurations <br> e.	floor plan of facility <br> f.	graphics or logos <br> Design/Development/Programming Phase: <br> 1.	Create virtual map of facility <br> 2.	Installation and configuration of software and/or server <br> 3.	Configuration of content players and displays <br> 4.	Create initial layout or template according to requirements  <br> Implementation Phase: <br> 1.   Install displays and content players, and ensure proper functionality <br> 2.   Deployment of content <br>  <br> Supplies, Services and Equipment:   <br> Items and Services provided by Government (GFE) Table <br>  (See Attached) <br>  <br> Items and Services required by Contractor (See Attached)	 <br>  <br> Maintenance & Warranty:   <br>  <br>  	All displays and content players shall have a minimum warranty of 3 years. <br>  	The contracted vendor will provide a one year maintenance support package and also provide the option for additional years. The maintenance support at a minimum shall be 8 hours/day x 5 days per week with a response time of 24 - 48 hours. <br>  	All warranty related issues must be resolved by the contracted vendor. <br>  	Copies of all warranties as well as contact information for Maintenance Support shall be provided to the Visual Information Office. <br> Period of Performance:   <br> Immediately upon award of contract <br> Acceptance Criteria:   <br>  <br>  	Upon completion of installation, contractor will coordinate with the Visual Information Office to conduct a walkthrough inspection of the installation and certify that it is fully operational.  This project shall be considered completed upon completion of training. <br>  <br> Special Requirements:   <br>  <br>  	Content Player minimum requirements <br> o	Intel Core i3 processor with 60GB Hard Drive, 4GB memory w/ HDMI output or similar product <br>  <br>  	Training shall cover topics including, but not limited to <br> o	Overview of the system <br> o	Access <br> o	Permissions (assigning, modifying) <br> o	Add/Remove/Modify Content <br> o	Scheduling events <br> o	Troubleshooting   <br>  <br>  	If licenses are required for equipment, vendor shall provide different options such as purchasing them individually or in bundles. <br>  (END OF STATEMENT OF WORK) <br>  <br> Instructions to offerors:  Submit a written quote on letterhead with your Tax ID#, Cage Code, and Duns#, with a Point of Contact:  Name, email and phone.  Questions must be submitted in writing to Jenny.n.lor.mil@mail.mil NLT, February 24th, Noon, EST and we will update the RFQ NLT February 26th, by 4pm, EST.  Proposals must be received NLT close of business March 5, 2014 4pm, EST, via email address above for Jenny Lor.  You must be current in SAM in order to be eligible for award. <br>  <br> EVALUATION FACTORS:  The contract type for this procurement will be a firm-fixed price and award will be made on the basis of best value to the Government, price and other factors considered.  Selection will be based on the following evaluation factors, in order of importance:  <br>  <br> (1) Offerors technical ability to provide products and services;  <br> (2) Past performance (Three completed contracts within 5 years) on previous contracts of a similar nature (Points of contacts, current phone, and email); <br> (3) Price by phases, supplies, and by programming, technical support, and/or installation services; and <br> (4) Offeror must have a valid Certificate of Net-worthiness (CoN) for the digital signage software platform proposed with an expiration date of no less than 12 months from the awarded contract date (submit with quote) <br>  <br> APPLICABLE PROVISIONS AND CLAUSES: The following clauses and provisions are incorporated by reference. FAR clauses and provisions can be read in their full text at http://farsite.hill.af.mil/vffara.htm and DFARS clauses and provisions can be read in their full text at http://farsite.hill.af.mil/VFDFARA.HTM . The clauses are to remain in full force in any resultant contract.  <br> FAR clauses  <br> 52.204-7 System Award Management  <br> 52.212-4 Contract terms and conditions-commercial items  <br> 52.212-5 DEV Contract terms and conditions required to implement statutes or Executive Orders  <br> 52.219-28 Post-Award Small Business Program Representation  <br> 52.222-3 Convict Labor  <br> 52.222-21 Prohibition of Segregated Facilities  <br> 52.222-26 Equal Opportunity  <br> 52.222-36 Affirmative Action for Workers with Disabilities (applicable over $15,000)  <br> 52.222-41 Service Contract Act of 1965 (services only)  <br> 52.222-42 Statement of Equivalent Rates for Federal Hires (services only)  <br> 52.222-50 Combating Trafficking in Persons  <br> 52.223-18 Contractor Policy to Ban Text Messaging While Driving  <br> 52.225-13 Restrictions on Certain Foreign Purchases  <br> 52.232-33 Payment by Electronic Funds Transfer- Central Contractor Registration  <br> 52.233-3 Protest After Award  <br> 52.233-4 Applicable Law for Breach of Contract  <br> 52.237-1 Site Visit <br> 52.237-2 Protection of Government Buildings, Equipment, and Vegetation <br> 52.245-1 Government Property  <br> 52.245-2 Government Property Installation Operation Services <br> 52.252-2 Clauses Incorporated by Reference  <br> 52.252-6 Authorized Deviations in Clauses  <br>  <br> DFAR clauses  <br> 252.203-7000 Requirements relating to Compensation of Former DoD officials  <br> 252.203-7002 Requirements to Inform Employees of Whistleblower Rights  <br> 252.204-7004 Alt.A Central Contractors Registration  <br> 252.211-7003 Item Identification and valuation  <br> 252.212-7001 Contract terms and conditions required to Implement Statutes or Executive Orders applicable to Defense Acquisition of Commercial items  <br> 252.232-7003 Electronic Submission of Payment Request and Receiving Reports  <br> 252.232-7010 Levies on Contract payments  <br> 252.237-7010 Prohibition on Interrogation of Detainees by Contractor Personnel  <br> 252.247-7023 Alt.III Transportation of Supplies by Sea <br>  <br> 52.245-2  Government Property Installation Operation Services.  <br>  <br> As prescribed in 45.107(b), insert the following clause:  <br>  <br> Government Property Installation Operation Services (June 2007)  <br> (a) This Government Property listed in paragraph (e) of this clause is furnished to the Contractor in an  quote mark as-is, where is quote mark  condition. The Government makes no warranty regarding the suitability for use of the Government property specified in this contract. The Contractor shall be afforded the opportunity to inspect the Government property as specified in the solicitation. <br> (b) The Government bears no responsibility for repair or replacement of any lost, damaged or destroyed Government property. If any or all of the Government property is lost, damaged or destroyed or becomes no longer usable, the Contractor shall be responsible for replacement of the property at Contractor expense. The Contractor shall have title to all replacement property and shall continue to be responsible for contract performance. <br> (c) Unless the Contracting Officer determines otherwise, the Government abandons all rights and title to unserviceable and scrap property resulting from contract performance. Upon notification to the Contracting Officer, the Contractor shall remove such property from the Government premises and dispose of it at Contractor expense. <br> (d) Except as provided in this clause, Government property furnished under this contract shall be governed by the Government Property clause of this contract. <br> (e) Government property provided under this clause:  <br> Reference Items and Services provided by Government (GFE) Table in the Statement of Work <br>  <br> (End of clause) <br> 
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__additional_info_link_" class="field fld_additional_info_link fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__additional_info_link__field-label">
+	<label for="dnf_class_values_procurement_notice__additional_info_link_">Additional Info</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__additional_info_link__widget">
+	<a href="https://acquisition.army.mil/asfi/synopsis_attach_viewer.cfm?psolicitationnbr=W912SV-14-T-0004A&pseqnbr=434798&pnot_type=COMBINE" target="_blank">Additional documentation</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Additional Info )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	USPFO for Massachusetts, 50 Maple Street, Milford, MA  01757-3604
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	USPFO for Massachusetts 2 Randolph Rd. Hanscom AFB MA<br />
+01731<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Jenny Lor, 339-202-3839<br />
+<br />
+<a href="mailto:jenny.n.lor.mil@mail.mil">USPFO for Massachusetts</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=88511d03400c53894fa45cbdafde1348'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=88511d03400c53894fa45cbdafde1348'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	March 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	70 -- General purpose information technology equipment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	334 -- Computer and Electronic Product Manufacturing/334310 -- Audio and Video Equipment Manufacturing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

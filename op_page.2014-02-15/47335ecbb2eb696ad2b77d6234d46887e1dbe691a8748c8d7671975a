@@ -1,0 +1,487 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>R--U.S. Waterborne Foreign Transportation Data Collection for all imports, exports and in-transit waterborne commerce to and from foreign countries. - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392490608');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392490608';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="U.S. Army Corps of Engineers logo"></div><div class="agency-header agency-header-sm"><h2>R--U.S. Waterborne Foreign Transportation Data Collection for all imports, exports and in-transit waterborne commerce to and from foreign countries.</h2><div class="sol-num">Solicitation Number: W912P8-14-R-0017</div><div class="agency-name">Agency: Department of the Army<br>Office: U.S. Army Corps of Engineers<br>Location: USACE District, New Orleans</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=72d4083bade742461e80e7ddf1c18f7e&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USA/COE/DACA29/W912P8-14-R-0017/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USA/COE/DACA29/W912P8-14-R-0017/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USA/COE/DACA29/W912P8-14-R-0017/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=72d4083bade742461e80e7ddf1c18f7e&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=72d4083bade742461e80e7ddf1c18f7e&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=72d4083bade742461e80e7ddf1c18f7e&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 13, 2014</div><div class="nh-date">12:18 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=72d4083bade742461e80e7ddf1c18f7e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=72d4083bade742461e80e7ddf1c18f7e'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W912P8-14-R-0017
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-13 12:18:54">Feb 13, 2014 12:18 pm</span>
+					</div>
+		This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice.  This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued.   <br>  <br> This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice.  <br> This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued.   <br>  <br> This Request for Proposal, numbered W912P8-14-R-0017, requires the successful Offeror to provide the U.S. Army Corps of Engineers, Waterborne Commerce Statistics Center (WCSC) with monthly U.S. foreign transportation data similar to manifest data collected by U.S. Customs Border and Protection or the Bills of Lading filed by the ship lines to Customs for all U.S. imports, exports and in-transit waterborne commerce to and from foreign countries.   <br>  <br> The solicitation document and incorporated provisions and clauses are those in effect with the Federal Acquisition Regulations. <br>  <br> This action will be UNRESTRICTED, the applicable North American Industry Classification System (NAICS) code is 541690 and the small business size standard is $14,000,000.00.  The requirement will be procured as a firm fixed price contract.  The basis of award will be the offer conforming to the solicitation specifications that provides the lowest price to the government.  NOTE: In accordance with FAR 52.204-7 the contractor must be registered in the Federal Government's  quote mark System for Award Management quote mark  (SAM) to be eligible for contract award.  Information on registration may be obtained via the Internet at http://www.sam.gov.  Registration requires applicants to have a DUNS number from Dun & Bradstreet.  Recommend registering immediately in order to be eligible for timely award.  Offerors must include a copy of the provision 52.212-3 Offeror Representations and Certifications - Commercial Items, with its offer. All responsible sources may submit a proposal, which will be considered by this agency. All offers are due by 6 March 2014, 10 a.m. local time and place.   For information regarding the solicitation, please contact Bridget M. Bonnecarrere at (504) 862-2876 or email at Bridget.M.Bonnecarrere@usace.army.mil for assistance.  Any communication must identify the solicitation number; W912P8-14-R-0017, company name, point of contact, address, phone number including area code and facsimile number.  All questions regarding this synopsis/solicitation must be recieved by 21 February 2014, 10 a.m local time and place. Responses to any questions arising from this solicitation will be posted via an amendment.   <br>  <br> Proposals shall be sent either electronically to Bridget.M.Bonnecarrere@usace.army.mil or via the US Postal Service to:  <br>  <br> US Army Corps of Engineers, Contracting Division <br> Attn: Bridget Bonnecarrere <br> 7400 Leake Ave. <br> New Orleans, LA 70118 <br>  <br> This is a combined synopsis/solicitation for the following commercial services: <br>  <br> CLIN 0001 - BASE YEAR <br> CLIN 0001AA - Full Detailed Import/Export Data  	1.00 LS <br> CLIN 0001AB - Aggregate Monthly Data Set  	        1.00 LS <br>  <br> CLIN 0002 - OPTION YEAR ONE <br> CLIN 0002AA - Full Detailed Import/Export Data  	1.00 LS <br> CLIN 0002AB - Aggregate Monthly Data Set  	        1.00 LS <br> Note: All option SubCLINs will be incorporated into the contract as option items. <br>  <br> CLIN 0003 - OPTION YEAR TWO <br> CLIN 0003AA - Full Detailed Import/Export Data  	1.00 LS <br> CLIN 0003AB - Aggregate Monthly Data Set  	        1.00 LS <br> Note: All option SubCLINs will be incorporated into the contract as option items. <br>  <br> Description of Requirements is as follows: <br> See the below statement of work which applies to the Base Period and all option periods, the attached Wage Rates WD-05-2233 (Rev.-16), WD-05-2231 (REV.-14), WD-05-2229 (Rev. -13), WD-05-2505 (Rev. -15) were posted on www.wdol.gov, and solicitation FAR Clauses. <br>  <br>  <br> Scope of Work <br>  <br> U.S. Waterborne Foreign Transportation Data <br>  <br> 1)	Purpose.  To provide the U.S. Army Corps of Engineers (USACE), Waterborne Commerce Statistics Center (WCSC) with comprehensive monthly U.S. foreign transportation data similar to manifest data collected by U.S. Customs Border and Protection (Customs) or the Bills of Lading filed by the ship lines to Customs for all U.S. imports, exports and in-transit waterborne commerce to and from foreign countries.  <br>  <br> 2)	Background.  On September 28, 1998 the Office of Management and Budget (OMB) designated the U.S. Army Corps of Engineers (Corps) as the  quote mark central collection agency quote mark  for the U.S. Foreign Waterborne Transportation Statistics Program (FWTSP) effective October 1, 1998.  The U.S. Bureau of the Census (Census) was previously responsible for this program. This decision followed a review of the U.S. Foreign Waterborne Transportation Statistics program at the direction of OMB.  The Corps collects and publishes the data pursuant to its authority under the 1922 River and Harbor Act (33 U.S.C. 555) by which it has historically collected and published waterborne commerce statistics.  <br>  <br> The FWTSP requires manifest data that provides the associated cargo and vessel movement transaction data upfront, unlike trade data.  In-transit records are included in the manifest dataset, which are movements of foreign cargo through the U.S. from one foreign country to another foreign country.  Inbound waterborne in-transits enter the U.S. via marine vessel and outbound waterborne in-transits exit the U.S. via marine vessel. <br>  <br> 3)	Tasks: The data provided to WCSC shall include information where available on the date and trade direction; carrier and shipment details; cargo, weight and container details; product descriptions and codes; geographic indicators; shippers, consignees and notify parties; and processing information. The minimum data elements to be included in the database are provided below. The coded data items shall be compatible with the data furnished by Customs. The reported commodity description shall be coded to the Harmonized Tariff Schedule commodity codes. The data shall be sent in electronic format. Updated information to previously delivered data shall be provided.  <br>  <br> 4)	Considerations.  Purchase of these data by the USACE constitutes purchase to a government agency.  As such, the data may be used internally by any USACE office without violating any copyright restrictions.   <br>  <br> 5)	Deliverables and Schedule.  The data are to be delivered via FTP monthly, not later than six weeks after the close of the month.  The data files shall be provided by month and direction with record structure(s) included.  Inbound/outbound in-transit records shall be included within the import/export files.  WCSC shall be provided field definitions and notified of any changes to the record layout or imputed data (data derived from other fields). Import and export fields should have the same field name, field type, field size, and field definitions except for those fields that are only applicable for either imports or exports. <br> Data Elements and Descriptions <br>  <br> Direction:  Denotes cargo direction for exports (waterborne cargoes exiting the U.S. including outbound in-transits) and imports (waterborne cargoes entering the U.S. including inbound in-transits).  <br>  <br> Date:  For U.S. exports, this would be the date the vessel left the U.S. port.  For U.S. imports, it is the date of arrival into a U.S. port by that vessel.  <br>  <br> Commodity:  A character field that describes the product, copied exactly as written from the manifest or the bill of lading. This is not a standard description; it is the description of the cargo as manifested.   <br>  <br> Harmonized Tariff (HS) Commodity Code:  HS code for all products and commodities, at least at the 6 digit level field. <br>  <br> HS Commodity Description:  The standard HS commodity description based upon the HS Schedule. <br>  <br> U.S. Port Name & Code:  Identifies the U.S. port that cargo crossed; for exports it is the load port, for imports it represents the arrival port; based on the U.S. Customs District/Port Schedule D. <br>  <br> Foreign Port Name & Code:  Foreign port name and code based on the Schedule K. This port represents the load port for import cargo and the discharge port for export cargo. <br>  <br> Country Name & Code:  Foreign country name and code associated with the origin of cargo (if import or inbound in-transit) or destination of cargo (if export or outbound in-transit). The code is based on Schedule C. <br>  <br> Ultimate Origin/Destination Name & Code:  For exports, the ultimate destination would be the farther point for the cargo as per the contract between the exporter and the ship line as reflected on the ship's manifest and could be 1) an inland point , 2) a second deep water port (when transshipped), or 3) the same as the foreign port.  For imports, the ultimate origin would be the origin point, the original place where the steamship line accepts the cargo and could be 1) an inland point, 2) a deepwater port where the cargo is first loaded before being transshipped at the foreign port, or 3) the same as the foreign port.  The code is based on the Schedule K. <br>  <br> U.S. Customs Clearing Point:  For imports only. The U.S. Customs clearing point other than the discharge port. <br>  <br> Origin/Destination City & State: (Aids in identifying in-transit records) For exports, identifies the origin city and state and for imports the destination city and state; when available on the shipping documents.  <br>  <br> Foreign Customs Clearing District:  For imports only.  The city and country for the foreign customs clearing district. <br>  <br> Vessel: The full vessel name of the waterborne vessel calling at the U.S. port.  <br>  <br> Vessel Code:  The Lloyd's vessel code uniquely identifying the vessel calling at the U.S. port.  <br>  <br> Vessel Flag or Registry:  Denotes the country of registration for the vessel calling at the U.S. port.  <br>  <br> Manifest Number: The U.S. Customs vessel manifest number assigned to the vessel call. <br>  <br> Bill of Lading Number: Denotes the bill of lading number.  <br>   <br> Unit of Measure: The unit of measure identifying the type of packaging.  <br>  <br> Quantity: Denotes the quantity of the unit of measure; the number of packages. <br>  <br> Reefer: Identifies cargoes that are refrigerated.  <br>  <br> RORO: Identifies cargoes that are considered roll on / roll off in nature.  <br>  <br> Hazmat: Identifies cargoes that are hazardous material. <br>  <br> Container Flag:  A single-character field identifying cargoes that were moved in containers  <br>  <br> Container Size:  Denotes container size; numerical values would be for the length of the container.  <br>  <br> Container Quantity: Count of the number of containers.  <br>  <br> Container Volume: Measurement of the cargo in cubic feet.  <br>  <br> TEUS: Twenty foot Equivalent Units.  <br>  <br> Weight: Weight of the merchandise/cargo; identify unit of measure (pounds, kilos, metric tons)  <br>  <br> Value:  Estimated dollar value for the transaction. <br>  <br> Shipper & Consignee Name:  The company name on the U.S. side of the transaction. For imports, this would be the consignee/importer of the goods as reported on the manifest. For exports, this would be the shipper/exporter of the goods as described on the bill of lading.  <br>  <br> Shipper & Consignee Address:  Separate fields capturing the street, city, state and zip code for the address of the shipper or consignee. <br>  <br> Foreign Shipper Name: The foreign exporter / shipper name for import cargo only.  <br>  <br> Foreign Shipper Address:  Separate fields capturing the street, city, zip code, and country for the address of the foreign shipper/exporter. <br>  <br> Notify Company Name: The company name indicating the notify party for goods imported to the U.S.  <br>  <br> Notify Company Address: Separate fields capturing the street, city, state, and zip code for the address of the notify company. <br>  <br> Processing Date: The date the record was processed or loaded into the contractor's database, which generates the monthly file for the Corp. <br>  <br> Update Date: If the record was updated after its initial load, this is the date the change occurred. <br>  <br> Record Number/Identifier:  Number to uniquely identify each individual record. <br>  <br>  <br> Performance Work Statement <br>  <br>  (1)  Purpose <br> To provide the U.S. Army Corps of Engineers, Waterborne Commerce Statistics Center (WCSC) with monthly U.S. foreign transportation data similar to manifest data collected by U.S. Customs Border and Protection or the Bills of Lading filed by the ship lines to Customs for all U.S. imports, exports and in-transit waterborne commerce to and from foreign countries.  <br>  <br> (2)  Scope <br> 	Where available, the data shall include information on the date and trade direction; carrier and shipment details; cargo, weight and container details; product descriptions and codes; geographic indicators; shippers, consignees and notify parties; and processing information.  (Field definitions attached).  The coded data items shall be compatible with the data furnished by U.S. Customs Border and Protection.  The reported commodity description shall be coded to the Harmonized Tariff Schedule commodity codes.  The data shall be sent in electronic format.  Updated information to previously delivered data shall be provided. <br>  <br> (3)  Period and Place of Performance <br> 	The data are to be delivered on CDROM medium or transmitted via FTP monthly, not later than six weeks after the close of the month. The data files shall be provided by month and direction with record structure(s) included.  WCSC shall be notified of any changes to the record layout or imputed data (data derived from other fields). <br>  <br> (4)  Background <br> 	Manifest data, unlike trade data, provides the associated cargo and vessel movement transaction data upfront.  In-transit records are included in the manifest dataset, which are movements of foreign cargo through the U.S. from one foreign country to another foreign country.  Inbound waterborne in-transits enter the U.S. via marine vessel and outbound waterborne in-transits exit the U.S. via marine vessel. <br>  <br> (5)  Performance Objectives (required results) <br> 	a. Completeness in providing data, where available, for all U.S. imports, exports and in-transit waterborne commerce, with the exception of the Virgin Islands and Louisiana Offshore Oil Platform data.  Less than 5% of the final weight generated by WCSC should be added from other sources. <br> 	b. Level of accuracy required on commodity coding; cargo weight; geographic locations, both U.S. and foreign with no more than 5% of the records requiring corrections. Also should provide at least a 95% match rate against vessel movements reported by Customs.	 <br> 	c. Timeliness in providing monthly data within six weeks after the close of the month <br> 	d. Consistency in record layouts and data types for the calendar year <br> 		 <br> (6) Operating Constraints <br> 	Purchase of these data by the Corps of Engineers constitutes purchase to a government agency, and as such, the data may be used internally by any Corps of Engineers office without violating any copyright restrictions. <br> 
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__additional_info_link_" class="field fld_additional_info_link fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__additional_info_link__field-label">
+	<label for="dnf_class_values_procurement_notice__additional_info_link_">Additional Info</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__additional_info_link__widget">
+	<a href="https://acquisition.army.mil/asfi/synopsis_attach_viewer.cfm?psolicitationnbr=W912P8-14-R-0017&pseqnbr=435376&pnot_type=COMBINE" target="_blank">Additional documentation</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Additional Info )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	USACE District, New Orleans, ATTN:  CEMVN-CT, P.O. Box 60267, New Orleans, LA  70160-0267
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	USACE District, New Orleans ATTN:  CEMVN-CT, P.O. Box 60267 New Orleans LA<br />
+70160-0267<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Bridget, 504-862-2876<br />
+<br />
+<a href="mailto:bridget.m.bonnecarrere@usace.army.mil">USACE District, New Orleans</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=72d4083bade742461e80e7ddf1c18f7e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=72d4083bade742461e80e7ddf1c18f7e'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	March 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541690 -- Other Scientific and Technical Consulting Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

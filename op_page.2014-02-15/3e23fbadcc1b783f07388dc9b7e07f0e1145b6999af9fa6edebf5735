@@ -1,0 +1,811 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Marine Corps Tropical Uniform (MCTU) Request for Information (RFI) - M67854-14-I-1014 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501815');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501815';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=745b28c570a5920844e4c8247cabb059&inline_disposition=1" border="0" alt="United States Marine Corps logo"></div><div class="agency-header agency-header-med"><h2>Marine Corps Tropical Uniform (MCTU) Request for Information (RFI)</h2><div class="sol-num">Solicitation Number: M67854-14-I-1014</div><div class="agency-name">Agency: Department of the Navy<br>Office: United States Marine Corps<br>Location: MARCORSYSCOM</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=8a37b8790460cb62a576a99549f86fc6&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DON/USMC/Contracts_Office_CTQ8/M67854-14-I-1014/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DON/USMC/Contracts_Office_CTQ8/M67854-14-I-1014/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DON/USMC/Contracts_Office_CTQ8/M67854-14-I-1014/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=8a37b8790460cb62a576a99549f86fc6&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8a37b8790460cb62a576a99549f86fc6&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=442a1b54076f9974ab2805df0a28b2b3&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Dec 20, 2013</div><div class="nh-date">3:02 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=19ce9fcddb722286fe4e2285a7a1df03&_cview=0">Changed</a><div class="nh-date">Jan 13, 2014</div><div class="nh-date">1:00 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=6bdeb65094a0ca224c9c27e90599ee81&_cview=0">Changed</a><div class="nh-date">Jan 28, 2014</div><div class="nh-date">11:38 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=0f8adfb6b687c0af1c109f3617a971dd&_cview=0">Changed</a><div class="nh-date">Feb 05, 2014</div><div class="nh-date">10:37 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=8a37b8790460cb62a576a99549f86fc6&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">2:43 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=442a1b54076f9974ab2805df0a28b2b3'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=442a1b54076f9974ab2805df0a28b2b3'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	M67854-14-I-1014
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-12-20 15:02:34">Dec 20, 2013 3:02 pm</span>
+					</div>
+		<span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Marine Corps Tropical Uniform (MCTU) Request for Information (RFI)</span>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-01-13 13:00:55">Jan 13, 2014 1:00 pm</span>
+					</div>
+		&nbsp;<br />
+<p>The following questions/responses are hereby provided in accordance with the terms of subject RFI:</p><br />
+<p>&nbsp;</p><br />
+<p>Q1.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>While the "no-melt, no-drip" requirement does not imply an FR capability, is there interest in some form of FR protection?</p><br />
+<p>A1.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>In the event a vendor would like to provide information pertaining to FR in his/her RFI response, the vendor may do so; however, it is not required as the requirement is "no-melt/no-drip."</p><br />
+<p><span style="mso-spacerun: yes">&nbsp;</span></p><br />
+<p>Q2.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Tear strength, breaking strength, etc. is not listed in Attachment 1.<span style="mso-spacerun: yes">&nbsp; </span>Should we follow the previous RFI (M67854-13-I-1029) specs or the MCCUU specs?</p><br />
+<p>A2.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>The vendor may refer to the previous RFI in reference to tear and breaking strength; however, per this RFI, protection from the natural elements (ground and brush) is a must.</p><br />
+<p>&nbsp;</p><br />
+<p>Q3.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Were the uniforms tested at the JWTC in Okinawa permethrin treated?</p><br />
+<p>A3.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun: yes">&nbsp;</span>Yes.<span style="mso-spacerun: yes">&nbsp; </span>Two of the uniforms tested in Okinawa were treated with permethrin.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2014-01-28 11:38:21">Jan 28, 2014 11:38 am</span>
+					</div>
+		<p>********************************</p><br />
+<p>The purpose of this update is to advise responders that the RFI written submission date has been extended from 7 February 2014 to 18 February 2014.<span style="mso-spacerun: yes">&nbsp; </span></p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2014-02-05 10:37:04">Feb 05, 2014 10:37 am</span>
+					</div>
+		The purpose of this update is to:&nbsp; (1)&nbsp;provide the RFI responders with a copy of the MCCUU specification (please see attachments); (2) provide response to industry question; and (3) extend the RFI written submission date to 3 March 2014.<br /><br />(1)&nbsp; Please see attachments to subject update regarding the MCCUU specification.<br /><br />(2)&nbsp; Q1:&nbsp;&nbsp;&nbsp;In the original RFI posting, there were a number of specifications referencing the performance attributes for knit fabrics for the t-shirt and brief under-layer material. We wanted to confirm, the amended Table 1, which omitted performance attributes such as colorfastness and bursting strength; takes precedence over other previous tables for specifications the Government is requiring.<br /><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A1:&nbsp; <span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi">The under-layers shall have similar durability and protection as the cotton undershirt (commercial item description A-A-50013G) and meet the additional performance attributes also detailed in Attachment I. The dry out time requirement is a key performance parameter (KPP). Material submitted must meet this KPP.<span style="mso-spacerun: yes">&nbsp; </span>Note that these other attributes, like colorfastness and bursting strength,<span style="mso-spacerun: yes">&nbsp; </span>have requirements listed in the cotton undershirt document (commercial item description A-A-50013G) available in the DLA ASSIST database."<br /><br />(3)&nbsp; RFI written submission date is extended to 3 March 2014.</span></span>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2014-02-07 14:43:59">Feb 07, 2014 2:43 pm</span>
+					</div>
+		The purpose of this update is to provide responses to industry questions.<br /><br />&nbsp;<br />
+<p>Q1.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Will the government designed patterns be made available to a contractor for use in garment submission - both for under garments &amp; uniform?<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>If not, which patterns are most appropriate for use - MCCUU or FROG?</p><br />
+<p>A1. PdM-ICE intends to use a Government-owned design for the tropical combat blouse, trouser, t-shirt and briefs. For these items, respondents are encouraged to submit fabrics suitable for a tropical environment. End item designs will also be considered as an alternative to the Government-owned designs. If an offeror's under-layer or uniform material is selected to be field tested, the garment design will be provided.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></p><br />
+<p>&nbsp;</p><br />
+<p>Q2.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Are the table of performance characteristics in Attachment 1 to the RFI listed in their order of preference/priority?<span style="mso-spacerun: yes">&nbsp; </span>If not, what is the priority of importance of the desired characteristics?</p><br />
+<p>A2. No.<span style="mso-spacerun: yes">&nbsp; </span>The dry out time requirement is a key performance parameter (KPP). Materials submitted must meet this KPP.</p><br />
+<p>&nbsp;</p><br />
+<p>Q3.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>What level of no melt, no drip performance is required, i.e. char length, after flame, after glow?</p><br />
+<p>A3. Only no melt, no drip is required.<span style="mso-spacerun: yes">&nbsp; </span>Char length, after flame, and after glow are not part of the requirement.</p><br />
+<p>&nbsp;</p><br />
+<p>Q4.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Is the no melt no drip performance level be similar to the FROG undergarments, FROG uniform,<span style="mso-spacerun: yes">&nbsp; </span>or as minimal as the MCCUU - if there are no specific requirements?</p><br />
+<p>A4. Only no melt, no drip is required.<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p>&nbsp;</p><br />
+<p>Q5.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Does an individual submission have to include all items listed in the RFI, i.e. under garments, uniform, socks<span style="mso-spacerun: yes">&nbsp; </span>&amp; boots? <span style="mso-spacerun: yes">&nbsp;</span></p><br />
+<p>A5. No.<span style="mso-spacerun: yes">&nbsp; </span>Respondents are not required to submit all items in the RFI.<span style="mso-spacerun: yes">&nbsp; </span>They may submit a single item or any combination of items.</p><br />
+<p>&nbsp;</p><br />
+<p>Q6.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Can a submission consist of only one or more of the items listed in the RFI?</p><br />
+<p>A6. Yes.</p><br />
+<p>&nbsp;</p><br />
+<p>Q7.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Does the uniform fabric to be used need to have both an antimicrobial &amp; a permethrin treatment applied?</p><br />
+<p>A7. Yes, although a uniform material can be submitted without antimicrobial and/or permethrin treatment.<span style="mso-spacerun: yes">&nbsp; </span>The offeror should address how these attributes would be incorporated into the uniform in their written submission.</p><br />
+<p>&nbsp;</p><br />
+<p>Q8.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Is the 7 February 2014 date the absolute final submission date, or is there some flexibility if a good candidate material would be available a few weeks later?</p><br />
+<p>A8. The submission deadline has already been extended to 03-March.<span style="mso-spacerun: yes">&nbsp; </span>Materials can be submitted after the deadline, although a late submission will decrease the likelihood that it will be considered due to timing constraints.</p><br />
+<p>&nbsp;</p><br />
+<p>Q9.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Is the list of promising materials identified under RFI M67854-13-I-1029 and tested in the LUE available for release and review?</p><br />
+<p>A9. No.<span style="mso-spacerun: yes">&nbsp; </span>The overview is provided in the first paragraph of the current RFI.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">MCTU - RFI</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	MCTU - RFI
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	December 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=bba563a62f0b6c184c674f71bb6b33b8' target='_blank' title='Download/View MCTU_RFI.pdf' class='file'&gt;MCTU_RFI.pdf&lt;/a&gt;"><a href='/utils/view?id=bba563a62f0b6c184c674f71bb6b33b8' target='_blank' title='Download/View MCTU_RFI.pdf' class='file'>MCTU_RFI.pdf</a> (119.48 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Marine Corps Tropical Uniform (MCTU) Request for Information (RFI)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=29f10cd196c81d5109ea3527ee9226b8' target='_blank' title='Download/View MCTU_RFI__Attachment_1.pdf' class='file'&gt;MCTU_RFI__Attachment_1.pdf&lt;/a&gt;"><a href='/utils/view?id=29f10cd196c81d5109ea3527ee9226b8' target='_blank' title='Download/View MCTU_RFI__Attachment_1.pdf' class='file'>MCTU_RFI__Attachment_1.pdf</a> (337.31 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Marine Corps Tropical Uniform (MCTU) Request for Information (RFI) - Attachment 1</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">MCCUU Specification Information</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	MCCUU Specification Information
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3a08487a2c2657a3c08dc1370f33fb46' target='_blank' title='Download/View MCCUU_Specification.pdf' class='file'&gt;MCCUU_Specification.pdf&lt;/a&gt;"><a href='/utils/view?id=3a08487a2c2657a3c08dc1370f33fb46' target='_blank' title='Download/View MCCUU_Specification.pdf' class='file'>MCCUU_Specification.pdf</a> (617.77 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> MCCUU specification</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=5781a9ff39c23063567ae4f4d5ae805a' target='_blank' title='Download/View MCCUU_Specification_Revision.pdf' class='file'&gt;MCCUU_Specification_Revision.pdf&lt;/a&gt;"><a href='/utils/view?id=5781a9ff39c23063567ae4f4d5ae805a' target='_blank' title='Download/View MCCUU_Specification_Revision.pdf' class='file'>MCCUU_Specification_Revision.pdf</a> (132.67 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> MCCUU specification revision</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		2200 Lester Street<br />
+<br/>
+
+			
+				
+		Quantico,
+
+			
+	
+		Virginia
+
+			
+	
+		22134
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		2200 Lester Street<br/>
+
+			
+				
+		Quantico,
+
+			
+	
+		Virginia
+
+			
+	
+		22134
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Peggy L Smith,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:peggy.l.smith1@usmc.mil">peggy.l.smith1@usmc.mil</a></div>
+	<div>Phone: (703) 432-3717</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>John Bauer,</div>
+	<div>Textile Technologist</div>	<div><a href="mailto:john.bauer@usmc.mil">john.bauer@usmc.mil</a></div>
+	<div>Phone: (703) 432-3625</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=442a1b54076f9974ab2805df0a28b2b3'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=442a1b54076f9974ab2805df0a28b2b3'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=52479517fc3bb93bdd1abd80bd5809df">MCTU - RFI</a> <a target="_blank" href="/utils/dZip?base=442a1b54076f9974ab2805df0a28b2b3&class=document_package&id=52479517fc3bb93bdd1abd80bd5809df" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 20, 2013</div></dt><dd><a href="/utils/view?id=bba563a62f0b6c184c674f71bb6b33b8" target="_blank" title="Download/View MCTU_RFI.pdf" class="file">MCTU_RFI.pdf</a></dd><dd><a href="/utils/view?id=29f10cd196c81d5109ea3527ee9226b8" target="_blank" title="Download/View MCTU_RFI__Attachment_1.pdf" class="file">MCTU_RFI__Attachment_1.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6ede8aeb5c4b0ade7adef83f78d5c3c0">MCCUU Specification Information</a> <a target="_blank" href="/utils/dZip?base=442a1b54076f9974ab2805df0a28b2b3&class=document_package&id=6ede8aeb5c4b0ade7adef83f78d5c3c0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 05, 2014</div></dt><dd><a href="/utils/view?id=3a08487a2c2657a3c08dc1370f33fb46" target="_blank" title="Download/View MCCUU_Specification.pdf" class="file">MCCUU_Specification.pdf</a></dd><dd><a href="/utils/view?id=5781a9ff39c23063567ae4f4d5ae805a" target="_blank" title="Download/View MCCUU_Specification_Revision.pdf" class="file">MCCUU_Specification_Revision.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	December 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Mar 03, 2014 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 07, 2014 5:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	84 -- Clothing, individual equipment & insignia
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	315 -- Apparel Manufacturing/315280 -- Other Cut and Sew Apparel Manufacturing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

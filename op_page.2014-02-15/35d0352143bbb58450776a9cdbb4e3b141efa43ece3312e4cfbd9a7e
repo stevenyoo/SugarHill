@@ -1,0 +1,585 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>TML Small Lab Equipment - FA2521-14-Q-B033 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392500332');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392500332';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Space Command logo"></div><div class="agency-header"><h2>TML Small Lab Equipment</h2><div class="sol-num">Solicitation Number: FA2521-14-Q-B033</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Space Command<br>Location: 45CONS (Bldg 423)</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=bb8e09cab92914a3dbbf8bc833ceeda1&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AFSC/45CONSb423/FA2521-14-Q-B033/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AFSC/45CONSb423/FA2521-14-Q-B033/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AFSC/45CONSb423/FA2521-14-Q-B033/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=bb8e09cab92914a3dbbf8bc833ceeda1&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=bb8e09cab92914a3dbbf8bc833ceeda1&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=bb8e09cab92914a3dbbf8bc833ceeda1&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 10, 2014</div><div class="nh-date">9:40 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=bb8e09cab92914a3dbbf8bc833ceeda1'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=bb8e09cab92914a3dbbf8bc833ceeda1'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA2521-14-Q-B033
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-10 09:40:33">Feb 10, 2014 9:40 am</span>
+					</div>
+		&nbsp;<br />
+<p style="tab-stops: right 214.25pt"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 12pt">SOURCES SOURGHT:<span style="mso-spacerun: yes">&nbsp; </span>THIS IS NOT A NOTICE OF REQUEST FOR PROPOSAL BUT INFORMATION AND PLANNING PURPOSES ONLY!<span style="mso-spacerun: yes">&nbsp; </span></span></strong><span style="FONT-SIZE: 12pt">It does not constitute a solicitation and is not to be construed as a commitment by the Government.<strong style="mso-bidi-font-weight: normal"></strong></span></p><br />
+<p style="tab-stops: right 214.25pt"><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p style="tab-stops: right 214.25pt"><span style="FONT-SIZE: 12pt">The solicitation number FA2521-14-Q-B033 shall be used to reference any written responses to this sources sought.</span></p><br />
+<p style="tab-stops: right 214.25pt"><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt; mso-bidi-font-weight: bold">Patrick Air Force Base </span><span style="FONT-SIZE: 12pt">anticipates a requirement that is being considered under a small business set-aside program.<span style="mso-spacerun: yes">&nbsp; </span>The North American Industry Classification Systems (NAICS) Code proposed 334516.<span style="mso-spacerun: yes">&nbsp; </span>The size standard for NAICS is 500.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>The requirement is to provide:</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt"><span style="mso-spacerun: yes">&nbsp;</span>Explosion Proof Refrigerator (2ea)<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l2 level1 lfo1"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">~20 cu ft., 115-120V<span style="mso-tab-count: 1">&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l2 level1 lfo1"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Mfr Part No: 13986153 or equal</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Medium Gravity Flow Oven (6ea)<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">~3.75 cu ft., digital display, temp range 50-250C; temp stability controller, 115-120V; </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Mfr Part No: 13247737G or equal</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Stirrer, Overhead, Mechanical (5ea)<span style="mso-tab-count: 1">&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.5in; MARGIN-LEFT: 0.75in; mso-list: l5 level1 lfo3"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Impeller/H-frame support stand incl.; sparkless 2-gear motor, ~30-2500 RPM, 115-120V;</span></p><br />
+<p style="TEXT-INDENT: -0.5in; MARGIN-LEFT: 0.75in; mso-list: l5 level1 lfo3"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Mfr Part No: 036090170 or equal</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Desiccator (1ea)<span style="mso-tab-count: 3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l4 level1 lfo4"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">stainless steel w/ glass, stainless steel shelves, gasket sealed door, ~12"L x 12"W x 12"H, stackable;</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l4 level1 lfo4"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Mfr Part No: 086456 or equal</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Hotplate, Stirrer (2ea)<span style="mso-tab-count: 3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l6 level1 lfo5"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Heat/stirring capability, 5-550C heat range, 10" x 10" ceramic top, digital temp display, built in support rod mount, 115-120V</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l6 level1 lfo5"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Mfr Part No: 6795-620D or equal</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Basket, Dipping, HDPE<span style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l0 level1 lfo6"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Made of HDPE, rectangular shape, 18" L x 12" W x 9" H to fit exiting leach tanks</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l0 level1 lfo6"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Mfr Part No: 146824 or equal</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">pH Meter Kit, Accumet<span style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l3 level1 lfo7"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">pH &amp; conductivity capabilities, -2 to 20 pH range, 0.1/0.01/0.001 pH resolution, 0.1C temp resolution, large digital display, automatic temp compensation probe, compact size, RS232 output, 115-120V;</span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.5in; mso-list: l3 level1 lfo7"><span style="FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;-<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 12pt">Mfr Part No: 13636AB150 or equal</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">The government is interested in all small businesses including (8(a), Historically Underutilized Business Zone, Service Disabled Veteran Owned Small Businesses (SDVOSB), or, if applicable based on NAICS code, Economically disadvantaged women-owned small business (EDWOSB) Women Owned Small Businesses (WOSB) that are interested in performing this requirement.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>The government requests interested parties submit a brief description of their company's business size (i.e. annual revenues and employee size), business status (i.e., 8(a), Historically Underutilized Business Zone, or SDVOSB, WOSB, EDWOSB, or small business) anticipated teaming arrangements, and a description of similar services offered to the Government and to commercial customers. </span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Any responses involving teaming agreements should delineate between the work that will be accomplished by the prime and the work accomplished by the teaming partners.<span style="mso-spacerun: yes">&nbsp; </span>The Government will use this information in determining its small business set-aside decision."<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p style="tab-stops: right 214.25pt"><span style="FONT-SIZE: 12pt">As stipulated in FAR 15.201, responses to this notice are not considered offers and cannot be accepted by the Government to form a binding contract. No solicitation exists; therefore, do not request a copy of the solicitation. The decision to solicit for a contract shall be solely within the Government's discretion.</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Any information submitted by respondents to this sources sought synopsis is voluntary. This sources sought notice is not to be construed as a commitment by the Government, nor will the Government reimburse any costs associated with the submission of information in response to this notice. Respondents will not be individually notified of the results of any government assessments. The Government's evaluation of the capability statements received will factor into whether any forthcoming solicitation will be conducted as a full and open competition or as a set-aside for small businesses, or any particular small business designation (e.g. SDVOSB, HUB Zone, 8(a), SDB, WOSB, VOSB, etc.).</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">All interested firms shall submit a capabilities package that explicitly demonstrates company capabilities-indicating examples of commercial sales-and product specifications related to this effort. </span></p><br />
+<p><span style="FONT-SIZE: 12pt">Also indicate if you are the manufacturer, or provide the name and size of the manufacturer of the product(s) you will be supplying. Respondents are further requested to indicate their status as a Foreign-owned/foreign-controlled firm and any contemplated us of foreign national employees on this effort.</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Responses may be submitted electronically to the following e-mail address:<span style="mso-spacerun: yes">&nbsp; </span><a href="mailto:45cons.lgcb.e-bids@us.af.mil">45cons.lgcb.e-bids@us.af.mil</a>; by mail to 45 CONS/LGCB, Attn: FA2521-13-Q-B033, 1201 Edward H. White II Street, Bldg. 423, Room N206, Patrick AFB, FL 32925-3238; or by Fax <span style="mso-spacerun: yes">&nbsp;</span>to 321-494-1843.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><strong><span style="FONT-SIZE: 12pt">RESPONSES ARE DUE NO LATER THAN 20FEB14 @ 1400. </span></strong></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p style="tab-stops: .5in"><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 22.5pt; tab-stops: right 214.25pt"><span style="COLOR: black; FONT-SIZE: 12pt">&nbsp;</span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		1201 Edward H White II St MS 7200<br/>
+
+			
+				
+		Patrick AFB,
+
+			
+	
+		Florida
+
+			
+	
+		32925-3238
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		AFTAC/ Patrick AFB<br/>
+
+			
+				
+		Patrick AFB,
+
+			
+	
+		Florida
+
+			
+	
+		32925
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Keona L Franklin,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:keona.franklin@us.af.mil">keona.franklin@us.af.mil</a></div>
+	<div>Phone: 321-494-9958</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Paul W Haynicz, A1C,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:paul.haynicz@patrick.af.mil">paul.haynicz@patrick.af.mil</a></div>
+	<div>Phone: 321-494-4393</div>		<div>Fax: 321-494-1843</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=bb8e09cab92914a3dbbf8bc833ceeda1'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=bb8e09cab92914a3dbbf8bc833ceeda1'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 20, 2014 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 20, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	66 -- Instruments & laboratory equipment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	334 -- Computer and Electronic Product Manufacturing/334516 -- Analytical Laboratory Instrument Manufacturing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

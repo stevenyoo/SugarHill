@@ -1,0 +1,671 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>DMOC Infrastructure, Development, & Engineering (IDE) - DMOC-IDE2017 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392489016');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392489016';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Materiel Command logo"></div><div class="agency-header"><h2>DMOC Infrastructure, Development, & Engineering (IDE)</h2><div class="sol-num">Solicitation Number: DMOC-IDE2017</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Materiel Command<br>Location: AFNWC/PZI - Kirtland, Installation Contracting Division</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=17a46f3bd6c16df479cd902f0d9f47d5&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AFMC/377CONSKOC/DMOC-IDE2017/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AFMC/377CONSKOC/DMOC-IDE2017/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AFMC/377CONSKOC/DMOC-IDE2017/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=17a46f3bd6c16df479cd902f0d9f47d5&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=17a46f3bd6c16df479cd902f0d9f47d5&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<div class='notice'>
+<div class='miw'>
+<h2>Note: </h2>
+This opportunity allows for electronic responses.  <a href="?s=main&mode=list&tab=login&_eresp=17a46f3bd6c16df479cd902f0d9f47d5">Click here</a> to log in and submit a response.
+</div>
+</div>
+<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=8e705606aa134509338f594222a77d00&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Jan 31, 2014</div><div class="nh-date">3:20 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=01e3f4b3422e436d7853c38c499a0a70&_cview=0">Changed</a><div class="nh-date">Jan 31, 2014</div><div class="nh-date">5:26 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=7e4afa02a6b059db26001f6d36697144&_cview=0">Changed</a><div class="nh-date">Feb 14, 2014</div><div class="nh-date">8:26 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=17a46f3bd6c16df479cd902f0d9f47d5&_cview=0">Changed</a><div class="nh-date">Feb 14, 2014</div><div class="nh-date">8:53 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8e705606aa134509338f594222a77d00'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8e705606aa134509338f594222a77d00'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	DMOC-IDE2017
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-31 15:20:48">Jan 31, 2014 3:20 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-14 08:52:46">Feb 14, 2014 8:52 am<a href="/utils/viewDifferences?class=notice_description&id=62bba3a9198c6ad680d8eb8efc9f393b&compared_to=a088e416d3305a38470ca6366a96eefb" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=62bba3a9198c6ad680d8eb8efc9f393b&compared_to=a088e416d3305a38470ca6366a96eefb&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<p>&nbsp;<span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">This is a notification that the Air Force Nuclear Weapons Center (AFNWC) Contracting Office and the 505th Command and Control Wing are conducting a Non-Personal Services acquisition for Infrastructure, Development, &amp; Engineering contract support for the 705th Combat Training Squadron (CTS), Kirtland AFB, NM. The Contractor effort includes building and maintaining network infrastructure, developing and maintaining software &amp; hardware solutions, and conducting Distributed Mission Operations (DMO) engineering activities for the 705 CTS and the Distributed Mission Operations Center (DMOC). The SOW supports various 705 CTS (or DMOC) activities including Operations and Maintenance (O&amp;M) of system and network infrastructure; development of new DMO systems; upgrades to existing DMO systems; engineering analysis and feasibility studies in support of development efforts; implementing video/voice/data communication links between systems and facilities; prototyping simulation systems; establishment of interoperability between systems/simulators through multiple networks; maintaining scenario and terrain database generation systems; and implementation of interoperability standards. Effort also covers the management of the DMOC Battle Space at Kirtland AFB, NM, and all necessary management services, personnel, materials, components, supplies, maintenance, and documentation required to accomplish the tasks.<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; COLOR: black; FONT-SIZE: 12pt; mso-themecolor: text1"><br />The current contract is Cost Plus Fixed Fee IDIQ, with a ceiling value of approximately $98 million, and a period of performance that expires Jan 2017.<span style="mso-spacerun: yes">&nbsp; </span>The new contract type has not been decided upon; however, it is anticipated to have a similar ceiling value and both Cost Plus Fixed Fee and Firm Fixed Price CLINs added.<span style="mso-spacerun: yes">&nbsp; </span>To ensure a contract is in place by Jan 2017, the</span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-weight: bold"> Request For Proposal (RFP) is anticipated to be released Feb/Mar 2015 following the fourth and final Industry Day.<span style="mso-spacerun: yes">&nbsp; </span>Contract award is anticipated Jun/July 2016 with an approximate transition period of Dec 2016 through Jan 2017.<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />An Industry Day will be hosted at the DMOC facility on Kirtland AFB on 6 March 2014 from 0730hrs until 1400hrs (see schedule details below).<span style="mso-spacerun: yes">&nbsp; </span>This shall be the FIRST of FOUR Industry Days offered. Industry Days will be held to ensure a complete understanding of the magnitude of this requirement and SOW by all interested parties.<span style="mso-spacerun: yes">&nbsp; </span><span style="mso-bidi-font-weight: bold">Prior to each Industry Day, applicable portions of the SOW will be released via FBO for industry review and in-depth feedback on capturing the DMOC mission. <span style="mso-spacerun: yes">&nbsp;</span>It is highly encouraged that interested parties attend ALL FOUR Industry Days in order to actively and effectively participate in this acquisition.<br /></span></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />The first Industry Day is intended to provide an overarching DMOC mission brief to provide an overview of the requirement, a Battle Space tour, and a presentation from AFNWC Contracting on the Source Selection process. For the first Industry Day, a draft of the Infrastructure and Program Management (potentially FFP) portions of the SOW will be released via FBO for industry review no later than mid-Feb 2014. <span style="mso-spacerun: yes">&nbsp;</span>Comments, questions, and concerns are more than welcome.<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />One-on-One meetings will not be scheduled for this first Industry Day as its intended purpose is to serve as an overview of the requirement and acquisition process.<span style="mso-spacerun: yes">&nbsp; </span>However, there will be One-on-One meetings at all future Industry Days.<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />The <span style="text-decoration: underline;">6 March 2014</span> Industry Day schedule is as follows:<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />0730-0800 - Check-In (no visitors permitted in the facility before 0730)<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">0800-0815 - Introductions and Admin<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">0815-0830 - Security Brief<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">0830-0915 - Contracting &amp; Source Selection Process<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">0915-0930 - Break<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">0915-1000 - DMOC Mission Brief<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">1000-1130 - Battle Space Tours<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">1130-1200 - Closing<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />All visitors will require a <span style="text-decoration: underline;">Secret Clearance</span> to participate in the Battle Space tour. No electronic devices, to include phones, laptops, tablets, thumb drives, cameras, smart watches, etc., will be allowed in the facility.<br /></span><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />Tentative months for future Industry Days:<br /></span><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">Jun 2014:<span style="mso-spacerun: yes">&nbsp; </span>Virtual Flags<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">Oct 2014:<span style="mso-spacerun: yes">&nbsp; </span>Coalition Virtual Flags/Export Control Requirements<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">Jan 2015:<span style="mso-spacerun: yes">&nbsp; </span>Developmental Work (RDT&amp;E)<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt"><br />All interested parties are required to enter into the Government JPAS system by Wednesday, 26 February 2014, at 1600hrs.&nbsp; See JPAS information listed below.<span style="mso-spacerun: yes">&nbsp;</span>&nbsp;Michelle Davis,&nbsp;505-853-0910 or <a href="mailto:michelle.davis@us.af.mil">michelle.davis.17@us.af.mil</a>, shall be the DMOC Site POC.<span style="mso-spacerun: yes">&nbsp; </span>Separate JPAS requests must be made for each Industry Day; a blanket request shall be denied.<span style="mso-spacerun: yes">&nbsp; </span>Also by 26 February 2014, please contact Capt John Paul Duman at 505-846-6673, john.duman@us.af.mil, or Tara Bond at 505-846-4547, tara.bond@us.af.mil, to be added to the Contracting attendance roster.<span style="mso-spacerun: yes">&nbsp; </span>Please provide your company name and job title, physical address, DUNS, CAGE Code, and a list of the names of attendees as well if you are interested in being the prime contractor or subcontractor for this effort.<span style="mso-spacerun: yes">&nbsp; </span>Each prospective prime contractor is permitted to send two (2) representatives including subcontractors.<span style="mso-spacerun: yes">&nbsp; </span>Additionally, all companies must submit a completed DD2345 Military Critical Technical Data Agreement by the above mentioned deadline. <span style="mso-spacerun: yes">&nbsp;</span><em>Parties who have not submitted their JPAS request or a copy of their DD2345 before the deadline will not be admitted for participation.</em></span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">SMO Code:<span style="mso-tab-count: 2">&nbsp;</span>KV1CF9K66<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">Date of Visit:<span style="mso-tab-count: 2"> </span>6 Mar 14<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">Purpose:<span style="mso-tab-count: 2"> </span>IDE Industry Day<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">POC Name:<span style="mso-tab-count: 2">&nbsp;M</span>ichelle Davis<br /></span><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">POC Phone:<span style="mso-tab-count: 2"> </span>(505) 853-0910</span><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 12pt">Schedule is subject to change; the most recent updates will be posted via FBO.<span style="mso-spacerun: yes">&nbsp; </span>No proposals are being requested or accepted with this posting and event.<span style="mso-spacerun: yes">&nbsp; </span>THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT SHALL BE AWARDED FROM THIS POSTING OR THE RESULTING INDUSTRY DAYS.</span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">DD 2345</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	DD 2345
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	January 31, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=0a20ae538c17c4ea14d6fb43fbb7c6e4' target='_blank' title='Download/View DD2345.pdf' class='file'&gt;DD2345.pdf&lt;/a&gt;"><a href='/utils/view?id=0a20ae538c17c4ea14d6fb43fbb7c6e4' target='_blank' title='Download/View DD2345.pdf' class='file'>DD2345.pdf</a> (58.93 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> DD2345 Military Critical Technical Data Agreement</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		AFNWC/PZI <br />
+8500 Gibson SE, Bldg 20202<br />
+<br/>
+
+			
+				
+		Kirtland AFB,
+
+			
+	
+		New Mexico
+
+			
+	
+		87117-5606
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Distributed Mission Operation Center<br/>
+
+			
+				
+		Kirtland Air Force Base,
+
+			
+	
+		New Mexico
+
+			
+	
+		87117
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Capt John Paul Duman,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:john.duman@us.af.mil">john.duman@us.af.mil</a></div>
+	<div>Phone: 5058466673</div>		<div>Fax: 5058533476</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Tara S. Bond,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:Tara.Bond@us.af.mil">Tara.Bond@us.af.mil</a></div>
+	<div>Phone: 5058464547</div>		<div>Fax: 5058533476</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8e705606aa134509338f594222a77d00'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8e705606aa134509338f594222a77d00'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=85840906f38c2a0fc76a96eb02de6e57">DD 2345</a> <a target="_blank" href="/utils/dZip?base=8e705606aa134509338f594222a77d00&class=document_package&id=85840906f38c2a0fc76a96eb02de6e57" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 31, 2014</div></dt><dd><a href="/utils/view?id=0a20ae538c17c4ea14d6fb43fbb7c6e4" target="_blank" title="Download/View DD2345.pdf" class="file">DD2345.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 31, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 26, 2014 4:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 26, 2014 4:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541513 -- Computer Facilities Management Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

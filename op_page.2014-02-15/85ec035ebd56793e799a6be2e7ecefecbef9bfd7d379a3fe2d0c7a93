@@ -1,0 +1,486 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>70--CyFIR Licenses, Training and Installation - LCITS14Q0056 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392493855');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392493855';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=66f562bfc91a7bbcb5e53d32f1cd1c90&inline_disposition=1" border="0" alt="Contracts Services logo"></div><div class="agency-header"><h2>70--CyFIR Licenses, Training and Installation</h2><div class="sol-num">Solicitation Number: LCITS14Q0056</div><div class="agency-name">Agency: Library of Congress<br>Office: Contracts Services<br>Location: Contracts Section</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=5fb64b363053494261c1a50e1ef9711c&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/LOC/CS/CS1/LCITS14Q0056/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/LOC/CS/CS1/LCITS14Q0056/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/LOC/CS/CS1/LCITS14Q0056/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=5fb64b363053494261c1a50e1ef9711c&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=5fb64b363053494261c1a50e1ef9711c&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=5fb64b363053494261c1a50e1ef9711c&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 12, 2014</div><div class="nh-date">10:34 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=5fb64b363053494261c1a50e1ef9711c'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=5fb64b363053494261c1a50e1ef9711c'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	LCITS14Q0056
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-12 10:34:47">Feb 12, 2014 10:34 am</span>
+					</div>
+		This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in FAR Subpart 12.6, as supplemented with additional information included in this notice.The solicitation number is LCITS14Q0056 and is issued as an invitation for bids (IFB), unless otherwise indicated herein.The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular FAC 2005-72. The associated North American Industrial Classification System (NAICS) code for this procurement is 334111 with a small business size standard of 1,000.00 employees.This requirement is unrestricted and only qualified offerors may submit bids.The solicitation pricing on www.FedBid.com will start on the date this solicitation is posted and will end on 2014-02-18 14:00:00.0 Eastern Time or as otherwise displayed at www.FedBid.com.FOB Destination shall be Washington, DC 20540 <BR> <BR>The Library of Congress requires the following items, Exact Match Only, to the following:  <BR><span class="label">LI 001: </span>CyFIR Enterprise, Agent Licenses<br />
+Qty- 5,550<br />
+PoP- 03/09/2014 through 03/8/2015, 1, LOT; <BR><span class="label">LI 002: </span>CyFIR Training Session, In Classroom<br />
+<br />
+PoP- 03/09/2014 through 03/8/2015, 5, EA; <BR><span class="label">LI 003: </span>Installation Assistance, On-Site Support, Up to 3 days<br />
+<br />
+PoP- 03/09/2014 through 03/8/2015, 1, EA; <BR> <BR><a href="https://marketplace.fedbid.com/fbweb/fbobuyDetails.do?token=%3D%3DwBKxmaVGYR9mYqmpk6ag4aQAAAAAHeAAgAgTFCGg%2FFzzqQbJAAyVXBA0Or">Solicitation and Buy Attachments </a> <BR> <BR>***Question Submission: Interested offerors must submit any questions concerning the solicitation at the earliest time possible to enable the Buyer to respond. Questions must be submitted by using the 'Submit a Question' feature at www.fedbid.com. Questions not received within a reasonable time prior to close of the solicitation may not be considered.*** <BR> <BR>For this solicitation, Library of Congress intends to conduct an online competitive reverse auction to be facilitated by the third-party reverse auction provider, FedBid, Inc. FedBid has developed an online, anonymous, browser based application to conduct the reverse auction. An Offeror may submit a series of pricing bids, which descend in price during the specified period of time for the aforementioned reverse auction. Library of Congress is taking this action in an effort to improve both vendor access and awareness of requests and the agency's ability to gather multiple, competed, real-time bids.All responsible Offerors that respond to this solicitation MUST submit the pricing portion of their bid using the online exchange located at www.FedBid.com. There is no cost to register, review procurement data or make a bid on www.FedBid.com.Offerors that are not currently registered to use www.FedBid.com should proceed to www.FedBid.com to complete their free registration. Offerors that require special considerations or assistance may contact the FedBid Helpdesk at 877-9FEDBID (877-933-3243) or via email at clientservices@fedbid.com. Offerors may not artificially manipulate the price of a transaction on www.FedBid.com by any means. It is unacceptable to place bad faith bids, to use decoys in the www.FedBid.com process or to collude with the intent or effect of hampering the competitive www.FedBid.com process.Should offerors require additional clarification, notify the point of contact or FedBid at 877-9FEDBID (877-933-3243) or clientservices@fedbid.com.Use of FedBid:   Buyers and Sellers agree to conduct this transaction through FedBid in compliance with the FedBid Terms of Use. Failure to comply with the below terms and conditions may result in offer being determined as non-responsive. <BR> <BR>This contract incorporates the following clauses by reference, with the same  force and effect as if they were given in full text.  Full text of the referenced clauses is available at http://farsite.hill.af.mil.<br />
+52.211-6	Brand Name or Equal (Aug 1999)	52.225-25	Prohibition on Engaging in Sanctioned Activities Relating to Iran-Certification (Nov 2011) 52.212-1	Instruction to Offerors-Commercial Items (Jun 2008) 	52.227-14	Rights in Data - General (Feb 2007) 52.212-4	Contract Terms and Conditions ? Commercial Items (Feb 2012)	52.227-19	Commercial Computer Software License (Dec 2007) <BR> <BR>Contract Terms And Conditions Required To Implement Statutes Or Executive Orders ?Commercial Items (Jan 2013). (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items: (1) 52.222-50, Combating Trafficking in Persons (Feb 2009) (22 U.S.C. 7104(g)). ___Alternate I (Aug 2007) of 52.222-50 (22 U.S.C. 7104(g)). (2) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553). (3) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77, 108-78). (b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: _x_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (Sept 2006), with Alternate I (Oct 1995) (41 U.S.C. 253g and 10 U.S.C. 2402). __ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (Apr 2010) (Pub. L. 110-252, Title VI, Chapter 1 (41 U.S.C. 251 note)). __ (3) 52.203-15, Whistleblower Protections under the American Recovery and Reinvestment Act of 2009 (June 2010) (Section 1553 of Pub. L. 111-5). (Applies to contracts funded by the American Recovery and Reinvestment Act of 2009.) __ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (Aug 2012) (Pub. L. 109-282) (31 U.S.C. 6101 note). __ (5) 52.204-11, American Recovery and Reinvestment Act?Reporting Requirements (Jul 2010) (Pub. L. 111-5). <BR> <BR>Contract Terms And Conditions Required To Implement Statutes Or Executive Orders ?Commercial Items (Jan 2013). __ (6) 52.209-6, Protecting the Government?s Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (Dec 2010) (31 U.S.C. 6101 note). __ (7) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (Feb 2012) (41 U.S.C. 2313). __ (8) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (May 2012) (section 738 of Division C of Pub. L. 112-74, section 740 of Division C of Pub. L. 111-117, section 743 of Division D of Pub. L. 111-8, and section 745 of Division D of Pub. L. 110-161). __ (9) 52.219-3, Notice of HUBZone Set-Aside or Sole-Source Award (Nov 2011) (15 U.S.C. 657a). __ (10) 52.219-4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns (JAN 2011) (if the offeror elects to waive the preference, it shall so indicate in its offer) (15 U.S.C. 657a). __ (11) [Reserved] __ (12)(i)  52.219-6, Notice of Total Small Business Set-Aside (Nov 2011) (15 U.S.C. 644). __ (ii) Alternate I (Nov 2011). __ (iii) Alternate II (Nov 2011). __ (13)(i)  52.219-7, Notice of Partial Small Business Set-Aside (June 2003) (15 U.S.C. 644). __ (ii) Alternate I (Oct 1995) of 52.219-7. __ (iii) Alternate II (Mar 2004) of 52.219-7. __ (14) 52.219-8, Utilization of Small Business Concerns (Jan 2011) (15 U.S.C. 637(d)(2) and (3)). __ (15)(i)  52.219-9, Small Business Subcontracting Plan (Jan 2011) (15 U.S.C. 637(d)(4)). __ (ii) Alternate I (Oct 2001) of 52.219-9. __ (iii) Alternate II (Oct 2001) of 52.219-9. __ (iv) Alternate III (Jul 2010) of 52.219-9. __ (16) 52.219-13, Notice of Set-Aside of Orders (Nov 2011)(15 U.S.C. 644(r)). __ (17) 52.219-14, Limitations on Subcontracting (Nov 2011) (15 U.S.C. 637(a)(14)). __ (18) 52.219-16, Liquidated Damages?Subcon-tracting Plan (Jan 1999) (15 U.S.C. 637(d)(4)(F)(i)). __ (19)(i)  52.219-23, Notice of Price Evaluation Adjustment for Small Disadvantaged Business Concerns (OCT 2008) (10 U.S.C. 2323) (if the offeror elects to waive the adjustment, it shall so indicate in its offer). __ (ii) Alternate I (June 2003) of 52.219-23. __ (20) 52.219-25, Small Disadvantaged Business Participation Program?Disadvantaged Status and Reporting (Dec 2010) (Pub. L. 103-355, section 7102, and 10 U.S.C. 2323). __ (21) 52.219-26, Small Disadvantaged Business Participation Program? Incentive Subcontracting (Oct 2000) (Pub. L. 103-355, section 7102, and 10 U.S.C. 2323). __ (22) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (Nov 2011) (15 U.S.C. 657 f). __ (23)  52.219-28, Post Award Small Business Program Rerepresentation (Apr 2012) (15 U.S.C. 632(a)(2)). __ (24) 52.219-29, Notice of Set-Aside for Economically Disadvantaged Women-Owned Small Business (EDWOSB) Concerns (Apr 2012) (15 U.S.C. 637(m)). __ (25) 52.219-30, Notice of Set-Aside for Women-Owned Small Business (WOSB) Concerns Eligible Under the WOSB Program (Apr 2012) (15 U.S.C. 637(m)). <BR> <BR>Contract Terms And Conditions Required To Implement Statutes Or Executive Orders ?Commercial Items (Jan 2013).<br />
+__ (26) 52.222-3, Convict Labor (June 2003) (E.O. 11755). _x_ (27) 52.222-19, Child Labor?Cooperation with Authorities and Remedies (Mar 2012) (E.O. 13126). __ (28) 52.222-21, Prohibition of Segregated Facilities (Feb 1999). __ (29) 52.222-26, Equal Opportunity (Mar 2007) (E.O. 11246). __ (30) 52.222-35, Equal Opportunity for Veterans (Sep 2010)(38 U.S.C. 4212). __ (31) 52.222-36, Affirmative Action for Workers with Disabilities (Oct 2010) (29 U.S.C. 793). __ (32) 52.222-37, Employment Reports on Veterans (SEP 2010) (38 U.S.C. 4212). __ (33) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (Dec 2010) (E.O. 13496). __ (34) 52.222-54, Employment Eligibility Verification (JUL 2012). (Executive Order 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial items as prescribed in 22.1803.) __ (35)(i)  52.223-9, Estimate of Percentage of Recovered Material Content for EPA?Designated Items (May 2008) (42 U.S.C. 6962(c)(3)(A)(ii)). (Not applicable to the acquisition of commercially available off-the-shelf items.) __ (ii) Alternate I (May 2008) of 52.223-9 (42 U.S.C. 6962(i)(2)(C)). (Not applicable to the acquisition of commercially available off-the-shelf items.) _x_ (36) 52.223-15, Energy Efficiency in Energy-Consuming Products (DEC 2007) (42 U.S.C. 8259b). _x_ (37)(i)  52.223-16, IEEE 1680 Standard for the Environmental Assessment of Personal Computer Products (DEC 2007) (E.O. 13423). __ (ii) Alternate I (DEC 2007) of 52.223-16. _x_ (38) 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving (AUG 2011) (E.O. 13513). _x_ (39) 52.225-1, Buy American Act?Supplies (Feb 2009) (41 U.S.C. 10a-10d). __ (40)(i)  52.225-3, Buy American Act?Free Trade Agreements?Israeli Trade Act (Nov 2012) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43). __ (ii) Alternate I (Mar 2012) of 52.225-3. __ (iii) Alternate II (Mar 2012) of 52.225-3. __ (iv) Alternate III (Nov 2012) of 52.225-3. <BR> <BR>Contract Terms And Conditions Required To Implement Statutes Or Executive Orders ?Commercial Items (Jan 2013). __ (41) 52.225-5, Trade Agreements (NOV 2012) (19 U.S.C. 2501, et seq., 19 U.S.C. 3301 note). _x_ (42) 52.225-13, Restrictions on Certain Foreign Purchases (June 2008) (E.O.?s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury). __ (43) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (Nov 2007) (42 U.S.C. 5150). __ (44) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (Nov 2007) (42 U.S.C. 5150). __ (45) 52.232-29, Terms for Financing of Purchases of Commercial Items (Feb 2002) (41 U.S.C. 255(f), 10 U.S.C. 2307(f)). __ (46) 52.232-30, Installment Payments for Commercial Items (Oct 1995) (41 U.S.C. 255(f), 10 U.S.C. 2307(f)). _x_ (47) 52.232-33, Payment by Electronic Funds Transfer?Central Contractor Registration (Oct 2003) (31 U.S.C. 3332). __ (48) 52.232-34, Payment by Electronic Funds Transfer?Other than Central Contractor Registration (May 1999) (31 U.S.C. 3332). __ (49) 52.232-36, Payment by Third Party (Feb 2010) (31 U.S.C. 3332). _x_ (50) 52.239-1, Privacy or Security Safeguards (Aug 1996) (5 U.S.C. 552a). __ (51)(i)  52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). __ (ii) Alternate I (Apr 2003) of 52.247-64. (c) The Contractor shall comply with the FAR clauses in this paragraph (c), applicable to commercial services, that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: [Contracting Officer check as appropriate.] __ (1) 52.222-41, Service Contract Act of 1965 (Nov 2007) (41 U.S.C. 351, et seq.). __ (2) 52.222-42, Statement of Equivalent Rates for Federal Hires (May 1989) (29 U.S.C. 206 and 41 U.S.C. 351, et seq.). __ (3) 52.222-43, Fair Labor Standards Act and Service Contract Act?Price Adjustment (Multiple Year and Option Contracts) (Sep 2009) (29 U.S.C. 206 and 41 U.S.C. 351, et seq.). __ (4) 52.222-44, Fair Labor Standards Act and Service Contract Act?Price Adjustment (Sep 2009) (29 U.S.C. 206 and 41 U.S.C. 351, et seq.). <BR> <BR>Contract Terms And Conditions Required To Implement Statutes Or Executive Orders ?Commercial Items (Jan 2013). __ (4) 52.222-44, Fair Labor Standards Act and Service Contract Act?Price Adjustment (Sep 2009) (29 U.S.C. 206 and 41 U.S.C. 351, et seq.). __ (5) 52.222-51, Exemption from Application of the Service Contract Act to Contracts for Maintenance, Calibration, or Repair of Certain Equipment?Requirements (Nov 2007) (41 351, et seq.). __ (6) 52.222-53, Exemption from Application of the Service Contract Act to Contracts for Certain Services?Requirements (Feb 2009) (41 U.S.C. 351, et seq.). __ (7) 52.222-17, Nondisplacement of Qualified Workers (JAN 2013) (E.O.13495). __ (8) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (Mar 2009) (Pub. L. 110-247). __ (9) 52.237-11, Accepting and Dispensing of $1 Coin (Sept 2008) (31 U.S.C. 5112(p)(1)). (d)  Comptroller General Examination of Record. The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, and does not contain the clause at 52.215-2, Audit and Records?Negotiation. (1) The Comptroller General of the United States, or an authorized representative of the Comptroller General, shall have access to and right to examine any of the Contractor?s directly pertinent records involving transactions related to this contract. (2) The Contractor shall make available at its offices at all reasonable times the records, materials, and other evidence for examination, audit, or reproduction, until 3 years after final payment under this contract or for any shorter period specified in FAR Subpart 4.7, Contractor Records Retention, of the other clauses of this contract. If this contract is completely or partially terminated, the records relating to the work terminated shall be made available for 3 years after any resulting final termination settlement. Records relating to appeals under the disputes clause or to litigation or the settlement of claims arising under or relating to this contract shall be made available until such appeals, litigation, or claims are finally resolved. (3) As used in this clause, records include books, documents, accounting procedures and practices, and other data, regardless of type and regardless of form. This does not require the Contractor to create or maintain any record that the Contractor does not maintain in the ordinary course of business or pursuant to a provision of law. (e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this clause, the Contractor is not required to flow down any FAR clause, other than those in this paragraph (e)(1) in a subcontract for commercial items. Unless otherwise indicated below, the extent of the flow down shall be as required by the clause? (i) 52.203-13, Contractor Code of Business Ethics and Conduct (Apr 2010) (Pub. L. 110-252, Title VI, Chapter 1 (41 U.S.C. 251 note)). <BR> <BR>Contract Terms And Conditions Required To Implement Statutes Or Executive Orders ?Commercial Items (Jan 2013). (ii) 52.219-8, Utilization of Small Business Concerns (Dec 2010) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $650,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities. (iii) 52.222-17, Nondisplacement of Qualified Workers (JAN 2013) (E.O. 13495). Flow down required in accordance with paragraph (l) of FAR clause 52.222-17. (iv) 52.222-26, Equal Opportunity (Mar 2007) (E.O. 11246). (v) 52.222-35, Equal Opportunity for Veterans (Sep 2010) (38 U.S.C. 4212). (vi) 52.222-36, Affirmative Action for Workers with Disabilities (Oct 2010) (29 U.S.C. 793). (vii) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (Dec 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40. (viii) 52.222-41, Service Contract Act of 1965 (Nov 2007) (41 U.S.C. 351, et seq.). (ix) 52.222-50, Combating Trafficking in Persons (Feb 2009) (22 U.S.C. 7104(g)). ___Alternate I (Aug 2007) of 52.222-50 (22 U.S.C. 7104(g)). (x) 52.222-51, Exemption from Application of the Service Contract Act to Contracts for Maintenance, Calibration, or Repair of Certain Equipment-Requirements (Nov 2007) (41 U.S.C. 351, et seq.). (xi) 52.222-53, Exemption from Application of the Service Contract Act to Contracts for Certain Services-Requirements (Feb 2009) (41 U.S.C. 351, et seq.). (xii) 52.222-54, Employment Eligibility Verification (JUL 2012). (xiii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (Mar 2009) (Pub. L. 110-247). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6. (xiv) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64. (2) While not required, the contractor may include in its subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations. <BR> <BR>(1)        The  reference in section (d) to the Disputes clause at FAR 52.233-1 refers to the clause as modified by the Library.<br />
+(2)        The references in section (g)(2) and (i)(2) to the Prompt Payment Act (31 U.S.C. 3903) and prompt payment regulations at 5 C.F.R. part 1315 refer instead to the Prompt Payment clause at FAR 52.232-25 as modified by the Library. <BR> <BR>(1)        The amount in sections (c), (d)(2)(i), and (e) is $50,000 instead of $100,000. <BR> <BR>(1)        The following new paragraph (iv) is added to the conditions for paying interest penalty payments in section (a)(4):  ?(a)(4)(iv)  The contract or purchase order contained a provision that expressly required the Library of Congress to pay an interest penalty.?   <br />
+(2)        The  reference in section (a)(5)(ii) to the Disputes clause at FAR 52.233-1 refers  to the clause as modified by the Library.  <br />
+(3)        Section (b) relating to Contract Financing Payment is deleted.  <br />
+(4)        Section (a)(6) is replaced with the following:  ?Interest penalty payments shall be handled in accordance with the Prompt Payment clause at FAR 52.232-25 as modified by the Library.? <BR> <BR>Contract Terms And Conditions Required To Implement Statutes Or Executive Orders ? Commercial Items (Jan 2013).  (1)	The Librarian of Congress has the same rights and access as the rights and access provided to the Comptroller General in FAR 52.212-5. <BR> <BR>To be considered for award, all Sellers must be manufacturer/ Federally authorized distributors of the equipment/services they are offering with a demonstrated capability of delivering the entire order within the time frames specified by the Buyer on the award. Sellers may be required to provide documentation as proof of authorization to be considered for award. <BR> <BR>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__additional_info_link_" class="field fld_additional_info_link fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__additional_info_link__field-label">
+	<label for="dnf_class_values_procurement_notice__additional_info_link_">Additional Info</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__additional_info_link__widget">
+	<a href="http://www.fedbid.com" target="_blank">www.fedbid.com (b-588405, n-132014)</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Additional Info )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	101 Independence Ave SE, Washington, DC 20540
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	Washington, DC 20540<br />
+20540<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Name: Client Services, Title: Client Services, Phone: 1.877.933.3243, Fax: 703.422.7822, Email: Clientservices@fedbid.com;
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=5fb64b363053494261c1a50e1ef9711c'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=5fb64b363053494261c1a50e1ef9711c'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	February 18, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	August 17, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field last field-last default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	70 -- General purpose information technology equipment
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

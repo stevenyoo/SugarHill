@@ -1,0 +1,1369 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Y--Design and Construct Warm Storage Hangar (FTW373A), Fort Wainwright, Alaska - W911KB-14-R-0001 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495051');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495051';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="U.S. Army Corps of Engineers logo"></div><div class="agency-header agency-header-med"><h2>Y--Design and Construct Warm Storage Hangar (FTW373A), Fort Wainwright, Alaska</h2><div class="sol-num">Solicitation Number: W911KB-14-R-0001</div><div class="agency-name">Agency: Department of the Army<br>Office: U.S. Army Corps of Engineers<br>Location: USACE District, Alaska</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=e7ddac4587e87b9a101c3bdcaf307e29&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USA/COE/DACA85/W911KB-14-R-0001/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USA/COE/DACA85/W911KB-14-R-0001/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USA/COE/DACA85/W911KB-14-R-0001/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=e7ddac4587e87b9a101c3bdcaf307e29&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e7ddac4587e87b9a101c3bdcaf307e29&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e7ddac4587e87b9a101c3bdcaf307e29&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=2568d652eb44e0eafc89d8fb26a57310&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Jul 10, 2013</div><div class="nh-date">7:10 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d69d3d64e781190736abe92e33342926&_cview=0">Changed</a><div class="nh-date">Aug 21, 2013</div><div class="nh-date">2:21 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=1da8721d42b4574b996a33296383ce0e&_cview=0">Changed</a><div class="nh-date">Aug 30, 2013</div><div class="nh-date">1:31 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3123a92c3847de79f0d90f96b96d9456&_cview=0">Changed</a><div class="nh-date">Oct 10, 2013</div><div class="nh-date">6:24 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=802bb416704cefe0adf40de67c0275ad&_cview=0">Changed</a><div class="nh-date">Nov 19, 2013</div><div class="nh-date">2:37 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=23572e9aacb53e4068eb5bbe717f0c6b&_cview=0">Changed</a><div class="nh-date">Dec 11, 2013</div><div class="nh-date">1:35 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=a13c8e97dce672c984ccba7650acfca5&_cview=0">Changed</a><div class="nh-date">Dec 20, 2013</div><div class="nh-date">7:20 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=1ab128737d8928e46050660d00e9887d&_cview=0">Changed</a><div class="nh-date">Jan 03, 2014</div><div class="nh-date">3:02 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2f3baa103a50f5bcbe6df1780921d8af&_cview=0">Changed</a><div class="nh-date">Jan 24, 2014</div><div class="nh-date">3:19 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=ae73498dae0a6b03315bcf1ae0addaac&_cview=0">Changed</a><div class="nh-date">Jan 30, 2014</div><div class="nh-date">3:44 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3b46f4afc4dd0ab399efdedb8a48ab95&_cview=0">Changed</a><div class="nh-date">Feb 04, 2014</div><div class="nh-date">12:30 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=e7ddac4587e87b9a101c3bdcaf307e29&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">6:02 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=2568d652eb44e0eafc89d8fb26a57310'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=2568d652eb44e0eafc89d8fb26a57310'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W911KB-14-R-0001
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-07-10 19:10:57">Jul 10, 2013 7:10 pm</span>
+					</div>
+		CONTRACT INFORMATION:  This is a pre-solicitation notice for a two-phase, unrestricted Request for Proposal (RFP) to design and construct a Warm Storage Hangar for the Aviation Task Force Phase 4 at Ft. Wainwright, Alaska.  Response date of 30 August 2013 is based on issuance of the RFP on or about 25 July 2013.  Due to current sequestration, actual issuance of the RFP may be delayed. <br>    <br> The procurement will be conducted using two-phase source selection procedures and the award will be based on the best overall value to the Government considering the non-price factors described in the RFP, and price.  The Government will evaluate Phase 1 proposals in accordance with the evaluation rating systems outlined in the Phase 1 Design-Build selection procedures of the RFP.  Those offerors short-listed in Phase 1 will be invited to submit a Phase 2 proposal.  The Phase 2 evaluation will be conducted in accordance with evaluation criteria specified in the RFP for Phase 2, FAR Part 15, and will utilize the Tradeoff Process described in FAR 15.101-1.  Any resulting contract will be firm fixed price.  The anticipated Notice to Proceed date is Spring 2014 with a period of performance of 630 calendar days.  Offerors are advised that a contract resulting from this solicitation is subject to the availability of funds.  Should Congress not appropriate funds, the solicitation will be cancelled.  If the project is cancelled, all proposal preparation costs will be borne by the offeror.  <br>   <br> This project may be cancelled or revised at any time during the solicitation, selection, evaluation, negotiation and final award.  All contractors are advised that they must be registered in the System of Award Management (SAM) (https://www.sam.gov/).  Joint ventures must also be registered in SAM as a joint venture (reference the RFP, Section 00 21 00, paragraph 1.12 for further information about joint ventures).  We advise contractors to begin this process when they prepare their proposal in order to ensure this registration is in place should they be selected for the award.  Lack of registration in the SAM database will make an offeror ineligible for award. <br>    <br> PROJECT INFORMATION:   Design and construct a standard design 56,660 SF Warm Storage Hangar, to include installation of Intrusion Detection Systems (IDS), Mass Notification Systems, Energy Monitoring and Control Systems (EMCS), Special Foundations, fire protection and alarm systems, and Building Information Systems. Supporting facilities include utilities, paving, walks, curbs and gutters; storm drainage; site improvements and information systems. Antiterrorism measures for buildings will be provided.   The Davis Bacon Act will apply. <br>  <br> Anticipated contract cost limitation is $31,600,000.   <br>  <br> SELECTION CRITERIA:  This acquisition will evaluate offerors considering the following factors: <br>  <br> For Phase 1:  Specialized Experience, Past Performance (Confidence Assessment), Organization, and Technical Approach. <br>    <br> For Phase 2:  Design Technical (Subfactors: Building Functional, Aesthetics and Space; Quality of Building Systems and Materials; Site Design; and Proposed Contract Duration and Summary Schedule); Small Business Participation; Phase 1 Proposal Roll-Up Rating, and Price. <br>  <br> The overall evaluation of the non-price factors is considered significantly more important than price. <br>  <br> OBTAINING THE SOLICITATION:  The solicitation, including plans and specifications, will be available electronically from FedBizOpps website (www.fbo.gov).  On the FedBizOpps website, vendors will need to utilize the Vendor Opportunities Search function and enter this solicitation number to Search by Solicitation/Award Number.  The solicitation and any future amendments to the solicitation will be available for download via FedBizOpps website.  All responsible sources may submit an offeror in the form and format of the solicitation which will be considered by the agency.  All notifications of changes to this solicitation shall be made through the internet only.  It is the offeror's responsibility to check for any posted changes to this solicitation. <br>  <br> POINT OF CONTACT: <br> Donna West <br> 907-753-2761 <br> Donna.L.West@usace.army.mil  <br> 
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-08-21 14:21:16">Aug 21, 2013 2:21 pm</span>
+					</div>
+		21 August 2013 - Update to pre-solicitation notice:&amp;nbsp; A solicitataion is expected to be issued on or about 28 August 2013.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2013-08-30 13:31:29">Aug 30, 2013 1:31 pm</span>
+					</div>
+		30 August 2013 - Solicitation issued. Justification and Approvals for sole source items posted.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2013-10-10 18:24:12">Oct 10, 2013 6:24 pm</span>
+					</div>
+		10 October 2013 - Amendment 0001 issued.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2013-11-19 14:37:54">Nov 19, 2013 2:37 pm</span>
+					</div>
+		19 November 2013 - Amendment 0002 issued for Phase 2 of the subject acquisition.&nbsp; This amendment is for the offerors selected to participate in Phase 2 and their design-build&nbsp;teams.&nbsp; In accordance with Section 00 22 10, paragraph 1.3, the Phase 2 offerors are:<br /><br />Davis Constructors &amp; Engineers Inc., Anchorage, Alaska<br />UNIT Company, Anchorage Alaska<br />Watterson Construction Co., Anchorage, Alaska
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][5][added_on]" value="2013-12-11 13:35:21">Dec 11, 2013 1:35 pm</span>
+					</div>
+		11 December 2013 - Amendment 0003 issued for Phase 2 offerors.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][6][added_on]" value="2013-12-20 19:19:59">Dec 20, 2013 7:19 pm</span>
+					</div>
+		20 December 2013 - Amendment 0004 issued for Phase 2 Offerors.&amp;nbsp; Proposal due date extended to 10 January 2014.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][7][added_on]" value="2014-01-03 15:02:31">Jan 03, 2014 3:02 pm</span>
+					</div>
+		3 January 2014 - Amendment 0005 issued for Phase 2 Offerors.&amp;nbsp;
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][8][added_on]" value="2014-01-24 15:19:35">Jan 24, 2014 3:19 pm</span>
+					</div>
+		24 January 2014 - Amendment 0006 issued for Phase 2 offerors.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][9][added_on]" value="2014-01-30 15:44:02">Jan 30, 2014 3:44 pm</span>
+					</div>
+		30 January 2014 - Amendment 0007 issued for Phase 2 offerors.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][10][added_on]" value="2014-02-04 12:30:55">Feb 04, 2014 12:30 pm</span>
+					</div>
+		4 February 2014 - Amendment 0008 issued for Phase 2 offerors.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][11][added_on]" value="2014-02-11 18:02:02">Feb 11, 2014 6:02 pm</span>
+					</div>
+		11 February 2014 - Amendment 0009 issued for Phase 2 offerors.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">J&As</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	J&As
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	August 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=04aa94dbf332c287c2790f1d03282b23' target='_blank' title='Download/View A.3.6.2_J&amp;A_13-15_Knox_FBO.pdf' class='file'&gt;A.3.6.2_J&amp;A_13-15_Knox_FBO.pdf&lt;/a&gt;"><a href='/utils/view?id=04aa94dbf332c287c2790f1d03282b23' target='_blank' title='Download/View A.3.6.2_J&A_13-15_Knox_FBO.pdf' class='file'>A.3.6.2_J&A_13-15_Knox_FBO.pdf</a> (24.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> J&amp;A for Knox Box</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=2f385c844f930dccead7e88d95d4bc8f' target='_blank' title='Download/View A.3.6.2_J&amp;A_13-16_Monaco_FBO.pdf' class='file'&gt;A.3.6.2_J&amp;A_13-16_Monaco_FBO.pdf&lt;/a&gt;"><a href='/utils/view?id=2f385c844f930dccead7e88d95d4bc8f' target='_blank' title='Download/View A.3.6.2_J&A_13-16_Monaco_FBO.pdf' class='file'>A.3.6.2_J&A_13-16_Monaco_FBO.pdf</a> (24.22 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> J&amp;A for Monaco Transceiver</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=e97242eebdaeb28381c8511b78dd36c5' target='_blank' title='Download/View A.3.6.2_J&amp;A_13-17_Best_locks_FBO.pdf' class='file'&gt;A.3.6.2_J&amp;A_13-17_Best_locks_FBO.pdf&lt;/a&gt;"><a href='/utils/view?id=e97242eebdaeb28381c8511b78dd36c5' target='_blank' title='Download/View A.3.6.2_J&A_13-17_Best_locks_FBO.pdf' class='file'>A.3.6.2_J&A_13-17_Best_locks_FBO.pdf</a> (23.92 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> J&amp;A for Best Lock Cores</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=484f3baf472535ffada5def7dd5fe5c9' target='_blank' title='Download/View A.3.6.2_J&amp;A_13-21_Siemens_FBO.pdf' class='file'&gt;A.3.6.2_J&amp;A_13-21_Siemens_FBO.pdf&lt;/a&gt;"><a href='/utils/view?id=484f3baf472535ffada5def7dd5fe5c9' target='_blank' title='Download/View A.3.6.2_J&A_13-21_Siemens_FBO.pdf' class='file'>A.3.6.2_J&A_13-21_Siemens_FBO.pdf</a> (24.41 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> J&amp;A for Siemens Building Automation System</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	August 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=2dc9773ed8eedc97590bd3ea840529cd' target='_blank' title='Download/View W911KB-14-R-0001.pdf' class='file'&gt;W911KB-14-R-0001.pdf&lt;/a&gt;"><a href='/utils/view?id=2dc9773ed8eedc97590bd3ea840529cd' target='_blank' title='Download/View W911KB-14-R-0001.pdf' class='file'>W911KB-14-R-0001.pdf</a> (54,543.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Solicitation W911KB-14-R-0001, Warm Storage Hangar, Fort Wainwright, Alaska</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	October 10, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3a53c0adfa1e1bccb76cf8a6b88f3b14' target='_blank' title='Download/View W911KB-14-R-0001_AM_1.pdf' class='file'&gt;W911KB-14-R-0001_AM_1.pdf&lt;/a&gt;"><a href='/utils/view?id=3a53c0adfa1e1bccb76cf8a6b88f3b14' target='_blank' title='Download/View W911KB-14-R-0001_AM_1.pdf' class='file'>W911KB-14-R-0001_AM_1.pdf</a> (129.18 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment #1 for W911KB-14-R-0001, FTW373A Warm Storage Hangar, Fort Wainwright, Alaska</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	November 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=af97c55a460ef083fd6532e376dd8bae' target='_blank' title='Download/View W911KB-14-R-0001_AM_2.pdf' class='file'&gt;W911KB-14-R-0001_AM_2.pdf&lt;/a&gt;"><a href='/utils/view?id=af97c55a460ef083fd6532e376dd8bae' target='_blank' title='Download/View W911KB-14-R-0001_AM_2.pdf' class='file'>W911KB-14-R-0001_AM_2.pdf</a> (13,324.75 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0002 for Phase 2 offerors on W911KB-14-R-0001, FTW373A Warm Storage Hangar, Fort Wainwright, Alaska</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	December 11, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=a5d2421abdc1614ea12269099e1241cc' target='_blank' title='Download/View W911KB-14-R-0001_AM_3.pdf' class='file'&gt;W911KB-14-R-0001_AM_3.pdf&lt;/a&gt;"><a href='/utils/view?id=a5d2421abdc1614ea12269099e1241cc' target='_blank' title='Download/View W911KB-14-R-0001_AM_3.pdf' class='file'>W911KB-14-R-0001_AM_3.pdf</a> (634.14 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003 for W911KB-14-R-0001, FTW373A Warm Storage Hangar, Fort Wainwright, Alaska</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	December 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=97cc746bb0b1fd3d4c60e2aab1d160fc' target='_blank' title='Download/View W911KB-14-R-0001_AM_4.pdf' class='file'&gt;W911KB-14-R-0001_AM_4.pdf&lt;/a&gt;"><a href='/utils/view?id=97cc746bb0b1fd3d4c60e2aab1d160fc' target='_blank' title='Download/View W911KB-14-R-0001_AM_4.pdf' class='file'>W911KB-14-R-0001_AM_4.pdf</a> (174.07 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0004 for W911KB-14-R-0001, FTW373A Warm Storage Hangar, Fort Wainwright, Alaska.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 5</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	January 3, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=839864beebef81323e28b186ccda5aad' target='_blank' title='Download/View W911KB-14-R-0001_AM_5.pdf' class='file'&gt;W911KB-14-R-0001_AM_5.pdf&lt;/a&gt;"><a href='/utils/view?id=839864beebef81323e28b186ccda5aad' target='_blank' title='Download/View W911KB-14-R-0001_AM_5.pdf' class='file'>W911KB-14-R-0001_AM_5.pdf</a> (386.92 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment #5 for W911KB-14-R-0001 Warm Storage Hangar, Fort Wainwright, Alaska.  New Proposal Schedule included.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 6</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	January 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5cb29f4d6dd4c476655b5d2b44a49e2d' target='_blank' title='Download/View W911KB-14-R-0001_AM_6.pdf' class='file'&gt;W911KB-14-R-0001_AM_6.pdf&lt;/a&gt;"><a href='/utils/view?id=5cb29f4d6dd4c476655b5d2b44a49e2d' target='_blank' title='Download/View W911KB-14-R-0001_AM_6.pdf' class='file'>W911KB-14-R-0001_AM_6.pdf</a> (196.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0006 for W911KB-14-R-0001, Warm Storage Hangar, Fort Wainwright, Alaska</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 7</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	January 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=faef10797684df58a41eb487d1bf6632' target='_blank' title='Download/View W911KB-14-R-0001_AM_7.pdf' class='file'&gt;W911KB-14-R-0001_AM_7.pdf&lt;/a&gt;"><a href='/utils/view?id=faef10797684df58a41eb487d1bf6632' target='_blank' title='Download/View W911KB-14-R-0001_AM_7.pdf' class='file'>W911KB-14-R-0001_AM_7.pdf</a> (53.47 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 for W911KB-14-R-0001, FTW373A Warm Storage Hangar, Fort Wainwright, Alaska</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 8</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=56281b2f657230f87e98a600ab640dad' target='_blank' title='Download/View W911KB-14-R-0001_AM_8.pdf' class='file'&gt;W911KB-14-R-0001_AM_8.pdf&lt;/a&gt;"><a href='/utils/view?id=56281b2f657230f87e98a600ab640dad' target='_blank' title='Download/View W911KB-14-R-0001_AM_8.pdf' class='file'>W911KB-14-R-0001_AM_8.pdf</a> (49.75 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0008 for W911KB-14-R-0001, FTW373A Warm Storage Hangar, Fort Wainwright, Alaska</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 9</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=75a0240595ae64c3aff8f04cd59a9c28' target='_blank' title='Download/View W911KB-14-R-0001_AM_9.pdf' class='file'&gt;W911KB-14-R-0001_AM_9.pdf&lt;/a&gt;"><a href='/utils/view?id=75a0240595ae64c3aff8f04cd59a9c28' target='_blank' title='Download/View W911KB-14-R-0001_AM_9.pdf' class='file'>W911KB-14-R-0001_AM_9.pdf</a> (95.01 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0009 for W911KB-14-R-0001, FTW373A Warm Storage Hangar, Fort Wainwright, AK</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	USACE District, Alaska, CEPOA-CT, P. O. Box 6898, Elmendorf AFB, AK  99506-6898
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	USACE District, Alaska CEPOA-CT, P. O. Box 6898, Elmendorf AFB AK<br />
+99506-6898<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Donna West</div>
+		<div><a href="mailto:donna.l.west@usace.army.mil">donna.l.west@usace.army.mil</a></div>
+	<div>Phone: 907-753-2761</div>		<div>Fax: 907-753-2544</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=2568d652eb44e0eafc89d8fb26a57310'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=2568d652eb44e0eafc89d8fb26a57310'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e4ed696c370c577d4acfa57e634d47bc">J&As</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=e4ed696c370c577d4acfa57e634d47bc" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 30, 2013</div></dt><dd><a href="/utils/view?id=04aa94dbf332c287c2790f1d03282b23" target="_blank" title="Download/View A.3.6.2_J&amp;A_13-15_Knox_FBO.pdf" class="file">A.3.6.2_J&A_13-15_Knox_FBO.pdf</a></dd><dd><a href="/utils/view?id=2f385c844f930dccead7e88d95d4bc8f" target="_blank" title="Download/View A.3.6.2_J&amp;A_13-16_Monaco_FBO.pdf" class="file">A.3.6.2_J&A_13-16_Monaco_FBO.pdf</a></dd><dd><a href="/utils/view?id=e97242eebdaeb28381c8511b78dd36c5" target="_blank" title="Download/View A.3.6.2_J&amp;A_13-17_Best_locks_FBO.pdf" class="file">A.3.6.2_J&A_13-17_Best_locks_FBO.pdf</a></dd><dd><a href="/utils/view?id=484f3baf472535ffada5def7dd5fe5c9" target="_blank" title="Download/View A.3.6.2_J&amp;A_13-21_Siemens_FBO.pdf" class="file">A.3.6.2_J&A_13-21_Siemens_FBO.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=381c5d41ada15a0898068ebaaccca830">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=381c5d41ada15a0898068ebaaccca830" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 30, 2013</div></dt><dd><a href="/utils/view?id=2dc9773ed8eedc97590bd3ea840529cd" target="_blank" title="Download/View W911KB-14-R-0001.pdf" class="file">W911KB-14-R-0001.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7f9ea8fa640c082a5832164f4fe394d6">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=7f9ea8fa640c082a5832164f4fe394d6" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Oct 10, 2013</div></dt><dd><a href="/utils/view?id=3a53c0adfa1e1bccb76cf8a6b88f3b14" target="_blank" title="Download/View W911KB-14-R-0001_AM_1.pdf" class="file">W911KB-14-R-0001_AM_1.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=5666dfd1b4170ab966c5850d1cdb9ac0">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=5666dfd1b4170ab966c5850d1cdb9ac0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 19, 2013</div></dt><dd><a href="/utils/view?id=af97c55a460ef083fd6532e376dd8bae" target="_blank" title="Download/View W911KB-14-R-0001_AM_2.pdf" class="file">W911KB-14-R-0001_AM_2.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1c4fbce028549bcdcb6c54b539f5059f">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=1c4fbce028549bcdcb6c54b539f5059f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 11, 2013</div></dt><dd><a href="/utils/view?id=a5d2421abdc1614ea12269099e1241cc" target="_blank" title="Download/View W911KB-14-R-0001_AM_3.pdf" class="file">W911KB-14-R-0001_AM_3.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a98def0269ae78e57e979ed0f417a657">Amendment 4</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=a98def0269ae78e57e979ed0f417a657" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 20, 2013</div></dt><dd><a href="/utils/view?id=97cc746bb0b1fd3d4c60e2aab1d160fc" target="_blank" title="Download/View W911KB-14-R-0001_AM_4.pdf" class="file">W911KB-14-R-0001_AM_4.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=68f100ef0a25532ec2210b619822f6cf">Amendment 5</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=68f100ef0a25532ec2210b619822f6cf" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 03, 2014</div></dt><dd><a href="/utils/view?id=839864beebef81323e28b186ccda5aad" target="_blank" title="Download/View W911KB-14-R-0001_AM_5.pdf" class="file">W911KB-14-R-0001_AM_5.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7c072263b9356f13e8e659d94779cf4d">Amendment 6</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=7c072263b9356f13e8e659d94779cf4d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 24, 2014</div></dt><dd><a href="/utils/view?id=5cb29f4d6dd4c476655b5d2b44a49e2d" target="_blank" title="Download/View W911KB-14-R-0001_AM_6.pdf" class="file">W911KB-14-R-0001_AM_6.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b823eb99739a07baaec2d22b62b35b82">Amendment 7</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=b823eb99739a07baaec2d22b62b35b82" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 30, 2014</div></dt><dd><a href="/utils/view?id=faef10797684df58a41eb487d1bf6632" target="_blank" title="Download/View W911KB-14-R-0001_AM_7.pdf" class="file">W911KB-14-R-0001_AM_7.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=565635a116151bb4dcf1af2925d92a4a">Amendment 8</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=565635a116151bb4dcf1af2925d92a4a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=56281b2f657230f87e98a600ab640dad" target="_blank" title="Download/View W911KB-14-R-0001_AM_8.pdf" class="file">W911KB-14-R-0001_AM_8.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=95793519f3f7cf762b8246491ab98d24">Amendment 9</a> <a target="_blank" href="/utils/dZip?base=2568d652eb44e0eafc89d8fb26a57310&class=document_package&id=95793519f3f7cf762b8246491ab98d24" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=75a0240595ae64c3aff8f04cd59a9c28" target="_blank" title="Download/View W911KB-14-R-0001_AM_9.pdf" class="file">W911KB-14-R-0001_AM_9.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	July 10, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 20, 2014 2:00 pm&nbsp;Alaska
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Oct 16, 2013 2:00 pm
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	September 8, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Y -- Construction of structures and facilities
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	236 -- Construction of Buildings/236220 -- Commercial and Institutional Building Construction
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

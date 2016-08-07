@@ -1,0 +1,739 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>IDIQ General Construction, Repair & Alteration Services for the McAllen Border Zone - GS-07P-13-HH-D-0040 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392503446');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392503446';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=a42cc99ad9c56187bc68c611e4067366&inline_disposition=1" border="0" alt="Public Buildings Service (PBS) logo"></div><div class="agency-header agency-header-med"><h2>IDIQ General Construction, Repair & Alteration Services for the McAllen Border Zone</h2><div class="sol-num">Solicitation Number: GS-07P-13-HH-D-0040</div><div class="agency-name">Agency: General Services Administration<br>Office: Public Buildings Service (PBS)<br>Location: Acquisition Management (7PQA)</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=e31b44bd5e280db8de198643cbe32e6e&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/GSA/PBS/7PMA/GS-07P-13-HH-D-0040/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/GSA/PBS/7PMA/GS-07P-13-HH-D-0040/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/GSA/PBS/7PMA/GS-07P-13-HH-D-0040/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=e31b44bd5e280db8de198643cbe32e6e&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e31b44bd5e280db8de198643cbe32e6e&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e31b44bd5e280db8de198643cbe32e6e&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=0dbb0813789ec9e5bd7b50fc7e9f09c4&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Jan 08, 2014</div><div class="nh-date">11:23 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=e31b44bd5e280db8de198643cbe32e6e&_cview=0">Changed</a><div class="nh-date">Feb 06, 2014</div><div class="nh-date">7:17 pm</div><div class="nh-date"><em>Solicitation</em></div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=0dbb0813789ec9e5bd7b50fc7e9f09c4'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=0dbb0813789ec9e5bd7b50fc7e9f09c4'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	GS-07P-13-HH-D-0040
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-08 11:23:50">Jan 08, 2014 11:23 am</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-06 19:10:32">Feb 06, 2014 7:10 pm<a href="/utils/viewDifferences?class=notice_description&id=ab72688516efa24b87e3f3925a33a138&compared_to=e37ad22a0a2d03c020c882152948fc23" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=ab72688516efa24b87e3f3925a33a138&compared_to=e37ad22a0a2d03c020c882152948fc23&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'"><strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: red; FONT-SIZE: 8.5pt">This amendment 0001, includes the transcript of the pre-proposal conference conducted on January 23, 2014, and answers to questions received by the deadline. No more questions will be accepted. Sign in sheet from pre-proposal conference is also attached.</span></strong><strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: red; FONT-SIZE: 8.5pt"><br /><br /><strong><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Deadline for proposals remains FEBRUARY 20, 2014 at 2:00 PM CST. </span></strong><br /><br />The required representations and certifications document mentioned in the &nbsp;solicitation is also attached in order to make it easier to access.<br /><br /><strong><span style="FONT-FAMILY: 'Arial', 'sans-serif'">Potential Offerors are to acknowledge this and all past and future amendments on Block 19 of the Standard Form 1442 which is submitted with proposals.</span></strong></span></strong><br /><br />This constitutes a Request for Proposal (RFP) for&nbsp;an Indefinite Delivery Indefinite Quantity (IDIQ) Multiple Award Contract for&nbsp;repair, alteration,&nbsp;and construction services for the McAllen Border Zone. The General Services Administration (GSA), Greater Southwest Region 7, Acquisition Management Division is the office soliciting, and who will administer the resulting contracts. <strong style="mso-bidi-font-weight: normal">In accordance with FAR 52.219-6, this procurement is set aside exclusively for small business.</strong></span> <br /><br />
+<p style="LINE-HEIGHT: 12.65pt; MARGIN: 0.15pt 0.1in 0pt 0in; VERTICAL-ALIGN: baseline; mso-line-height-rule: exactly; tab-stops: .5in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; LETTER-SPACING: 0.05pt; COLOR: black; mso-fareast-font-family: Arial"><br />The counties in the McAllen Border Zone are: </span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">Webb, Duval, Jim Wells, Nueces, Kleberg, Zapata, Jim Hogg, Brooks, Kenedy, Starr, Hidalgo, Willacy, and Cameron.</span></p><br />
+<p style="LINE-HEIGHT: 12.65pt; MARGIN: 0.15pt 0.1in 0pt 0in; VERTICAL-ALIGN: baseline; mso-line-height-rule: exactly; tab-stops: .5in"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: 16.8pt; MARGIN-BOTTOM: 15pt"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">The resulting multiple award IDIQ contracts shall be for a period of one (1) year, with provision to exercise options for four (4) additional one year periods, not to exceed a total of five years. Multiple awards will be made, with each awardee being guaranteed a minimum of $2,000 for the base year only. The minimum ordering limitation, per task order will be $2,000. The maximum ordering limitation, per task order will be $500,000. And the overall maximum ordering limitation for each year of the contract will be $2,000,000.</span></p><br />
+<p style="LINE-HEIGHT: 16.8pt; MARGIN-BOTTOM: 15pt"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">The work to be performed under the terms of this contract include, but is not limited to: general construction, as follows: renovations, general construction services including wall partition construction, modification and alteration of floor and wall mounted telephones, signal, and power outlets to be included in the modification of associated conduit, surface mounted raceway, and various under floor duct systems; installation of new and the alteration of existing power panels; carpet and carpet tile installation; painting; HVAC duct work modification and repair; door, door frame, and door set hardware installation; communications cabling; grid ceiling and lighting installation and modification; modification of existing building fire sprinkler systems; and other such related work which would be outlined in task order and job drawings. </span></p><br />
+<p style="LINE-HEIGHT: 16.8pt; MARGIN-BOTTOM: 15pt"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">The selection process will be conducted in accordance with FAR Part 15 source selection procedures. A firm fixed price contract will be awarded to the firms offering the best value to the Government. Non-price technical evaluation factors when combined are significantly more important than price. The Government may or may not hold discussions on technical proposals therefore the Offeror's initial proposal should contain their best offer in terms of technical and price. The Government reserves the right to conduct discussions if the Contracting Officer determines them to be necessary.</span></p><br />
+<p style="LINE-HEIGHT: 16.8pt; MARGIN-BOTTOM: 15pt"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">The following Technical Evaluation criteria are listed in descending order of importance:<br />1. Management Plan<br />2. Experience<br />3. Past Performance<br />4. Quality and Accuracy of Hypothetical Proposal. <br />5. Qualifications and Experience of Key Personnel<br />6. Evidence of Local Office (within the zone or within a 50-mile radius of the zone).<br /><br />A pre-proposal meeting will be conducted, the date and time to be set-forth in the solicitation package. Interested firms are encouraged to attend the pre-proposal conference. The solicitation closing date will be around 40 days after the issuance of the solicitation package.<br /><br />The actual date and time will be identified in the solicitation (see cover sheet of attached package). All information, amendments and questions concerning this solicitation will be electronically posted at the following web page: </span><a href="http://www.fbo.gov"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: #05509e; mso-fareast-font-family: 'Times New Roman'">http://www.fbo.gov</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">. <br /><br />Interested firms must be registered in the System for Award Management (SAM). Firms can register at </span><a href="https://www.sam.gov"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: #05509e; mso-fareast-font-family: 'Times New Roman'">https://www.sam.gov</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'"> or by contacting the SAM Service Desk at </span><a href="http://www.fds.gov"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: #05509e; mso-fareast-font-family: 'Times New Roman'">http://www.fds.gov</span></a><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">.<span style="mso-spacerun: yes">&nbsp; </span>Interested firms are required to submit their representations and certifications through the SAM website.<br /><br />The solicitation and associated information will be available from the FBO site mentioned above. No telephone requests will be accepted. This solicitation is not a sealed bid and there will not be a formal public bid opening. All inquiries must be in writing, preferably via email to the persons specified in the solicitation. All answers will be provided in writing and will be available on the aforementioned FBO posting. </span></p><br />
+<p style="LINE-HEIGHT: 16.8pt; MARGIN-BOTTOM: 15pt"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">Offerors will not be reimbursed for proposal submittal expenses.</span></p><br />
+<p style="LINE-HEIGHT: 16.8pt; MARGIN-BOTTOM: 15pt"><span style="FONT-FAMILY: 'Arial', 'sans-serif'; mso-fareast-font-family: 'Times New Roman'">DISCLAIMER: The official solicitation package and technical specifications will be located on the official government web page and the Government is not liable for information furnished by any other source. Amendments, if/when issued will be posted to the FBO site for electronic downloading. This will normally be the only method of distributing amendments prior to closing; therefore, it is the offeror's responsibility to check the website periodically for any amendments to the solicitation. Websites are occasionally inaccessible due to various reasons. The Government is not responsible for any loss of Internet connectivity or for an offeror's inability to access the documents posted on the referenced web pages. The Government will not issue paper copies. </span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">McAllen Solicitation</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	McAllen Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	January 8, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=4325bc228aed8fd9f5001052e0da6848' target='_blank' title='Download/View Solicitation_1-8-14.pdf' class='file'&gt;Solicitation_1-8-14.pdf&lt;/a&gt;"><a href='/utils/view?id=4325bc228aed8fd9f5001052e0da6848' target='_blank' title='Download/View Solicitation_1-8-14.pdf' class='file'>Solicitation_1-8-14.pdf</a> (504.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> McAllen Solicitation Package</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=c4e73b8f98795e810441c3b9d8962aa8' target='_blank' title='Download/View Construction_Line_items.xlsx' class='file'&gt;Construction_Line_items.xlsx&lt;/a&gt;"><a href='/utils/view?id=c4e73b8f98795e810441c3b9d8962aa8' target='_blank' title='Download/View Construction_Line_items.xlsx' class='file'>Construction_Line_items.xlsx</a> (29.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> R7 Construction Line Items</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=bdd837723ffc0348ef3caccdf8ef6f18' target='_blank' title='Download/View REGION_7_SPECS.pdf' class='file'&gt;REGION_7_SPECS.pdf&lt;/a&gt;"><a href='/utils/view?id=bdd837723ffc0348ef3caccdf8ef6f18' target='_blank' title='Download/View REGION_7_SPECS.pdf' class='file'>REGION_7_SPECS.pdf</a> (1,617.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Region 7 Specs</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=c7359d558c09c02d8dba6fb320cc7ab1' target='_blank' title='Download/View Regional_IDIQ_Zone_Counties.2013.pdf' class='file'&gt;Regional_IDIQ_Zone_Counties.2013.pdf&lt;/a&gt;"><a href='/utils/view?id=c7359d558c09c02d8dba6fb320cc7ab1' target='_blank' title='Download/View Regional_IDIQ_Zone_Counties.2013.pdf' class='file'>Regional_IDIQ_Zone_Counties.2013.pdf</a> (2,633.12 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Region 7 IDIQ Map</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1b096076fed74aa8cd06fc15adb572b2' target='_blank' title='Download/View McAllen_-_Pre_Proposal_Conference_Agenda_with_Q&amp;A.pdf' class='file'&gt;McAllen_-_Pre_Proposal_Conference_Agenda_with_Q&amp;A.pdf&lt;/a&gt;"><a href='/utils/view?id=1b096076fed74aa8cd06fc15adb572b2' target='_blank' title='Download/View McAllen_-_Pre_Proposal_Conference_Agenda_with_Q&A.pdf' class='file'>McAllen_-_Pre_Proposal_Conference_Agenda_with_Q&A.pdf</a> (370.03 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Pre-proposal conference transcript and Q&amp;A, along with Sign-in sheet.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=fed41efe0905ae338e4a078cfd35e648' target='_blank' title='Download/View FormSF1442_-_McAllen.pdf' class='file'&gt;FormSF1442_-_McAllen.pdf&lt;/a&gt;"><a href='/utils/view?id=fed41efe0905ae338e4a078cfd35e648' target='_blank' title='Download/View FormSF1442_-_McAllen.pdf' class='file'>FormSF1442_-_McAllen.pdf</a> (252.39 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF-1442</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=4eaee71be5050384abb14800cf139f97' target='_blank' title='Download/View Reps_and_Certs_McAllen.pdf' class='file'&gt;Reps_and_Certs_McAllen.pdf&lt;/a&gt;"><a href='/utils/view?id=4eaee71be5050384abb14800cf139f97' target='_blank' title='Download/View Reps_and_Certs_McAllen.pdf' class='file'>Reps_and_Certs_McAllen.pdf</a> (40.84 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Reps and Certs Form</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		819 Taylor St., Rm. 12B01<br/>
+
+			
+				
+		Fort Worth,
+
+			
+	
+		Texas
+
+			
+	
+		76102
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Isaac Karto</div>
+		<div><a href="mailto:isaac.karto@gsa.gov">isaac.karto@gsa.gov</a></div>
+	<div>Phone: 817-978-2198</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Zachary D. Rich,</div>
+	<div>Supervisory Contract Specialist</div>	<div><a href="mailto:zachary.rich@gsa.gov">zachary.rich@gsa.gov</a></div>
+	<div>Phone: 8174039287</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=0dbb0813789ec9e5bd7b50fc7e9f09c4'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=0dbb0813789ec9e5bd7b50fc7e9f09c4'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c81fb8316cd27adf138ccc2df17aa39a">McAllen Solicitation</a> <a target="_blank" href="/utils/dZip?base=0dbb0813789ec9e5bd7b50fc7e9f09c4&class=document_package&id=c81fb8316cd27adf138ccc2df17aa39a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 08, 2014</div></dt><dd><a href="/utils/view?id=4325bc228aed8fd9f5001052e0da6848" target="_blank" title="Download/View Solicitation_1-8-14.pdf" class="file">Solicitation_1-8-14.pdf</a></dd><dd><a href="/utils/view?id=c4e73b8f98795e810441c3b9d8962aa8" target="_blank" title="Download/View Construction_Line_items.xlsx" class="file">Construction_Line_items.xlsx</a></dd><dd><a href="/utils/view?id=bdd837723ffc0348ef3caccdf8ef6f18" target="_blank" title="Download/View REGION_7_SPECS.pdf" class="file">REGION_7_SPECS.pdf</a></dd><dd><a href="/utils/view?id=c7359d558c09c02d8dba6fb320cc7ab1" target="_blank" title="Download/View Regional_IDIQ_Zone_Counties.2013.pdf" class="file">Regional_IDIQ_Zone_Counties.2013.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6f2d6c78c0bd54e138ba1a1f7d4301b8">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=0dbb0813789ec9e5bd7b50fc7e9f09c4&class=document_package&id=6f2d6c78c0bd54e138ba1a1f7d4301b8" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 06, 2014</div></dt><dd><a href="/utils/view?id=1b096076fed74aa8cd06fc15adb572b2" target="_blank" title="Download/View McAllen_-_Pre_Proposal_Conference_Agenda_with_Q&amp;A.pdf" class="file">McAllen_-_Pre_Proposal_Conference_Agenda_with_Q&A.pdf</a></dd><dd><a href="/utils/view?id=fed41efe0905ae338e4a078cfd35e648" target="_blank" title="Download/View FormSF1442_-_McAllen.pdf" class="file">FormSF1442_-_McAllen.pdf</a></dd><dd><a href="/utils/view?id=4eaee71be5050384abb14800cf139f97" target="_blank" title="Download/View Reps_and_Certs_McAllen.pdf" class="file">Reps_and_Certs_McAllen.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 8, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 20, 2014 2:00 pm&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 20, 2014 2:00 pm&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Z -- Maintenance, repair, and alteration of real property
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	236 -- Construction of Buildings/236220 -- Commercial and Institutional Building Construction
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

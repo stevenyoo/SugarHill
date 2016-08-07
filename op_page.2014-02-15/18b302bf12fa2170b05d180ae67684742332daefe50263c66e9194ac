@@ -1,0 +1,767 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Lodging for New York City - HSCG41-14-Q-MJA082 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392487955');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392487955';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=7090a81b7813d000fbf8eeb9c4ac81c4&inline_disposition=1" border="0" alt="United States Coast Guard (USCG) logo"></div><div class="agency-header"><h2>Lodging for New York City</h2><div class="sol-num">Solicitation Number: HSCG41-14-Q-MJA082</div><div class="agency-name">Agency: Department of Homeland Security<br>Office: United States Coast Guard (USCG)<br>Location: Commanding Officer (fs), U.S. Coast Guard Training Center Yorktown</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=7f6db4fb3861d96c284553ddd7f46746&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DHS/USCG/COUSCGTC/HSCG41-14-Q-MJA082/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DHS/USCG/COUSCGTC/HSCG41-14-Q-MJA082/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DHS/USCG/COUSCGTC/HSCG41-14-Q-MJA082/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=7f6db4fb3861d96c284553ddd7f46746&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=7f6db4fb3861d96c284553ddd7f46746&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=7f6db4fb3861d96c284553ddd7f46746&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<div class='notice'>
+<div class='miw'>
+<h2>Note: </h2>
+This opportunity allows for electronic responses.  <a href="?s=main&mode=list&tab=login&_eresp=7f6db4fb3861d96c284553ddd7f46746">Click here</a> to log in and submit a response.
+</div>
+</div>
+<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 14, 2014</div><div class="nh-date">1:48 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=7f6db4fb3861d96c284553ddd7f46746'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=7f6db4fb3861d96c284553ddd7f46746'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HSCG41-14-Q-MJA082
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-14 13:48:56">Feb 14, 2014 1:48 pm</span>
+					</div>
+		1. USCG Training Center Yorktown has a requirement to procure the services noted below. Quotes may be submitted by email to NICHOLAS.R.COONEY@USCG.MIL. Questions regarding this solicitation may be directed to email, or addressed by phone number 757-856-3500 x3102. <br />This is a combined synopsis/solicitation for commercial SERVICES. This announcement constitutes the only solicitation notice. Quotations are being requested and a written solicitation will not be issued.<br />
+<p>2. The solicitation number is HSCG41-14-Q-MJA082 and is being issued as a Request for Quotation.</p><br />
+<p>3. The offeror shall submit an electronic version of the quote in word, excel, or adobe pdf format by noon, Friday, February 28, 2014 via email to Nicholas.r.cooney@uscg.mil. Any questions should be emailed to SK1 Cooney no later than 1:00 pm ET on Thursday, February 27, 2014.</p><br />
+<p>4. This notice is not set aside for small business. The NAICS code for this solicitation is 721110 (small business size standard $30,000,000). Contract will be firm-fixed price, awarded as lowest cost technically acceptable. The United States Coast Guard Training Center Yorktown has a requirement for the following:</p><br />
+<p>5. Provide 20 double occupancy rooms and 5 single occupancy rooms from 24APR2014 through 27APR2014 as per attached specifications. Total number of room nights (25 x 3 = 75)<br />Lodging shall be located within a 5 block radius of Times Square, Manhattan, New York City. Any lodging outside of this radius will not be considered for award. Wireless internet connectivity shall be available in each guestroom at no cost to the government. Hotels shall be rated at least 3 stars, or three diamonds as expressed by AAA, with no recent health or safety violations.</p><br />
+<p>6. This request for quotation is issued in accordance with the format in subpart 12.6 of the FAR and pursuant to FAR part 13, HSAM 3006-302-1 and FAC no. 2005-72 (DEC 2013)<br />2013) Companies must have valid DUNS numbers and be registered with Central Contractor Registration (CCR) and shall provide the company Tax Information Number (TIN) with their offer. Companies can register and update CCR status through the System for Award Management (SAM) www.sam.gov. Offerors may obtain full text versions of these clauses electronically at http://www.acquisition.gov/far/.</p><br />
+<p>7. The following FAR clauses and provisions apply to this solicitation:<br />FAR 52.212-1, Instructions to Offerors -Commercial Items (July 2013)<br />FAR 52.212-3, Offeror Representations and Certifications-Commercial Items (NOV 2013)<br />FAR 52.212-4, Contract Terms and Conditions-Commercial Items (Jun 2010)<br />FAR 52.212-5, Contract Terms &amp; Conditions Required to Implement Statutes or Executive Orders-Commercial Items (JAN 2014). <br />FAR 52.219-28, Post Award Small Business Program representation (APR 2009)(15 U.S.C. 632(a)(2)<br />FAR 52.222-3, Convict Labor (Jun 2003)(E.O. 11755)<br />FAR 52.222-19 Child Labor-Cooperation with Authorities and Remedies (Jul 2014)(E.O. 13126)<br />FAR 52.222-21, Prohibition of Segregated Facilities (FEB 1999)<br />FAR 52.222-26, Equal Opportunity (MAR 2007)(E.O. 11246)<br />FAR 52.222.35, Equal Opportunity for Special Disabled Veterans, Veterans of the Vietnam Era and Other Eligible Veterans (Sep 2010)(38 U.S.C. 4212) <br />FAR 52.222-36, Affirmative Action for Workers with Disabilities (Oct 2010)(29 U.S.C. 793)<br />FAR 52.222-50, Combating Trafficking in Persons (FEB 2009)<br />FAR 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving (Jun <br />2003)<br />FAR 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008)<br />FAR 52.232-33, Payment by Electronic Funds Transfer-Central Contractor Registration (OCT 2003)(31 U.S.C. 3332)<br />FAR 52.232-36 Payment by Third Party (Jul 2013)</p><br />
+<p>The Contractor is responsible for performing or having performed all inspections and tests necessary to substantiate that the supplies or services furnished under this contract conform to contract requirements, including any applicable technical requirements for specified manufacturers' parts. <br />The Contractor shall comply with the FAR clauses in this paragraph (c), applicable to commercial services, that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or executive orders applicable to acquisitions of commercial items:<br />(1) 52.222-41, Service Contract Act of 1965 (Nov 2007)(41 U.S.C. <br />(2) 52.222-42, Statement of Equivalent Rates for Federal Hires (May 1989)(29 U.S.C. 206 and 41 U.S.C. 351, et seq.).<br />(End of Clause)</p><br />
+<p>8. The following Homeland Security Acquisition Regulation (HASR) provisions and clauses apply to this acquisition:<br />3052.209-70 Prohibition on Contracts with Corporate Expatriates<br />3052.242-72 Contracting Officer's Technical Representative (COTR)</p><br />
+<p>9. NOTICE FOR FILING AGENCY PROTESTS - United States Coast Guard Ombudsman Program<br />It is the policy of the United States Coast Guard (USCG) to issue solicitations and make contract awards in a fair and timely manner. The Ombudsman Program for Agency Protests (OPAP) was established to investigate agency protest issues and resolve them without expensive and time-consuming litigation. OPAP is an independent reviewing authority that is empowered to grant a prevailing protester essentially the same relief as the General Accountability Office (GAO).<br />Interested parties are encouraged to seek resolution of their concerns within the USCG as an Alternative Dispute Resolution (ADR) forum, rather than filing a protest with the GAO or some external forum. Interested parties may seek resolution of their concerns informally or opt to file a formal agency protest with the contracting officer or Ombudsman.<br />Informal forum with the Ombudsman. Interested parties who believe a specific USCG procurement is unfair or otherwise defective should first direct their concerns to the cognizant contracting officer. If the contracting officer is unable to satisfy the concerns, the interested party is encouraged to contact the USCG Ombudsman for Agency Protests. Under this informal process, the agency is not required to suspend contract award performance. Use of an informal forum does not suspend any time requirement for filing a protest with the agency or other forum. In order to ensure a timely response, interested parties should provide the following information to the Ombudsman: solicitation/contract number, contracting office, contracting officer, and solicitation closing date (if applicable).<br />Formal Agency Protest with the Ombudsman. Prior to submitting a formal agency protest, protesters must first use their best efforts to resolve their concerns with the contracting officer through open and frank discussions. If the protester's concerns are unresolved, an independent review is available by the Ombudsman. The protester may file a formal agency protest to either the contracting officer or as an alternative to that, the Ombudsman under the OPAP program. Contract award or performance will be suspended during the protest period unless contract award or performance is justified, in writing, for urgent and compelling reasons or is determined in writing to be in the best interest of the Government. The agency's goal is to resolve protests in less than 35 calendar days from the date of filing. Protests shall include the information set forth in FAR 33.103. If the protester fails to submit the required information, resolution of the protest may be delayed or the protest may be dismissed. This will not preclude re-filing of the protest to meet the requirement. To be timely, protests must be filed within the period specified in FAR 33.103(e). Formal protests filed under the OPAP program should be submitted to: Department of Homeland Security, United States Coast Guard (CG-9131), Ombudsman Program for Agency Protests, 1900 Half Street, SW, Room 11-0602, Washington, D. C. 20593-0001, FAX: 202.475.3904. The Ombudsman Hotline telephone number is 202.372.3695.</p><br />
+<p>&nbsp;</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Statement of Work</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Statement of Work
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=8fb967f8c89ab1d84b98a6838b5ac493' target='_blank' title='Download/View New_York_-_Commercial_Lodging_SOW.doc' class='file'&gt;New_York_-_Commercial_Lodging_SOW.doc&lt;/a&gt;"><a href='/utils/view?id=8fb967f8c89ab1d84b98a6838b5ac493' target='_blank' title='Download/View New_York_-_Commercial_Lodging_SOW.doc' class='file'>New_York_-_Commercial_Lodging_SOW.doc</a> (35.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Commercial lodging SOW</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Pricing Sheet</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Pricing Sheet
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=87657bb2b287fdc3e4560685b9a8ea23' target='_blank' title='Download/View Pricing_Sheet.xls' class='file'&gt;Pricing_Sheet.xls&lt;/a&gt;"><a href='/utils/view?id=87657bb2b287fdc3e4560685b9a8ea23' target='_blank' title='Download/View Pricing_Sheet.xls' class='file'>Pricing_Sheet.xls</a> (34.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Basic pricing sheet</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Wage determination</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Wage determination
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=36d6ca6e3d7e284f2215fd5a20512b58' target='_blank' title='Download/View wages_new_york.pdf' class='file'&gt;wages_new_york.pdf&lt;/a&gt;"><a href='/utils/view?id=36d6ca6e3d7e284f2215fd5a20512b58' target='_blank' title='Download/View wages_new_york.pdf' class='file'>wages_new_york.pdf</a> (30.76 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Wage determination for New York</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		Thayer Hall, Room 211<br/>
+
+			
+				
+		Yorktown,
+
+			
+	
+		Virginia
+
+			
+	
+		23690-5000
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Nicholas R. Cooney</div>
+		<div><a href="mailto:nicholas.r.cooney@uscg.mil">nicholas.r.cooney@uscg.mil</a></div>
+	<div>Phone: 7578563500 x3102</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>CORNELIUS CLAIBORNE,</div>
+	<div>CONTRACT ADMINISTRATOR</div>	<div><a href="mailto:CORNELIUS.CLAIBORNE@USCG.MIL">CORNELIUS.CLAIBORNE@USCG.MIL</a></div>
+	<div>Phone: 7578562187</div>		<div>Fax: 757-856-2126</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=7f6db4fb3861d96c284553ddd7f46746'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=7f6db4fb3861d96c284553ddd7f46746'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7dfd9e13f4e8f57b53f00cd0cafc1357">Pricing Sheet</a> <a target="_blank" href="/utils/dZip?base=7f6db4fb3861d96c284553ddd7f46746&class=document_package&id=7dfd9e13f4e8f57b53f00cd0cafc1357" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 14, 2014</div></dt><dd><a href="/utils/view?id=87657bb2b287fdc3e4560685b9a8ea23" target="_blank" title="Download/View Pricing_Sheet.xls" class="file">Pricing_Sheet.xls</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7daf52c0ebc3f80af06eb9b36301c1a3">Statement of Work</a> <a target="_blank" href="/utils/dZip?base=7f6db4fb3861d96c284553ddd7f46746&class=document_package&id=7daf52c0ebc3f80af06eb9b36301c1a3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 14, 2014</div></dt><dd><a href="/utils/view?id=8fb967f8c89ab1d84b98a6838b5ac493" target="_blank" title="Download/View New_York_-_Commercial_Lodging_SOW.doc" class="file">New_York_-_Commercial_Lodging_SOW.doc</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a6bdc5805dee054e36f810577fa776a9">Wage determination</a> <a target="_blank" href="/utils/dZip?base=7f6db4fb3861d96c284553ddd7f46746&class=document_package&id=a6bdc5805dee054e36f810577fa776a9" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 14, 2014</div></dt><dd><a href="/utils/view?id=36d6ca6e3d7e284f2215fd5a20512b58" target="_blank" title="Download/View wages_new_york.pdf" class="file">wages_new_york.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 28, 2014 12:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 15, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	V -- Transportation, travel, & relocation services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	721 -- Accommodation/721110 -- Hotels (except Casino Hotels) and Motels
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

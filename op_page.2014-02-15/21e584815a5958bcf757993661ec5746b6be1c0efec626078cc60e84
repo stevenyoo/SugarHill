@@ -1,0 +1,2437 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Consolidated Air Force Satellite Control Network (AFSCN) Modifications, Maintenance & Operations (CAMMO) Contract - FA8823-13-R-0009 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392491783');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392491783';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Space Command logo"></div><div class="agency-header agency-header-sm"><h2>Consolidated Air Force Satellite Control Network (AFSCN) Modifications, Maintenance & Operations (CAMMO) Contract</h2><div class="sol-num">Solicitation Number: FA8823-13-R-0009</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Space Command<br>Location: SMC - Space and Missile Systems Center</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=32fb9914f5cdcb2d825f4f48041b5bb2&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AFSC/SMCSMSC/FA8823-13-R-0009/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AFSC/SMCSMSC/FA8823-13-R-0009/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AFSC/SMCSMSC/FA8823-13-R-0009/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=32fb9914f5cdcb2d825f4f48041b5bb2&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=32fb9914f5cdcb2d825f4f48041b5bb2&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=32fb9914f5cdcb2d825f4f48041b5bb2&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=f0e567ad331a5fa20dccc3bf97e49b74&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Apr 15, 2013</div><div class="nh-date">4:39 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=86e4bd1d8ec287994fd82d466a171e63&_cview=0">Changed</a><div class="nh-date">Apr 23, 2013</div><div class="nh-date">6:23 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3c16df3be74022490c5ab721078d32c7&_cview=0">Changed</a><div class="nh-date">May 09, 2013</div><div class="nh-date">3:58 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=56f30d6de80635d07ca352f31e6914d9&_cview=0">Changed</a><div class="nh-date">May 16, 2013</div><div class="nh-date">5:39 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e59c66a9469d31bb638f8c2405499571&_cview=0">Changed</a><div class="nh-date">Jul 30, 2013</div><div class="nh-date">2:23 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=7d19642f5782a4e465e164f65f24802d&_cview=0">Changed</a><div class="nh-date">Jul 30, 2013</div><div class="nh-date">2:36 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e17a0c6175624d3cc45ad16c6067c233&_cview=0">Changed</a><div class="nh-date">Jul 31, 2013</div><div class="nh-date">9:44 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=bb20cac20df210ad53c5c7ec45c24832&_cview=0">Changed</a><div class="nh-date">Aug 01, 2013</div><div class="nh-date">1:19 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=845349d5e14d1899f3b269777b48c032&_cview=0">Changed</a><div class="nh-date">Aug 01, 2013</div><div class="nh-date">1:37 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=9b2af29475de541a15aaed631b22b222&_cview=0">Changed</a><div class="nh-date">Aug 01, 2013</div><div class="nh-date">1:48 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=ef37da6c28c56139ecbddb83f500224d&_cview=0">Changed</a><div class="nh-date">Aug 08, 2013</div><div class="nh-date">1:40 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=0402a40af18b4400ef9e12e6e51ad7e9&_cview=0">Changed</a><div class="nh-date">Dec 19, 2013</div><div class="nh-date">11:14 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=92130e53ca82ec695cf70e1bd5e49dc0&_cview=0">Changed</a><div class="nh-date">Jan 16, 2014</div><div class="nh-date">9:51 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=f278e8404669e3f4a653fe799cb7954b&_cview=0">Changed</a><div class="nh-date">Jan 17, 2014</div><div class="nh-date">4:46 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=67d171a888039094284d0eb3b74070a1&_cview=0">Changed</a><div class="nh-date">Feb 04, 2014</div><div class="nh-date">3:01 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3255283487c3fdde38b2c745b2d85939&_cview=0">Changed</a><div class="nh-date">Feb 06, 2014</div><div class="nh-date">1:32 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=20d510cd820e4d18694d1759be031ec5&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">5:27 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b1c6aba0ddedeca16cd924fd3ba5d296&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">5:39 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=909c25e4fefbc8e52b0e38c1152ed1b6&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">6:45 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=32fb9914f5cdcb2d825f4f48041b5bb2&_cview=0">Changed</a><div class="nh-date">Feb 12, 2014</div><div class="nh-date">7:18 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f0e567ad331a5fa20dccc3bf97e49b74'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f0e567ad331a5fa20dccc3bf97e49b74'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA8823-13-R-0009
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-04-15 16:39:17">Apr 15, 2013 4:39 pm</span>
+					</div>
+		<p><strong>Air Force Satellite Control Network (AFSCN) Description:</strong> The AFSCN is a critical operational national resource used to deploy and operate National Security Space (NSS) Systems. It provides globally-distributed Telemetry, Tracking, and Commanding (TT&amp;C) support for pre-launch, launch, deployment, and on-orbit anomaly resolution and disposal operations, for Department of Defense (DoD), National, Research and Development, Test and Evaluations and assigned Civil (NASA and NOAA) space systems. The AFSCN refers to a network comprised of the following (as of Sep 2014): seven world-wide Remote Tracking Stations (RTS) and 15 fixed antennas with space frame or inflatable radomes; two Operation Control Nodes in CONUS, Eastern Vehicle Checkout Facility (EVCF), and three transportable antenna systems: Transportable Vehicle Checkout Facility (TVCF), Transportable Space Test and Evaluation Resource (TSTR), and Transportable Remote Black Change (TRBC) . The network includes the following sub-systems: Automated Remote Tracking Stations (ARTS); Remote Tracking Station Block Change (RBC); Electronic Scheduling &amp; Dissemination (ESD); Archival Recording System (ARS); Orbital Analysis System (OAS); Operational Switch Replacement (OSR); High &amp; Low Power Amplifier's (HPA/LPA); Inter-Range Operations Number (IRON) Database (IRON DB); plus an Integration and Test Support Facility (I&amp;TSF). Mission Unique Equipment (MUE) includes: Data Relay Mission Unique Equipment Antennas (DRMUE/DRMUE-S/DRMEU-X); AFSPC MUE (Hammer 1 &amp; 2 Antennas); Next Generation Ionosonde (NEXION); AFSCN Link Protection System (ALPS); and Small Earth Terminal (SET) SOURCE-G Antenna. Locations for contract performance are identified in section 17.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-04-23 18:23:49">Apr 23, 2013 6:23 pm</span>
+					</div>
+		Consolidated Air Force Satellite Control Network (AFSCN) Modifications, Maintenance &amp; Operations (CAMMO) Contract Sources Sought Notice is amended as follows: <br /><br />The response date is extended to 7 May 2013, 2:00pm MDT from 30 Apr 2013 2:00pm MDT.<br />
+<p>8 point Arial font is acceptable for graphics and tables only.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2013-07-30 14:23:56">Jul 30, 2013 2:23 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][modified_on]" value="2013-08-01 13:36:24">Aug 01, 2013 1:36 pm<a href="/utils/viewDifferences?class=notice_description&id=5fe2afcba42c1170c947b37e7948eb0c&compared_to=fadb0bbfd7c5bebde88efec5a5a7f870" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=5fe2afcba42c1170c947b37e7948eb0c&compared_to=fadb0bbfd7c5bebde88efec5a5a7f870&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<p>Request for Information (RFI) 2nd Set <br />-Posting 8 Additional Questiions <br />-Respond NLT 13 August 2013, Tuesday, at 2:00 pm (1400) MDT</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2013-08-01 13:48:32">Aug 01, 2013 1:48 pm</span>
+					</div>
+		Draft CAMMO&nbsp;Performance Work Statement (PWS) Version 1<br />-Posting Draft CAMMO PWS V1 for Informational Purposes Only.<br />-Please do not&nbsp;submit questions, comments, and recommendations at this time.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2014-01-16 09:51:03">Jan 16, 2014 9:51 am</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][modified_on]" value="2014-02-12 19:18:29">Feb 12, 2014 7:18 pm<a href="/utils/viewDifferences?class=notice_description&id=079cf0fbf6f980e990a8bc622bd9e388&compared_to=ca2a6fa83d5467d1173932df7379cca2" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=079cf0fbf6f980e990a8bc622bd9e388&compared_to=ca2a6fa83d5467d1173932df7379cca2&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<br />Notification of Industry Day, One-on-One, &amp; Site Visits<br /><br />
+<p>12 Feb 14<br />Industry Day Site Visit Logistics and Protocol</p><br />
+<p>Document Package added to include Industry Day Site Visit Logistics and Protocol, ICAMMO Industry Day Agenda, CAMMO Industry Day Comment Form, and CAMMO Industry Day Maps.</p><br />
+<p>14 Jan 14<br />Notification of Industry Day, One-on-One, &amp; Site Visits</p><br />
+<p>&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][5][added_on]" value="2014-02-04 15:01:46">Feb 04, 2014 3:01 pm</span>
+					</div>
+		<br />Request for Information (RFI) #3<br />Consolidated Air Force Satellite Control Network (AFSCN) Modifications, Maintenance, and Operations (CAMMO) FA8823-13-R-0009<br />
+<p>I. Description: The Government is in the process of consolidating a number of requirements from three existing contracts: Satellite Control Network Contract (SCNC), Network and Space Operations and Maintenance (NSOM) and Engineering, Development and Sustainment (EDS). The purpose of the effort is to maintain the requirement for operational performance for the Air Force Satellite Control Network (AFSCN) through a consolidated service of operations, operations and remote site support, organizational and depot maintenance, sustainment, sustainment modifications, and Factory Compatibility Testing (FCT), resulting in reduced Operation and Maintenance (O&amp;M) costs.</p><br />
+<p>II. Purpose: As part of market research for the CAMMO acquisition strategy, the government is providing the following documents for industry review:</p><br />
+<p>1) Draft Performance Work Statement (PWS)<br />2) Bidder's Library and Bidder's Library Index<br />3) Notional CLIN Structure<br />4) Notional Incentive Plan<br />5) Feedback Matrix</p><br />
+<p>Feedback Matrix: The government is providing a Feedback Matrix to be used as a vehicle for industry to respond to specific government requests for input and for independent comments from industry.</p><br />
+<p>CAMMO Bidder's Library: The CAMMO Bidder's Library is being posted as a secure package on FedBizOps and requires the completion and approval of a CAMMO Bidder's Library Access and Non-Disclosure Agreement in order to view those files.</p><br />
+<p>The government anticipates providing the following documents in a future posting:</p><br />
+<p>1) Contract Deliverables (CDRLs)<br />2) Department of Defense Security Classification Specification (DD254)<br />3) Section H - Special Clauses<br />4) Section L - Instruction to Offerors<br />5) Section M - Evaluation Factors for Award<br />6) Work Breakdown Structure (WBS)</p><br />
+<p>III. Submission Instructions: <br />Submit the completed Feedback Matrix as an MS Excel formatted document by email, Attention: Sarah Vollbracht, Contract Specialist at sarah.vollbracht@us.af.mil.</p><br />
+<p>Submit the completed CAMMO Bidder's Library Access and Non-Disclosure Agreement, Attention: Christina Ming, Contract Officer, at christina.ming.2@us.af.mil.</p><br />
+<p>IV. Response Due Date: Submit the completed Feedback Matrix no later than 17 February 2014, Monday, at 5:00 pm (1700) Mountain Daylight Time (MDT).</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][6][added_on]" value="2014-02-06 13:32:59">Feb 06, 2014 1:32 pm</span>
+					</div>
+		<br />Notification of Industry Day Event: Ogden Air Logistics Complex (OO-ALC) Public-Private Partnership (PPP) One-On-One Meeting Request<br />
+<p>I. Description: In conjunction with the CAMMO Industry Days, OO-ALC will be accepting one-on-one meeting requests for 20-21 Feb 2014. These meetings will be held on Peterson Air Force Base, in Building 2025.</p><br />
+<p>II. Purpose: The purpose of the OO-ALC PPP one-on-one meetings is to give all interested parties an opportunity to discuss Public Private Partnership (PPP) Ogden Air Logistics Complex (OO-ALC) capabilities, or partnering opportunities.</p><br />
+<p>Documents posted on FedBizOps for this event include the following:</p><br />
+<p>1) OO-ALC CAMMO PPP One-On-One Request Form<br />2) Non-Disclosure Agreement (NDA) Template<br />3) Strategic Partnership Agreement (SPA) Template<br />4) Partnership Agreement (PA) Template</p><br />
+<p>III. Submission Instructions: <br />To schedule a one-on-one meeting follow the instructions in the OO-ALC CAMMO PPP Request form that is included with this notice.</p><br />
+<p>Contact Information for the One-On-One Meeting Request:</p><br />
+<p>Ms. Misty Goss <br />misty.goss@us.af.mil<br />801-777-8173.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][7][added_on]" value="2014-02-07 17:39:34">Feb 07, 2014 5:39 pm</span>
+					</div>
+		<br />Posted Industry Day Event OO-ALC CAMMO PPP Capabilities Briefing<br />
+<p>&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][8][added_on]" value="2014-02-11 18:45:03">Feb 11, 2014 6:45 pm</span>
+					</div>
+		<br />Request for Information (RFI) #3<br />Notional CAMMO Work Breakdown Structure (WBS)<br />
+<p>I. Description: For sustainment services contracts, the OSD WBS template in DI-FNCL-81831is required; the WBS provided is based upon that OSD template. This posting is to provide a Notional CAMMO WBS to industry as a resource document.</p><br />
+<p>II. Purpose: The mix of tasks in the notional CAMMO PWS is fairly complex. The notional WBS structure is being provided to show the alignment between the PWS paragraphs to specific WBS elements. Aligning the tasks to WBS elements should also make alignment of funding by CLIN and EEIC less confusing.</p><br />
+<p>&nbsp;</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Sources Sought</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	April 15, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b640786c5eedea5447161452280bea9e' target='_blank' title='Download/View CAMMO_Sources_Sought_v1_4_(3).docx' class='file'&gt;CAMMO_Sources_Sought_v1_4_(3).docx&lt;/a&gt;"><a href='/utils/view?id=b640786c5eedea5447161452280bea9e' target='_blank' title='Download/View CAMMO_Sources_Sought_v1_4_(3).docx' class='file'>CAMMO_Sources_Sought_v1_4_(3).docx</a> (40.09 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Sources Sought Synopsis</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=60d1f1274eb79577d070aae829a913f0' target='_blank' title='Download/View AFSCN_Config_Chart_Ver_4_1.pdf' class='file'&gt;AFSCN_Config_Chart_Ver_4_1.pdf&lt;/a&gt;"><a href='/utils/view?id=60d1f1274eb79577d070aae829a913f0' target='_blank' title='Download/View AFSCN_Config_Chart_Ver_4_1.pdf' class='file'>AFSCN_Config_Chart_Ver_4_1.pdf</a> (535.43 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> AFSCN Config Chart</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">RFI</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	RFI
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	May 9, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1cae54aec74b69926b4f952f508f862d' target='_blank' title='Download/View CAMMO_RFI_Small_Business_v1_3.docx' class='file'&gt;CAMMO_RFI_Small_Business_v1_3.docx&lt;/a&gt;"><a href='/utils/view?id=1cae54aec74b69926b4f952f508f862d' target='_blank' title='Download/View CAMMO_RFI_Small_Business_v1_3.docx' class='file'>CAMMO_RFI_Small_Business_v1_3.docx</a> (20.29 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Request for Information</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Updated RFI</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Updated RFI
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	May 16, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9fe2cf27142267357951ecee5cc79c56' target='_blank' title='Download/View CAMMO_RFI_Small_Business_16May13.docx' class='file'&gt;CAMMO_RFI_Small_Business_16May13.docx&lt;/a&gt;"><a href='/utils/view?id=9fe2cf27142267357951ecee5cc79c56' target='_blank' title='Download/View CAMMO_RFI_Small_Business_16May13.docx' class='file'>CAMMO_RFI_Small_Business_16May13.docx</a> (20.34 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> This RFI is amended to provide the correct PCO email address.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">RFI (2nd Set)</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__name__widget">
+	RFI (2nd Set)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	July 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=cee64d024dbf63b53caf4432a33cb3f9' target='_blank' title='Download/View CAMMO_Info_Brief_(6_Aug_13).pdf' class='file'&gt;CAMMO_Info_Brief_(6_Aug_13).pdf&lt;/a&gt;"><a href='/utils/view?id=cee64d024dbf63b53caf4432a33cb3f9' target='_blank' title='Download/View CAMMO_Info_Brief_(6_Aug_13).pdf' class='file'>CAMMO_Info_Brief_(6_Aug_13).pdf</a> (126.57 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Information Brief for Consolidated Air Force Satellite Control Network (AFSCN) Modifications, Maintenance &amp; Operations (CAMMO)<br />
+-Attached is an information brief on CAMMO.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=1e1ce4cb5055dd9ce0fad567e12e0259' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief.pdf' class='file'&gt;Save_the_Date_for_CAMMO_Information_Brief.pdf&lt;/a&gt;"><a href='/utils/view?id=1e1ce4cb5055dd9ce0fad567e12e0259' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief.pdf' class='file'>Save_the_Date_for_CAMMO_Information_Brief.pdf</a> (144.96 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Save the Date for CAMMO Information Brief <br />
+-A call information brief is scheduled for 6 Aug 13 at 1000-1100 MDT. <br />
+-Submit questions prior to briefing NLT 1200 MDT on 5 Aug 13. <br />
+</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Save the Date for Call-in Information Brief Scheduled for 6 Aug 13 at 1000 -1100 MDT</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__name__widget">
+	Save the Date for Call-in Information Brief Scheduled for 6 Aug 13 at 1000 -1100 MDT
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	July 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=103cf5d698814f9c06c333336f76dc1f' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief-2.pdf' class='file'&gt;Save_the_Date_for_CAMMO_Information_Brief-2.pdf&lt;/a&gt;"><a href='/utils/view?id=103cf5d698814f9c06c333336f76dc1f' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief-2.pdf' class='file'>Save_the_Date_for_CAMMO_Information_Brief-2.pdf</a> (24.72 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Save the Date for Information Brief<br />
+NOTE: This attachment includes the correct email address for the contracting officer, Christina Ming, christina.ming.2@us.af.mil. </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Updated Save the Date for CAMMO Information Brief </h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__name__widget">
+	Updated Save the Date for CAMMO Information Brief 
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	July 31, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=327b1479ef9684f1a976ab2448729721' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief_v3.pdf' class='file'&gt;Save_the_Date_for_CAMMO_Information_Brief_v3.pdf&lt;/a&gt;"><a href='/utils/view?id=327b1479ef9684f1a976ab2448729721' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief_v3.pdf' class='file'>Save_the_Date_for_CAMMO_Information_Brief_v3.pdf</a> (24.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Save the Date for CAMMO Information Brief<br />
+-An error was identified on the &quot;day&quot; of the CAMMO Information Brief. <br />
+-Changed attachment as follows: <br />
+III.  Information Brief Scheduled:  <br />
+	Date:  Tuesday, 6 Aug 13<br />
+	Time:  10:00  11:00 Mountain Daylight Time (MDT)<br />
+	Location:  Teleconference <br />
+	Bridge 719-556-5275 (DSN: 834)<br />
+	 PIN: 5183739 (followed by the # sign)<br />
+</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Revised #2 Save the Date </h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__name__widget">
+	Revised #2 Save the Date 
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	August 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=bbbae745bf737bae56fe00db84737fc8' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief_v4.pdf' class='file'&gt;Save_the_Date_for_CAMMO_Information_Brief_v4.pdf&lt;/a&gt;"><a href='/utils/view?id=bbbae745bf737bae56fe00db84737fc8' target='_blank' title='Download/View Save_the_Date_for_CAMMO_Information_Brief_v4.pdf' class='file'>Save_the_Date_for_CAMMO_Information_Brief_v4.pdf</a> (24.62 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Save the Date for CAMMO Information Brief (Revision #2) <br />
+-Change Save the Date for CAMMO Info Brief as follows: <br />
+--Schedule Date: Tuesday, 6 August 2013<br />
+--Delete &quot;Attendees must be citizens of the United States. Foreign nationals will not be admitted.&quot; Note: This is not a requirement to call into the conf call on 6 August 2013. <br />
+<br />
+</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Request for Information (RFI) 2nd Set</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	Request for Information (RFI) 2nd Set
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	August 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=dbe5e9b20be2920b081eed0bca9b798d' target='_blank' title='Download/View 1_Aug_13_CAMMO_RFI__2nd_Set.pdf' class='file'&gt;1_Aug_13_CAMMO_RFI__2nd_Set.pdf&lt;/a&gt;"><a href='/utils/view?id=dbe5e9b20be2920b081eed0bca9b798d' target='_blank' title='Download/View 1_Aug_13_CAMMO_RFI__2nd_Set.pdf' class='file'>1_Aug_13_CAMMO_RFI__2nd_Set.pdf</a> (14.23 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO RFI 2nd Set <br />
+-Posting 8 Additional Questions <br />
+-Respond NLT 13 August 2013, Tuesday, at 2:00 pm (1400) MDT </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Info to Accompany Draft CAMMO PWS Version 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__name__widget">
+	Info to Accompany Draft CAMMO PWS Version 1
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	August 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=39ce8a2c10bbee2a7ad6305ae85a3467' target='_blank' title='Download/View 1_Aug_13_Info_to_Accompany_Draft_CAMMO_PWS.pdf' class='file'&gt;1_Aug_13_Info_to_Accompany_Draft_CAMMO_PWS.pdf&lt;/a&gt;"><a href='/utils/view?id=39ce8a2c10bbee2a7ad6305ae85a3467' target='_blank' title='Download/View 1_Aug_13_Info_to_Accompany_Draft_CAMMO_PWS.pdf' class='file'>1_Aug_13_Info_to_Accompany_Draft_CAMMO_PWS.pdf</a> (21.93 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Information to Accompany Draft CAMMO PWS Version 1 <br />
+NOTE: Posting for Informational Purpose Only. Please do not submit questions, comments, and recommendations at this time. </div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=b635bdbce44473e14cdbd73775ae068f' target='_blank' title='Download/View 1_Aug_13_Draft_CAMMO_PWS_v1.pdf' class='file'&gt;1_Aug_13_Draft_CAMMO_PWS_v1.pdf&lt;/a&gt;"><a href='/utils/view?id=b635bdbce44473e14cdbd73775ae068f' target='_blank' title='Download/View 1_Aug_13_Draft_CAMMO_PWS_v1.pdf' class='file'>1_Aug_13_Draft_CAMMO_PWS_v1.pdf</a> (1,046.13 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft CAMMO PWS Version 1<br />
+NOTE: Posting for Informational Purpose Only. Please do not submit questions, comments, and recommendations at this time. </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Clarification Q&A#1 for RFI 2nd Set, Question #3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__name__widget">
+	Clarification Q&A#1 for RFI 2nd Set, Question #3
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	August 8, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=bc2261bb1149c5a9ae92a84f301468f4' target='_blank' title='Download/View Clarification_Q&amp;A_1_for_RFI_2nd_Set_Question__3.pdf' class='file'&gt;Clarification_Q&amp;A_1_for_RFI_2nd_Set_Question__3.pdf&lt;/a&gt;"><a href='/utils/view?id=bc2261bb1149c5a9ae92a84f301468f4' target='_blank' title='Download/View Clarification_Q&A_1_for_RFI_2nd_Set_Question__3.pdf' class='file'>Clarification_Q&A_1_for_RFI_2nd_Set_Question__3.pdf</a> (136.79 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Clarification Q&amp;A #1 for CAMMO, RFI 2nd Set, Question #3<br />
+</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=abb7ed174c0ef2894d7d0774e1c7283c' target='_blank' title='Download/View Updated_CAMMO_Milestones_dated_19_Dec_13.pdf' class='file'&gt;Updated_CAMMO_Milestones_dated_19_Dec_13.pdf&lt;/a&gt;"><a href='/utils/view?id=abb7ed174c0ef2894d7d0774e1c7283c' target='_blank' title='Download/View Updated_CAMMO_Milestones_dated_19_Dec_13.pdf' class='file'>Updated_CAMMO_Milestones_dated_19_Dec_13.pdf</a> (87.25 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Updated CAMMO Milestone Schedule dated 19 Dec 13</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=88f054209e05eab9bcf3f34807bc7bdc' target='_blank' title='Download/View Notification_of_Industry_Day_v01.pdf' class='file'&gt;Notification_of_Industry_Day_v01.pdf&lt;/a&gt;"><a href='/utils/view?id=88f054209e05eab9bcf3f34807bc7bdc' target='_blank' title='Download/View Notification_of_Industry_Day_v01.pdf' class='file'>Notification_of_Industry_Day_v01.pdf</a> (32.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Notification of Industry Day, One-on-One, &amp; Site Visits</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=d2c52b5718ea3fc7a3cadc85f18556d1' target='_blank' title='Download/View CAMMO_Milestones_v0_1.pdf' class='file'&gt;CAMMO_Milestones_v0_1.pdf&lt;/a&gt;"><a href='/utils/view?id=d2c52b5718ea3fc7a3cadc85f18556d1' target='_blank' title='Download/View CAMMO_Milestones_v0_1.pdf' class='file'>CAMMO_Milestones_v0_1.pdf</a> (75.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Milestones as of 14 Jan 14</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__posted_date__widget">
+	January 17, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][12][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3d4127aaf1364bee7528628329986f8c' target='_blank' title='Download/View CAMMO_Notification_of_Industry_Day_-_Appendix_A.docx' class='file'&gt;CAMMO_Notification_of_Industry_Day_-_Appendix_A.docx&lt;/a&gt;"><a href='/utils/view?id=3d4127aaf1364bee7528628329986f8c' target='_blank' title='Download/View CAMMO_Notification_of_Industry_Day_-_Appendix_A.docx' class='file'>CAMMO_Notification_of_Industry_Day_-_Appendix_A.docx</a> (18.34 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Notification of Industry Day - Appendix A</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CAMMO Bidders Library Access Agreement (NDA)</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__name__widget">
+	CAMMO Bidders Library Access Agreement (NDA)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][13][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3e15539629ed53cfd51c055c45ac9157' target='_blank' title='Download/View CAMMO_Bidders_Library_Access_Agreement_(NDA).pdf' class='file'&gt;CAMMO_Bidders_Library_Access_Agreement_(NDA).pdf&lt;/a&gt;"><a href='/utils/view?id=3e15539629ed53cfd51c055c45ac9157' target='_blank' title='Download/View CAMMO_Bidders_Library_Access_Agreement_(NDA).pdf' class='file'>CAMMO_Bidders_Library_Access_Agreement_(NDA).pdf</a> (126.98 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Bidders Library Access Agreement (NDA)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CAMMO_Feedback Matrix_RFI#3_v1_0</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__name__widget">
+	CAMMO_Feedback Matrix_RFI#3_v1_0
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][14][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=333cd4bf679f3951742e385b1f191630' target='_blank' title='Download/View CAMMO_Feedback_Matrix_RFI_3_v1_0.xlsx' class='file'&gt;CAMMO_Feedback_Matrix_RFI_3_v1_0.xlsx&lt;/a&gt;"><a href='/utils/view?id=333cd4bf679f3951742e385b1f191630' target='_blank' title='Download/View CAMMO_Feedback_Matrix_RFI_3_v1_0.xlsx' class='file'>CAMMO_Feedback_Matrix_RFI_3_v1_0.xlsx</a> (44.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Feedback Matrix RFI#3 v1_0</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CAMMO_Notional CLIN Structure_v1_0</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__name__widget">
+	CAMMO_Notional CLIN Structure_v1_0
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][15][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=85b9c40a3e0bfc2f39d0f378399133eb' target='_blank' title='Download/View CAMMO_Notional_CLIN_Structure_v1_0.pdf' class='file'&gt;CAMMO_Notional_CLIN_Structure_v1_0.pdf&lt;/a&gt;"><a href='/utils/view?id=85b9c40a3e0bfc2f39d0f378399133eb' target='_blank' title='Download/View CAMMO_Notional_CLIN_Structure_v1_0.pdf' class='file'>CAMMO_Notional_CLIN_Structure_v1_0.pdf</a> (224.66 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO_Notional CLIN Structure_v1_0</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CAMMO_Notional Incentive Plan Ver 1_0</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__name__widget">
+	CAMMO_Notional Incentive Plan Ver 1_0
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][16][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=59bbd24c65da610f9129fd57e6f99a23' target='_blank' title='Download/View CAMMO_Notional_Incentive_Plan_Ver_1_0.pdf' class='file'&gt;CAMMO_Notional_Incentive_Plan_Ver_1_0.pdf&lt;/a&gt;"><a href='/utils/view?id=59bbd24c65da610f9129fd57e6f99a23' target='_blank' title='Download/View CAMMO_Notional_Incentive_Plan_Ver_1_0.pdf' class='file'>CAMMO_Notional_Incentive_Plan_Ver_1_0.pdf</a> (699.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Notional Incentive Plan Ver 1_0</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CAMMO_PWS Ver 3_0</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__name__widget">
+	CAMMO_PWS Ver 3_0
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][17][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e0e19c575d863720f75f091946b6f23b' target='_blank' title='Download/View CAMMO_PWS__Ver_3_0.pdf' class='file'&gt;CAMMO_PWS__Ver_3_0.pdf&lt;/a&gt;"><a href='/utils/view?id=e0e19c575d863720f75f091946b6f23b' target='_blank' title='Download/View CAMMO_PWS__Ver_3_0.pdf' class='file'>CAMMO_PWS__Ver_3_0.pdf</a> (1,726.58 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Performance Work Statement Ver 3_0</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">OO-ALC PPP Industry Day Event</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__18__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__18__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__18__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__18__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__18__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__18__name__widget">
+	OO-ALC PPP Industry Day Event
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__18__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__18__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__18__posted_date__widget">
+	February 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__18__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__18__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][18][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=cc657094bd37a425a8ee4d3936e567fa' target='_blank' title='Download/View 1_OO-ALC_CAMMO_PPP_One-On-One_Request_Form.docx' class='file'&gt;1_OO-ALC_CAMMO_PPP_One-On-One_Request_Form.docx&lt;/a&gt;"><a href='/utils/view?id=cc657094bd37a425a8ee4d3936e567fa' target='_blank' title='Download/View 1_OO-ALC_CAMMO_PPP_One-On-One_Request_Form.docx' class='file'>1_OO-ALC_CAMMO_PPP_One-On-One_Request_Form.docx</a> (17.28 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 1_OO-ALC CAMMO PPP One-On-One Request Form</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][18][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=63b33e0b81244a84f35483bfd7a72895' target='_blank' title='Download/View 2_NDA_Company_5CC.docx' class='file'&gt;2_NDA_Company_5CC.docx&lt;/a&gt;"><a href='/utils/view?id=63b33e0b81244a84f35483bfd7a72895' target='_blank' title='Download/View 2_NDA_Company_5CC.docx' class='file'>2_NDA_Company_5CC.docx</a> (31.15 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 2_NDA Company 5CC</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][18][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=725c100d7eb4a4fcbbfcd96077b299a7' target='_blank' title='Download/View 3_HQ_AFMC_SPA_Template_1-09-09.doc' class='file'&gt;3_HQ_AFMC_SPA_Template_1-09-09.doc&lt;/a&gt;"><a href='/utils/view?id=725c100d7eb4a4fcbbfcd96077b299a7' target='_blank' title='Download/View 3_HQ_AFMC_SPA_Template_1-09-09.doc' class='file'>3_HQ_AFMC_SPA_Template_1-09-09.doc</a> (40.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 3_HQ AFMC SPA Template 1-09-09</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][18][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=31ee2929d10a97ac3c7b03a0802a1f7b' target='_blank' title='Download/View 4_OO-ALC_PA_Template_(2013).docx' class='file'&gt;4_OO-ALC_PA_Template_(2013).docx&lt;/a&gt;"><a href='/utils/view?id=31ee2929d10a97ac3c7b03a0802a1f7b' target='_blank' title='Download/View 4_OO-ALC_PA_Template_(2013).docx' class='file'>4_OO-ALC_PA_Template_(2013).docx</a> (243.72 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 4_OO-ALC PA Template (2013)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">OO-ALC PPPBriefing</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__19__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__19__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__19__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__19__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__19__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__19__name__widget">
+	OO-ALC PPPBriefing
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__19__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__19__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__19__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__19__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__19__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][19][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=2962106d8d6b035c7bff6c07dbae2f25' target='_blank' title='Download/View OO-ALC_PPP_and_Capabilities.ppt' class='file'&gt;OO-ALC_PPP_and_Capabilities.ppt&lt;/a&gt;"><a href='/utils/view?id=2962106d8d6b035c7bff6c07dbae2f25' target='_blank' title='Download/View OO-ALC_PPP_and_Capabilities.ppt' class='file'>OO-ALC_PPP_and_Capabilities.ppt</a> (9,065.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Industry Day Ogden Air Logistics Complex (OO-ALC) Public-Private Partnership (PPP) Capabilities Briefing.<br />
+</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Notional CAMMO WBS ver 2_0</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__20__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__20__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__20__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__20__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__20__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__20__name__widget">
+	Notional CAMMO WBS ver 2_0
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__20__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__20__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__20__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__20__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__20__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][20][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=cca4d8a67d024a8ad683ac8f247abf1d' target='_blank' title='Download/View Notional_CAMMO_WBS_ver_2_0.xlsx' class='file'&gt;Notional_CAMMO_WBS_ver_2_0.xlsx&lt;/a&gt;"><a href='/utils/view?id=cca4d8a67d024a8ad683ac8f247abf1d' target='_blank' title='Download/View Notional_CAMMO_WBS_ver_2_0.xlsx' class='file'>Notional_CAMMO_WBS_ver_2_0.xlsx</a> (32.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Notional CAMMO WBS ver 2_0</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CAMMO Industry Day Logistics&Protocol</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__21__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__21__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__21__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__21__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__21__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__21__name__widget">
+	CAMMO Industry Day Logistics&Protocol
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__21__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__21__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__21__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__21__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__21__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][21][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=69f92b02e08e3f9edf8bd4e672e96287' target='_blank' title='Download/View CAMMO_Industry_Days_Agenda.docx' class='file'&gt;CAMMO_Industry_Days_Agenda.docx&lt;/a&gt;"><a href='/utils/view?id=69f92b02e08e3f9edf8bd4e672e96287' target='_blank' title='Download/View CAMMO_Industry_Days_Agenda.docx' class='file'>CAMMO_Industry_Days_Agenda.docx</a> (21.87 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Industry Days Agenda</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][21][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=9de87807819dc53bd68168056cc4a3a2' target='_blank' title='Download/View CAMMO_Industry_Days_Detailed_Information.docx' class='file'&gt;CAMMO_Industry_Days_Detailed_Information.docx&lt;/a&gt;"><a href='/utils/view?id=9de87807819dc53bd68168056cc4a3a2' target='_blank' title='Download/View CAMMO_Industry_Days_Detailed_Information.docx' class='file'>CAMMO_Industry_Days_Detailed_Information.docx</a> (19.80 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Industry Days Logistics &amp; Protocal Detailed Information</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][21][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=798941623c3f154633cf3354663aa618' target='_blank' title='Download/View CAMMO_INDUSTRY_DAYS_COMMENT_FORM.docx' class='file'&gt;CAMMO_INDUSTRY_DAYS_COMMENT_FORM.docx&lt;/a&gt;"><a href='/utils/view?id=798941623c3f154633cf3354663aa618' target='_blank' title='Download/View CAMMO_INDUSTRY_DAYS_COMMENT_FORM.docx' class='file'>CAMMO_INDUSTRY_DAYS_COMMENT_FORM.docx</a> (18.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Industry Days Comments Form</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][21][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=abe7de9484442ff89778dd11f81a36e7' target='_blank' title='Download/View CAMMO_Industry_Days_Maps.pptx' class='file'&gt;CAMMO_Industry_Days_Maps.pptx&lt;/a&gt;"><a href='/utils/view?id=abe7de9484442ff89778dd11f81a36e7' target='_blank' title='Download/View CAMMO_Industry_Days_Maps.pptx' class='file'>CAMMO_Industry_Days_Maps.pptx</a> (901.85 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> CAMMO Industry Days Maps</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		483 North Aviation Blvd<br/>
+
+			
+				
+		El Segundo,
+
+			
+	
+		California
+
+			
+	
+		90245-2808
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		See attached notice<br/>
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Christina Ming,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:christina.ming.2@us.af.mil">christina.ming.2@us.af.mil</a></div>
+	<div>Phone: 7195562856</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Sarah Vollbracht,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:sarah.vollbracht@us.af.mil">sarah.vollbracht@us.af.mil</a></div>
+	<div>Phone: 719-556-2218</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=f0e567ad331a5fa20dccc3bf97e49b74'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=f0e567ad331a5fa20dccc3bf97e49b74'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=af9c06a2c180d412f79f21cc87504b1f">Sources Sought</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=af9c06a2c180d412f79f21cc87504b1f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Apr 15, 2013</div></dt><dd><a href="/utils/view?id=b640786c5eedea5447161452280bea9e" target="_blank" title="Download/View CAMMO_Sources_Sought_v1_4_(3).docx" class="file">CAMMO_Sources_Sought_v1_4_(3).docx</a></dd><dd><a href="/utils/view?id=60d1f1274eb79577d070aae829a913f0" target="_blank" title="Download/View AFSCN_Config_Chart_Ver_4_1.pdf" class="file">AFSCN_Config_Chart_Ver_4_1.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b36d2356f700fc5b625a872fb400a7cb">RFI</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=b36d2356f700fc5b625a872fb400a7cb" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 09, 2013</div></dt><dd><a href="/utils/view?id=1cae54aec74b69926b4f952f508f862d" target="_blank" title="Download/View CAMMO_RFI_Small_Business_v1_3.docx" class="file">CAMMO_RFI_Small_Business_v1_3.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f0efbf19da47c2e3ac1def8369ef3424">Updated RFI</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=f0efbf19da47c2e3ac1def8369ef3424" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 16, 2013</div></dt><dd><a href="/utils/view?id=9fe2cf27142267357951ecee5cc79c56" target="_blank" title="Download/View CAMMO_RFI_Small_Business_16May13.docx" class="file">CAMMO_RFI_Small_Business_16May13.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2ba89916b090b56bfeda1fa586a82ffd">RFI (2nd Set)</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=2ba89916b090b56bfeda1fa586a82ffd" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jul 30, 2013</div></dt><dd><a href="/utils/view?id=cee64d024dbf63b53caf4432a33cb3f9" target="_blank" title="Download/View CAMMO_Info_Brief_(6_Aug_13).pdf" class="file">CAMMO_Info_Brief_(6_Aug_13).pdf</a></dd><dd><a href="/utils/view?id=1e1ce4cb5055dd9ce0fad567e12e0259" target="_blank" title="Download/View Save_the_Date_for_CAMMO_Information_Brief.pdf" class="file">Save_the_Date_for_CAMMO_Information_Brief.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e85bcd3a57bd10cced51f9ba21ef7f5d">Save the Date for Call-in Information Brief Scheduled for 6 Aug 13 at 1000 -1100 MDT</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=e85bcd3a57bd10cced51f9ba21ef7f5d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jul 30, 2013</div></dt><dd><a href="/utils/view?id=103cf5d698814f9c06c333336f76dc1f" target="_blank" title="Download/View Save_the_Date_for_CAMMO_Information_Brief-2.pdf" class="file">Save_the_Date_for_CAMMO_Information_Brief-2.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=98e297fcaea151905db2a99cb62efdc5">Updated Save the Date for CAMMO Information Brief </a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=98e297fcaea151905db2a99cb62efdc5" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jul 31, 2013</div></dt><dd><a href="/utils/view?id=327b1479ef9684f1a976ab2448729721" target="_blank" title="Download/View Save_the_Date_for_CAMMO_Information_Brief_v3.pdf" class="file">Save_the_Date_for_CAMMO_Information_Brief_v3.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1e6f7b6538179aa6c29d36d3ba2b13e8">Request for Information (RFI) 2nd Set</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=1e6f7b6538179aa6c29d36d3ba2b13e8" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 01, 2013</div></dt><dd><a href="/utils/view?id=dbe5e9b20be2920b081eed0bca9b798d" target="_blank" title="Download/View 1_Aug_13_CAMMO_RFI__2nd_Set.pdf" class="file">1_Aug_13_CAMMO_RFI__2nd_Set.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1a728cd966fcbcf06fcc387a2a400831">Revised #2 Save the Date </a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=1a728cd966fcbcf06fcc387a2a400831" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 01, 2013</div></dt><dd><a href="/utils/view?id=bbbae745bf737bae56fe00db84737fc8" target="_blank" title="Download/View Save_the_Date_for_CAMMO_Information_Brief_v4.pdf" class="file">Save_the_Date_for_CAMMO_Information_Brief_v4.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=3ab19ba53f4f2973d48ef4ce4534e76c">Info to Accompany Draft CAMMO PWS Version 1</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=3ab19ba53f4f2973d48ef4ce4534e76c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 01, 2013</div></dt><dd><a href="/utils/view?id=39ce8a2c10bbee2a7ad6305ae85a3467" target="_blank" title="Download/View 1_Aug_13_Info_to_Accompany_Draft_CAMMO_PWS.pdf" class="file">1_Aug_13_Info_to_Accompany_Draft_CAMMO_PWS.pdf</a></dd><dd><a href="/utils/view?id=b635bdbce44473e14cdbd73775ae068f" target="_blank" title="Download/View 1_Aug_13_Draft_CAMMO_PWS_v1.pdf" class="file">1_Aug_13_Draft_CAMMO_PWS_v1.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ec6b48cf522a412b09aa5672a2350c57">Clarification Q&A#1 for RFI 2nd Set, Question #3</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=ec6b48cf522a412b09aa5672a2350c57" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 08, 2013</div></dt><dd><a href="/utils/view?id=bc2261bb1149c5a9ae92a84f301468f4" target="_blank" title="Download/View Clarification_Q&amp;A_1_for_RFI_2nd_Set_Question__3.pdf" class="file">Clarification_Q&A_1_for_RFI_2nd_Set_Question__3.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ee1183007af518f45b50ade2d5856e13">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=ee1183007af518f45b50ade2d5856e13" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 19, 2013</div></dt><dd><a href="/utils/view?id=abb7ed174c0ef2894d7d0774e1c7283c" target="_blank" title="Download/View Updated_CAMMO_Milestones_dated_19_Dec_13.pdf" class="file">Updated_CAMMO_Milestones_dated_19_Dec_13.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=19b115659ff7fbb0f96c5c49bd345ee2">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=19b115659ff7fbb0f96c5c49bd345ee2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=88f054209e05eab9bcf3f34807bc7bdc" target="_blank" title="Download/View Notification_of_Industry_Day_v01.pdf" class="file">Notification_of_Industry_Day_v01.pdf</a></dd><dd><a href="/utils/view?id=d2c52b5718ea3fc7a3cadc85f18556d1" target="_blank" title="Download/View CAMMO_Milestones_v0_1.pdf" class="file">CAMMO_Milestones_v0_1.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f398794e9c73f121847fdc9799a37a51">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=f398794e9c73f121847fdc9799a37a51" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 17, 2014</div></dt><dd><a href="/utils/view?id=3d4127aaf1364bee7528628329986f8c" target="_blank" title="Download/View CAMMO_Notification_of_Industry_Day_-_Appendix_A.docx" class="file">CAMMO_Notification_of_Industry_Day_-_Appendix_A.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a08d6c5b3c4b6e1afb725b9b2b5971de">CAMMO Bidders Library Access Agreement (NDA)</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=a08d6c5b3c4b6e1afb725b9b2b5971de" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=3e15539629ed53cfd51c055c45ac9157" target="_blank" title="Download/View CAMMO_Bidders_Library_Access_Agreement_(NDA).pdf" class="file">CAMMO_Bidders_Library_Access_Agreement_(NDA).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7c542a357063ce50f2e40e2b4468e647">CAMMO_Feedback Matrix_RFI#3_v1_0</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=7c542a357063ce50f2e40e2b4468e647" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=333cd4bf679f3951742e385b1f191630" target="_blank" title="Download/View CAMMO_Feedback_Matrix_RFI_3_v1_0.xlsx" class="file">CAMMO_Feedback_Matrix_RFI_3_v1_0.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=880a45412acfb26d0062dd708dd4a6df">CAMMO_Notional CLIN Structure_v1_0</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=880a45412acfb26d0062dd708dd4a6df" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=85b9c40a3e0bfc2f39d0f378399133eb" target="_blank" title="Download/View CAMMO_Notional_CLIN_Structure_v1_0.pdf" class="file">CAMMO_Notional_CLIN_Structure_v1_0.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b11747e3168221b624a04fcf17a448b0">CAMMO_Notional Incentive Plan Ver 1_0</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=b11747e3168221b624a04fcf17a448b0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=59bbd24c65da610f9129fd57e6f99a23" target="_blank" title="Download/View CAMMO_Notional_Incentive_Plan_Ver_1_0.pdf" class="file">CAMMO_Notional_Incentive_Plan_Ver_1_0.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=001671d67be85c9620d5aa46528d24e5">CAMMO_PWS Ver 3_0</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=001671d67be85c9620d5aa46528d24e5" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=e0e19c575d863720f75f091946b6f23b" target="_blank" title="Download/View CAMMO_PWS__Ver_3_0.pdf" class="file">CAMMO_PWS__Ver_3_0.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7c04103d9c6b8e15e06d2fc6f7992d42">OO-ALC PPP Industry Day Event</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=7c04103d9c6b8e15e06d2fc6f7992d42" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 06, 2014</div></dt><dd><a href="/utils/view?id=cc657094bd37a425a8ee4d3936e567fa" target="_blank" title="Download/View 1_OO-ALC_CAMMO_PPP_One-On-One_Request_Form.docx" class="file">1_OO-ALC_CAMMO_PPP_One-On-One_Request_Form.docx</a></dd><dd><a href="/utils/view?id=63b33e0b81244a84f35483bfd7a72895" target="_blank" title="Download/View 2_NDA_Company_5CC.docx" class="file">2_NDA_Company_5CC.docx</a></dd><dd><a href="/utils/view?id=725c100d7eb4a4fcbbfcd96077b299a7" target="_blank" title="Download/View 3_HQ_AFMC_SPA_Template_1-09-09.doc" class="file">3_HQ_AFMC_SPA_Template_1-09-09.doc</a></dd><dd><a href="/utils/view?id=31ee2929d10a97ac3c7b03a0802a1f7b" target="_blank" title="Download/View 4_OO-ALC_PA_Template_(2013).docx" class="file">4_OO-ALC_PA_Template_(2013).docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=697b543e558aa7d7ded498e3958c415f">OO-ALC PPPBriefing</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=697b543e558aa7d7ded498e3958c415f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=2962106d8d6b035c7bff6c07dbae2f25" target="_blank" title="Download/View OO-ALC_PPP_and_Capabilities.ppt" class="file">OO-ALC_PPP_and_Capabilities.ppt</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=10c3f085649bb58dc3f186d8415b777d">Notional CAMMO WBS ver 2_0</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=10c3f085649bb58dc3f186d8415b777d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=cca4d8a67d024a8ad683ac8f247abf1d" target="_blank" title="Download/View Notional_CAMMO_WBS_ver_2_0.xlsx" class="file">Notional_CAMMO_WBS_ver_2_0.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=287721fb56678a48e7eed9fa2addfed3">CAMMO Industry Day Logistics&Protocol</a> <a target="_blank" href="/utils/dZip?base=f0e567ad331a5fa20dccc3bf97e49b74&class=document_package&id=287721fb56678a48e7eed9fa2addfed3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 12, 2014</div></dt><dd><a href="/utils/view?id=69f92b02e08e3f9edf8bd4e672e96287" target="_blank" title="Download/View CAMMO_Industry_Days_Agenda.docx" class="file">CAMMO_Industry_Days_Agenda.docx</a></dd><dd><a href="/utils/view?id=9de87807819dc53bd68168056cc4a3a2" target="_blank" title="Download/View CAMMO_Industry_Days_Detailed_Information.docx" class="file">CAMMO_Industry_Days_Detailed_Information.docx</a></dd><dd><a href="/utils/view?id=798941623c3f154633cf3354663aa618" target="_blank" title="Download/View CAMMO_INDUSTRY_DAYS_COMMENT_FORM.docx" class="file">CAMMO_INDUSTRY_DAYS_COMMENT_FORM.docx</a></dd><dd><a href="/utils/view?id=abe7de9484442ff89778dd11f81a36e7" target="_blank" title="Download/View CAMMO_Industry_Days_Maps.pptx" class="file">CAMMO_Industry_Days_Maps.pptx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	April 15, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Apr 30, 2013 2:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	October 31, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	517 -- Telecommunications/517410 -- Satellite Telecommunications
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

@@ -1,0 +1,521 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>A--REQUEST FOR INFORMATION IN SUPPORT OF THE DEVELOPMENT OF A MODULAR ACTIVE PROTECTION SYSTEMS (MAPS) FRAMEWORK (MAF). - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392490380');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392490380';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="Army Contracting Command logo"></div><div class="agency-header agency-header-sm"><h2>A--REQUEST FOR INFORMATION IN SUPPORT OF THE DEVELOPMENT OF A MODULAR ACTIVE PROTECTION SYSTEMS (MAPS) FRAMEWORK (MAF).</h2><div class="sol-num">Solicitation Number: W56HZV-MAPS-02-28-2014</div><div class="agency-name">Agency: Department of the Army<br>Office: Army Contracting Command<br>Location: ACC - Warren (ACC-WRN)(DTA)</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=207617865b01fb3b6f135ae468cd010d&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/207617865b01fb3b6f135ae468cd010d" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/207617865b01fb3b6f135ae468cd010d" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/207617865b01fb3b6f135ae468cd010d" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=207617865b01fb3b6f135ae468cd010d&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=207617865b01fb3b6f135ae468cd010d&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=207617865b01fb3b6f135ae468cd010d&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=7879605dfd15297bd1c2c730daf802fe&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Feb 07, 2014</div><div class="nh-date">3:00 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=207617865b01fb3b6f135ae468cd010d&_cview=0">Changed</a><div class="nh-date">Feb 13, 2014</div><div class="nh-date">1:51 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=7879605dfd15297bd1c2c730daf802fe'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=7879605dfd15297bd1c2c730daf802fe'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W56HZV-MAPS-02-28-2014
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-07 15:00:01">Feb 07, 2014 3:00 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-13 13:51:46">Feb 13, 2014 1:51 pm<a href="/utils/viewDifferences?class=notice_description&id=c878d2f123ab882eb74b3ba378cc3406&compared_to=bd9a9f1b51c05229e8bb1c7ae2be4870" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=c878d2f123ab882eb74b3ba378cc3406&compared_to=bd9a9f1b51c05229e8bb1c7ae2be4870&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		DESCRIPTION OF MARKET SURVEY:  <br>    <br> THIS RFI WITH ADDITIONAL GRAPHICS CAN BE FOUND AT THE LINK BELOW:  <br> https://contracting.tacom.army.mil/ssn/sources.htm  <br>  <br> PURPOSE OF AMENDMENT 001: To include updated points of contact to address questions regarding the market survey.  All questions shall be submitted via email. <br>  <br> **Please address any questions regarding this market survey via email to: scott.m.rogan.civ@mail.mil and nathan.s.fountain.civ@mail.mil; include name, phone number and email address for a response.  Questions may be answered via email or phone. <br>    <br> This is a market survey Request for Information (RFI) in support of the development of a Modular Active Protection Systems (MAPS) Framework (MAF).  This RFI is issued pursuant to FAR 15.2. The U.S. Army Research, Development and Engineering Command (RDECOM), Tank Automotive Research, Development, and Engineering Center (TARDEC) Warren, MI, on behalf of the U.S. Army, desires to obtain information on key features for a MAPS Framework (MAF) as a development platform for the Army Survivability community.  In accordance with FAR 15.201 (e.), responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. No contract will be awarded as a result of this RFI.  This is not a Request for Proposal (RFP) or an announcement of a forthcoming solicitation, nor is it a request seeking contractors to be placed on a solicitation mailing list.  Response to this survey is voluntary and no reimbursement will be made for any costs associated with providing information in response to this market survey and any follow-on information requests.  Data submitted in response to this market survey will not be returned.  No solicitation documents exist at this time, and calls requesting a solicitation will not be answered.  Although  quote mark proposal quote mark  and  quote mark offeror quote mark  are used in this Request for Information, all responses will be treated as information only and will not be used as a proposal.  This solicitation is for the purpose of socializing the MAF concept with Industry and receiving input to guide the step-wise development which will culminate in the incorporation of COTS/MOTS equipment which is MAF compliant.  <br>    <br> MAPS OVERVIEW:  <br>    <br> The intent of the MAPS Program is to design, develop, and test a MAPS Controller (MAC) and a Modular Open Systems Approach (MOSA)-based Open Architecture that integrates multiple APS material solutions / configurations in a manner that results in significant reductions in overall cost, schedule, and risk.  The MAPS program will specify, validate, demonstrate, and maintain the MOSA-based system architecture, known as the MAPS Framework (MAF), for the integration of Active Protection System (APS) components, i.e. sensors, countermeasures, and related items of equipment on US Army ground vehicle platforms.  The goals are to optimize requirements, improve on technology transitions, and provide evolutionary growth in capabilities.  MAF standards will be developed in cooperation with industry and will be open to support multi-vendor implementation.  It is the intent for these standards to be used in future acquisition of active protection system components.  Implementation of the Modular APS Framework (MAF) allows platform systems to share and customize APS suites and to accept future technologies without the need for significant re-design.    <br>    <br> TOPIC:  <br>    <br> The Tank Automotive Research, Development and Engineering Center (TARDEC) Ground System Survivability (GSS) group is conducting a market survey soliciting information from industry concerning existing, proven technology solutions to develop a MAF baseline.  The baseline will consist of Computing and Interface hardware, the Modular APS Controller (MAC), in addition to MAF-conformant software architecture.  TARDEC will use the MAF design concept and open standards to develop a lab-based prototype MAPS, to support system and subsystem software development, testing, and demonstrations.  TARDEC plans to eventually acquire and host 3rd party developed MAF-conformant hardware and software components in the MAPS Lab to analyze acquisition strategies, system integration (i.e. software and hardware validation and test) and evaluate safety (AFSRB) certification implications.  Responses will help inform the determination of MAPS interoperability profiles used in future MAPS acquisition performance specifications and requirement documents.  <br>    <br> The MAF is envisioned to include:  <br>    <br>  -- An architecture, which defines common terminology, systems, components, and interfaces.   <br>    <br>  -- Set of reference designs.  <br>    <br>  -- A phased set of standard specifications covering the capabilities needed to integrate MAPS mission equipment /configuration items (CIs), platform applications and interfaces.  <br>    <br>  -- Open standard physical and logical interfaces among system and APS components  <br>    <br>  -- Set of shared communication services.  <br>    <br>  -- Common and approved hardware and software information assurance (IA) components to enable systems integrators to build security designs that protect and control access to information in compliance with the Army IA regulations.  <br>    <br>  -- Joint Service Weapon Safety Review Board reviewed safety approaches (although each Hardware, Software and Firmware configuration will be approved and certified)  <br>    <br>  A Government-Industry standards body will develop the MAF standard specifications.  This body follows an  quote mark adopt-adapt-author quote mark  methodology in the effort to move towards establishing a set of common open standards for use within the vehicle and mission system communities. These standards will be independent of specific hardware, software or firmware solutions.  <br>    <br>  Modular and open hardware configuration is intended to mean:  <br>    <br>  -- Deploy software i.e. addition of Software Configuration Items (SCI's) and applications (SLOC and throughput growth) w/o adding or replacing Hardware Configuration Items (HCIs).  <br>    <br>  -- Deploy hardware additions while enabling software reuse.  <br>    <br>  -- Modular hardware design counts for: Reconfigurable I/Os, power channels, signals, discretes, multiple interface protocols, busses bandwidth, CPU throughput, memory types and total budget used vs. reserve values to support growth.  <br>    <br>  -- Provide for low, medium, or high level of protection hardware solutions.  <br>    <br>  -- Integrated Electronics Environment that supports LRM designs with spare backplane slots.  <br>    <br>  -- Capable of self test (ST, BIT/BID), report and fault isolate to its line replaceable module and component's malfunctions.  <br>    <br>  -- Supports and interact with the host Vehicle's Health Management System (VHMS).  <br>    <br>  Conceptual Architectural Diagrams  <br>    <br>  Refer to Figure-1:  The MAF will include a Modular APS Controller (MAC) and will provide and define the primary interfaces and controls between the APS sensors, the counter measures, switching devices and the host vehicle.  Both Conceptual Architecture represented in Figure 2 and 3 are notional and they currently under evaluations by the USG.  The interested parties are encouraged to provide us with feedback comments, enhancements, Pros/Cons on both concepts, and their design concept.  <br>    <br> The MAC may perform all critical processing such as target / threat classification, tracking of all direct-fire threats from a ground based adversary, 360 degrees, and countermeasure activation, as in Figure 2.  Alternately, the MAC may perform minimal processing and act as a system arbitrator for the activation of countermeasures and provide an interface between the system and the host vehicle/system operator as in Figure 3.  <br>    <br> Communication Protocol Options  <br>    <br> A significant task in the development of the MAF will be the selection of communication protocols.  This selection will be influenced by factors such as latency/ bandwidth, security/information assurance, and scalability.  It is not expected that the architecture will have only a single protocol for everything APS.  Rather, responses to this RFI will shed light on the system requirements and data transfer needs which will drive the protocol selection.  Additionally, this selection will be impacted by existing APS communication protocols and the potential impact to existing industry technology.  Protocol selection will also be influenced by safety requirements of the Army Fuse Safety Review Board (AFSRB) which must certify these systems.  The Government is investigating the following candidates believed capable of gigabit per second performance:  <br>    <br>    1) IEEE 802.3 based AFDX / ARINC 664 Part 7  <br>    <br>    2) IEEE 1394b based SAE AS5643A (@ S800)  <br>    <br>    3) TTE based SAE AS6802   <br>    <br>    4) IEEE 802.3 and IETF COTS internet based  <br>    <br> Communication Considerations  <br>    <br>  -- The MAF will provide the interfaces among the countermeasures, controller, sensors and other APS components. Consider the overall time budget to defeat every threat. Provide the analysis behind each design approach in-regards to the selection of each protocol.  <br>    <br>  -- The MAF will provide the capabilities to exchange data with the host vehicle protocols and the MAF e.g. CAN, 1553, serial buses etc. in additions to the required interface and control with the crew station.  <br>    <br>  -- Total time required to detect, identify, classify, process and defeat threats.  A breakdown of time allocations consumed by each element of the MAPS is recommended. Interested parties shall justify their proposed time allocations, i.e. measured, tested, Modeling and Simulation, analysis, calculated, etc.  <br>    <br>  -- The MAF will support multiple enclaves for data processing, storage and exchange according to their classification and comply with the DoD regulations.  <br>    <br> RESPONSES:  <br>    <br> MAF RFI Responses must be post marked by February 28, 2014.  <br>    <br> Please address any questions regarding this market survey via email to: scott.m.rogan.civ@mail.mil and nathan.s.fountain.civ@mail.mil; include name, phone number and email address for a response.  Questions may be answered via email or phone.  <br>    <br> A. EACH RESPONSE SHOULD INCLUDE (AT A MINIMUM):  <br>    <br> 1. Feedback on Modular APS Architecture Framework boundaries (with rationale)  <br>    <br>    a. Given the two concept diagrams presented (Figures 2 and 3), which approach is supported by your system or what would facilitate optimal integration of your components into a MAPS demonstrator?  <br>    <br> 2. Feedback on MAF protocols/interface trade-offs for your technologies.  <br>    <br>    a. Please explain how the accommodation of conceptual architectural diagrams and protocols (COTS internet based) will impact your existing design in terms of cost, schedule, and performance.  <br>    <br>    b. What other protocols would be applicable and should be considered for the Government's APS interface standards to meet the low latency budget?  <br>    <br>    c. If possible, provide white papers or case studies and analysis discussing protocol selections for APS systems to support your design.  <br>    <br> 3. List of offerings/systems applicable to MAF.  <br>    <br>    a. What systems and subsystems components does your company offer or plan to offer in the near term that may be applicable to the MAPS Program and MAF? (Please provide two versions: 1. With proprietary information, 2. Without proprietary information. Proprietary information may also be shared during the one-on-one sessions at the Industry Forum). Please provide Architecture of your subsystems which may be applicable to MAF architectural discussions. Please reflect on computing resources capabilities and interfaces.  <br>    <br> 4. Please provide additional information about your company's system/components which may be helpful to consider when developing the architecture.  <br>    <br> 5. Provide the TRL for each configuration Item including (Hardware, Software and Firmware).   <br>    <br> 6. Reliability and Fielding history data of configuration items on military systems / applications.   <br>    <br> B. Provide information from any previous Army Fuze Safety Review Board evaluation hearings the system has gone through.  Specifically, when they were and how far the system got in the Fuze Board process.  Describe system compliance with MIL-STD-1316 and provide information as to where the system deviates from MIL-STD-1316.  <br>    <br> C. Provide any other information pertinent to the formation of an APS architecture which should be considered by TARDEC GSS.  <br>    <br> Submit all responses, UNCLASSIFIED documents only, via email to scott.m.rogan.civ@mail.mil and nathan.s.fountain.civ@mail.mil or on a DVD via registered mail to:  <br>    <br>  Label:  <br>  US Army RDECOM/TARDEC  <br>  6501 E. Eleven Mile Road, MS 263  <br>  ATTN:  Scott Rogan, GSS Team  <br>  Warren, MI  48397-5000  <br>    <br> GENERAL INFORMATION:  <br>    <br> The Government appreciates the time and effort taken to respond to this survey.  The Government acknowledges its obligations under 18 U.S.C.  1905 to protect information qualifying as  quote mark confidential quote mark  under this statute. [To avoid possible confusion with the meaning of the term  quote mark confidential quote mark  in the context of Classified Information, quote mark  we will use the term  quote mark PROPRIETARY. quote mark  Pursuant to this statute, the Government is willing to accept any PROPRIETARY (e.g., trade secret) restrictions placed on qualifying data forwarded in response to the survey questions and to protect it from unauthorized disclosure subject to the following:  <br>    <br>  1. Clearly and conspicuously mark qualifying data with the restrictive legend (all caps)  quote mark PROPRIETARY quote mark  with any explanatory text, so that the Government is clearly notified of what data needs to be appropriately protected.  <br>    <br>  2. In marking such data, please take care to mark only those portions of the data or materials that are truly proprietary (over breadth in marking inappropriate data as  quote mark PROPRIETARY quote mark  may diminish or eliminate the usefulness of your response).  The respondent's marking of data as  quote mark PROPRIETARY quote mark  will preclude disclosure of same outside the Government and therefore preclude disclosure to support contractors assisting the evaluation effort.  The Government will use its best efforts to evaluate those responses that contain proprietary information without using support contractors consistent with the resources available. Use circling, underscoring, highlighting or any other appropriate means to indicate those portions of a single page which are to be protected.    <br>    <br>  3. THE GOVERNMENT IS NOT OBLIGATED TO PROTECT UNMARKED DATA. Additionally, marked data that is already in the public domain or in the possession of the Government or third parties, or is afterward placed into the public domain by the owner or another party through no fault of the Government will not be protected once in the public domain.  Data already in the possession of the Government will be protected in accordance with the Government's rights in the data.  <br>    <br>  4. Proprietary data transmitted electronically, whether by physical media or not, whether by the respondent or by the government, shall contain the  quote mark PROPRIETARY quote mark  legend, with any explanatory text, on both the cover of the transmittal e-mail and at the beginning of the file itself.  Where appropriate for only portions of an electronic file, use the restrictive legends 'PROPRIETARY PORTION BEGINS: quote mark  and  quote mark PROPRIETARY PORTION ENDS. quote mark   <br>    <br>  5. In any reproductions of technical data or any portions thereof subject to asserted restrictions, the government shall also reproduce the asserted restriction legend and any explanatory text.  <br>    <br>  6. Participation in this RFI is NOT a requirement for future participation in any future MAPS/MAF activities or acquisitions citing MAF standards.  <br> 
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__additional_info_link_" class="field fld_additional_info_link fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__additional_info_link__field-label">
+	<label for="dnf_class_values_procurement_notice__additional_info_link_">Additional Info</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__additional_info_link__widget">
+	<a href="https://contracting.tacom.army.mil/ssn/sources.htm" target="_blank">Army Contracting Command-Warren Procurement Network Sources Sought Notices</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Additional Info )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	ACC - Warren (ACC-WRN)(DTA), ATTN: AMSTA-AQ-AMB, E Eleven Mile Road, Warren, MI  48397-5000
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	ACC - Warren (ACC-WRN)(DTA) ATTN: AMSTA-AQ-AMB, E Eleven Mile Road Warren MI<br />
+48397-5000<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Rachel Heaney, 586-282-9712<br />
+<br />
+<a href="mailto:rachel.heaney@us.army.mil">ACC - Warren (ACC-WRN)(DTA)</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=7879605dfd15297bd1c2c730daf802fe'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=7879605dfd15297bd1c2c730daf802fe'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	February 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	February 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	April 8, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	A -- Research & Development
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541712 -- Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

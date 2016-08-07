@@ -1,0 +1,1340 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Y--Contract for a Design-Bid-Build project for construction of a Satellite Communications Center (SCC) for the Network Enterprise Technology Command (NETCOM) to be located at the United States Army Garrison (USAG) Landstuhl, Germany. - W912GB-14-R-0002 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392493955');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392493955';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="U.S. Army Corps of Engineers logo"></div><div class="agency-header agency-header-sm"><h2>Y--Contract for a Design-Bid-Build project for construction of a Satellite Communications Center (SCC) for the Network Enterprise Technology Command (NETCOM) to be located at the United States Army Garrison (USAG) Landstuhl, Germany.</h2><div class="sol-num">Solicitation Number: W912GB-14-R-0002</div><div class="agency-name">Agency: Department of the Army<br>Office: U.S. Army Corps of Engineers<br>Location: USACE District, Wiesbaden</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=4394c19df0757c77c8edd6e5eb6989db&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USA/COE/DACA90/W912GB-14-R-0002/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USA/COE/DACA90/W912GB-14-R-0002/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USA/COE/DACA90/W912GB-14-R-0002/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=4394c19df0757c77c8edd6e5eb6989db&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=4394c19df0757c77c8edd6e5eb6989db&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=4394c19df0757c77c8edd6e5eb6989db&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=03ee467fbf44b17a1022215bfd66655b&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Oct 25, 2013</div><div class="nh-date">8:44 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=614cf99089e15b5052eda93257dec4f0&_cview=0">Changed</a><div class="nh-date">Nov 20, 2013</div><div class="nh-date">12:45 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=9ce9f97884cd11636541538a9019f1de&_cview=0">Changed</a><div class="nh-date">Nov 29, 2013</div><div class="nh-date">9:15 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=0004e93565f7294197d8b5a2257f1a08&_cview=0">Changed</a><div class="nh-date">Dec 03, 2013</div><div class="nh-date">12:35 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=82bdaffc9c50bf54cd6ae51c2f1ea713&_cview=0">Changed</a><div class="nh-date">Dec 18, 2013</div><div class="nh-date">8:44 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2f2b47e85ba4fe90ef84904c2091979d&_cview=0">Changed</a><div class="nh-date">Jan 14, 2014</div><div class="nh-date">8:49 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=6dde96ad5968907a31ac898cbdac1e06&_cview=0">Changed</a><div class="nh-date">Jan 24, 2014</div><div class="nh-date">8:00 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=bcfcb775d4ac3006a30987e68f065415&_cview=0">Changed</a><div class="nh-date">Jan 28, 2014</div><div class="nh-date">10:09 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=4394c19df0757c77c8edd6e5eb6989db&_cview=0">Changed</a><div class="nh-date">Feb 12, 2014</div><div class="nh-date">10:11 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=03ee467fbf44b17a1022215bfd66655b'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=03ee467fbf44b17a1022215bfd66655b'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W912GB-14-R-0002
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-10-25 08:44:11">Oct 25, 2013 8:44 am</span>
+					</div>
+		SCC NETCOM Landstuhl USAG Synopsis: <br>  <br> This Pre-Solicitation replaces Pre-Solicitation W912GB-13-R-0029. <br>  <br> The U.S. Army Corps of Engineers, Europe District plans to enter into a Firm Fixed Price (FFP) Contract for a Design-Bid-Build project for construction of a Satellite Communications Center (SCC) for the Network Enterprise Technology Command (NETCOM) to be located at the United States Army Garrison (USAG) Landstuhl, Germany.  The SCC NETCOM building complex comprises one (1) independent structure with a connection to a common utilities building:   <br>  <br> Structure BT1 - Main building with all required occupancy units of the Satellite Communications Center; Dimensions approximately 72m x 60m and roof height of approximately 7.0m. With a gross floor space of approximately 4,320 m2.  The NETCOM includes operations rooms, equipment rooms, training and conference rooms, private offices, general administration areas, classroom, technical library, storage and supply rooms, an equipment maintenance area, personnel and security support areas as well as exterior antenna pads and interconnection to a new WSOC facility, which will be built under a separate contract.  Project requires Intrusion Detection System (IDS) installation, Energy Monitoring and Control Systems (EMCS) connection; fire, smoke, enunciation and suppressions systems. <br>  <br> Supporting Facilities - Include site development, utilities and connections, lighting, access road, parking, walks, curbs and gutters, storm drainage, information systems, relocation of fencing, landscaping and signage. <br> Sustainable Design and Development and Energy Policy Act of 2005 (EPAct05) features will be part of the project. Measures in accordance with the Department of Defense (DoD) Minimum Antiterrorism for Buildings standards will be included as well as access for individuals with disabilities. <br>  <br> Responses are desired from firms who can demonstrate recent experience and good past performance in construction of similar facilities.  The Technical qualifications of the construction firm (Experience, Past Performance and Management Approach) along with the submitted Price will be evaluated by the Government in accordance with FAR 15.304 and award will be made to the overall Best Value.  <br>  <br> The contract will be awarded and paid in Euro.  The estimated magnitude of construction is over $25,000,000 to $100,000,000.  The North American Industrial Classification System Code (NAICS) is 236220.   <br>  <br> The Government will post this synopsis, the solicitation, and all subsequent amendments through the Army Single Face to Industry (ASFI) Acquisition Business Web Site to the Government-Wide Point of Entry (GPE) Federal Business Opportunities (FedBizOpps) Web Site http://www.fedbizopps.gov.  It is the Offeror's sole responsibility to obtain the solicitation and any subsequent amendments through this website.  Offerors are encouraged to visit this web site and become familiar with its contents and functionality prior to the solicitation issue date.  <br>  <br> It is projected that the solicitation will be issued on or about 12 November 2013 with a Pre-Proposal and Site Visit on or about 22 November 2013 and a projected closing date of 11 December 2013 for Technical Proposals and Price Proposals.  The solicitation will be issued free of charge and available electronically.  Paper copies of this solicitation, plans, and specifications will not be provided.  It is the offeror's sole responsibility to ensure they have obtained all solicitation documents and any subsequent amendments, if any.  <br>  <br> NOTICE TO OFFERORS: THE GOVERNMENT RESERVES THE RIGHT TO CANCEL THIS SOLICITATION, EITHER BEFORE OR AFTER PROPOSAL OPENING WITH NO OBLIGATION TO THE OFFEROR BY THE GOVERNMENT. <br>  <br> Offerors must be registered in the System for Award Management (SAM) in order to be eligible to receive an award from this solicitation.  Visit the SAM website at www.sam.gov for more information.  <br>  <br> The USACE EUD Contracting Office will be the sole point of contact for this solicitation. The Primary Contracting Point of Contact for this Solicitation is Mr. Glenn Adams/ glenn.adams@usace.army.mil Tel: +49 (0)611 9744-2723.  The Alternate Contracting Point of Contact is Mr. Jeffrey Harrington/ jeffrey.j.harrington@usace.army.mil Tel: +49 (0)611 9744-2660. <br> 
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	November 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=2fefc0b9ccf2a5ce25b398b2e0743b65' target='_blank' title='Download/View W912GB-14-R-0002_SF1442_SCC-NETCOM.pdf' class='file'&gt;W912GB-14-R-0002_SF1442_SCC-NETCOM.pdf&lt;/a&gt;"><a href='/utils/view?id=2fefc0b9ccf2a5ce25b398b2e0743b65' target='_blank' title='Download/View W912GB-14-R-0002_SF1442_SCC-NETCOM.pdf' class='file'>W912GB-14-R-0002_SF1442_SCC-NETCOM.pdf</a> (1,187.12 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> SF 1442 Solicitation W912GB-14-R-0002 SCC-NETCOM Landstuhl US Army Garrison and Rhine Ordinance Barracks, Germany</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=9310fe03f4d30c8cb777c839181d95e3' target='_blank' title='Download/View W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_13Nov13.docx' class='file'&gt;W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_13Nov13.docx&lt;/a&gt;"><a href='/utils/view?id=9310fe03f4d30c8cb777c839181d95e3' target='_blank' title='Download/View W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_13Nov13.docx' class='file'>W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_13Nov13.docx</a> (30.09 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 1 - Experience Overview Sheet</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=d57702279812cca9f57f291554c0812e' target='_blank' title='Download/View W912GB-14-R-0002_Atch2-Experience_Information_Sheet.docx' class='file'&gt;W912GB-14-R-0002_Atch2-Experience_Information_Sheet.docx&lt;/a&gt;"><a href='/utils/view?id=d57702279812cca9f57f291554c0812e' target='_blank' title='Download/View W912GB-14-R-0002_Atch2-Experience_Information_Sheet.docx' class='file'>W912GB-14-R-0002_Atch2-Experience_Information_Sheet.docx</a> (33.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 2 - Experience Information Sheet</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=67a8bf6f459bc4a1f597b6bcb3ce0886' target='_blank' title='Download/View W912GB-14-R-0002_Atch3-USACE_Past_Performance_Questionnaire.docx' class='file'&gt;W912GB-14-R-0002_Atch3-USACE_Past_Performance_Questionnaire.docx&lt;/a&gt;"><a href='/utils/view?id=67a8bf6f459bc4a1f597b6bcb3ce0886' target='_blank' title='Download/View W912GB-14-R-0002_Atch3-USACE_Past_Performance_Questionnaire.docx' class='file'>W912GB-14-R-0002_Atch3-USACE_Past_Performance_Questionnaire.docx</a> (16.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 3 - USACE Past Performance Questionnaire</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=b21a15c8441e28065369bea8b61b06e1' target='_blank' title='Download/View W912GB-14-R-0002_Atch4-USACE_PPQ_For_Client.docx' class='file'&gt;W912GB-14-R-0002_Atch4-USACE_PPQ_For_Client.docx&lt;/a&gt;"><a href='/utils/view?id=b21a15c8441e28065369bea8b61b06e1' target='_blank' title='Download/View W912GB-14-R-0002_Atch4-USACE_PPQ_For_Client.docx' class='file'>W912GB-14-R-0002_Atch4-USACE_PPQ_For_Client.docx</a> (44.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 4 - USACE Past Performance Questionnaire for Client</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=3fbe38fe680a6bbf303e75597aeb4674' target='_blank' title='Download/View W912GB-14-R-0002_Atch5_BLA_Sample.docx' class='file'&gt;W912GB-14-R-0002_Atch5_BLA_Sample.docx&lt;/a&gt;"><a href='/utils/view?id=3fbe38fe680a6bbf303e75597aeb4674' target='_blank' title='Download/View W912GB-14-R-0002_Atch5_BLA_Sample.docx' class='file'>W912GB-14-R-0002_Atch5_BLA_Sample.docx</a> (15.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 5 - Bank Letter of Assurance Sample</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=dcd44d873ea991a242fd90b9556279ac' target='_blank' title='Download/View W912GB-14-R-0002_Atch6-Bank_Letter_of_Guaranty.doc' class='file'&gt;W912GB-14-R-0002_Atch6-Bank_Letter_of_Guaranty.doc&lt;/a&gt;"><a href='/utils/view?id=dcd44d873ea991a242fd90b9556279ac' target='_blank' title='Download/View W912GB-14-R-0002_Atch6-Bank_Letter_of_Guaranty.doc' class='file'>W912GB-14-R-0002_Atch6-Bank_Letter_of_Guaranty.doc</a> (29.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 6 - Bank Letter of Guaranty Sample</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=0ec2e4b4e6a02a54449b14927cc6b3a4' target='_blank' title='Download/View W912GB-14-R-0002_Atch7_Technical_Spec_19_November_2013.pdf' class='file'&gt;W912GB-14-R-0002_Atch7_Technical_Spec_19_November_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=0ec2e4b4e6a02a54449b14927cc6b3a4' target='_blank' title='Download/View W912GB-14-R-0002_Atch7_Technical_Spec_19_November_2013.pdf' class='file'>W912GB-14-R-0002_Atch7_Technical_Spec_19_November_2013.pdf</a> (4,561.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 7 - 100% Design Technical Specification 19 November 2013</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=e8dcd81f02cde35fd7ef9d283eb9f499' target='_blank' title='Download/View W912GB-14-R-0002_Atch8_Consolidated_Environmental_Review_and_Report_02Jul09.pdf' class='file'&gt;W912GB-14-R-0002_Atch8_Consolidated_Environmental_Review_and_Report_02Jul09.pdf&lt;/a&gt;"><a href='/utils/view?id=e8dcd81f02cde35fd7ef9d283eb9f499' target='_blank' title='Download/View W912GB-14-R-0002_Atch8_Consolidated_Environmental_Review_and_Report_02Jul09.pdf' class='file'>W912GB-14-R-0002_Atch8_Consolidated_Environmental_Review_and_Report_02Jul09.pdf</a> (10,564.43 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 8 - Consolidated Environmental Review and Report</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=8fa1be7af0f1cd7a1e10f429c34e1cd9' target='_blank' title='Download/View W912GB-14-R-0002_Atch9_Geo_Tech_Report_28Sep09pdf.pdf' class='file'&gt;W912GB-14-R-0002_Atch9_Geo_Tech_Report_28Sep09pdf.pdf&lt;/a&gt;"><a href='/utils/view?id=8fa1be7af0f1cd7a1e10f429c34e1cd9' target='_blank' title='Download/View W912GB-14-R-0002_Atch9_Geo_Tech_Report_28Sep09pdf.pdf' class='file'>W912GB-14-R-0002_Atch9_Geo_Tech_Report_28Sep09pdf.pdf</a> (2,668.75 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 9 - Geotechnical Report</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=1fb8e0618e911e8ab84fcaf1f21764cf' target='_blank' title='Download/View W912GB-14-R-0002_Atch10_Drawings_List.pdf' class='file'&gt;W912GB-14-R-0002_Atch10_Drawings_List.pdf&lt;/a&gt;"><a href='/utils/view?id=1fb8e0618e911e8ab84fcaf1f21764cf' target='_blank' title='Download/View W912GB-14-R-0002_Atch10_Drawings_List.pdf' class='file'>W912GB-14-R-0002_Atch10_Drawings_List.pdf</a> (6,217.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 10 - 100% Design Drawings Lists</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=1792b4b48e774283f4207a8d33be4fc9' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part1_General_and_Architectural.pdf' class='file'&gt;W912GB-14-R-0002_Atch11_Dwgs_Part1_General_and_Architectural.pdf&lt;/a&gt;"><a href='/utils/view?id=1792b4b48e774283f4207a8d33be4fc9' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part1_General_and_Architectural.pdf' class='file'>W912GB-14-R-0002_Atch11_Dwgs_Part1_General_and_Architectural.pdf</a> (69,219.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 11 - Drawings Part 1 (General and Architectural)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=c2b970ac290a54b6bc1d4b1b7feb863c' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part2_Struc_Mech_FireProtection_Plumbing.pdf' class='file'&gt;W912GB-14-R-0002_Atch11_Dwgs_Part2_Struc_Mech_FireProtection_Plumbing.pdf&lt;/a&gt;"><a href='/utils/view?id=c2b970ac290a54b6bc1d4b1b7feb863c' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part2_Struc_Mech_FireProtection_Plumbing.pdf' class='file'>W912GB-14-R-0002_Atch11_Dwgs_Part2_Struc_Mech_FireProtection_Plumbing.pdf</a> (181,225.10 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 11 - Drawings Part 2 (Structural, Mechanical, Fire Protection and Plumbing)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=ee1e2c4fbc96a7e784fe99c01262120a' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part3__Electrical_E-100_to_E-444.pdf' class='file'&gt;W912GB-14-R-0002_Atch11_Dwgs_Part3__Electrical_E-100_to_E-444.pdf&lt;/a&gt;"><a href='/utils/view?id=ee1e2c4fbc96a7e784fe99c01262120a' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part3__Electrical_E-100_to_E-444.pdf' class='file'>W912GB-14-R-0002_Atch11_Dwgs_Part3__Electrical_E-100_to_E-444.pdf</a> (259,540.22 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 11 - Drawings Part 3 (Electrical E-100 through E-444)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=59e019b8ad282fced45019f301028497' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part4__Electrical_E-445_to_E-616.pdf' class='file'&gt;W912GB-14-R-0002_Atch11_Dwgs_Part4__Electrical_E-445_to_E-616.pdf&lt;/a&gt;"><a href='/utils/view?id=59e019b8ad282fced45019f301028497' target='_blank' title='Download/View W912GB-14-R-0002_Atch11_Dwgs_Part4__Electrical_E-445_to_E-616.pdf' class='file'>W912GB-14-R-0002_Atch11_Dwgs_Part4__Electrical_E-445_to_E-616.pdf</a> (89,745.40 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 11 - Drawings Part 4 (Electrical E-455 through E-616)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][15][file][0][preview]" value="&lt;a href='/utils/view?id=8696e3ef4f178c9cfba996e75cb530c0' target='_blank' title='Download/View W912GB-14-R-0002_Atchs12_and_13_Dwg_Enviromental_Limits_for_Construction_and_ROB_Bunkers.pdf' class='file'&gt;W912GB-14-R-0002_Atchs12_and_13_Dwg_Enviromental_Limits_for_Construction_and_ROB_Bunkers.pdf&lt;/a&gt;"><a href='/utils/view?id=8696e3ef4f178c9cfba996e75cb530c0' target='_blank' title='Download/View W912GB-14-R-0002_Atchs12_and_13_Dwg_Enviromental_Limits_for_Construction_and_ROB_Bunkers.pdf' class='file'>W912GB-14-R-0002_Atchs12_and_13_Dwg_Enviromental_Limits_for_Construction_and_ROB_Bunkers.pdf</a> (27,498.28 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachments 12 &amp; 13 (Atch 12 - Drawing Environmental Limits of Construction and Atch 13 - Rhine Ordinance Barracks Bunkers Demolition Drawings)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][16][file][0][preview]" value="&lt;a href='/utils/view?id=b2383f1f6a9b9cf63d6d7fab767f79d4' target='_blank' title='Download/View W912GB-14-R-0002_Atch14_USACE_General_Specifications.pdf' class='file'&gt;W912GB-14-R-0002_Atch14_USACE_General_Specifications.pdf&lt;/a&gt;"><a href='/utils/view?id=b2383f1f6a9b9cf63d6d7fab767f79d4' target='_blank' title='Download/View W912GB-14-R-0002_Atch14_USACE_General_Specifications.pdf' class='file'>W912GB-14-R-0002_Atch14_USACE_General_Specifications.pdf</a> (2,134.99 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 14 - USACE General Specifications</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][17][file][0][preview]" value="&lt;a href='/utils/view?id=6ebdc822c64be4dfd93bb50e82da4e1c' target='_blank' title='Download/View W912GB-14-R-0002_Atch15A_Bldg_3378_Exterior_Photo.jpg' class='file'&gt;W912GB-14-R-0002_Atch15A_Bldg_3378_Exterior_Photo.jpg&lt;/a&gt;"><a href='/utils/view?id=6ebdc822c64be4dfd93bb50e82da4e1c' target='_blank' title='Download/View W912GB-14-R-0002_Atch15A_Bldg_3378_Exterior_Photo.jpg' class='file'>W912GB-14-R-0002_Atch15A_Bldg_3378_Exterior_Photo.jpg</a> (628.03 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 15A (Building 3378 Interior Photo)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][18][file][0][preview]" value="&lt;a href='/utils/view?id=b14331e2e80928c54f64a76295e801e6' target='_blank' title='Download/View W912GB-14-R-0002_Atch15B_Bldg_3378_Interior_Photo.jpg' class='file'&gt;W912GB-14-R-0002_Atch15B_Bldg_3378_Interior_Photo.jpg&lt;/a&gt;"><a href='/utils/view?id=b14331e2e80928c54f64a76295e801e6' target='_blank' title='Download/View W912GB-14-R-0002_Atch15B_Bldg_3378_Interior_Photo.jpg' class='file'>W912GB-14-R-0002_Atch15B_Bldg_3378_Interior_Photo.jpg</a> (490.04 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 15B (Building 3378 Exterior Photo)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][19][file][0][preview]" value="&lt;a href='/utils/view?id=1b650ab18490e4ecd132b779b223fb11' target='_blank' title='Download/View W912GB-14-R-0002_Atch16_Disclosure_of_Lobbying__Activities.doc' class='file'&gt;W912GB-14-R-0002_Atch16_Disclosure_of_Lobbying__Activities.doc&lt;/a&gt;"><a href='/utils/view?id=1b650ab18490e4ecd132b779b223fb11' target='_blank' title='Download/View W912GB-14-R-0002_Atch16_Disclosure_of_Lobbying__Activities.doc' class='file'>W912GB-14-R-0002_Atch16_Disclosure_of_Lobbying__Activities.doc</a> (294.65 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 16 (Disclosure of Lobbying Activities Form)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	November 29, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9d9afc4fe828dcbe11c5405096179ef0' target='_blank' title='Download/View Amendment_0001_W912GB-14-R-0002_SCC-NETCOM_Landstuhl.pdf' class='file'&gt;Amendment_0001_W912GB-14-R-0002_SCC-NETCOM_Landstuhl.pdf&lt;/a&gt;"><a href='/utils/view?id=9d9afc4fe828dcbe11c5405096179ef0' target='_blank' title='Download/View Amendment_0001_W912GB-14-R-0002_SCC-NETCOM_Landstuhl.pdf' class='file'>Amendment_0001_W912GB-14-R-0002_SCC-NETCOM_Landstuhl.pdf</a> (25.19 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001 - Extends the proposal due date and provides responses to potential offeror's questions.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	December 3, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=694bed76d45d5990c562727926c1cba4' target='_blank' title='Download/View Amendment_0002_Q&amp;A_SCC-NETCOM__3Dec13.pdf' class='file'&gt;Amendment_0002_Q&amp;A_SCC-NETCOM__3Dec13.pdf&lt;/a&gt;"><a href='/utils/view?id=694bed76d45d5990c562727926c1cba4' target='_blank' title='Download/View Amendment_0002_Q&A_SCC-NETCOM__3Dec13.pdf' class='file'>Amendment_0002_Q&A_SCC-NETCOM__3Dec13.pdf</a> (20.82 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0002 - Provides responses to questions and includes the GAEB File.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=762b8f42046908614a03b5a2d8a7fa13' target='_blank' title='Download/View Amend_0002_W912GB-14-R-0002_Atch_NETCOM_Specs_US.p81.P81' class='file'&gt;Amend_0002_W912GB-14-R-0002_Atch_NETCOM_Specs_US.p81.P81&lt;/a&gt;"><a href='/utils/view?id=762b8f42046908614a03b5a2d8a7fa13' target='_blank' title='Download/View Amend_0002_W912GB-14-R-0002_Atch_NETCOM_Specs_US.p81.P81' class='file'>Amend_0002_W912GB-14-R-0002_Atch_NETCOM_Specs_US.p81.P81</a> (4,034.94 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment - GEAB P81 File</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	December 18, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3e484c1e7b0bf1783849e86ab1414836' target='_blank' title='Download/View Amendment_0003_W912GB-14-R-0002_NCC-NETCOM.pdf' class='file'&gt;Amendment_0003_W912GB-14-R-0002_NCC-NETCOM.pdf&lt;/a&gt;"><a href='/utils/view?id=3e484c1e7b0bf1783849e86ab1414836' target='_blank' title='Download/View Amendment_0003_W912GB-14-R-0002_NCC-NETCOM.pdf' class='file'>Amendment_0003_W912GB-14-R-0002_NCC-NETCOM.pdf</a> (148.25 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003  to Solicitation W912GB-14-R-0002 NCC-NETCOM</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=e3644ed0eed456af95a4dff38dd14244' target='_blank' title='Download/View Amend_0003_Atch_1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_18Dec13.docx' class='file'&gt;Amend_0003_Atch_1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_18Dec13.docx&lt;/a&gt;"><a href='/utils/view?id=e3644ed0eed456af95a4dff38dd14244' target='_blank' title='Download/View Amend_0003_Atch_1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_18Dec13.docx' class='file'>Amend_0003_Atch_1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_18Dec13.docx</a> (30.30 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 1 - Revised Experience Overview Sheet 18Dec13 to Solicitation W912GB-14-R-0002 NCC-NETCOM</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	January 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=14ad83217afa5cb7e5dc2b5b2229f0d5' target='_blank' title='Download/View Amendment_0004_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf' class='file'&gt;Amendment_0004_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf&lt;/a&gt;"><a href='/utils/view?id=14ad83217afa5cb7e5dc2b5b2229f0d5' target='_blank' title='Download/View Amendment_0004_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf' class='file'>Amendment_0004_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf</a> (66.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0004 to Solicitation W912GB-14-R-0002 SCC-NETCOM.  This amendment extends the proposal due date and updates Solicitation FAR clauses.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 5</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	January 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=2ec553e29f56907bf7965b0ee60cc6b1' target='_blank' title='Download/View Amend_0005_SF30_W912GB-14-R-0002_SCC-NETCOM_24Jan14.pdf' class='file'&gt;Amend_0005_SF30_W912GB-14-R-0002_SCC-NETCOM_24Jan14.pdf&lt;/a&gt;"><a href='/utils/view?id=2ec553e29f56907bf7965b0ee60cc6b1' target='_blank' title='Download/View Amend_0005_SF30_W912GB-14-R-0002_SCC-NETCOM_24Jan14.pdf' class='file'>Amend_0005_SF30_W912GB-14-R-0002_SCC-NETCOM_24Jan14.pdf</a> (83.15 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0005 SF 30 W912GB-14-R-0002 SCC-NETCOM USAG Landstuhl, Germany</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=8a779dc14ad2d4da2e26f84ce2bf35d8' target='_blank' title='Download/View Amend_0005_Atch1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_23Jan2014.docx' class='file'&gt;Amend_0005_Atch1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_23Jan2014.docx&lt;/a&gt;"><a href='/utils/view?id=8a779dc14ad2d4da2e26f84ce2bf35d8' target='_blank' title='Download/View Amend_0005_Atch1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_23Jan2014.docx' class='file'>Amend_0005_Atch1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_23Jan2014.docx</a> (32.23 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amend 0005 Attach 1 - Revised Experience Overview Sheet</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=72beeec1ea8f33a71965922b5b16425f' target='_blank' title='Download/View Amend_0005_Atch2_W912GB-14-R-0002_Tech_Spec_Page_Changes.pdf' class='file'&gt;Amend_0005_Atch2_W912GB-14-R-0002_Tech_Spec_Page_Changes.pdf&lt;/a&gt;"><a href='/utils/view?id=72beeec1ea8f33a71965922b5b16425f' target='_blank' title='Download/View Amend_0005_Atch2_W912GB-14-R-0002_Tech_Spec_Page_Changes.pdf' class='file'>Amend_0005_Atch2_W912GB-14-R-0002_Tech_Spec_Page_Changes.pdf</a> (909.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amend 0005 Attach 2 - Page Changes for Technical Specification</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=41d05d6219302c06eef80764cc94393f' target='_blank' title='Download/View Amend_0005_Atch3_W912GB-14-R-0002_Revised_Drawing_E-118_LV_Single_Diagram_400V-208V.pdf' class='file'&gt;Amend_0005_Atch3_W912GB-14-R-0002_Revised_Drawing_E-118_LV_Single_Diagram_400V-208V.pdf&lt;/a&gt;"><a href='/utils/view?id=41d05d6219302c06eef80764cc94393f' target='_blank' title='Download/View Amend_0005_Atch3_W912GB-14-R-0002_Revised_Drawing_E-118_LV_Single_Diagram_400V-208V.pdf' class='file'>Amend_0005_Atch3_W912GB-14-R-0002_Revised_Drawing_E-118_LV_Single_Diagram_400V-208V.pdf</a> (1,579.96 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amend 0005 Attach 3 - Revised Drawing E-118 LV Single Diagram 400V/208V</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=14be3d388723dcfda0cdc28169f108e4' target='_blank' title='Download/View Amend_0005_Atch4_W912GB-14-R-0002_CADD_Drawings.dwg' class='file'&gt;Amend_0005_Atch4_W912GB-14-R-0002_CADD_Drawings.dwg&lt;/a&gt;"><a href='/utils/view?id=14be3d388723dcfda0cdc28169f108e4' target='_blank' title='Download/View Amend_0005_Atch4_W912GB-14-R-0002_CADD_Drawings.dwg' class='file'>Amend_0005_Atch4_W912GB-14-R-0002_CADD_Drawings.dwg</a> (65,312.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amend 0005 Attach 4 - Drawings in .dwg format (AutoCAD)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 6</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	January 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=58307bd4c4e271208a4b03becdf23fd4' target='_blank' title='Download/View Amend_0006_W912GB-14-R-0002_28Jan14.pdf' class='file'&gt;Amend_0006_W912GB-14-R-0002_28Jan14.pdf&lt;/a&gt;"><a href='/utils/view?id=58307bd4c4e271208a4b03becdf23fd4' target='_blank' title='Download/View Amend_0006_W912GB-14-R-0002_28Jan14.pdf' class='file'>Amend_0006_W912GB-14-R-0002_28Jan14.pdf</a> (34.51 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0006 - Extends the Proposal Due Date.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 7</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=53793620827d339f8b0b05e6f7aafda7' target='_blank' title='Download/View Amend_0007_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf' class='file'&gt;Amend_0007_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf&lt;/a&gt;"><a href='/utils/view?id=53793620827d339f8b0b05e6f7aafda7' target='_blank' title='Download/View Amend_0007_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf' class='file'>Amend_0007_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf</a> (55.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 SF30 SCC-NETCOM</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=58855f1be052c4e036ffdf5d5b356716' target='_blank' title='Download/View Amend_0007_Atch1_W912GB-14-R-0002_Revised_Technical_Specification_5Feb14.pdf' class='file'&gt;Amend_0007_Atch1_W912GB-14-R-0002_Revised_Technical_Specification_5Feb14.pdf&lt;/a&gt;"><a href='/utils/view?id=58855f1be052c4e036ffdf5d5b356716' target='_blank' title='Download/View Amend_0007_Atch1_W912GB-14-R-0002_Revised_Technical_Specification_5Feb14.pdf' class='file'>Amend_0007_Atch1_W912GB-14-R-0002_Revised_Technical_Specification_5Feb14.pdf</a> (3,835.54 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 1 -  Revised Technical Specification dated 5 Feb 2014 with Summary of Changes</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=3eb40212685f9c5a6f80d28cfb53a9ab' target='_blank' title='Download/View Amend_0007_Atch2a_W912GB-14-R-0002_Drawing_List.pdf' class='file'&gt;Amend_0007_Atch2a_W912GB-14-R-0002_Drawing_List.pdf&lt;/a&gt;"><a href='/utils/view?id=3eb40212685f9c5a6f80d28cfb53a9ab' target='_blank' title='Download/View Amend_0007_Atch2a_W912GB-14-R-0002_Drawing_List.pdf' class='file'>Amend_0007_Atch2a_W912GB-14-R-0002_Drawing_List.pdf</a> (6,579.39 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 2a - Revised Drawing List</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=1a5d10bd50fd899720eb5c30611eb4a3' target='_blank' title='Download/View Amend_0007_Atch2b-1_W912GB-14-R-0002_Revised_or_New_Drawings.pdf' class='file'&gt;Amend_0007_Atch2b-1_W912GB-14-R-0002_Revised_or_New_Drawings.pdf&lt;/a&gt;"><a href='/utils/view?id=1a5d10bd50fd899720eb5c30611eb4a3' target='_blank' title='Download/View Amend_0007_Atch2b-1_W912GB-14-R-0002_Revised_or_New_Drawings.pdf' class='file'>Amend_0007_Atch2b-1_W912GB-14-R-0002_Revised_or_New_Drawings.pdf</a> (110,427.15 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 2b-1 Part 1 of Revised or New Drawings</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=b3c524915e612076fe82314581bbd9b4' target='_blank' title='Download/View Amend_0007_Atch2b-2_W912GB-14-R-0002_Revised_or_New_Drawings.pdf' class='file'&gt;Amend_0007_Atch2b-2_W912GB-14-R-0002_Revised_or_New_Drawings.pdf&lt;/a&gt;"><a href='/utils/view?id=b3c524915e612076fe82314581bbd9b4' target='_blank' title='Download/View Amend_0007_Atch2b-2_W912GB-14-R-0002_Revised_or_New_Drawings.pdf' class='file'>Amend_0007_Atch2b-2_W912GB-14-R-0002_Revised_or_New_Drawings.pdf</a> (87,284.90 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 2b-2 Part 2 of Revised or New Drawings</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=02c3deb12fcbb9fe58e5714199582738' target='_blank' title='Download/View Amend_0007_Atch3a_W912GB-14-R-0002_Calcs_Statik_NETCOM.pdf' class='file'&gt;Amend_0007_Atch3a_W912GB-14-R-0002_Calcs_Statik_NETCOM.pdf&lt;/a&gt;"><a href='/utils/view?id=02c3deb12fcbb9fe58e5714199582738' target='_blank' title='Download/View Amend_0007_Atch3a_W912GB-14-R-0002_Calcs_Statik_NETCOM.pdf' class='file'>Amend_0007_Atch3a_W912GB-14-R-0002_Calcs_Statik_NETCOM.pdf</a> (31,733.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 3a - Calculations Statik NETCOM</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=42a5bd862ac70889254e9e437cddfb83' target='_blank' title='Download/View Amend_0007_Atch3b_W912GB-14-R-0002_Calcs_Statik_Antenne.pdf' class='file'&gt;Amend_0007_Atch3b_W912GB-14-R-0002_Calcs_Statik_Antenne.pdf&lt;/a&gt;"><a href='/utils/view?id=42a5bd862ac70889254e9e437cddfb83' target='_blank' title='Download/View Amend_0007_Atch3b_W912GB-14-R-0002_Calcs_Statik_Antenne.pdf' class='file'>Amend_0007_Atch3b_W912GB-14-R-0002_Calcs_Statik_Antenne.pdf</a> (3,497.82 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 3b - Calculations Statik Antenne</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=d56c4c8fed8d6e4915bc8f37e5e2e7b0' target='_blank' title='Download/View Amend_0007_Atch3c_W912GB-14-R-0002_Calcs_NETCOM_ATFP.pdf' class='file'&gt;Amend_0007_Atch3c_W912GB-14-R-0002_Calcs_NETCOM_ATFP.pdf&lt;/a&gt;"><a href='/utils/view?id=d56c4c8fed8d6e4915bc8f37e5e2e7b0' target='_blank' title='Download/View Amend_0007_Atch3c_W912GB-14-R-0002_Calcs_NETCOM_ATFP.pdf' class='file'>Amend_0007_Atch3c_W912GB-14-R-0002_Calcs_NETCOM_ATFP.pdf</a> (19,992.12 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 3c - Calculations Statik NETCOM ATFP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=37d495126c52414a529e57370b98ec0d' target='_blank' title='Download/View Amend_0007_Atch3d_W912GB-14-R-0002_Calcs_Statik_NETCOM_AnschÃ¼sse_und_Detailnachweise_.pdf' class='file'&gt;Amend_0007_Atch3d_W912GB-14-R-0002_Calcs_Statik_NETCOM_AnschÃ¼sse_und_Detailnachweise_.pdf&lt;/a&gt;"><a href='/utils/view?id=37d495126c52414a529e57370b98ec0d' target='_blank' title='Download/View Amend_0007_Atch3d_W912GB-14-R-0002_Calcs_Statik_NETCOM_AnschÃ¼sse_und_Detailnachweise_.pdf' class='file'>Amend_0007_Atch3d_W912GB-14-R-0002_Calcs_Statik_NETCOM_AnschÃ¼sse_und_Detailnachweise_.pdf</a> (15,180.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 3d - Calculations Statik NETCOM Anschüsse und Detailnachweise </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=746f6076add79636e29c9ef09a379287' target='_blank' title='Download/View Amend_0007_Atch3e_W912GB-14-R-0002_Calcs_Statik_NETCOM_Rohrbrücke.pdf' class='file'&gt;Amend_0007_Atch3e_W912GB-14-R-0002_Calcs_Statik_NETCOM_Rohrbrücke.pdf&lt;/a&gt;"><a href='/utils/view?id=746f6076add79636e29c9ef09a379287' target='_blank' title='Download/View Amend_0007_Atch3e_W912GB-14-R-0002_Calcs_Statik_NETCOM_Rohrbrücke.pdf' class='file'>Amend_0007_Atch3e_W912GB-14-R-0002_Calcs_Statik_NETCOM_Rohrbrücke.pdf</a> (5,222.85 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 3e - Calculations Statik NETCOM Rohrbrücke</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=1b68964dfa18891a2b5a507b8d947573' target='_blank' title='Download/View Amend_0007_Atch3f_W912GB-14-R-0002_Calcs_Statik_NETCOM_Portikus.pdf' class='file'&gt;Amend_0007_Atch3f_W912GB-14-R-0002_Calcs_Statik_NETCOM_Portikus.pdf&lt;/a&gt;"><a href='/utils/view?id=1b68964dfa18891a2b5a507b8d947573' target='_blank' title='Download/View Amend_0007_Atch3f_W912GB-14-R-0002_Calcs_Statik_NETCOM_Portikus.pdf' class='file'>Amend_0007_Atch3f_W912GB-14-R-0002_Calcs_Statik_NETCOM_Portikus.pdf</a> (11,949.96 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 3f - Calculations Statik NETCOM Portikus</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=92809e2bf835710e77722c2363342e1d' target='_blank' title='Download/View Amend_0007_Atch3g_W912GB-14-R-0002_Calcs_Statik_NETCOM_Zwishenbühne_und_Kabelpritschenträger_im_Technikgebäude_Electrical_.pdf' class='file'&gt;Amend_0007_Atch3g_W912GB-14-R-0002_Calcs_Statik_NETCOM_Zwishenbühne_und_Kabelpritschenträger_im_Technikgebäude_Electrical_.pdf&lt;/a&gt;"><a href='/utils/view?id=92809e2bf835710e77722c2363342e1d' target='_blank' title='Download/View Amend_0007_Atch3g_W912GB-14-R-0002_Calcs_Statik_NETCOM_Zwishenbühne_und_Kabelpritschenträger_im_Technikgebäude_Electrical_.pdf' class='file'>Amend_0007_Atch3g_W912GB-14-R-0002_Calcs_Statik_NETCOM_Zwishenbühne_und_Kabelpritschenträger_im_Technikgebäude_Electrical_.pdf</a> (6,236.41 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 3g - Calculations Statik NETCOM Zwishenbühne und Kabelpritschenträger im Technikgebäude Electrical</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=2c3759cb0004b724fc4be7f557d77392' target='_blank' title='Download/View Amend_0007_Atch4_W912GB-14-R-0002_Fire_Protection_Sprinkler_System_and_Concept.pdf' class='file'&gt;Amend_0007_Atch4_W912GB-14-R-0002_Fire_Protection_Sprinkler_System_and_Concept.pdf&lt;/a&gt;"><a href='/utils/view?id=2c3759cb0004b724fc4be7f557d77392' target='_blank' title='Download/View Amend_0007_Atch4_W912GB-14-R-0002_Fire_Protection_Sprinkler_System_and_Concept.pdf' class='file'>Amend_0007_Atch4_W912GB-14-R-0002_Fire_Protection_Sprinkler_System_and_Concept.pdf</a> (2,456.44 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 4 - Fire Protection Concept Document &amp; Full Sprinkler System Drawing</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=60b4a84c755713ef146b445633cee2c5' target='_blank' title='Download/View Amend_0007_Atch5_W912GB-14-R-0002_Building_Automation_and_Control_Sheets.pdf' class='file'&gt;Amend_0007_Atch5_W912GB-14-R-0002_Building_Automation_and_Control_Sheets.pdf&lt;/a&gt;"><a href='/utils/view?id=60b4a84c755713ef146b445633cee2c5' target='_blank' title='Download/View Amend_0007_Atch5_W912GB-14-R-0002_Building_Automation_and_Control_Sheets.pdf' class='file'>Amend_0007_Atch5_W912GB-14-R-0002_Building_Automation_and_Control_Sheets.pdf</a> (7,756.56 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007 Attachment 5 - Building Automation and Control Sheets </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	USACE District, Europe, CMR 410 BOX 7, APO, AE  09096
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	USACE District, Europe CMR 410 BOX 7, APO AE<br />
+09096<br />
+DE
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Glenn Adams, +4961197442723<br />
+<br />
+<a href="mailto:glenn.adams@usace.army.mil">USACE District, Europe</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=03ee467fbf44b17a1022215bfd66655b'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=03ee467fbf44b17a1022215bfd66655b'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d5b10c8fb8f78bd3da16260f51836d6d">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=d5b10c8fb8f78bd3da16260f51836d6d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 20, 2013</div></dt><dd><a href="/utils/view?id=2fefc0b9ccf2a5ce25b398b2e0743b65" target="_blank" title="Download/View W912GB-14-R-0002_SF1442_SCC-NETCOM.pdf" class="file">W912GB-14-R-0002_SF1442_SCC-NETCOM.pdf</a></dd><dd><a href="/utils/view?id=9310fe03f4d30c8cb777c839181d95e3" target="_blank" title="Download/View W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_13Nov13.docx" class="file">W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_13Nov13.docx</a></dd><dd><a href="/utils/view?id=d57702279812cca9f57f291554c0812e" target="_blank" title="Download/View W912GB-14-R-0002_Atch2-Experience_Information_Sheet.docx" class="file">W912GB-14-R-0002_Atch2-Experience_Information_Sheet.docx</a></dd><dd><a href="/utils/view?id=67a8bf6f459bc4a1f597b6bcb3ce0886" target="_blank" title="Download/View W912GB-14-R-0002_Atch3-USACE_Past_Performance_Questionnaire.docx" class="file">W912GB-14-R-0002_Atch3-USACE_Past_Performance_Questionnaire.docx</a></dd><dd><a href="/utils/view?id=b21a15c8441e28065369bea8b61b06e1" target="_blank" title="Download/View W912GB-14-R-0002_Atch4-USACE_PPQ_For_Client.docx" class="file">W912GB-14-R-0002_Atch4-USACE_PPQ_For_Client.docx</a></dd><dd><a href="/utils/view?id=3fbe38fe680a6bbf303e75597aeb4674" target="_blank" title="Download/View W912GB-14-R-0002_Atch5_BLA_Sample.docx" class="file">W912GB-14-R-0002_Atch5_BLA_Sample.docx</a></dd><dd><a href="/utils/view?id=dcd44d873ea991a242fd90b9556279ac" target="_blank" title="Download/View W912GB-14-R-0002_Atch6-Bank_Letter_of_Guaranty.doc" class="file">W912GB-14-R-0002_Atch6-Bank_Letter_of_Guaranty.doc</a></dd><dd><a href="/utils/view?id=0ec2e4b4e6a02a54449b14927cc6b3a4" target="_blank" title="Download/View W912GB-14-R-0002_Atch7_Technical_Spec_19_November_2013.pdf" class="file">W912GB-14-R-0002_Atch7_Technical_Spec_19_November_2013.pdf</a></dd><dd><a href="/utils/view?id=e8dcd81f02cde35fd7ef9d283eb9f499" target="_blank" title="Download/View W912GB-14-R-0002_Atch8_Consolidated_Environmental_Review_and_Report_02Jul09.pdf" class="file">W912GB-14-R-0002_Atch8_Consolidated_Environmental_Review_and_Report_02Jul09.pdf</a></dd><dd><a href="/utils/view?id=8fa1be7af0f1cd7a1e10f429c34e1cd9" target="_blank" title="Download/View W912GB-14-R-0002_Atch9_Geo_Tech_Report_28Sep09pdf.pdf" class="file">W912GB-14-R-0002_Atch9_Geo_Tech_Report_28Sep09pdf.pdf</a></dd><dd><a href="/utils/view?id=1fb8e0618e911e8ab84fcaf1f21764cf" target="_blank" title="Download/View W912GB-14-R-0002_Atch10_Drawings_List.pdf" class="file">W912GB-14-R-0002_Atch10_Drawings_List.pdf</a></dd><dd><a href="/utils/view?id=1792b4b48e774283f4207a8d33be4fc9" target="_blank" title="Download/View W912GB-14-R-0002_Atch11_Dwgs_Part1_General_and_Architectural.pdf" class="file">W912GB-14-R-0002_Atch11_Dwgs_Part1_General_and_Architectural.pdf</a></dd><dd><a href="/utils/view?id=c2b970ac290a54b6bc1d4b1b7feb863c" target="_blank" title="Download/View W912GB-14-R-0002_Atch11_Dwgs_Part2_Struc_Mech_FireProtection_Plumbing.pdf" class="file">W912GB-14-R-0002_Atch11_Dwgs_Part2_Struc_Mech_FireProtection_Plumbing.pdf</a></dd><dd><a href="/utils/view?id=ee1e2c4fbc96a7e784fe99c01262120a" target="_blank" title="Download/View W912GB-14-R-0002_Atch11_Dwgs_Part3__Electrical_E-100_to_E-444.pdf" class="file">W912GB-14-R-0002_Atch11_Dwgs_Part3__Electrical_E-100_to_E-444.pdf</a></dd><dd><a href="/utils/view?id=59e019b8ad282fced45019f301028497" target="_blank" title="Download/View W912GB-14-R-0002_Atch11_Dwgs_Part4__Electrical_E-445_to_E-616.pdf" class="file">W912GB-14-R-0002_Atch11_Dwgs_Part4__Electrical_E-445_to_E-616.pdf</a></dd><dd><a href="/utils/view?id=8696e3ef4f178c9cfba996e75cb530c0" target="_blank" title="Download/View W912GB-14-R-0002_Atchs12_and_13_Dwg_Enviromental_Limits_for_Construction_and_ROB_Bunkers.pdf" class="file">W912GB-14-R-0002_Atchs12_and_13_Dwg_Enviromental_Limits_for_Construction_and_ROB_Bunkers.pdf</a></dd><dd><a href="/utils/view?id=b2383f1f6a9b9cf63d6d7fab767f79d4" target="_blank" title="Download/View W912GB-14-R-0002_Atch14_USACE_General_Specifications.pdf" class="file">W912GB-14-R-0002_Atch14_USACE_General_Specifications.pdf</a></dd><dd><a href="/utils/view?id=6ebdc822c64be4dfd93bb50e82da4e1c" target="_blank" title="Download/View W912GB-14-R-0002_Atch15A_Bldg_3378_Exterior_Photo.jpg" class="file">W912GB-14-R-0002_Atch15A_Bldg_3378_Exterior_Photo.jpg</a></dd><dd><a href="/utils/view?id=b14331e2e80928c54f64a76295e801e6" target="_blank" title="Download/View W912GB-14-R-0002_Atch15B_Bldg_3378_Interior_Photo.jpg" class="file">W912GB-14-R-0002_Atch15B_Bldg_3378_Interior_Photo.jpg</a></dd><dd><a href="/utils/view?id=1b650ab18490e4ecd132b779b223fb11" target="_blank" title="Download/View W912GB-14-R-0002_Atch16_Disclosure_of_Lobbying__Activities.doc" class="file">W912GB-14-R-0002_Atch16_Disclosure_of_Lobbying__Activities.doc</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=acf58f20f6c9bb53d21143083a65df3a">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=acf58f20f6c9bb53d21143083a65df3a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 29, 2013</div></dt><dd><a href="/utils/view?id=9d9afc4fe828dcbe11c5405096179ef0" target="_blank" title="Download/View Amendment_0001_W912GB-14-R-0002_SCC-NETCOM_Landstuhl.pdf" class="file">Amendment_0001_W912GB-14-R-0002_SCC-NETCOM_Landstuhl.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=8c15c8d72da6f4635c8b2c908167edd9">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=8c15c8d72da6f4635c8b2c908167edd9" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 03, 2013</div></dt><dd><a href="/utils/view?id=694bed76d45d5990c562727926c1cba4" target="_blank" title="Download/View Amendment_0002_Q&amp;A_SCC-NETCOM__3Dec13.pdf" class="file">Amendment_0002_Q&A_SCC-NETCOM__3Dec13.pdf</a></dd><dd><a href="/utils/view?id=762b8f42046908614a03b5a2d8a7fa13" target="_blank" title="Download/View Amend_0002_W912GB-14-R-0002_Atch_NETCOM_Specs_US.p81.P81" class="file">Amend_0002_W912GB-14-R-0002_Atch_NETCOM_Specs_US.p81.P81</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=61f66a41eda1b8141996edbc0f3be1ff">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=61f66a41eda1b8141996edbc0f3be1ff" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 18, 2013</div></dt><dd><a href="/utils/view?id=3e484c1e7b0bf1783849e86ab1414836" target="_blank" title="Download/View Amendment_0003_W912GB-14-R-0002_NCC-NETCOM.pdf" class="file">Amendment_0003_W912GB-14-R-0002_NCC-NETCOM.pdf</a></dd><dd><a href="/utils/view?id=e3644ed0eed456af95a4dff38dd14244" target="_blank" title="Download/View Amend_0003_Atch_1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_18Dec13.docx" class="file">Amend_0003_Atch_1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_18Dec13.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6959fc0b18aecc0b772a7149b4f28c40">Amendment 4</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=6959fc0b18aecc0b772a7149b4f28c40" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 14, 2014</div></dt><dd><a href="/utils/view?id=14ad83217afa5cb7e5dc2b5b2229f0d5" target="_blank" title="Download/View Amendment_0004_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf" class="file">Amendment_0004_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=12886e01df0779b631d658093502da0c">Amendment 5</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=12886e01df0779b631d658093502da0c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 24, 2014</div></dt><dd><a href="/utils/view?id=2ec553e29f56907bf7965b0ee60cc6b1" target="_blank" title="Download/View Amend_0005_SF30_W912GB-14-R-0002_SCC-NETCOM_24Jan14.pdf" class="file">Amend_0005_SF30_W912GB-14-R-0002_SCC-NETCOM_24Jan14.pdf</a></dd><dd><a href="/utils/view?id=8a779dc14ad2d4da2e26f84ce2bf35d8" target="_blank" title="Download/View Amend_0005_Atch1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_23Jan2014.docx" class="file">Amend_0005_Atch1_W912GB-14-R-0002_Atch1_Experience_Overview_Sheet_23Jan2014.docx</a></dd><dd><a href="/utils/view?id=72beeec1ea8f33a71965922b5b16425f" target="_blank" title="Download/View Amend_0005_Atch2_W912GB-14-R-0002_Tech_Spec_Page_Changes.pdf" class="file">Amend_0005_Atch2_W912GB-14-R-0002_Tech_Spec_Page_Changes.pdf</a></dd><dd><a href="/utils/view?id=41d05d6219302c06eef80764cc94393f" target="_blank" title="Download/View Amend_0005_Atch3_W912GB-14-R-0002_Revised_Drawing_E-118_LV_Single_Diagram_400V-208V.pdf" class="file">Amend_0005_Atch3_W912GB-14-R-0002_Revised_Drawing_E-118_LV_Single_Diagram_400V-208V.pdf</a></dd><dd><a href="/utils/view?id=14be3d388723dcfda0cdc28169f108e4" target="_blank" title="Download/View Amend_0005_Atch4_W912GB-14-R-0002_CADD_Drawings.dwg" class="file">Amend_0005_Atch4_W912GB-14-R-0002_CADD_Drawings.dwg</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ee3ceb762212d668a734880029dfcce9">Amendment 6</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=ee3ceb762212d668a734880029dfcce9" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 28, 2014</div></dt><dd><a href="/utils/view?id=58307bd4c4e271208a4b03becdf23fd4" target="_blank" title="Download/View Amend_0006_W912GB-14-R-0002_28Jan14.pdf" class="file">Amend_0006_W912GB-14-R-0002_28Jan14.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=51e9f0d053ed99967af237c846f44c6c">Amendment 7</a> <a target="_blank" href="/utils/dZip?base=03ee467fbf44b17a1022215bfd66655b&class=document_package&id=51e9f0d053ed99967af237c846f44c6c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 12, 2014</div></dt><dd><a href="/utils/view?id=53793620827d339f8b0b05e6f7aafda7" target="_blank" title="Download/View Amend_0007_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf" class="file">Amend_0007_SF30_W912GB-14-R-0002_SCC-NETCOM.pdf</a></dd><dd><a href="/utils/view?id=58855f1be052c4e036ffdf5d5b356716" target="_blank" title="Download/View Amend_0007_Atch1_W912GB-14-R-0002_Revised_Technical_Specification_5Feb14.pdf" class="file">Amend_0007_Atch1_W912GB-14-R-0002_Revised_Technical_Specification_5Feb14.pdf</a></dd><dd><a href="/utils/view?id=3eb40212685f9c5a6f80d28cfb53a9ab" target="_blank" title="Download/View Amend_0007_Atch2a_W912GB-14-R-0002_Drawing_List.pdf" class="file">Amend_0007_Atch2a_W912GB-14-R-0002_Drawing_List.pdf</a></dd><dd><a href="/utils/view?id=1a5d10bd50fd899720eb5c30611eb4a3" target="_blank" title="Download/View Amend_0007_Atch2b-1_W912GB-14-R-0002_Revised_or_New_Drawings.pdf" class="file">Amend_0007_Atch2b-1_W912GB-14-R-0002_Revised_or_New_Drawings.pdf</a></dd><dd><a href="/utils/view?id=b3c524915e612076fe82314581bbd9b4" target="_blank" title="Download/View Amend_0007_Atch2b-2_W912GB-14-R-0002_Revised_or_New_Drawings.pdf" class="file">Amend_0007_Atch2b-2_W912GB-14-R-0002_Revised_or_New_Drawings.pdf</a></dd><dd><a href="/utils/view?id=02c3deb12fcbb9fe58e5714199582738" target="_blank" title="Download/View Amend_0007_Atch3a_W912GB-14-R-0002_Calcs_Statik_NETCOM.pdf" class="file">Amend_0007_Atch3a_W912GB-14-R-0002_Calcs_Statik_NETCOM.pdf</a></dd><dd><a href="/utils/view?id=42a5bd862ac70889254e9e437cddfb83" target="_blank" title="Download/View Amend_0007_Atch3b_W912GB-14-R-0002_Calcs_Statik_Antenne.pdf" class="file">Amend_0007_Atch3b_W912GB-14-R-0002_Calcs_Statik_Antenne.pdf</a></dd><dd><a href="/utils/view?id=d56c4c8fed8d6e4915bc8f37e5e2e7b0" target="_blank" title="Download/View Amend_0007_Atch3c_W912GB-14-R-0002_Calcs_NETCOM_ATFP.pdf" class="file">Amend_0007_Atch3c_W912GB-14-R-0002_Calcs_NETCOM_ATFP.pdf</a></dd><dd><a href="/utils/view?id=37d495126c52414a529e57370b98ec0d" target="_blank" title="Download/View Amend_0007_Atch3d_W912GB-14-R-0002_Calcs_Statik_NETCOM_Ansch&Atilde;&frac14;sse_und_Detailnachweise_.pdf" class="file">Amend_0007_Atch3d_W912GB-14-R-0002_Calcs_Statik_NETCOM_AnschÃ¼sse_und_Detailnachweise_.pdf</a></dd><dd><a href="/utils/view?id=746f6076add79636e29c9ef09a379287" target="_blank" title="Download/View Amend_0007_Atch3e_W912GB-14-R-0002_Calcs_Statik_NETCOM_Rohrbr&uuml;cke.pdf" class="file">Amend_0007_Atch3e_W912GB-14-R-0002_Calcs_Statik_NETCOM_Rohrbrücke.pdf</a></dd><dd><a href="/utils/view?id=1b68964dfa18891a2b5a507b8d947573" target="_blank" title="Download/View Amend_0007_Atch3f_W912GB-14-R-0002_Calcs_Statik_NETCOM_Portikus.pdf" class="file">Amend_0007_Atch3f_W912GB-14-R-0002_Calcs_Statik_NETCOM_Portikus.pdf</a></dd><dd><a href="/utils/view?id=92809e2bf835710e77722c2363342e1d" target="_blank" title="Download/View Amend_0007_Atch3g_W912GB-14-R-0002_Calcs_Statik_NETCOM_Zwishenb&uuml;hne_und_Kabelpritschentr&auml;ger_im_Technikgeb&auml;ude_Electrical_.pdf" class="file">Amend_0007_Atch3g_W912GB-14-R-0002_Calcs_Statik_NETCOM_Zwishenbühne_und_Kabelpritschenträger_im_Technikgebäude_Electrical_.pdf</a></dd><dd><a href="/utils/view?id=2c3759cb0004b724fc4be7f557d77392" target="_blank" title="Download/View Amend_0007_Atch4_W912GB-14-R-0002_Fire_Protection_Sprinkler_System_and_Concept.pdf" class="file">Amend_0007_Atch4_W912GB-14-R-0002_Fire_Protection_Sprinkler_System_and_Concept.pdf</a></dd><dd><a href="/utils/view?id=60b4a84c755713ef146b445633cee2c5" target="_blank" title="Download/View Amend_0007_Atch5_W912GB-14-R-0002_Building_Automation_and_Control_Sheets.pdf" class="file">Amend_0007_Atch5_W912GB-14-R-0002_Building_Automation_and_Control_Sheets.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	October 25, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	April 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	April 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	December 24, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Y -- Construction of structures and facilities
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	236 -- Construction of Buildings/236220 -- Commercial and Institutional Building Construction
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

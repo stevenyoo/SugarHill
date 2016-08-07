@@ -1,0 +1,797 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>USPSC - OTI Personnel Specialist - SOL-OTI-14-000011 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392497034');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392497034';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6019ad0ba5aeaf83e69db679304afb24&inline_disposition=1" border="0" alt="Washington D.C. logo"></div><div class="agency-header"><h2>USPSC - OTI Personnel Specialist</h2><div class="sol-num">Solicitation Number: SOL-OTI-14-000011</div><div class="agency-name">Agency: Agency for International Development<br>Office: Washington D.C.<br>Location: USAID/Washington</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=09c577ebb1c63b33e2517e77d2a13544&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OTI-14-000011/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OTI-14-000011/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OTI-14-000011/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=09c577ebb1c63b33e2517e77d2a13544&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=09c577ebb1c63b33e2517e77d2a13544&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 11, 2014</div><div class="nh-date">10:14 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=09c577ebb1c63b33e2517e77d2a13544'" class="input-button btn">   </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	SOL-OTI-14-000011
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-11 10:14:42">Feb 11, 2014 10:14 am</span>
+					</div>
+		Request for Personal Service Contractor<br />
+<p>USAID Office of Transition Initiatives</p><br />
+<p>Position Title:		Personnel Specialist<br />Solicitation Number:	SOL-OTI-14-000011<br />Salary Level:		GS-11 Equivalent: $63,091 - $82,019<br /> GS-12 Equivalent: $75,621 - $98,305<br />Issuance Date:		February 11, 2014<br />Closing Date: 		February 26, 2014<br />Closing Time:		5:00 P.M. EST</p><br />
+<p>Dear Prospective Applicants:</p><br />
+<p>The United States Government (USG), represented by the U.S. Agency for International Development (USAID), is seeking applications from qualified U.S. citizens to provide personal services as a Personnel Specialist under a personal services contract, as described in the attached solicitation.</p><br />
+<p>Submittals must be in accordance with the attached information at the place and time specified. Applicants interested in applying for this position MUST submit the following materials:</p><br />
+<p>1.	Complete resume. In order to fully evaluate your application, your resume must include:</p><br />
+<p>(a) Paid and non-paid experience, job title, location(s), dates held (month/year), and hours worked per week for each position. Dates (month/year) and locations for all overseas field experience must also be detailed. Any experience that does not include dates (month/year), locations, and hours per week will not be counted towards meeting the solicitation requirements.<br />(b) Specific duties performed that fully detail the level and complexity of the work. <br />(c) Names and contact information (phone and email) of your current and/or previous supervisor(s). <br />(d) Education and any other qualifications including job-related training courses, job-related skills, or job-related honors, awards or accomplishments. <br />(e) U.S. Citizenship.</p><br />
+<p>Your resume should contain sufficient information to make a valid determination that you fully meet the experience requirements as stated in this solicitation.  This information should be clearly identified in your resume.  Failure to provide information sufficient to determine your qualifications for the position will result in loss of full consideration.</p><br />
+<p>&emsp;<br />2.	Supplemental document specifically addressing:<br />Each of the four (4) Evaluation Factors shown in the solicitation. Responses must be limited to 500 words per factor.  Any additional words above the limit will neither be read nor scored.</p><br />
+<p>NOTE: The Evaluation Factors are worth 70 out of 100 points. Applicants are required to address each of the Evaluation Factors in a separate document describing specifically and accurately what experience, training, education and/or awards they have received that are relevant to each factor.</p><br />
+<p>Additional documents submitted will not be accepted. Incomplete or late applications will not be considered. Your complete resume and the supplemental document addressing the EFs must be mailed, delivered, faxed, or emailed to:<br /> GlobalCorps<br /> 529 14th Street, NW, Suite 700<br /> Washington, DC 20045<br /> E-Mail Address: persspec@globalcorps.com<br /> Facs&iacute;mile: (202) 403-3911</p><br />
+<p>Applicants can expect to receive a confirmation email when application materials have been received. Applicants should retain for their records copies of all enclosures which accompany their applications. Any questions on this solicitation may be directed to:<br /> Travis Axton or Ian Reese <br /> Telephone Number: (202) 706-6115 or (202) 706-6109 <br /> E-Mail Address: persspec@globalcorps.com<br /> Website: www.globalcorps.com<br /> Facs&iacute;mile: (202) 403-3911</p><br />
+<p>Sincerely,<br /> <br /> Cristina Sylvia <br />Contracting Officer<br /> <br />Solicitation for U.S. Personal Service Contractor (PSC) OTI Personnel Specialist</p><br />
+<p>1.  SOLICITATION NO.: SOL-OTI-14-000011</p><br />
+<p>2.  ISSUANCE DATE: February 11, 2014</p><br />
+<p>3.  CLOSING DATE/TIME FOR RECEIPT OF APPLICATIONS: February 26, 2014, 5:00 pm EST</p><br />
+<p>4.  POSITION TITLE: Personnel Specialist</p><br />
+<p>5. MARKET VALUE: This position has been designated as a "ladder" position.  The highest level of this position is a GS-12; however, USAID intends to fill this position at the entry level GS-11 equivalent level (Salary range: $63,091 - $82,019 per year).  The actual salary of the successful candidate will be negotiated within the pay range of the GS-11 level depending on qualifications, previous relevant experience and work history, salary and educational background.  Salaries over and above the top of the pay range will not be entertained or negotiated. Candidates who live outside the Washington, D.C. area will be considered for employment but no relocation expenses will be reimbursed.</p><br />
+<p>Following at least two (2) years at the GS-11 equivalent grade the candidate may have the opportunity for advancement to the GS-12 equivalent grade.  To be eligible for promotion to the GS-12 level, the incumbent must meet the minimum qualifications of the GS-12 grade, and receive an "Excellent" performance rating in the annual performance evaluation.  The evaluation must include a statement by the supervisor that the employee is performing successfully at the current grade and is considered ready to perform at the higher grade level.  Neither advancement nor extension of the contract is guaranteed.</p><br />
+<p>6.  PERIOD OF PERFORMANCE:  Two years, with three one-year options</p><br />
+<p>7.  PLACE OF PERFORMANCE:  Washington, D.C. with possible travel as stated in the position description.</p><br />
+<p>8.  STATEMENT OF WORK</p><br />
+<p>POSITION DESCRIPTION</p><br />
+<p>BACKGROUND</p><br />
+<p>USAID's Office of Transition Initiatives (OTI) is seeking highly motivated, highly qualified individuals who want the opportunity to help support rapid international transition programs for priority conflict-prone countries. Created in 1994 as a distinct operating unit within USAID, OTI helps local, indigenous partners advance peace and democracy in priority conflict-prone countries by providing fast, flexible, short-term assistance targeted at key transition needs.</p><br />
+<p>Countries experiencing a significant political transition in the midst of a disaster or emerging from civil conflict have unique needs that cannot be fully addressed by traditional disaster relief. Timely and effective assistance to promote and consolidate peaceful, democratic advances can make the difference between a successful or a failed transition. OTI assists in securing peace by aiding indigenous local partners such as civil society groups (non-governmental organizations or informal community groups), local governments, private businesses, media groups, and others, through identification of quick-impact community self-help projects to meet urgent economic needs; development of initiatives to promote national reconciliation; re-integration of ex-combatants into civilian society; and aid to independent media outlets and community-based organizations to help promote informed debate and broaden public understanding and participation in their country's political process.</p><br />
+<p>To respond quickly and effectively and meet its program objectives and mandate OTI retains a group of high level professionals and experts under U.S. Personal Services Contracts (USPSCs). These knowledgeable and skilled professionals make up the vast majority of the OTI work force and are at its forefront implementing and achieving the office's programmatic goals and objectives. USPSCs are considered employees of USAID for all purposes except programs administered by the Office of Personnel Management (OPM) - such as federally sponsored health insurance, life insurance, and retirement benefits.  However, there are several other similar benefits that USPSCs may participate in, such as partial reimbursement for health and life insurance costs, as well as full coverage of workers' compensation, among other benefits.  For more complete information on USPSC benefits, please see page 14 of this solicitation.</p><br />
+<p>For more information about OTI and its country programs please see: http://www.usaid.gov/political-transition-initiatives</p><br />
+<p>INTRODUCTION</p><br />
+<p>The Personnel Specialist will provide recruitment and other administrative support for program funded U.S. Personal Services Contract (USPSC) employees in OTI.  The Personnel Specialist is supervised by OTI/Operations and Management Division's (OMD) Senior Personnel Specialist or his/her designee.</p><br />
+<p>OMD in Washington provides OTI with an advanced level of operational and management support to help ensure ongoing and improved flexible, rapid response in political transition programming overseas. OMD is responsible for instituting and maintaining office-wide systems and processes, office practices and procedures, and the creation of an enhanced response capability through teamwork, responsiveness, fiscal responsibility, quality control, and customer service.</p><br />
+<p>Within the OMD, the Pre-Employment, Recruitment, and Contracts  (PERC) Team is responsible for analyzing needs, developing solutions, and advising on issues related to contracts, recruitment, and staff management in direct support of OTI's numerous field programs. The PERC Team regularly participates in core DCHA/OTI process design, development and training exercises.  The goal of the PERC Team is to create and maintain an enhanced response capability to support staff management and effective processes for OTI field and Washington teams. The team accomplishes this through working closely with regional teams in order to track staffing needs and support the overall mission of the office as well as address the needs of individual teams.</p><br />
+<p>Program and Operations staff work as a team to ensure country programs are started, managed, and closed efficiently and effectively.</p><br />
+<p>This is a key position in an exciting and busy office which responds rapidly to crisis situations overseas.  For DCHA/OTI to implement its rapid response strategy, it is essential that DCHA/OTI personnel receive prompt support.  The incumbent must be a proficient writer and proofreader, and The Personnel Specialist has the ability to maintain flexibility in a fast-paced dynamic environment while managing competing priorities and meeting aggressive deadlines.   Providing knowledgeable, rapid response using standard operating procedures and making recommendations for improvements or innovations to increase effectiveness and efficiency is critical to successful implementation of OTI's programs and fulfillment of OTI's mandate.</p><br />
+<p>OBJECTIVE</p><br />
+<p>The purpose of this solicitation is to hire a Personnel Specialist within OTI's Pre-Employment, Recruitment and Contracts (PERC) team.</p><br />
+<p>9.  CORE FUNCTIONAL AREAS OF RESPONSIBILITY</p><br />
+<p>DUTIES AND RESPONSIBILITIES</p><br />
+<p>The work of the Personnel Specialist requires teamwork, the exercise of discretion, judgment, and personal responsibility. As a member of a highly visible and rapid response office, the Personnel Specialist requires a willingness and ability to perform a wide range of administrative functions to help ensure programmatic success. The Personnel Specialist is highly flexible and the working conditions are subject to ongoing change(s), while maintaining a professional and respectful conduct towards colleagues and authority in a diverse workforce. S/he places a premium on the building of positive relationships with his/her respective team, with the rest of OTI and with key stakeholders both in and outside of USAID. The Personnel Specialist is a team player, able to prioritize and follow up on their own actions without prompting, while also assisting a busy supervisor and fellow colleagues to track and respond to incoming requests and routine tasks, filling in gaps as needed to ensure the responsiveness of the team. The Personnel Specialist has a strong sense of responsibility, is service-oriented, highly organized, pays close attention to detail, is able to complete administrative tasks with minimal guidance, and is able to receive and respond to constructive criticism in a professional manner. The Personnel Specialist is a strategic thinker, articulates innovative ideas, presents solutions, and is a positive role model for colleagues both in and outside of OTI.</p><br />
+<p>The Personnel Specialist provides administrative support for program funded staff, primarily USPSCs. The Personnel Specialist priorities are expected to change and evolve in accordance with the requirements of OTI.  Under the direct supervision of the Washington-based DCHA/OTI Pre-Employment, Recruitment, and Contracts (PERC) Team Leader or his or her designee, the Washington-based Personnel Specialist will perform the following duties:</p><br />
+<p>At the GS-11 Level:</p><br />
+<p>&bull;	Work with the Senior Personnel Specialist and the OTI service provider to coordinate the recruitment process for all OTI USPSC positions to ensure timely hiring of new program staff.  Examples of work includes:<br />o	Assisting in drafting and/or reviewing USPSC scopes of work (SOWs) in collaboration with the supervisor, OMD Chief, and the position supervisors, ensuring standard SOWs are filed and maintained;<br />o	Drafting, tracking, and ensuring clearances for required recruitment and hiring memos (such as market value memos for proposed grade levels for new positions, memos to request DCHA authorization to recruit where appropriate, etc.);<br />o	Obtaining appropriate documentation for selection of individuals on a non-competitive basis where needed and transmitting completed requests to the OTI service provider in a timely manner;<br />o	Working closely with the supervisor in monitoring and collaborating with the OTI service provider's process for development, review and issuance of public solicitations for competitive positions, managing a tracking system for all stages of the recruitment process, and assisting with the recruitment process where needed (e.g. developing interview questions, etc.);<br />o	Sending periodic notices and updates to staff regarding position openings, and distributing recruitment updates to the Senior Personnel Specialist or the entire office as required.<br />o	Tracking approvals of USPSC actions through OTI's budget and finance database TOMAS, and Agency systems;<br />o	Ensuring that personnel files are kept up to date and that copies of key documents are scanned in the electronic file (e.g. solicitation, application, selection memo, contract, medical and security clearances, emergency locator card).</p><br />
+<p>&bull;	Work closely with the Senior Personnel Specialist and OTI service provider to maintain a tracking system to track all stages of the USPSC contract issuance/modification process, helping to ensure that regular reports are provided to supervisors, managers, and the Senior Leadership Team on the status of actions in process</p><br />
+<p>&bull;	Draft, track, and ensure clearances for required on-board staff memos (such as leave transfer memos, memos to request increased earning on annual leave accrual, Annual Leave payout memos, etc.);</p><br />
+<p>&bull;	Review proposed contract language and budgets to ensure conformance to Federal and Agency regulations, compliance with Agency and office policies, and the accuracy, completeness and consistency of all contract language that is specific to the contract under review;</p><br />
+<p>&bull;	Knowledgeable on procurement policy as it relates to USPSCs; assist in maintaining and updating OTI's USPSC handbook, creating responses to "Frequently Asked Questions" and as necessary coordinate closely with the Office of Acquisition and Assistance (OAA), the Senior Management Advisor(s) and the Senior Personnel Specialist;</p><br />
+<p>&bull;	Establish and maintain good working relationships with other USAID offices and bureaus in relation to human resources and PSC issues; and participate on inter-office, inter-bureau, or inter-agency committees addressing USPSC issues.</p><br />
+<p>&bull;	Backstop the members of the OTI/OMD Personnel and Procurement team as required;</p><br />
+<p>&bull;	Provide other administrative duties as required in support of OTI's USPSC staff.</p><br />
+<p>At the GS-12 Level:</p><br />
+<p>Perform the same duties as the GS-11 level but with less supervision, greater decision-making authority, and greater independence of action.</p><br />
+<p>&bull;	Work with the Personnel Specialist and the OTI service provider to coordinate the recruitment process for all OTI USPSC positions to ensure timely hiring of new program staff.  Examples of work includes:<br />o	Drafting and/or reviewing USPSC scopes of work (SOWs) in collaboration with the supervisor, OMD Chief, and the position supervisors, ensuring standard SOWs are filed and maintained;<br />o	Drafting, tracking, and ensuring clearances for required recruitment and hiring memos (such as market value memos for proposed grade levels for new positions, memos to request DCHA authorization to recruit where appropriate, etc.);<br />o	Obtaining appropriate documentation for selection of individuals on a non-competitive basis where needed and transmitting completed requests to the OTI service provider in a timely manner;<br />o	Working closely with the supervisor in monitoring and collaborating with the OTI service provider's process for development, review and issuance of public solicitations for competitive positions, managing a tracking system for all stages of the recruitment process, and assisting with the recruitment process where needed (e.g. developing interview questions, etc.);<br />o	Sending periodic notices and updates to staff regarding position openings, and distributing recruitment updates to the Sr. Personnel Specialist or the entire office as required.<br />o	Tracking approvals of USPSC actions through OTI's budget and finance database TOMAS, and Agency systems;<br />o	Ensuring that personnel files are kept up to date and that copies of key documents are scanned in the electronic file (e.g. solicitation, application, selection memo, contract, medical and security clearances, emergency locator card).</p><br />
+<p>&bull;	Work closely with the Senior Personnel Specialist and OTI service provider to maintain a tracking system to track all stages of the USPSC contract issuance/modification process, helping to ensure that regular reports are provided to supervisors, managers, and the Senior Leadership Team on the status of actions in process</p><br />
+<p>&bull;	Draft, track, and ensure clearances for required on-board staff memos (such as leave transfer memos, memos to request increased earning on annual leave accrual, Annual Leave payout memos, etc.);</p><br />
+<p>&bull;	Review proposed contract language and budgets to ensure conformance to Federal and Agency regulations, compliance with Agency and office policies, and the accuracy, completeness and consistency of all contract language that is specific to the contract under review;</p><br />
+<p>&bull;	Knowledgeable on procurement policy as it relates to USPSCs; assist in maintaining and updating OTI's USPSC handbook, creating responses to "Frequently Asked Questions" and as necessary coordinate closely with the Office of Acquisition and Assistance (OAA), the Semior Management Advisor(s) and the Senior Personnel Specialist;</p><br />
+<p>&bull;	Establish and maintain good working relationships with other USAID offices and bureaus in relation to human resources and PSC issues; and participate on inter-office, inter-bureau, or inter-agency committees addressing USPSC issues.</p><br />
+<p>&bull;	Backstop the members of the OTI/OMD Personnel and Procurement team as required, including standing in for the Senior Personnel Specialist if required;</p><br />
+<p>&bull;	Provide other administrative duties as required in support of OTI's USPSC staff.</p><br />
+<p>SUPERVISORY RELATIONSHIP:<br />The Personnel Specialist will take direction from and will report to OTI's Washington-based Team Leader for the Pre-Employment, Recruitment, and Contracts Team, or his/her designee, as well as to the Chief, Operations and Management Division.</p><br />
+<p>SUPERVISORY CONTROLS:<br />The Supervisor will set overall objectives. The employee and the supervisor together will develop deadlines, projects, and work to be accomplished. The incumbent is expected to take initiative, act independently, and manage his/her tasks with minimal supervision.</p><br />
+<p>10.  PHYSICAL DEMANDS</p><br />
+<p>The work is generally sedentary and does not pose undue physical demands. During deployment on Assessment teams or during site visits, there may be some additional physical exertion including long periods of standing, walking over rough terrain, or carrying of moderately heavy items (less than 50 pounds).</p><br />
+<p>&nbsp;</p><br />
+<p><br />11.  WORK ENVIRONMENT</p><br />
+<p>Work is primarily performed in an office setting. During deployment on Assessments or during site visits, the work may additionally involve special safety and/or security precautions, wearing of protective equipment, and exposure to severe weather conditions.</p><br />
+<p>12.  START DATE:  Immediately, once necessary clearances are obtained.</p><br />
+<p>13.  POINT OF CONTACT:  See Cover Letter.</p><br />
+<p>EDUCATION/EXPERIENCE REQUIRED FOR THIS POSITION<br />(Determines basic eligibility for the position. Applicants who do not meet all of education and experience factors are considered NOT qualified for the position. See detailed instructions for demonstrating Education/Experience under "Applying")</p><br />
+<p>At the GS-11 Level:</p><br />
+<p>At a minimum, to be considered for the GS-11 level, the applicant must have:</p><br />
+<p>(1) A Bachelor's degree with four (4) years of work experience, of which two (2) years must include experience in administrative personnel support;</p><br />
+<p>OR</p><br />
+<p>A Master's degree with two (2) years of work experience including experience in administrative personnel support;</p><br />
+<p>AND</p><br />
+<p>(2) At least one (1) year experience related to personnel support services for a USG agency, an institutional contractor working for a USG agency, or a large international organization;</p><br />
+<p>AND</p><br />
+<p>(3) Experience drafting, editing or proofreading position descriptions or scopes of work;</p><br />
+<p>AND</p><br />
+<p>(4) Computer proficiency in database systems and Microsoft Office.</p><br />
+<p>At the GS-12 Level:</p><br />
+<p>After at least two years at the GS-11 Level, the incumbent may be considered for advancement to the GS-12 level based on an excellent performance review by the supervisor, and based on meeting the minimum qualifications listed below:</p><br />
+<p>(1) A Bachelor's degree with six (6) years of work experience, of which four (4) years must include experience in administrative personnel support;</p><br />
+<p>OR</p><br />
+<p>A Master's degree with four (4) years of work experience including experience in administrative personnel support;</p><br />
+<p>AND</p><br />
+<p>(2) At least three (3) years experience related to personnel support services for a USG agency, an institutional contractor working for a USG agency, or a large international organization;</p><br />
+<p>AND</p><br />
+<p>(3) Experience drafting, editing or proofreading position descriptions or scopes of work;</p><br />
+<p>AND</p><br />
+<p>(4) Computer proficiency in database systems and Microsoft Office.</p><br />
+<p>SELECTION FACTORS<br />(Determines basic eligibility for the position. Applicants who do not meet all of the selection factors are considered NOT qualified for the position.)<br />&bull;	Applicant is a U.S. Citizen;<br />&bull;	Complete resume submitted. See cover page for resume requirements. Experience that cannot be quantified will not be counted towards meeting the solicitation requirements;<br />&bull;	Supplemental document specifically addressing how the candidate meets each of the Evaluation Factors submitted; <br />&bull;	Ability to obtain a SECRET level security clearance (NOTE: Dual citizens may be asked to renounce second-country citizenship);<br />&bull;	Satisfactory verification of academic credentials.</p><br />
+<p>A USAID Secret level security clearance is required prior to issuance of the contract for this position.</p><br />
+<p>EVALUATION FACTORS<br />(Used to determine the competitive ranking of qualified applicants in comparison to other applicants. The factors are listed in priority order from highest to least.)</p><br />
+<p>Responses must be limited to 500 words per factor.  Any additional words above the limit will neither be read nor scored.</p><br />
+<p>Factor #1	Demonstrated knowledge of the basic principles of personnel management, with a focus on recruitment and hiring;</p><br />
+<p>Factor #2	Demonstrated customer service ethic and experience, including a proven ability to independently liaise with both personnel and senior level managers;<br /> <br />Factor #3	Demonstrated ability to deal effectively with a high level of detail, to balance competing demands, and to manage time in relation to established work priorities;</p><br />
+<p>Factor #4	Demonstrated oral and written communication skills, including proficiency in editing and proofreading.</p><br />
+<p>BASIS OF RATING: Applicants who clearly meet the Education/Experience Requirements and Selection Factors will be further evaluated based on scoring of the Evaluation Factor responses. Those applicants determined to be competitively ranked may also be evaluated on interview performance and satisfactory professional reference checks. In the event that a candidate has fully demonstrated his/her qualifications and there are no other competitive applicants, OTI reserves the right to forego the interview process. Applicants may be tested on their writing/proofreading ability and ability to draft or edit position descriptions.</p><br />
+<p>Applicants are required to address each of the Evaluation Factors in a separate document describing specifically and accurately what experience, training, education and/or awards they have received that are relevant to each factor. Be sure to include your name and the announcement number at the top of each additional page. Failure to specifically address the Selection and/or Evaluation Factors may result in your not receiving credit for all of your pertinent experience, education, training and/or awards.</p><br />
+<p>The Applicant Rating System is as Follows:<br />Evaluation Factors have been assigned the following points:<br />Factor #1 - 20<br />Factor #2 - 20<br />Factor #3 - 15<br />Factor #4 - 15<br />Total Possible - 70 Points</p><br />
+<p>Interview Performance - 30 points</p><br />
+<p>Satisfactory Professional Reference Checks - Pass/Fail (no points assigned)</p><br />
+<p>Total Possible Points: 100</p><br />
+<p>The Evaluation Factors are worth 70 out of 100 points. Be sure to fully respond to each of the Evaluation Factors and include all relevant experience, training, and/or education in your responses. Sample Evaluation Factors are provided on the GlobalCorps website at www.globalcorps.com.</p><br />
+<p>The most qualified candidates may be interviewed and required to complete a writing test. OTI will not pay for any expenses associated with the interviews. In the event that a candidate has fully demonstrated his/her qualifications and there are no other competitive applicants, OTI reserves the right to forego the interview process. Professional references and academic credentials will be evaluated for applicants being considered for selection.</p><br />
+<p>APPLYING:</p><br />
+<p>Applications must be received by the closing date and time at the address specified in the cover letter.</p><br />
+<p>Qualified individuals are required to submit:</p><br />
+<p>1.	Complete resume. In order to fully evaluate your application, your resume must include:</p><br />
+<p>(a) Paid and non-paid experience, job title, location(s), dates held (month/year), and hours worked per week for each position. Dates (month/year) and locations for all overseas field experience must also be detailed. Any experience that does not include dates (month/year), locations, and hours per week will not be counted towards meeting the solicitation requirements.<br />(b) Specific duties performed that fully detail the level and complexity of the work. <br />(c) Names and contact information (phone and email) of your current and/or previous supervisor(s). <br />(d) Education and any other qualifications including job-related training courses, job-related skills, or job-related honors, awards or accomplishments. <br />(e) U.S. Citizenship.</p><br />
+<p>Your resume should contain sufficient information to make a valid determination that you fully meet the experience requirements as stated in this solicitation.  This information should be clearly identified in your resume.  Failure to provide information sufficient to determine your qualifications for the position will result in loss of full consideration.</p><br />
+<p>2.	Supplemental document specifically addressing:<br />Each of the four (4) Evaluation Factors shown in the solicitation. Responses must be limited to 500 words per factor.  Any additional words above the limit will neither be read nor scored.</p><br />
+<p>NOTE: The Evaluation Factors are worth 70 out of 100 points. Applicants are required to address each of the Evaluation Factors in a separate document describing specifically and accurately what experience, training, education and/or awards they have received that are relevant to each factor.</p><br />
+<p>Additional documents submitted will not be accepted.</p><br />
+<p>By submitting your application materials, you agree to allow all information on and attached to the application to be investigated. False or fraudulent information on or attached to your application may result in you being eliminated from consideration for this position, or being terminated after award, and may be punishable by fine or imprisonment.</p><br />
+<p>To ensure consideration of applications for the intended position, please reference the solicitation number on your application, and as the subject line in any email.</p><br />
+<p>DOCUMENT SUBMITTALS</p><br />
+<p>Via mail: GlobalCorps, 529 14th Street, NW, Suite 700, Washington, D.C. 20045<br />Via facs&iacute;mile: (202) 403-3911<br />Via email: persspec@globalcorps.com</p><br />
+<p>Please note in your document submittal where you heard about this position.</p><br />
+<p>NOTE:  If a full security investigation package is not submitted by the selected within 30 days after it is requested, the offer may be rescinded. If a security clearance is not able to be obtained within four months after the selected submits the initial security clearance documentation, the offer may be rescinded.</p><br />
+<p>NOTE REGARDING GOVERNMENT OBLIGATIONS FOR THIS SOLICITATION</p><br />
+<p>This solicitation in no way obligates USAID to award a PSC contract, nor does it commit USAID to pay any cost incurred in the preparation and submission of the application.</p><br />
+<p>NOTE REGARDING DATA UNIVERSAL NUMBERING SYSTEM (DUNS) NUMBERS</p><br />
+<p>All individuals contracted as US PSCs are required to have a DUNS Number.  USAID will provide a generic DUNS Number and PSCs are not required to register with CCR.</p><br />
+<p>For general information about DUNS Numbers, please refer to Federal Acquisition Regulation (FAR) Clause 52.204-6, Data Universal Numbering System (DUNS) Number (10/2003) <br />https:/acquisition.gov/far/current/html/52_200_206.html</p><br />
+<p><br />LIST OF REQUIRED FORMS FOR PSCs</p><br />
+<p>Forms outlined below can found at:<br />http://www.usaid.gov/forms/ or at http://www.usa.gov/Topics/Reference-Shelf/forms.shtml</p><br />
+<p>1. Optional Form 612.<br />2. Medical History and Examination Form (DS-6561). <br />3. Questionnaire for Sensitive Positions (for National Security)<br /> (SF-86), or <br />4. Questionnaire for Non-Sensitive Positions (SF-85). <br />5. Finger Print Card (FD-258).</p><br />
+<p>Forms 1 through 5 shall be completed ONLY upon the advice of the Contracting Officer that an applicant is the successful candidate for the job.</p><br />
+<p>CONTRACT INFORMATION BULLETINS (CIBs) and ACQUISITION &amp; ASSISTANCE POLICY DIRECTIVES (AAPDs) PERTAINING TO PSCs</p><br />
+<p>CIBs and AAPDs contain changes to USAID policy and General Provisions in USAID regulations and contracts.  Please refer to http://www.usaid.gov/work-usaid/aapds-cibs#psc to determine which CIBs and AAPDs apply to this contract.</p><br />
+<p>AAPD 06-10 - PSC MEDICAL PAYMENT RESPONSIBILITY</p><br />
+<p>AAPD No. 06-10 is hereby incorporated as Attachment 1 to the solicitation.</p><br />
+<p>FAR 52.222-50 - COMBATING TRAFFICKING IN PERSONS</p><br />
+<p>FAR Clause 52.222-50 is hereby incorporated as Attachment 2 to the solicitation.</p><br />
+<p>BENEFITS/ALLOWANCES:</p><br />
+<p>As a matter of policy, and as appropriate, a PSC is normally authorized the following benefits and allowances:</p><br />
+<p>BENEFITS:</p><br />
+<p>Employer's FICA Contribution<br />Contribution toward Health &amp; Life Insurance<br />Pay Comparability Adjustment<br />Annual Increase (pending a satisfactory performance evaluation)<br />Eligibility for Worker's Compensation<br />Annual &amp; Sick Leave</p><br />
+<p>ALLOWANCES (if Applicable).*</p><br />
+<p>(A) Temporary Lodging Allowance (Section 120).<br />(B) Living Quarters Allowance (Section 130).<br />(C) Post Allowance (Section 220).<br />(D) Supplemental Post Allowance (Section 230).<br />(E) Separate Maintenance Allowance (Section 260).<br />(F) Education Allowance (Section 270).<br />(G) Education Travel (Section 280).<br />(H) Post Differential (Chapter 500).<br />(I) Payments during Evacuation/Authorized Departure (Section 600), and<br />(J) Danger Pay (Section 650).</p><br />
+<p>* Standardized Regulations (Government Civilians Foreign Areas).</p><br />
+<p>FEDERAL TAXES: USPSCs are required to pay Federal Income Taxes, FICA, and Medicare</p><br />
+<p>ALL QUALIFIED APPLICANTS WILL BE CONSIDERED REGARDLESS OF AGE, RACE, COLOR, SEX, CREED, NATIONAL ORIGIN, LAWFUL POLITICAL AFFILIATION, NON-DISQUALIFYING DISABILITY, MARITAL STATUS, SEXUAL ORIENTATION, AFFILIATION WITH AN EMPLOYEE ORGANIZATION, OR OTHER NON-MERIT FACTOR.</p><br />
+<p><br />ATTACHMENT 1</p><br />
+<p>ACQUISITION &amp; ASSISTANCE POLICY DIRECTIVE (AAPD) NO. 06-10<br />PSC MEDICAL EXPENSE PAYMENT RESPONSIBILITY</p><br />
+<p>General Provision 22, MEDICAL EXPENSE PAYMENT RESPONSIBILITY<br />(OCTOBER 2006)</p><br />
+<p>(a) Definitions. Terms used in this General Provision are defined in 16 FAM 116 available at http://www.state.gov/m/a/dir/regs/fam/16fam/index.htm</p><br />
+<p>Note:  Personal services contractors are not eligible to participate in the Federal Employees Health Programs.</p><br />
+<p>(b) The regulations in the Foreign Affairs Manual, Volume 16, Chapter 520 (16 FAM 520), Responsibility for Payment of Medical Expenses, apply to this contract, except as stated below.  The contractor and each eligible family member are strongly encouraged to obtain health insurance that covers this assignment.  Nothing in this provision supersedes or contradicts any other term or provision in this contract that pertains to insurance or medical costs, except that section (e) supplements General Provision 25. "MEDICAL EVACUATION (MEDEVAC) SERVICES."</p><br />
+<p>(c) When the contractor or eligible family member is covered by health insurance, that insurance is the primary payer for medical services provided to that contractor or eligible family member(s) both in the United States and abroad.  The primary insurer's liability is determined by the terms, conditions, limitations, and exclusions of the insurance policy.  When the contractor or eligible family member is not covered by health insurance, the contractor is the primary payer for the total amount of medical costs incurred and the U.S. Government has no payment obligation (see paragraph (f) of this provision).</p><br />
+<p>(d) USAID serves as a secondary payer for medical expenses of the contractor and eligible family members who are covered by health insurance, where the following conditions are met:</p><br />
+<p>(1) The illness, injury, or medical condition giving rise to the expense is incurred, caused, or materially aggravated while the eligible individual is stationed or assigned abroad;</p><br />
+<p>(2) The illness, injury, or medical condition giving rise to the expense required or requires hospitalization and the expense is directly related to the treatment of such illness, injury, or medical condition, including obstetrical care; and</p><br />
+<p>(3) The Office of Medical Services (M/MED) or a Foreign Service medical provider (FSMP) determines that the treatment is appropriate for, and directly related to, the illness, injury, or medical condition.</p><br />
+<p>(e) The Mission Director may, on the advice of M/MED or an FSMP at post, authorize medical travel for the contractor or an eligible family member in accordance with the General Provision 10, Travel and Transportation Expenses (July 1993), section (i) entitled "Emergency and Irregular Travel and Transportation."  In the event of a medical emergency, when time does not permit consultation, the Mission Director may issue a Travel Authorization Form or Medical Services Authorization Form DS-3067, provided that the FSMP or Post Medical Advisor (PMA) is notified as soon as possible following such an issuance.  The contractor must promptly file a claim with his or her medevac insurance provider and repay to USAID any amount the medevac insurer pays for medical travel, up to the amount USAID paid under this section.  The contractor must repay USAID for medical costs paid by the medevac insurer in accordance with sections (f) and (g) below.  In order for medical travel to be an allowable cost under General Provision 10, the contractor must provide USAID written evidence that medevac insurance does not cover these medical travel costs.</p><br />
+<p>(f) If the contractor or eligible family member is not covered by primary health insurance, the contractor is the primary payer for the total amount of medical costs incurred.  In the event of a medical emergency, the Medical and Health Program may authorize issuance of Form DS-3067, Authorization for Medical Services for Employees and/or Dependents, to secure admission to a hospital located abroad for the uninsured contractor or eligible family member.  In that case, the contractor will be required to reimburse USAID in full for funds advanced by USAID pursuant to the issuance of the authorization.  The contractor may reimburse USAID directly or USAID may offset the cost from the contractor's invoice payments under this contract, any other contract the individual has with the U.S. Government, or through any other available debt collection mechanism.</p><br />
+<p>(g) When USAID pays medical expenses (e.g., pursuant to Form DS-3067, Authorization for Medical Services for Employees and/or Dependents), repayment must be made to USAID either by insurance payment or directly by the contractor, except for the amount of such expenses USAID is obligated to pay under this provision.  The Contracting Officer will determine the repayment amount in accordance with the terms of this provision and the policies and procedures for employees contained in 16 FAM 521.  When USAID pays the medical expenses, including medical travel costs (see section (e) above), of an individual (either the contractor or an eligible family member) who is covered by insurance, that individual promptly must claim his or her benefits under any applicable insurance policy or policies.  As soon as the individual receives the insurance payment, the contractor must reimburse USAID for the full amount that USAID paid on the individual's behalf or the repayment amount determined by the Contracting Officer in accordance with this paragraph, whichever is less.  If an individual is not covered by insurance, the contractor must reimburse USAID for the entire amount of all medical expenses and any travel costs the contractor receives from his/her medevac provider.</p><br />
+<p>(h) In the event that the contractor or eligible family member fails to recover insurance payments or transfer the amount of such payments to USAID within 90 days, USAID will take appropriate action to collect the payments due, unless such failure is for reasons beyond the control of the USPSC/dependent.</p><br />
+<p>(i) Before departing post or terminating the contract, the contractor must settle all medical expense and medical travel costs.  If the contractor is insured, he or she must provide proof to the Contracting Officer that those insurance claims have been submitted to the insurance carrier(s) and sign a repayment agreement to repay to USAID any amounts paid by the insurance carrier(s).</p><br />
+<p>&emsp;<br />ATTACHMENT 2</p><br />
+<p>FAR 52.222-50 COMBATING TRAFFICKING IN PERSONS (FEB 2009).</p><br />
+<p>(a) Definitions. As used in this clause-<br />"Coercion" means-<br />(1) Threats of serious harm to or physical restraint against any person;<br />(2) Any scheme, plan, or pattern intended to cause a person to believe that failure to perform an<br />act would result in serious harm to or physical restraint against any person; or<br />(3) The abuse or threatened abuse of the legal process.</p><br />
+<p>"Commercial sex act" means any sex act on account of which anything of value is given to or<br />received by any person.</p><br />
+<p>"Debt bondage" means the status or condition of a debtor arising from a pledge by the debtor of<br />his or her personal services or of those of a person under his or her control as a security for debt, if<br />the value of those services as reasonably assessed is not applied toward the liquidation of the debt<br />or the length and nature of those services are not respectively limited and defined.</p><br />
+<p>"Employee" means an employee of the Contractor directly engaged in the performance of work<br />under the contract who has other than a minimal impact or involvement in contract performance.</p><br />
+<p>"Forced Labor" means knowingly providing or obtaining the labor or services of a person-<br />(1) By threats of serious harm to, or physical restraint against, that person or another person;<br />(2) By means of any scheme, plan, or pattern intended to cause the person to believe that, if the<br />person did not perform such labor or services, that person or another person would suffer<br />serious harm or physical restraint; or<br />(3) By means of the abuse or threatened abuse of law or the legal process.</p><br />
+<p>"Involuntary servitude" includes a condition of servitude induced by means of-<br />(1) Any scheme, plan, or pattern intended to cause a person to believe that, if the person did not<br />enter into or continue in such conditions, that person or another person would suffer serious<br />harm or physical restraint; or<br />(2) The abuse or threatened abuse of the legal process.</p><br />
+<p>"Severe forms of trafficking in persons" means-<br />(1) Sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in<br />which the person induced to perform such act has not attained 18 years of age; or<br />(2) The recruitment, harboring, transportation, provision, or obtaining of a person for labor or<br />services, through the use of force, fraud, or coercion for the purpose of subjection to involuntary<br />servitude, peonage, debt bondage, or slavery.</p><br />
+<p>"Sex trafficking" means the recruitment, harboring, transportation, provision, or obtaining of a<br />person for the purpose of a commercial sex act.</p><br />
+<p>(b) Policy. The United States Government has adopted a zero tolerance policy regarding trafficking in persons. Contractors and contractor employees shall not-<br />(1) Engage in severe forms of trafficking in persons during the period of performance of the contract;<br />(2) Procure commercial sex acts during the period of performance of the contract; or<br />(3) Use forced labor in the performance of the contract.</p><br />
+<p>(c) Contractor requirements. The Contractor shall-<br />(1) Notify its employees of-<br />(i) The United States Government's zero tolerance policy described in paragraph (b) of this<br />clause; and<br />(ii) The actions that will be taken against employees for violations of this policy. Such<br />actions may include, but are not limited to, removal from the contract, reduction in benefits,<br />or termination of employment; and<br />(2) Take appropriate action, up to and including termination, against employees or<br />subcontractors that violate the policy in paragraph (b) of this clause.</p><br />
+<p>(d) Notification. The Contractor shall inform the Contracting Officer immediately of-<br />(1) Any information it receives from any source (including host country law enforcement) that<br />alleges a Contractor employee, subcontractor, or subcontractor employee has engaged in<br />conduct that violates this policy; and<br />(2) Any actions taken against Contractor employees, subcontractors, or subcontractor<br />employees pursuant to this clause.</p><br />
+<p>(e) Remedies. In addition to other remedies available to the Government, the Contractor's failure to comply with the requirements of paragraphs (c), (d), or (f) of this clause may result in-<br />(1) Requiring the Contractor to remove a Contractor employee or employees from the<br />performance of the contract;<br />(2) Requiring the Contractor to terminate a subcontract;<br />(3) Suspension of contract payments;<br />(4) Loss of award fee, consistent with the award fee plan, for the performance period in which<br />the Government determined Contractor non-compliance;<br />(5) Termination of the contract for default or cause, in accordance with the termination clause of<br />this contract; or<br />(6) Suspension or debarment.</p><br />
+<p>(f) Subcontracts. The Contractor shall include the substance of this clause, including this paragraph (f), in all subcontracts.</p><br />
+<p>(g) Mitigating Factor. The Contracting Officer may consider whether the Contractor had a Trafficking in Persons awareness program at the time of the violation as a mitigating factor when determining remedies. Additional information about Trafficking in Persons and examples of awareness programs can be found at the website for the Department of State's Office to Monitor and Combat Trafficking in Persons at http://www.state.gov/g/tip.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7ffb19124be9b5f208b84afc9c2287e5' target='_blank' title='Download/View persspec.pdf' class='file'&gt;persspec.pdf&lt;/a&gt;"><a href='/utils/view?id=7ffb19124be9b5f208b84afc9c2287e5' target='_blank' title='Download/View persspec.pdf' class='file'>persspec.pdf</a> (294.34 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Solicitation for SOL-OTI-14-000011</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		1300 Pennsylvania Avenue, NW<br />
+Room 7.10-006<br/>
+
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+	
+		20523
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Ian Reese</div>
+		<div><a href="mailto:ireese@usaid.gov">ireese@usaid.gov</a></div>
+	<div>Phone: 2027066109</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Travis Axton</div>
+		<div><a href="mailto:raxton@usaid.gov">raxton@usaid.gov</a></div>
+	<div>Phone: 2027066115</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=09c577ebb1c63b33e2517e77d2a13544'" class="input-button btn">   </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=55cacf02483de3c861705023f816495e">Solicitation</a> <a target="_blank" href="/utils/dZip?base=09c577ebb1c63b33e2517e77d2a13544&class=document_package&id=55cacf02483de3c861705023f816495e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=7ffb19124be9b5f208b84afc9c2287e5" target="_blank" title="Download/View persspec.pdf" class="file">persspec.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 26, 2014 5:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	921 -- Executive, Legislative, and Other General Government Support/921190 -- Other General Government Support
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

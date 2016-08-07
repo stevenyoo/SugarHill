@@ -1,0 +1,819 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Cloud Service Provider to provide Software as a Service (SaaS) - M67854-14-R-7050 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392497356');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392497356';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=745b28c570a5920844e4c8247cabb059&inline_disposition=1" border="0" alt="United States Marine Corps logo"></div><div class="agency-header agency-header-med"><h2>Cloud Service Provider to provide Software as a Service (SaaS)</h2><div class="sol-num">Solicitation Number: M67854-14-R-7050</div><div class="agency-name">Agency: Department of the Navy<br>Office: United States Marine Corps<br>Location: MARCORSYSCOM</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=cba0011f0c63299505387872a3d99300&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DON/USMC/Contracts_Office_CTQ8/M67854-14-R-7050/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DON/USMC/Contracts_Office_CTQ8/M67854-14-R-7050/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DON/USMC/Contracts_Office_CTQ8/M67854-14-R-7050/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=cba0011f0c63299505387872a3d99300&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=cba0011f0c63299505387872a3d99300&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=cba0011f0c63299505387872a3d99300&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=469ee8edc548fd779e9e7e9754ad0915&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Feb 04, 2014</div><div class="nh-date">12:00 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=cba0011f0c63299505387872a3d99300&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">9:21 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=469ee8edc548fd779e9e7e9754ad0915'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=469ee8edc548fd779e9e7e9754ad0915'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	M67854-14-R-7050
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-04 12:00:45">Feb 04, 2014 12:00 pm</span>
+					</div>
+		<p>Subject: Request for Information/Market Research/Sources Sought for a Cloud Service Provider to provide Software as a Service (SaaS) for the USMC Global Combat Support System - Marine Corps (GCSS-MC)</p><br />
+<p>This request for information (RFI) is seeking responses to determine the availability of qualified providers and the feasibility to leverage cloud services for the GCSS-MC suite of applications.<span style="mso-spacerun: yes">&nbsp; </span>Providers must present their capabilities, methods, approaches, and costing model(s) in sufficient detail to provide the services requested. It is imperative that responses to this solicitation articulate their capabilities clearly and adequately. <span style="mso-spacerun: yes">&nbsp;</span>Please include any comments on the services to be provided or the objectives that may help provide a better overall solution to increase system performance, increase operational efficiencies, and reduce total cost of ownership.</p><br />
+<p>This Request for Information is for planning purposes only and is issued in accordance with FAR Clause 52.215-3.<span style="mso-spacerun: yes">&nbsp; </span>No solicitation document exists at this time.<span style="mso-spacerun: yes">&nbsp; </span>Issuance of this notice does not constitute any obligation on the part of the Government to procure these items or to issue a solicitation.<span style="mso-spacerun: yes">&nbsp; </span>In addition, the Government is under no obligation to pay for information submitted in response to this RFI, and responses to this notice cannot be accepted as offers.<span style="mso-spacerun: yes">&nbsp; </span>Any information that the vendor considers proprietary shall be clearly marked as such.<span style="mso-spacerun: yes">&nbsp; </span>Responses to this RFI that indicate that the information therein is proprietary or represents confidential business information will be received and held in confidence for U.S. Government use only. Pursuant to Federal Acquisition Regulations (FAR) 15.201(e), responses to this are not offers and cannot be accepted by the Government to form a binding contract. Interested parties are solely responsible for all costs and expenses associated with their respective response to this RFI. The Government will not reimburse interested parties for any direct and/or indirect costs and/or expenses associated with their respective responses to this RFI, including, but not limited to any direct and/or indirect costs associated with any submission or information provided to the Government. Moreover, interested parties will not otherwise be entitled to any compensation associated with the Governments use of any submission or information provided by an interested party to the Government pursuant to this RFI. Furthermore, the information provided in this RFI is notional and may change. The Government is under no obligation to revise any aspect of this RFI should any information provided herein change. The Government will provide any additional information and issue any additional requests for information at its sole discretion.</p><br />
+<p>&nbsp;</p><br />
+<p>Description of Services:</p><br />
+<p>&nbsp;</p><br />
+<p>The focus of this RFI is to research the availability of cloud service providers that can provide non-personal services to the Program Manager (PM), GCSS-MC, for physical hosting, IT infrastructure, and day-to-day operations management of the GCSS-MC suite of applications within a private cloud service delivery. The GCSS-MC PM will not exercise any supervision or control over the support contract providing services but will interact as a cloud consumer with shared responsibility of the suite of applications as a SaaS consumer. The Service Provider shall provide all personnel, equipment, supplies, facilities, transportation, tools, materials, supervision, other items, and non-personal services necessary to provide an application hosting environment and application managed services as defined in mutual agreements.</p><br />
+<p>&nbsp;</p><br />
+<p>Background:</p><br />
+<p>&nbsp;</p><br />
+<p>GCSS-MC is designated by the Under Secretary of Defense, Acquisition Technology and Logistics (USD AT&amp;L) as an Acquisition Category I (ACAT 1) Major Automated Information System (MAIS) within the DoD. GCSS-MC enhances the U.S. Marine Corps (USMC) warfighting capabilities by providing an integrated enterprise logistics system which supports supply, maintenance, acquisition, transportation, health, and engineering capabilities.<span style="mso-spacerun: yes">&nbsp; </span>GCSS-MC operational capabilities include improved materiel readiness and logistics support provided to the Marine Air-Ground Task Force (MAGTF).<span style="mso-spacerun: yes">&nbsp; </span>GCSS-MC will provide assured capabilities listed in the table below, which supports defined missions outlined in the GCSS-MC Capability Production Document (CPD).<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p><br />
+<table style="width: 100%; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0in 5.75pt 0in 5.75pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0" width="100%"><br />
+<thead><br />
+<tr style="height: 15pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-height-rule: exactly;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.75pt; width: 100%; padding-right: 5.75pt; background: #b3b3b3; height: 15pt; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; border: windowtext 1pt solid;" colspan="2" width="100%"><br />
+<p>Supported Processes</p><br />
+</td><br />
+</tr><br />
+</thead><br />
+<tbody><br />
+<tr style="height: 15pt; mso-yfti-irow: 1; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Logistics Chain Plan (Customer)</span><br />
+<p>&nbsp;</p><br />
+</p><br />
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><br />
+<tbody><br />
+<tr><br />
+<td><br />
+<p>&nbsp;</p><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Procurement Fulfillment</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 2; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Demand Planning</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Asset Management</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 3; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Maintenance Planning</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Task Organization</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 4; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Inventory Planning</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Customer Management</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 5; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Inventory Control (Demand Supply)</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Sourcing</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 6; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Inventory Capacity Operations</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Maintenance Scheduling</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 7; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Maintenance Capacity Planning</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Maintenance Operations Management</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 8; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Distribution Operations Management</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Maintenance Fulfillment</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 9; mso-height-rule: exactly;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Inventory Operations Management</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Warehouse Management</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 15pt; mso-yfti-irow: 10; mso-height-rule: exactly; mso-yfti-lastrow: yes;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.75pt; width: 44.84%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt;" width="44%"><br />
+<p><span style="mso-bidi-font-weight: bold">Order Management</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.75pt; width: 55.16%; padding-right: 5.75pt; height: 15pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-height-rule: exactly; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="55%"><br />
+<p><span style="mso-bidi-font-weight: bold">Request Management</span></p><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+</p><br />
+<p>&nbsp;</p><br />
+<p>Release 1.1 of the GCSS-MC system is currently in production, architected as a single enterprise instance and is currently fielded to over 30,000 users.<span style="mso-spacerun: yes">&nbsp; </span>In the near term several new deficiency corrections will be added to GCSS-MC to enhance the overall system capabilities of the 1.1 baseline. <span style="mso-spacerun: yes">&nbsp;</span>The system currently requires a system technical refresh and an upgrade to the Oracle Enterprise Business Suite (EBS) version 12.2. There are also long term plans to increase the capabilities that the system provides. <span style="mso-spacerun: yes">&nbsp;</span>The current production system is hosted at the Defense Information Systems Agency (DISA), Defense Enterprise Computing Center, Mechanicsburg, PA, using a Linux RHEL 4.x &amp; 5.x Operating System (OS), running on Hewlett Packard (HP) X86 and Itanium chipset hardware which leverages Oracle EBS 11.5.10.2, other Oracle technologies, and third party technology software components. <span style="mso-spacerun: yes">&nbsp;</span>GCSS-MC is designated as a Mission Area Category (MAC) II system and requires accreditation at that level.<span style="mso-spacerun: yes">&nbsp; </span>Some operational and performance requirements may exceed MAC II requirements to meet the needs of the end user.</p><br />
+<p>The network, scalable storage, and computing hardware infrastructure (including the operating system) is managed by support personnel. The application components are managed by a third party vendor. Standard business hours are 24x7x365 system administration for the production and production test operations; proposed continuity of operation (COOP) sites must provide for a Recovery Time Objective (RTO) of 30 minutes and a Recovery Point Objective (RPO) of one second.<span style="mso-spacerun: yes">&nbsp; </span>All solution development environments (SDE), development and test, are currently hosted at a commercial site and plans exist to transition them to a SDE at Space and Naval Warfare Systems Command (SPAWAR) in Charleston, SC. Current storage requirements are as follows:</p><br />
+<p>&nbsp;</p><br />
+<p><br />
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; MARGIN-LEFT: -4.5pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0in 5.4pt 0in 5.4pt" border="1" cellspacing="0" cellpadding="0"><br />
+<tbody><br />
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 459.9pt; padding-right: 5.4pt; padding-top: 0in; mso-border-alt: solid windowtext .5pt; border: windowtext 1pt solid;" colspan="3" width="613" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt"><span style="mso-ansi-language: EN">Current Storage Requirements in Terabytes (TB)</span></p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 1"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 108.9pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt;" width="145" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">&nbsp;</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">Storage Area Networks (SANs)</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">Network Attached Storage (NAS)</p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 2"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 108.9pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt;" width="145" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">Production Environment</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">11.75</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">14.5</p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 3"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 108.9pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt;" width="145" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">Production Support Services</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">7</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">6</p><br />
+</td><br />
+</tr><br />
+<tr style="mso-yfti-irow: 4; mso-yfti-lastrow: yes"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 108.9pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt;" width="145" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">Developmental Support Services</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">6</p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 175.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="234" valign="top"><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">5.5</p><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+</p><br />
+<p>&nbsp;</p><br />
+<p>Objectives:<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p>&nbsp;</p><br />
+<p>In an effort to increase IT efficiencies, minimize risk, achieve performance objectives, and reduce total cost of ownership, the GCSS-MC PM is conducting market research to identify the best means to support current and future application delivery and support for the GCSS-MC system. The GCSS-MC PM is investigating the use of a Cloud provider and cloud concepts to support all GCSS-MC production operations. The PM is looking for application hosting and managed service alternatives that provide for the greatest operational efficiency, minimize organizational complexity, meet all Federal and DoD regulations, and can meet cost, schedule, and performance drivers.</p><br />
+<p>&nbsp;</p><br />
+<p>GCSS-MC is seeking information, capability statements, approaches, and a rough order of magnitude from qualified and proven cloud hosting partners interested in providing application hosting/support services within an accredited DoD Information Assurance Certification and Accreditation Process (DIACAP) MAC II Sensitive Federal Hosting facility.</p><br />
+<p>&nbsp;</p><br />
+<p>The Government is looking to establish a relationship with a hosting provider that provides a total solution of measurable services that is responsive, supportive, flexible, and cost effective to the GCSS-MC program office. The provider shall provision all infrastructure, maintain and administer operating systems, processing, scalable storage, networks, and other fundamental computing resources and will comply with all security requirements. <span style="mso-spacerun: yes">&nbsp;</span>The provider shall provide a delivery service that minimizes the GCSS-MC PM involvement in the day-to-day operations, hardware and software technical refreshes, hardware and software license support management, managed services for the GCSS-MC production and preproduction environments; this includes implementation, provisioning, hosting, monitoring, reporting, maintenance, management, operational program management support, configuration management, technical upgrades, tier 3 service desk, and administration of all processing, networks, operating systems, applications, storage area network (SAN) Storage, SAN backups and archiving, backup and recovery, continuity of operations/enterprise disaster recovery, all related security requirements, and other fundamental computing resources for all production environments.</p><br />
+<p>&nbsp;</p><br />
+<p>The GCSS-MC PMs intent is not to manage or control the underlying infrastructure or applications. The provider shall be responsible for maintaining and administering all hardware and software to ensure service levels are maintained, security accreditation is preserved, and the system certified configuration is maintained and supported by all hardware and software vendors.</p><br />
+<p>&nbsp;</p><br />
+<p>The draft service table provided (see attachment) represents the minimum set of services required in support of the GCSS-MC suite of applications. It is requested that in addition to other items offered, the respondents complete the table and provide their ability to provide these services, at what service levels they offer/support, and also what is used as the means to price these services.<span style="mso-spacerun: yes">&nbsp; </span>The respondents shall presume the period of performance is one base year and four option years; if the respondents offer multiple costing methods, e.g. flat rates, "step" pricing, escalating pricing, inflation based, etc., they shall be made transparent in the respective responses. <span style="mso-spacerun: yes">&nbsp;</span>If the provider believes there are additional services required to meet the objectives please identify the service and provide the information requested.</p><br />
+<p>&nbsp;</p><br />
+<p>RFI Submission Instructions:</p><br />
+<p>RFI responses shall include the methodology used and the approach to meet the technical objectives. <span style="mso-spacerun: yes">&nbsp;</span>Responses shall also include where they have provided such services, the methods used to establish pricing and a rough order of magnitude to provide these services in support of GCSS-MC.<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p>RFI responses shall be no longer than 10 pages in length using a 12 point Times New Roman font.<span style="mso-spacerun: yes">&nbsp; </span>Tables and graphics may be used with font no smaller than 10 point. Written responses can be in any format, but electronic media shall be in Microsoft Word&reg; and/or Excel formats. Completion of the information requested in the table above is not included in the 10 page limit.</p><br />
+<p>RFI Responses are due not later than 3<span style="BACKGROUND: yellow; mso-highlight: yellow">:00 PM Eastern Standard Time on 21 February 2014</span> via one hard copy and one electronic copy on a compact disc, to the address provided below.<span style="mso-spacerun: yes">&nbsp; </span>Questions may be submitted until 3<span style="BACKGROUND: yellow; mso-highlight: yellow">:00 PM Eastern Standard Time on 14 February 2014</span> to the RFI point of contact (POC) via email at john.wahl@usmc.mil.<span style="mso-spacerun: yes">&nbsp; </span>Each question submitted will be consolidated and published anonymously in an amendment to this RFI, unless there are no questions received.</p><br />
+<p>Address for the RFI POC is as follows:</p><br />
+<p>Marine Corps Systems Command</p><br />
+<p>Attn: GCSS-MC, John J. Wahl</p><br />
+<p>2200 Lester Street</p><br />
+<p>Quantico, VA, 22134-6050</p><br />
+<p>Marine Corps Systems Command</p><br />
+<p>&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-02-11 09:21:27">Feb 11, 2014 9:21 am</span>
+					</div>
+		<br /><br />QUESTIONS AND ANSWER PERIOD:<br /><br />QUESTION(S) ASKED THUS FAR PRIOR TO THE QUESTION PERIOD ENDING DATE OF 14 February 2014:<br /><br />&nbsp;<br />
+<p>QUESTION</p><br />
+<p>&nbsp;</p><br />
+<p>After reading through the solicitation, it seems this is overwhelmingly IaaS.<span style="mso-spacerun: yes">&nbsp; </span>Is this really looking for infrastructure and application "managed service"?</p><br />
+<p>If so, we're not seeing much that would be categorized as Saas.</p><br />
+<p>ANSWER</p><br />
+<p><span style="mso-spacerun: yes">P</span>lease see NIST Cloud Computing Reference Architecture, Special Publication 500-92.<span style="mso-spacerun: yes">&nbsp; </span>Per the publication, the GCSS-PM is conducting market research on cloud computing service orchestration that will minimize the involvement of the Program Office.<span style="mso-spacerun: yes">&nbsp; </span>Per definition, that is SaaS.<span style="mso-spacerun: yes">&nbsp; </span>You are correct that the IaaS component is a huge component of<span style="mso-spacerun: yes">&nbsp; </span>SaaS, thus it is represented heavily in the RFI.<br /><br /><br />-break-<br /><br />no other additions or changes - thank you for expressing an interest to the needs of the USMC - MARCORSYSCOM<br />&nbsp;</p><br />
+<p>QUESTION:<span style="mso-spacerun: yes">&nbsp; </span>Is there an incumbent to this scope of work</p><br />
+<p>ANSWER: No incumbent to this scope of work</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">host site worksheet</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	host site worksheet
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=043afaa795beecc0d163b863ac54e928' target='_blank' title='Download/View GCSS-MC_HOST_Site_Service_Worksheet_-_03_February_2014,_ver2.docx' class='file'&gt;GCSS-MC_HOST_Site_Service_Worksheet_-_03_February_2014,_ver2.docx&lt;/a&gt;"><a href='/utils/view?id=043afaa795beecc0d163b863ac54e928' target='_blank' title='Download/View GCSS-MC_HOST_Site_Service_Worksheet_-_03_February_2014,_ver2.docx' class='file'>GCSS-MC_HOST_Site_Service_Worksheet_-_03_February_2014,_ver2.docx</a> (33.25 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> The draft service table provided (see attachment) represents the minimum set of services required in support of the GCSS-MC suite of applications.  It is requested that in addition to other items offered, the respondents complete the table and provide their ability to provide these services, at what service levels they offer/support, and also what is used as the means to price these services.  </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		2200 Lester Street<br />
+<br/>
+
+			
+				
+		Quantico,
+
+			
+	
+		Virginia
+
+			
+	
+		22134
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>JOHN J WAHL,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:JOHN.WAHL@USMC.MIL">JOHN.WAHL@USMC.MIL</a></div>
+			
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=469ee8edc548fd779e9e7e9754ad0915'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=469ee8edc548fd779e9e7e9754ad0915'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=3641341f43895720a047abf96132d511">host site worksheet</a> <a target="_blank" href="/utils/dZip?base=469ee8edc548fd779e9e7e9754ad0915&class=document_package&id=3641341f43895720a047abf96132d511" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="/utils/view?id=043afaa795beecc0d163b863ac54e928" target="_blank" title="Download/View GCSS-MC_HOST_Site_Service_Worksheet_-_03_February_2014,_ver2.docx" class="file">GCSS-MC_HOST_Site_Service_Worksheet_-_03_February_2014,_ver2.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 21, 2014 3:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 21, 2014 3:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	March 8, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 8, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541513 -- Computer Facilities Management Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

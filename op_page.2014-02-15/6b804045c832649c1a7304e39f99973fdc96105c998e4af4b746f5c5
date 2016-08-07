@@ -1,0 +1,770 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Building Operations and Maintenance for Maine Land Ports of Entry - GS-01P-14-BW-D-0009 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495204');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495204';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=a42cc99ad9c56187bc68c611e4067366&inline_disposition=1" border="0" alt="Public Buildings Service (PBS) logo"></div><div class="agency-header agency-header-med"><h2>Building Operations and Maintenance for Maine Land Ports of Entry</h2><div class="sol-num">Solicitation Number: GS-01P-14-BW-D-0009</div><div class="agency-name">Agency: General Services Administration<br>Office: Public Buildings Service (PBS)<br>Location: Acquisition Branch Service Centers Division (1PSA)</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=8582ad0f47aeea9c88ec88fe5081296f&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/GSA/PBS/1PK-ME/GS-01P-14-BW-D-0009/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/GSA/PBS/1PK-ME/GS-01P-14-BW-D-0009/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/GSA/PBS/1PK-ME/GS-01P-14-BW-D-0009/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=8582ad0f47aeea9c88ec88fe5081296f&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8582ad0f47aeea9c88ec88fe5081296f&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8582ad0f47aeea9c88ec88fe5081296f&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=1bfeeb718278490f5788cc14d7fa9098&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Jan 21, 2014</div><div class="nh-date">4:20 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=6c31ed799a55b3130d0f3a54ee3fe2a0&_cview=0">Changed</a><div class="nh-date">Jan 28, 2014</div><div class="nh-date">5:01 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=da8fd0fd7797bd4cfa054bf9f955c298&_cview=0">Changed</a><div class="nh-date">Jan 29, 2014</div><div class="nh-date">6:01 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=8582ad0f47aeea9c88ec88fe5081296f&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">4:58 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=1bfeeb718278490f5788cc14d7fa9098'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=1bfeeb718278490f5788cc14d7fa9098'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	GS-01P-14-BW-D-0009
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-21 16:20:17">Jan 21, 2014 4:20 pm</span>
+					</div>
+		The General Services Administration (GSA) New England Region, North Service Center Branch is issuing this Request for Proposal (RFP) for Combined Building Operations and Maintenance Services at the following locations:<br />
+<p>1. SSA building in Presque Isle, 3,870 rentable square feet. <br />2. US Border Patrol Sector Headquarters, Hodgdon, 20,465 rentable square feet.<br />3. LPOE Houlton, 18,424 rentable square feet. <br />4. LPOE Orient, 3,293 rentable square feet.<br />5. LPOE Limestone, 5,276 rentable square feet.<br />6. LPOE Fort Fairfield, 3,870 rentable square feet.</p><br />
+<p>This procurement is a 100% Small Business Set-aside. The NAICS code for this service is 561210. The Small Business Size standard is $35.5 MILLION.</p><br />
+<p>The Contractor must provide management, supervision, labor, materials, equipment, and supplies and shall be responsible for the efficient, effective, economical, and satisfactory operation, scheduled and unscheduled maintenance, and repair of equipment and systems located within the property line of the below listed building:<br />1. Custodial services (Interior/Exterior)<br />2. Snow Removal<br />3. Grounds Maintenance<br />4. Solid waste removal<br />5. Recycling<br />6. Integrated Pest Management Services<br />7. Air-conditioning equipment and systems.<br />8. Air-handling/distribution equipment and systems<br />9. Electrical systems and equipment, lighting and switchgear systems<br />10. Heating, ventilation, and air conditioning (HVAC) systems and equipment.<br />11. Plumbing and domestic water equipment and systems to include domestic water fountains and coolers, decorative ponds, and small circulating water pumps less than one (1) horsepower.<br />12. Sanitary sewage equipment and systems<br />13. Storm drainage equipment and systems.<br />14. Fire protection and life safety systems and equipment including detection, notification, and communication systems as well as monitoring service, including sprinkler systems, standpipes, backflow preventors, water storage tanks, fire extinguishers, etc.<br />15. Special suppression systems (i.e., wet chemical, dry chemical, FM-200, Inergen, Halon, etc.)<br />16. Smoke control systems (i.e., building, atrium, stair pressurization, elevator ventilation, etc.)<br />17. Fire doors and windows (including hinges, closers and latching hardware)<br />18. Non agency security system (locks, gates/arms, hydraulic bollards, keypads, card readers, cameras, magnetic locks, etc...) and its components<br />19. Architectural and structural systems, fixtures, and equipment within the site (to the property line).<br />20. Maintenance of landscape <br />21. Paper and soap dispensing equipment in restrooms.</p><br />
+<p>Additional services may be ordered at the discretion of the Government for work relating to the operations, maintenance and repair or upgrade of the covered facilities, but not covered in the basic services of the contract, as described in this document.</p><br />
+<p>The anticipated award will be a base year contract with four one-year options.<br />We anticipate releasing the solicitation on or about January 28, 2014, with proposal due date on or about February 25, 2014.</p><br />
+<p>A pre-proposal conference is scheduled for February 5-6, 2014. Technical documents will be available through the secure website via a direct link from FEDBIZOPPS. Bidders are responsible for printing the RFP and all related documents. It is also the bidder's responsibility to monitor this site for release of the RFP, and amendments and any related information.</p><br />
+<p>Contracting Office Address: <br />General Services Administration, Public Buildings Service (PBS), Acquisition Branch (1PSA), 10 Causeway Street, Boston, MA, 02222-1077</p><br />
+<p>Point of Contact(s): <br />Michael Griffin, Contract Specialist, Phone 617-565-5002, Fax 617-565-7145, Email michaelp.griffin@gsa.gov - Donna Maffeo, Contracting Officer, Phone 617-565-6012, Fax 617-565-7145, Email donna.maffeo@gsa.gov</p><br />
+&nbsp;
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-01-28 17:01:39">Jan 28, 2014 5:01 pm</span>
+					</div>
+		This Presolicitation notice is being modified to add Pre-proposal meeting and site visit inoformation.&nbsp; Please see the following for the above mentioned information:<br /><br />PRE-PROPOSAL CONFERENCE FOR REQUEST FOR PROPOSAL NO. GS-01P-14-BW-D-0009 COMBINED OPERATIONS AND MAINTENANCE SERIVCES AT LPOE HOULTON, LPOE ORIENT, USBP SEC HQ HODGDON, LPOE FT FAIRFIELD, LPOE LIMESTONE, AND SSA IN PRESQUE ISLE <br /><br />
+<p><br />Date: February 5-6, 2014<br />Time: 09:00 A.M. Local Time<br />Location: LPOE Houlton<br />27 Customs Loop<br />Houlton, ME 04730-9998</p><br />
+<p>The purpose of this Pre-Proposal Conference is to provide a briefing of the Solicitation and the scope of work, so that the offerors can ascertain the complexities of the work to be performed which would materially affect the conduct of operations, the schedule or cost thereof. Please note that the walk through of these facilities is scheduled for two (2) days.</p><br />
+<p>After the Pre-proposal Conference, interested firms are requested to submit questions in writing to Michael Griffin, Contracting Specialist, at michaelp.griffin@gsa.gov within two (2) business days after the date of the Pre-Proposal Conference in order to facilitate preparation of responses. Each question should clearly specify the Section, Page and Paragraph, to which it refers. Answers to questions will be published in FBO after the Pre-Proposal Conference in as expeditious a manner as possible.</p><br />
+<p>While the conference will provide an opportunity to discuss and clarify the solicitation provisions, nothing said or represented in the conference shall be deemed to modify the solicitation requirements unless followed by a written amendment.</p><br />
+<p>Attendance at this conference is vital to the preparation of a competitive, cost effective, and accurate proposal in accordance with the technical and price requirements. It will enable the contractor to become acquainted with the areas which require special attention. An official tour of the buildings will be conducted after the pre-proposal conference. Additional site visits are not planned at this time.</p><br />
+<p>Offerors should notify Mr. Carl Dodge, Property Manager, at (207) 532-7852, Blackberry: (207) 731-1073, Email: carl.dodge@gsa.gov of the names of the persons who will attend the Pre-Proposal Conference. Notification should be made at least two working days prior to the scheduled Pre-Proposal Conference, if possible.</p><br />
+<p>Travel information:</p><br />
+<p>Airport: Either Bangor or Presque Isle (Please note that the Bangor Airport is a two hour drive from Houlton). Flyers preference to carrier and flight schedule would dictate which location. Same for return trip.</p><br />
+<p>Hotels: Hampton Inn in Presque Isle, ME, or Local hotels in Houlton would be Shiretown or Ivey's in Houlton, their contact info can be obtained through an internet search.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	January 29, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=f6c6407ceb02488dded2e40284ca8e55' target='_blank' title='Download/View GS-01P-14-BW-D-0009_SOLICITATION_PART_1.pdf' class='file'&gt;GS-01P-14-BW-D-0009_SOLICITATION_PART_1.pdf&lt;/a&gt;"><a href='/utils/view?id=f6c6407ceb02488dded2e40284ca8e55' target='_blank' title='Download/View GS-01P-14-BW-D-0009_SOLICITATION_PART_1.pdf' class='file'>GS-01P-14-BW-D-0009_SOLICITATION_PART_1.pdf</a> (2,654.88 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Solicitation Part 1 (Please Note there are two parts to this solicitation)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=66f04fbbcd5599f91b9a054acb3fa8e9' target='_blank' title='Download/View GS-01P-14-BW-D-0009_SOLICITATION_PART_2.pdf' class='file'&gt;GS-01P-14-BW-D-0009_SOLICITATION_PART_2.pdf&lt;/a&gt;"><a href='/utils/view?id=66f04fbbcd5599f91b9a054acb3fa8e9' target='_blank' title='Download/View GS-01P-14-BW-D-0009_SOLICITATION_PART_2.pdf' class='file'>GS-01P-14-BW-D-0009_SOLICITATION_PART_2.pdf</a> (4,961.34 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Solicitation Part 2 (Please Note there are two parts to this solicitation)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=495e9362f5ee8086b315e0fac534b8d3' target='_blank' title='Download/View GSA_INVENTORY_LIST_(No_locations).zip' class='file'&gt;GSA_INVENTORY_LIST_(No_locations).zip&lt;/a&gt;"><a href='/utils/view?id=495e9362f5ee8086b315e0fac534b8d3' target='_blank' title='Download/View GSA_INVENTORY_LIST_(No_locations).zip' class='file'>GSA_INVENTORY_LIST_(No_locations).zip</a> (175.66 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Building Inventory Lists</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=6f31081c8b2c5012fa27323570a039d1' target='_blank' title='Download/View Pre-proposal_Conference_and_Site_Visit_Letter_GS-01P-14-BW-D-0009.pdf' class='file'&gt;Pre-proposal_Conference_and_Site_Visit_Letter_GS-01P-14-BW-D-0009.pdf&lt;/a&gt;"><a href='/utils/view?id=6f31081c8b2c5012fa27323570a039d1' target='_blank' title='Download/View Pre-proposal_Conference_and_Site_Visit_Letter_GS-01P-14-BW-D-0009.pdf' class='file'>Pre-proposal_Conference_and_Site_Visit_Letter_GS-01P-14-BW-D-0009.pdf</a> (14.48 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Pre-proposal and Site Visit Letter</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=87255c64f7851e29b59972e6e7b1dd65' target='_blank' title='Download/View PM_Guide.pdf' class='file'&gt;PM_Guide.pdf&lt;/a&gt;"><a href='/utils/view?id=87255c64f7851e29b59972e6e7b1dd65' target='_blank' title='Download/View PM_Guide.pdf' class='file'>PM_Guide.pdf</a> (5,283.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> PM GUIDE</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Pre-Proposal Conference Minutes</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Pre-Proposal Conference Minutes
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=d7fbf724927a6f5e5e8d0bb27aee8195' target='_blank' title='Download/View Pre-proposal_Conference_Minutes_GS-01P-14-BW-D-0009.pdf' class='file'&gt;Pre-proposal_Conference_Minutes_GS-01P-14-BW-D-0009.pdf&lt;/a&gt;"><a href='/utils/view?id=d7fbf724927a6f5e5e8d0bb27aee8195' target='_blank' title='Download/View Pre-proposal_Conference_Minutes_GS-01P-14-BW-D-0009.pdf' class='file'>Pre-proposal_Conference_Minutes_GS-01P-14-BW-D-0009.pdf</a> (469.07 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Pre-Proposal Conference Minutes</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		10 Causeway St.<br />
+Bosotn, MA 02222<br/>
+
+			
+				
+		Boston,
+
+			
+	
+		Massachusetts
+
+			
+	
+		02222
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		VARIOUS LOCATIONS IN MAINE<br/>
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Michael P. Griffin</div>
+		<div><a href="mailto:michaelp.griffin@gsa.gov">michaelp.griffin@gsa.gov</a></div>
+	<div>Phone: 6175655002</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Donna Maffeo,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:donna.maffeo@gsa.gov">donna.maffeo@gsa.gov</a></div>
+	<div>Phone: (617) 565-6012</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=1bfeeb718278490f5788cc14d7fa9098'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=1bfeeb718278490f5788cc14d7fa9098'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=7fd0f3f93d4d2786faedcf6815334471">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=1bfeeb718278490f5788cc14d7fa9098&class=document_package&id=7fd0f3f93d4d2786faedcf6815334471" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 29, 2014</div></dt><dd><a href="/utils/view?id=f6c6407ceb02488dded2e40284ca8e55" target="_blank" title="Download/View GS-01P-14-BW-D-0009_SOLICITATION_PART_1.pdf" class="file">GS-01P-14-BW-D-0009_SOLICITATION_PART_1.pdf</a></dd><dd><a href="/utils/view?id=66f04fbbcd5599f91b9a054acb3fa8e9" target="_blank" title="Download/View GS-01P-14-BW-D-0009_SOLICITATION_PART_2.pdf" class="file">GS-01P-14-BW-D-0009_SOLICITATION_PART_2.pdf</a></dd><dd><a href="/utils/view?id=495e9362f5ee8086b315e0fac534b8d3" target="_blank" title="Download/View GSA_INVENTORY_LIST_(No_locations).zip" class="file">GSA_INVENTORY_LIST_(No_locations).zip</a></dd><dd><a href="/utils/view?id=6f31081c8b2c5012fa27323570a039d1" target="_blank" title="Download/View Pre-proposal_Conference_and_Site_Visit_Letter_GS-01P-14-BW-D-0009.pdf" class="file">Pre-proposal_Conference_and_Site_Visit_Letter_GS-01P-14-BW-D-0009.pdf</a></dd><dd><a href="/utils/view?id=87255c64f7851e29b59972e6e7b1dd65" target="_blank" title="Download/View PM_Guide.pdf" class="file">PM_Guide.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=68ebf103ffcc301dcf24194789e2468b">Pre-Proposal Conference Minutes</a> <a target="_blank" href="/utils/dZip?base=1bfeeb718278490f5788cc14d7fa9098&class=document_package&id=68ebf103ffcc301dcf24194789e2468b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=d7fbf724927a6f5e5e8d0bb27aee8195" target="_blank" title="Download/View Pre-proposal_Conference_Minutes_GS-01P-14-BW-D-0009.pdf" class="file">Pre-proposal_Conference_Minutes_GS-01P-14-BW-D-0009.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 21, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 25, 2014 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 25, 2014 2:00 pm
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	May 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	May 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	S -- Utilities and housekeeping services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	561 -- Administrative and Support Services/561210 -- Facilities Support Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

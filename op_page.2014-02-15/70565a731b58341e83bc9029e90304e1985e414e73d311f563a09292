@@ -1,0 +1,610 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Automated Accessioning System for Specimen Bottles Used for Urinalysis Drug Testing in Support of the Navy Drug Screening Laboratory  Great Lakes, IL - N62645-14-RFI-01 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392492652');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392492652';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=0f0e0f6243627794f7057c2259bb6fbf&inline_disposition=1" border="0" alt="Bureau of Medicine and Surgery logo"></div><div class="agency-header agency-header-sm"><h2>Automated Accessioning System for Specimen Bottles Used for Urinalysis Drug Testing in Support of the Navy Drug Screening Laboratory  Great Lakes, IL</h2><div class="sol-num">Solicitation Number: N62645-14-RFI-01</div><div class="agency-name">Agency: Department of the Navy<br>Office: Bureau of Medicine and Surgery<br>Location: NMLC</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=116fb2ccde5381630bf13e954dc8367f&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DON/BUMED/N62645/N62645-14-RFI-01/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DON/BUMED/N62645/N62645-14-RFI-01/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DON/BUMED/N62645/N62645-14-RFI-01/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=116fb2ccde5381630bf13e954dc8367f&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=116fb2ccde5381630bf13e954dc8367f&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=116fb2ccde5381630bf13e954dc8367f&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 12, 2014</div><div class="nh-date">2:41 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=116fb2ccde5381630bf13e954dc8367f'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=116fb2ccde5381630bf13e954dc8367f'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	N62645-14-RFI-01
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-12 14:41:32">Feb 12, 2014 2:41 pm</span>
+					</div>
+		This is a Request for Information (RFI), the Government is not requesting offers or proposals at this time. Any responses to this RFI received by the Government will not be accepted to form a binding contract. This is a market survey for planning purposes and no award will be made as a result of this RFI. If a solicitation is issued, the Government does not guarantee that it will be issued to RFI respondents. The Government is also requesting that restrictive or proprietary markings not be used in response to the RFI. Responses to this RFI will not be returned. Not responding to this RFI does not preclude participation in any future solicitation, if one is issued.<br />
+<p>The Department of Defense (DoD) Drug Demand Reduction Program (DDRP) is conducting a market survey to determine current interest, capabilities, comments and questions regarding an Automated Accessioning System for specimen bottles used for urinalysis drug testing in support of the Navy Drug Screening Laboratory located at Great Lakes, IL. Responses to this RFI must address the topic areas specified below.</p><br />
+<p>Background: Navy Drug Screening Laboratory - Great Lakes processed approximately 300,000 urine specimens from the United States Military Entrance Processing Command (USMEPCOM) in fiscal year 2013. The current process for accessioning these samples is completely manual and requires tedious visual verification of data that is also bar-coded. The time required for the initial processing of these samples totals approximately 5,250 man hours per year; this equates to three full time staff members. The current accessioning process is described in Enclosure 4.</p><br />
+<p>Principles of the Accessioning Process<br />This system will accession specimen bottles for urinalysis drug testing. Accessioning involves matching information on the bottle label with corresponding information on the chain of custody form submitted with a box of specimens. A sample of the current bottle label is described in Enclosure 3. There is one chain of custody form for up to twelve specimen bottles. Any mismatch of information between bottle and form is detected and the specimen is labeled as discrepant. Discrepant specimens are rare, less than 1%. The label supplied on the bottle has information fields in set positions that are identifiable on the basis of field length, informational content, and format. Non-discrepant samples are labeled with a Laboratory Accessioning Number (LAN) printed on the label. The labeled bottles are placed in sequential order onto specialized specimen trays in batches of 100. Discrepant samples must be sequestered or otherwise identified or isolated via a unique LAN. Within the batch, three (3) or more pre-inserted place holder bottles will be identified as such, assigned a LAN, and labeled the same as the specimen bottles. These place holders will eventually be replaced with blind quality control samples by a technician. Accuracy is of primary importance, because the end result from the drug test must hold up in court. Reliability is also very important, because any necessary intervention to mitigate problems lessens the utility of this proposed system. Speed is also important, because this system is meant to increase efficiency of a time-critical process.</p><br />
+<p>Essential Characteristics Desired<br />1. The bottles which arrive at the lab are standardized Specimen Collection Containers (SCC). Any automation of process components involving the received bottles mentioned above must be compatible with the existing SCC currently in use at the DOD Drug Testing Laboratories. The characteristics are listed below:<br />&bull; Cylindrical HDPE 3 oz (90 ml) capacity bottle. <br />&bull; Diameter 50mm x Height 80mm<br />&bull; Screw cap enclosure</p><br />
+<p>Two examples of bottles which meet the SCC requirements available on GSA are:</p><br />
+<p>Mfr Part No.: 1655778<br />Contractor Part No.: 165-5778<br />Manufacturer: APOINT<br />Contract No.: GS-02F-0156Y (ends: Jun 11, 2017)<br />MAS Schedule/SIN: 81IB/617-2<br />Made In: UNITED STATES OF AMERICA</p><br />
+<p>Mfr Part No.: 6640001655778<br />Manufacturer: NIB<br />Contract No.: GS-02F-0162R (ends: Jun 20, 2015)<br />MAS Schedule/SIN: 75/75 200<br />Warranty: STANDARD WARRANTY<br />Made In: UNITED STATES OF AMERICA</p><br />
+<p>2. Any automation of process components involving the received bottles mentioned above must be compatible with the existing specimen bottle trays. The trays are plastic, 39.0 cm wide x 55.5 cm long x 4.2 cm high with 5 troughs. Each trough is 5.5 cm wide separated by 2.0 cm inner walls and holds 10 specimen bottles for a total of 50 bottles per tray.<br />3. Any automation process components involving the test tubes mentioned above must be compatible with the test tubes and test tube racks and trays currently in use at the DOD Drug Testing Laboratories. The characteristics are listed below:<br />&bull; The instrument that uses these racks and tubes is the Roche/Hitachi Modular Analytics with the d- and p-modules.<br />&bull; The tubes are 16x100mm glass or plastic tubes with false bottoms as shown in the picture.<br />&bull; The trays are Roche part number 4679431. Dimensions: 650mm long x 125mm wide with a 30mm height and a handle that sticks out 35mm<br />&bull; The racks are Roche part number 1903004001. Dimensions: 120mm long x 20mm wide x 70mm high<br />&bull; The test tubes and test tube racks and trays in use are subject to change specifications within the next two (2) years. Thus, any automation process components involving the test tubes should be adaptable.<br />4. Any automation of process components involving the chain of custody forms mentioned above must be compatible with the existing 8.5" x 11" paper forms. Please see the Enclosure 2 demonstrating form layout and content.<br />5. Any automation of process components involving LAN labeling must utilize labels capable of affixing to curved HDPE plastic bottles, borosilicate glass test tubes, plastic test tubes, and paper without "curling" or falling off, even if subjected to up to three (3) freeze-thaw cycles. As an option, the system can be configured to work with existing label stock. The existing LAN label stock uses jacket number 641-271 from Barcodes West, 1560 First Avenue South, Seattle, WA 98134. The existing LAN labels have an overall dimension of 2.375 inches x 1.75 inches. Within that size, there are four (4) sections separated by three (3) perforations. Two of the sections measure 0.8125 inches x 1.75 inches; and two of the sections measure 0.375 inches x 1.75 inches.<br />6. Any automation of process components involving label reading should be compliant with the Code-128 (DoD samples) and Code-39 (USMEPCOM samples) bar codes currently in use. Additionally, any label reading function of a proposed system should be capable of detecting the presence of handwriting (i.e. initials) in a specified field on the bottles' labels<br />7. The LANs utilize the following 11-character format:</p><br />
+<p>GYYMBBBBNNN where:<br />G: Always "G", signifies Great Lakes<br />YY: Two digit year<br />M: One letter month identifier; A-M excluding I (ex: JAN = A, Dec = M)<br />BBBB: Four digit batch number.<br />Military (MIL) Batch: 0001 to 1999<br />Recruit Training Command (RTC) Batch: 2000 to 3999<br />USMEPCOM Batch: 4000 to 9999<br />NNN: Sample number. Typically 001 to 100. Occasional usage in low 100's.</p><br />
+<p>8. Any automation of process components involving reading, storing, or transmitting the data on the bottle labels and/or chain of custody forms must do so in compliance with HIPAA. System must meet the Information Assurance standards for the Navy prior to receiving authority to operate (ATO). See Enclosure 1 regarding Navy IA contracting requirements. Information assurance requirements will also include compatibility with data-at-rest security solutions and Host-Based Security System compatibility.<br />9. Electrical - Equipment must be certified for use in a laboratory environment. [Preferred operation from a 120 VAC, 15 ampere, 60 cps, single phase line]. <br />10. Size - Footprint for the entire system should be less than approximately 3ft x 7ft.</p><br />
+<p>Information Request: The Government seeks informed input and questions from interested companies regarding automating some or the entire sample accessioning process currently used at the Navy Drug Screening Laboratory - Great Lakes. Companies who are capable of providing automation for any portion of the Current Accessioning Process as described in Enclosure 4 should submit a detailed configuration plan for a proposed solution. Configuration specifications requested include but are not limited to: part materials, size, weight, component layout, description of all operator action required, description of operation limitations, and description of required maintenance. Estimated pricing for submitted configuration plans should also be provided.</p><br />
+<p>To ensure responses, including attachments, can be read and evaluated, please submit in Microsoft (MS) Word, MS Excel, or Adobe Acrobat format. Responses including attached files shall not exceed 10 MB in total. Responses exceeding 10 MB may not be transmitted through the Government server.</p><br />
+<p>Responses should include: (1) A cover letter on organizational letterhead including the Company name, CAGE code, DUNS code, point of contact, address, phone number, fax number, and e-mail address of the submitting agent; (2) A white paper, consisting of the information requested; and (3) Any attachments and supporting documentation felt to be relevant to a deeper investigation of the response.</p><br />
+<p>No telephonic submissions will be honored. All responses shall be submitted at no cost or obligation to the Government. Interested parties should respond within 30 days of the posting date. Interested parties are requested to electronically send their response to the Naval Medical Logistics Command via e-mail to: Nicholas.Dankanich@med.navy.mil (SUBJECT: N6264514RFI01 Automated Accession System RFI). No phone calls please.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Request for Information Enclosures </h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Request for Information Enclosures 
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=ef2f2898a28fbe4335e84291fe3bc0c3' target='_blank' title='Download/View Enclosure_1__NAVY_IA_Requirements.docx' class='file'&gt;Enclosure_1__NAVY_IA_Requirements.docx&lt;/a&gt;"><a href='/utils/view?id=ef2f2898a28fbe4335e84291fe3bc0c3' target='_blank' title='Download/View Enclosure_1__NAVY_IA_Requirements.docx' class='file'>Enclosure_1__NAVY_IA_Requirements.docx</a> (33.94 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Navy IA Requirements</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=911a72062b6ed899aab3b70fd213ef38' target='_blank' title='Download/View Enclosure_2__Sample_Chain_of_Custody_Form.PDF' class='file'&gt;Enclosure_2__Sample_Chain_of_Custody_Form.PDF&lt;/a&gt;"><a href='/utils/view?id=911a72062b6ed899aab3b70fd213ef38' target='_blank' title='Download/View Enclosure_2__Sample_Chain_of_Custody_Form.PDF' class='file'>Enclosure_2__Sample_Chain_of_Custody_Form.PDF</a> (1,989.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Sample Chain of Custody Form</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=5b4b0258df8a521a752a7f2584697b8b' target='_blank' title='Download/View Enclosure_3__Sample_Bottle_Labels.pdf' class='file'&gt;Enclosure_3__Sample_Bottle_Labels.pdf&lt;/a&gt;"><a href='/utils/view?id=5b4b0258df8a521a752a7f2584697b8b' target='_blank' title='Download/View Enclosure_3__Sample_Bottle_Labels.pdf' class='file'>Enclosure_3__Sample_Bottle_Labels.pdf</a> (16.64 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Sample Bottle Lables</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=0966bb3b84bb2f74069d9e31d4135fa5' target='_blank' title='Download/View Enclosure_4__Current_Accessioning_Process.docx' class='file'&gt;Enclosure_4__Current_Accessioning_Process.docx&lt;/a&gt;"><a href='/utils/view?id=0966bb3b84bb2f74069d9e31d4135fa5' target='_blank' title='Download/View Enclosure_4__Current_Accessioning_Process.docx' class='file'>Enclosure_4__Current_Accessioning_Process.docx</a> (413.22 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Example of Current Accessioning Process</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		693 Neiman Street<br/>
+
+			
+				
+		FT Detrick,
+
+			
+	
+		Maryland
+
+			
+	
+		21702-9203
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Nicholas J Dankanich,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:nicholas.dankanich@med.navy.mil">nicholas.dankanich@med.navy.mil</a></div>
+			
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=116fb2ccde5381630bf13e954dc8367f'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=116fb2ccde5381630bf13e954dc8367f'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=73394c938d1bcffde4e954e76fca19aa">Request for Information Enclosures </a> <a target="_blank" href="/utils/dZip?base=116fb2ccde5381630bf13e954dc8367f&class=document_package&id=73394c938d1bcffde4e954e76fca19aa" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 12, 2014</div></dt><dd><a href="/utils/view?id=ef2f2898a28fbe4335e84291fe3bc0c3" target="_blank" title="Download/View Enclosure_1__NAVY_IA_Requirements.docx" class="file">Enclosure_1__NAVY_IA_Requirements.docx</a></dd><dd><a href="/utils/view?id=911a72062b6ed899aab3b70fd213ef38" target="_blank" title="Download/View Enclosure_2__Sample_Chain_of_Custody_Form.PDF" class="file">Enclosure_2__Sample_Chain_of_Custody_Form.PDF</a></dd><dd><a href="/utils/view?id=5b4b0258df8a521a752a7f2584697b8b" target="_blank" title="Download/View Enclosure_3__Sample_Bottle_Labels.pdf" class="file">Enclosure_3__Sample_Bottle_Labels.pdf</a></dd><dd><a href="/utils/view?id=0966bb3b84bb2f74069d9e31d4135fa5" target="_blank" title="Download/View Enclosure_4__Current_Accessioning_Process.docx" class="file">Enclosure_4__Current_Accessioning_Process.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Mar 12, 2014 4:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	65 -- Medical, dental & veterinary equipment &  supplies
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	334 -- Computer and Electronic Product Manufacturing/334516 -- Analytical Laboratory Instrument Manufacturing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

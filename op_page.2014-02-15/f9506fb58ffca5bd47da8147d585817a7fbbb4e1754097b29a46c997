@@ -1,0 +1,603 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>R--Legal Services - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392499447');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392499447';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=2a4a6769af1270423dbe4b4d5948a084&inline_disposition=1" border="0" alt="Federal Locations logo"></div><div class="agency-header"><h2>R--Legal Services</h2><div class="sol-num">Solicitation Number: DE-SOL-0006553</div><div class="agency-name">Agency: Department of Energy<br>Office: Federal Locations<br>Location: All DOE Federal Contracting Offices</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=12d0924cd4ee01fd1fa316af98925446&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DOE/PAM/HQ/DE-SOL-0006553/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DOE/PAM/HQ/DE-SOL-0006553/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DOE/PAM/HQ/DE-SOL-0006553/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=12d0924cd4ee01fd1fa316af98925446&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=12d0924cd4ee01fd1fa316af98925446&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=12d0924cd4ee01fd1fa316af98925446&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=0c08852a9d71995c480f1204a5aead32&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Feb 10, 2014</div><div class="nh-date">12:34 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=12d0924cd4ee01fd1fa316af98925446&_cview=0">Changed</a><div class="nh-date">Feb 10, 2014</div><div class="nh-date">12:34 pm</div><div class="nh-date"><em>Solicitation</em></div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=0c08852a9d71995c480f1204a5aead32'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=0c08852a9d71995c480f1204a5aead32'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	DE-SOL-0006553
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-10 12:34:04">Feb 10, 2014 12:34 pm</span>
+					</div>
+		NOTICE TYPE:  Sources Sought Synopsis<br /><br />
+SUBJECT:  Professional legal advice and assistance in labor, employment, and pension/benefits law for the U.S. Department of Energy (DOE)<br /><br />
+SYNOPSIS:  This announcement serves as a Sources Sought synopsis issued for the purpose of market research in accordance with Federal Acquisition Regulation (FAR) Part 10.  This Sources Sought is issued solely for information and planning purposes and does not constitute a solicitation, nor is this notice a request for proposals and/or quotation.    <br /><br />
+DOE is issuing this Sources Sought synopsis to identify law firms having an interest in providing professional legal advice and assistance to DOE?s Office of General Counsel.      <br /><br />
+Specifically, the contractor will provide the DOE Office of General Counsel with frequent, prompt, and often real-time: <br /><br />
+(1) professional legal advice and assistance in highly specialized matters involving pensions and employee benefits, labor and employment law (including but not limited to labor standards, labor relations, and employment discrimination law), related procurement and government contracting, statutory and regulatory analysis, and litigation, as more fully described below; <br /><br />
+(2) oral and written analysis, advice, and recommendations, including memoranda, opinion letters, e-mail analyses, and legal briefs on issues of concern to DOE; <br /><br />
+(3) upon request, attendance at meetings with DOE officials and staff on an urgent basis in Washington, D.C. and at DOE sites and financial assistance projects around the country;<br /><br />
+(4) specialized professional legal advice and assistance on very complex matters relating to: contractor pension and other benefit plans (including multiple and multi-employer/ pension plans, and qualified and non-qualified plans which may contain several billion dollars in assets), such complex matters to include complex discrimination testing, pension plan spin-offs and transfers, pension plan terminations, withdrawal liabilities, and withdrawal-substitution transactions, as well as experience in pension and benefits law in the collective bargaining setting; and other pension and benefit issues, including regarding severance and other benefits, that arise out of the changing operations of DOE and its procurement process.  The contractor will provide in-depth legal advice and assistance in issues relating to compliance of contractor pension and other benefit plans with the Employee Retirement Income Security Act, the Internal Revenue Code, Pension Protection Act of 2006, the  Worker, Retiree, and Employer Recovery Act of 2008, and Department of Labor regulations and any other applicable law, including expertise in drafting, review and modification (especially in the context of large-scale, often unprecedented transactions) of qualified and non-qualified single and multiple employer defined benefit pension and other benefit plans, and multiemployer pension and other benefit plans.  The contractor will also provide in-depth legal advice and assistance with the Cost Accounting Standards 412 and 413, including segment closings and the measurement, allocation, and assignment of contractor pension costs;<br /><br />
+(5) specialized professional legal advice and assistance on  large-scale workforce restructuring actions such as voluntary self-select and involuntary employee separation programs (including under Section 3161 of the National Defense Authorization Act of Fiscal Year 1993, 42 U.S.C. section 72741, and Executive Order 11246, as amended), including statutes, regulations, and executive orders relating to equal employment opportunity (EEO), such as the Americans with Disabilities Act, the Age Discrimination in Employment Act, and Title VII;  the Worker Adjustment and Retraining Notification (WARN) Act and its implementing regulations. Contractor will be required to help to develop and interpret adverse impact analyses, a statistical tool used by employers during reductions-in-force to assess possible impact on protected EEO classifications; <br /><br />
+(6) specialized professional legal advice and assistance in the area of private sector labor relations, including in the development and interpretation of collective bargaining agreements including pre-hire/project labor agreements on large-scale construction projects on federal or federally assisted projects, such labor relations issues to include, but are not limited to, union strikes, jurisdictional disputes/conflicting claims to perform work, hiring hall disputes, double-breasted operations, union signatory clauses, common situs picketing, and antitrust matters; <br /><br />
+(7) specialized professional legal advice and assistance in the analysis and practical application of labor standards laws and regulations, in particular the Davis-Bacon Act (including under the American Reinvestment and Recovery Act of 2009 and Section 1804 of the Atomic Energy Act of 1954, as amended), and the Service Contract Act (including as applied to union-represented workforces);  <br /><br />
+(8) specialized professional legal advice and assistance in labor-related legal issues surrounding the government procurement and contracting process, including under management and operating contracts and cost-reimbursement contracts;  <br /><br />
+(9) specialized professional legal advice and assistance on interpreting the labor, employment, and pension provisions of the United States Enrichment Corporation (USEC) Privatization Act, 42 U.S.C. Sec. 2297h-8; <br /><br />
+(10)  specialized professional legal advice and assistance on labor, employment, and safety requirements applicable to federal contractors and related claims filed with regulatory agencies and courts; <br /><br />
+(11) specialized professional legal advice and assistance on other labor and employment related laws and regulations, including but not limited to, Family Medical Leave Act and the Fair Labor Standards Act; and <br /><br />
+(12) specialized professional legal advice and assistance on the FAR and Department of Energy Acquisition Regulation (DEAR) relating to all of the above subject areas.<br /><br />
+The vendor must have the capability and resources to provide prompt (frequently real-time) expertise, analysis and guidance in urgent and high-priority situations, on issues that are of critical importance to DOE.  These services must be provided at a reasonable price, with a demonstrated ability to provide the services in a cost-efficient manner.<br /><br />
+For the purpose of this acquisition, the North American Industrial Classification System (NAICS) codes are as follows:<br /><br />
+NAICS Code	NAICS Description	Size Standards in millions of dollars 	Size Standards in number of employees 541110		Offices of Lawyers	$10.0	<br /><br />
+DOE is preferably seeking vendors who have a GSA Schedule.  However, vendors who do not have a GSA Schedule are encouraged to submit a capability statement.  DOE is looking to issue a Time and Materials (T/M) type of contract for this requirement.<br /><br />
+Although this Source Sought synopsis does not only apply to small business concerns, vendors that are socioeconomic concerns (e.g., 8(a) Small Disadvantaged Business, Historically Underutilized Business Zone (HUBZone), Service-Disabled Veteran-Owned Small Business, Woman-Owned Small Business (WOSB)) are encouraged to respond to this notice.<br /><br />
+THERE IS NO SOLICITATION AT THIS TIME.  Interested vendors shall submit a tailored capability statement that specifically demonstrates the vendor?s expertise in providing these professional legal services in a timely manner for a large organization with locations throughout the U.S., at a reasonable price and with a demonstrated ability to provide the services in a cost efficient manner.  The capability statement shall demonstrate that the vendor has a clear understanding of all tasks specified.  Responding entities are requested to submit a capability statement that:<br /><br />
+(1) identifies the prospective vendor (business name, business size and/or socioeconomic program status (e.g., 8(a), HUBZone, etc.), point of contact (including email address), telephone number, and business organization of the proposing entity (e.g., Limited Liability Corporation, Limited Liability Partnership); <br /><br />
+(2) describes the prospective vendor?s capabilities, relevant experience and resources to perform a contract of the size and complexity of which is the subject of this requirement (we note that, from January 2013 to December 2013, the current contractor averaged approximately 14 hours of work per month, ranging from under 5 hours to up to 35 hours per month); <br /><br />
+(3) includes potential subcontractors and information relative to the prospective subcontractor?s experience and capabilities to provide services consistent with the aforementioned tasks; <br /><br />
+(4) provides representative hourly rates for attorneys who would perform the tasks described above; and<br /><br />
+(5) specifically demonstrates the vendor?s ability to provide these legal services in a cost-efficient manner<br /><br />
+Interested parties are requested to submit a capability statement, limited to no more than 20 pages, no later than 03/10/2014 at 4:00 P.M. EST.  This request for capability statement does not constitute a request for proposals and/or quotes.  Submission of any information in response to the market survey is purely voluntary.  The government assumes no financial responsibility for any costs incurred.  This announcement is for information and planning purposes only and is not to be construed as a commitment by the government, implied or otherwise, to issue a solicitation or award a contract.  <br /><br />
+In order for DOE to receive a vendor response through the Strategic Integrated Procurement Enterprise System (STRIPES), all current and potential acquisition and financial assistance firms must be registered at the Compusearch FedConnect vendor portal, which is located at https://www.fedconnect.net.  To get more information about FedConnect and to register your company, open your Internet browser and go to https://www.fedconnect.net.  To view the synopsis, click on ?Search Public Opportunities? and search for the synopsis by using number DE-SOL-0006553.  Instructions on how to submit your business?s response electronically can be found in the help document, which is located under the ?Have questions? link on the FedConnect page. If there are any technical difficulties with using FedConnect, please contact the FedConnect help desk at 1-800-899-6665.<br /><br />
+All questions or suggestions regarding this Sources Sought synopsis shall be submitted through FedConnect.  Please note that telephone or email inquiries regarding this notice will not receive responses.
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://www.fedconnect.net" target="_blank" class="link">https://www.fedconnect.net</a></div>
+		<div><span class="label">Description:</span> Click here for more information</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	Office of HQ PS (HQ)U.S. Department of EnergyOffice of Headquarters Procurement ServicesMA-641000 Independence Ave., S.W.WashingtonDC20585US
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Karin M. Denburg<br />
+<br />
+<a href="mailto:karin.denburg@hq.doe.gov">karin.denburg@hq.doe.gov</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=0c08852a9d71995c480f1204a5aead32'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=0c08852a9d71995c480f1204a5aead32'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=452a9de9a4a89f19f1eae02b9f473ff1">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=0c08852a9d71995c480f1204a5aead32&class=document_package&id=452a9de9a4a89f19f1eae02b9f473ff1" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="https://www.fedconnect.net" target="_blank" title="Go to https://www.fedconnect.net in new browser window." class="link">Click here for more information</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	March 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	March 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	April 9, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 9, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541110 -- Offices of Lawyers
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

@@ -1,0 +1,792 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Depot Level Repair of BRU-57 Smart Rack - FA8554-13-R-00316 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392502888');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392502888';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Materiel Command logo"></div><div class="agency-header"><h2>Depot Level Repair of BRU-57 Smart Rack</h2><div class="sol-num">Solicitation Number: FA8554-13-R-00316</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Materiel Command<br>Location: PK/PZ - Robins AFB</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=f7e6fe10eaaa4748e306b0bc4392a9c2&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AFMC/WRALC/FA8554-13-R-00316/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AFMC/WRALC/FA8554-13-R-00316/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AFMC/WRALC/FA8554-13-R-00316/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=f7e6fe10eaaa4748e306b0bc4392a9c2&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=f7e6fe10eaaa4748e306b0bc4392a9c2&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=d7a7692604053224bcd33a57c105bfa6&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Oct 11, 2013</div><div class="nh-date">4:38 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d56e03d7222427d871239bfa629898c4&_cview=0">Changed</a><div class="nh-date">Nov 14, 2013</div><div class="nh-date">8:53 am</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=c3e8c35ccdfbf752ab6f7a1ad23b2657&_cview=0">Changed</a><div class="nh-date">Nov 14, 2013</div><div class="nh-date">12:09 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=90edb596708df73b2e10eff709cbf836&_cview=0">Changed</a><div class="nh-date">Dec 19, 2013</div><div class="nh-date">10:36 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=f7e6fe10eaaa4748e306b0bc4392a9c2&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">9:58 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d7a7692604053224bcd33a57c105bfa6'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d7a7692604053224bcd33a57c105bfa6'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA8554-13-R-00316
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-10-11 16:38:35">Oct 11, 2013 4:38 pm</span>
+					</div>
+		&nbsp;<br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">DESCRIPTION OF SERVICES.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Perform depot-level repair of the BRU-57 Smart Rack.<span style="mso-spacerun: yes">&nbsp; </span>Depot-level repair/upgrade encompasses the teardown, evaluation, repair, rebuild, and test of components as specified in the Performance Work Statement (PWS.)<span style="mso-spacerun: yes">&nbsp; </span>The bomb rack and components listed below shall be repaired as required in accordance with original manufacturer's methods and procedures.<span style="mso-spacerun: yes">&nbsp; </span>The Contractor shall tear down and assess the level of repair within 15 working days of receipt of repairable items.<span style="mso-spacerun: yes">&nbsp; </span>The Contractor must control their inventory such that no unit exceeds a work in progress time of 45 working days for 90% of the units.<span style="mso-spacerun: yes">&nbsp; </span>The remaining 10% must be accomplished within a period not to exceed 65 working days.<span style="mso-spacerun: yes">&nbsp; </span>Whenever possible, parts should be stocked or locally manufactured to facilitate timely repair.<span style="mso-spacerun: yes">&nbsp; </span>Required delivery of repaired item is 60 working days after receipt.<span style="mso-spacerun: yes">&nbsp; </span>Contractor shall meet the required delivery at least 90% of the time</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">Sole Source to EDO (82340); in accordance with FAR 6.302-1, Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">BRU 57, NSN 1095014833872, P/N MT57M1501-1,. Height: 7.1, Width: 29", Depth: 69.8, Lbs: 250, The BRU 57 is a MIL-STD-1760 capable, multiple carriage, vertical ejection bomb rack unit (BRU). Mtrl: Steel/Aluminum/Electronic components. <span style="mso-spacerun: yes">&nbsp;</span>Basic year qty 11 ea; Four annual options with 1-19 each per year.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">MT57M1153-2; 1095-01-523-3337; Micro Control Assembly; Approx. Dimensions: <span style="mso-spacerun: yes">&nbsp;</span>8" x 6" x 2 " weight 2.0 Lbs.; ITEM MATERIAL; Solid State Components and aluminum; ITEM FUNCTION; Provides interface between aircraft stores management system and loaded stores. Basic year qty 4 ea; Four annual options with 1-13 each per year.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">MT57M1165-1 1095-01-523-5767 High Band Width Assembly; Approx. Dimensions: 6.0" x 3.0" x 2.0", wt 1.0" MATERIAL Solid state components and aluminum ITEM FUNCTION Provides signal to each ejector rack and munitions. Basic year qty 4 ea; Four annual options with 1-8 each per year.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">MT57E1212-1; 1095-01-523-5773 Buffer Bus Assembly Approx. Dimensions: 4.0" x 3.0" x 2.0"; 1 Lb., MATERIAL Solid State Components and Aluminum Case. ITEM FUNCTION Divides 1760 signal from aircraft stores management system to monitor and update loaded weapons. Basic year qty 23 ea; Four annual options with 1-19 each per year.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">MT57M1177-1 6130-01-523-3338 Power Conditioning Module Approx. Dimensions: 6.0" x 4.0" x 2.0"; Wt. 1.0 Lb. MATERIAL Solid State Components and aluminum ITEM FUNCTION Provides electrical power to all components of the BRU-57 rack. Basic year qty 5 ea; Four annual options with 1-7 each per year.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">MT57E1210-1<span style="mso-tab-count: 1"> </span><span style="mso-spacerun: yes">&nbsp; </span>6130-01-523-3339 Power Supply, Approx. Dimensions: 8.0" x 5.0" x 1.5 ", weight 2.0 lbx. MATERIAL Solid State Components and Aluminum Case. ITEM FUNCTION Provides power to the electronics for monitoring and release functions. Basic year qty 10 ea; Four annual options with 1-19 each per year.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 8pt">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">MT57M1190-1; 5998-01-522-7603 Digital Interface Assembly Approx. Dimensions: 10" x 5" x 1" Wt 2 lb. ITEM MATERIAL Solid state components and aluminum ITEM FUNCTION<span style="mso-spacerun: yes">&nbsp; </span>Provides firing pulse to release stores from the ejector racks. <span style="mso-spacerun: yes">&nbsp;</span>Basic year qty 131 ea; Four annual options with 1-14 each per year.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">Data as specified in DD Forms 1423-1 CDRLs. </span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="MARGIN: 0in 0in 6pt">Destination Robins AFB GA 31098 or as specified in individual orders.</p><br />
+<p style="MARGIN: 0in 0in 6pt">Duration of the contract period .One year basic ordering period with four annual option periods</p><br />
+<p style="MARGIN: 0in 0in 6pt">All responsible sources may submit a capability statement, proposal, or quotation which shall be considered by the agency.</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">The proposed contract action is for supplies or services for which the Government intends to solicit and negotiate with only one source under the authority of FAR 6.302. Interested persons may identify their interest and capability to respond to the requirement or submit proposals. This notice of intent is not a request for competitive proposals. However, all proposals received within forty-five days (thirty days if award is issued under an existing basic ordering agreement) after date of publication of this synopsis will be considered by the Government. A determination by the Government not to compete with this proposed contract based upon responses to this notice is solely within the discretion of the Government. Information received will normally be considered solely for the purpose of determining whether to conduct a competitive procurement.</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">Based upon market research, the Government is not using the policies contained in Part 12, Acquisition of Commercial Items, in its solicitation for the described supplies or services. However, interested persons may identify to the contracting officer their interest and capability to satisfy the Government's requirement with a commercial item within 15 days of this notice</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">&nbsp;</span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">OMBUDSMAN </span></p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-layout-grid-align: none"><span style="FONT-FAMILY: 'TimesNewRoman', 'serif'; FONT-SIZE: 12pt; mso-bidi-font-family: TimesNewRoman">All potential offerors should contact the buyer/PCO identified above for additional information and or to communicate concerns, if any, concerning this acquisition. If your concerns are not satisfied by the contacting officer, an Ombudsman has been appointed to hear serious concerns that are not resolved through established channels. The purpose of the Ombudsman is not to diminish the authority of the program director or contracting officer, but to communicate serious contractor concerns, issues, disagreements, and recommendations to the appropriate government personnel. When requested, the Ombudsman will maintain strict confidentiality as to the source of the concern. The Ombudsman does not participate in the evaluation of proposals in the source selection process. When appropriate potential may contact the ombudsmen, Kim McDonald at 478 222 -1088<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>, FAX 478<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>222 -1855 , email Kim.McDonald@robins.af.mil. Please be prepared to identify previous contacts made by you in an attempt to resolve your concerns.<br /></span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	November 14, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316.RTF" target="_blank" class="link">FTP://pklunx.hill.af.mil/data/FA855413R00316.RTF</a></div>
+		<div><span class="label">Description:</span> Solicitation</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_1061739_PKGRQMT_REPORT.pdf" target="_blank" class="link">FTP://pklunx.hill.af.mil/data/FA855413R00316_1061739_PKGRQMT_REPORT.pdf</a></div>
+		<div><span class="label">Description:</span> Attachment - 1061739_PKGRQMT_REPORT.pdf</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_1062145_TRNSPDATA_REPORT.pdf" target="_blank" class="link">FTP://pklunx.hill.af.mil/data/FA855413R00316_1062145_TRNSPDATA_REPORT.pdf</a></div>
+		<div><span class="label">Description:</span> Attachment - 1062145_TRNSPDATA_REPORT.pdf</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_PWS_BRU-57.pdf" target="_blank" class="link">FTP://pklunx.hill.af.mil/data/FA855413R00316_PWS_BRU-57.pdf</a></div>
+		<div><span class="label">Description:</span> Attachment - PWS_BRU-57.pdf</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_APCSAFE.pdf" target="_blank" class="link">FTP://pklunx.hill.af.mil/data/FA855413R00316_APCSAFE.pdf</a></div>
+		<div><span class="label">Description:</span> Attachment - APCSAFE.pdf</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_BRU_57_Repair_CDRLs.pdf" target="_blank" class="link">FTP://pklunx.hill.af.mil/data/FA855413R00316_BRU_57_Repair_CDRLs.pdf</a></div>
+		<div><span class="label">Description:</span> Attachment - BRU_57_Repair_CDRLs.pdf</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_SOW_CAV.docx" target="_blank" class="link">FTP://pklunx.hill.af.mil/data/FA855413R00316_SOW_CAV.docx</a></div>
+		<div><span class="label">Description:</span> Attachment - SOW_CAV.docx</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=a3d2e141640ac6f2ba2ce47f2fa0ad6e' target='_blank' title='Download/View FA855413R00316_0001.docx' class='file'&gt;FA855413R00316_0001.docx&lt;/a&gt;"><a href='/utils/view?id=a3d2e141640ac6f2ba2ce47f2fa0ad6e' target='_blank' title='Download/View FA855413R00316_0001.docx' class='file'>FA855413R00316_0001.docx</a> (31.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFP Amendment extends response due date to 17 Feb 2014</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=557933507b14c58feeeea6117e31a047' target='_blank' title='Download/View FA855413R00316_0002.docx' class='file'&gt;FA855413R00316_0002.docx&lt;/a&gt;"><a href='/utils/view?id=557933507b14c58feeeea6117e31a047' target='_blank' title='Download/View FA855413R00316_0002.docx' class='file'>FA855413R00316_0002.docx</a> (150.26 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> This amendment extends the hour and date for receipt of proposals to 4:00 PM 18 Feb 2014 and corrects the numbering of Data subline items in the schedule, Section B, to match the CDRLs, DD Forms 1423-1.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		215 Page Rd<br/>
+
+			
+				
+		Robins AFB,
+
+			
+	
+		Georgia
+
+			
+	
+		31098-1611
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>William (Bill) H Downs,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:william.downs.1@us.af.mil">william.downs.1@us.af.mil</a></div>
+	<div>Phone: (478) 926-9264</div>		<div>Fax: (478) 926-6590</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=d7a7692604053224bcd33a57c105bfa6'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=d7a7692604053224bcd33a57c105bfa6'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6096aad215d7797483088318f3075bfe">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=d7a7692604053224bcd33a57c105bfa6&class=document_package&id=6096aad215d7797483088318f3075bfe" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 14, 2013</div></dt><dd><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316.RTF" target="_blank" title="Go to FTP://pklunx.hill.af.mil/data/FA855413R00316.RTF in new browser window." class="link">Solicitation</a></dd><dd><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_1061739_PKGRQMT_REPORT.pdf" target="_blank" title="Go to FTP://pklunx.hill.af.mil/data/FA855413R00316_1061739_PKGRQMT_REPORT.pdf in new browser window." class="link">Attachment - 1061739_PKGRQMT_REPORT.pdf</a></dd><dd><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_1062145_TRNSPDATA_REPORT.pdf" target="_blank" title="Go to FTP://pklunx.hill.af.mil/data/FA855413R00316_1062145_TRNSPDATA_REPORT.pdf in new browser window." class="link">Attachment - 1062145_TRNSPDATA_REPORT.pdf</a></dd><dd><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_PWS_BRU-57.pdf" target="_blank" title="Go to FTP://pklunx.hill.af.mil/data/FA855413R00316_PWS_BRU-57.pdf in new browser window." class="link">Attachment - PWS_BRU-57.pdf</a></dd><dd><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_APCSAFE.pdf" target="_blank" title="Go to FTP://pklunx.hill.af.mil/data/FA855413R00316_APCSAFE.pdf in new browser window." class="link">Attachment - APCSAFE.pdf</a></dd><dd><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_BRU_57_Repair_CDRLs.pdf" target="_blank" title="Go to FTP://pklunx.hill.af.mil/data/FA855413R00316_BRU_57_Repair_CDRLs.pdf in new browser window." class="link">Attachment - BRU_57_Repair_CDRLs.pdf</a></dd><dd><a href="FTP://pklunx.hill.af.mil/data/FA855413R00316_SOW_CAV.docx" target="_blank" title="Go to FTP://pklunx.hill.af.mil/data/FA855413R00316_SOW_CAV.docx in new browser window." class="link">Attachment - SOW_CAV.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2dc8ee42f962598d44849a1abb7bb70a">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=d7a7692604053224bcd33a57c105bfa6&class=document_package&id=2dc8ee42f962598d44849a1abb7bb70a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 19, 2013</div></dt><dd><a href="/utils/view?id=a3d2e141640ac6f2ba2ce47f2fa0ad6e" target="_blank" title="Download/View FA855413R00316_0001.docx" class="file">FA855413R00316_0001.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ce467e0eb974a8977cfbabde79f56720">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=d7a7692604053224bcd33a57c105bfa6&class=document_package&id=ce467e0eb974a8977cfbabde79f56720" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=557933507b14c58feeeea6117e31a047" target="_blank" title="Download/View FA855413R00316_0002.docx" class="file">FA855413R00316_0002.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	October 11, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Dec 16, 2013 4:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Nov 25, 2013 4:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	J -- Maintenance, repair & rebuilding of equipment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	336 -- Transportation Equipment Manufacturing/336413 -- Other Aircraft Parts and Auxiliary Equipment Manufacturing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

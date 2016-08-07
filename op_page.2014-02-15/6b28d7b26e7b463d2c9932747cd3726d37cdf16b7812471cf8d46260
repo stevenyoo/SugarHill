@@ -1,0 +1,590 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>R--ENTERPRISE INFORMATION TECHNOLOGY SOLUTIONS SENIOR LEADER DEVELOPMENT MANAGEMENT SYSTEM (SLDMS) WEB APPLICATION SUPPORT  <br>  - W15P7T-14-R-E005 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392494910');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392494910';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="Army Contracting Command logo"></div><div class="agency-header agency-header-sm"><h2>R--ENTERPRISE INFORMATION TECHNOLOGY SOLUTIONS SENIOR LEADER DEVELOPMENT MANAGEMENT SYSTEM (SLDMS) WEB APPLICATION SUPPORT  <br> </h2><div class="sol-num">Solicitation Number: W15P7T-14-R-E005</div><div class="agency-name">Agency: Department of the Army<br>Office: Army Contracting Command<br>Location: ACC-APG - Aberdeen Division B</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=d52875bee1b4f2791cb3fd4723d381ba&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/d52875bee1b4f2791cb3fd4723d381ba" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/d52875bee1b4f2791cb3fd4723d381ba" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/d52875bee1b4f2791cb3fd4723d381ba" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=d52875bee1b4f2791cb3fd4723d381ba&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=d52875bee1b4f2791cb3fd4723d381ba&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=d52875bee1b4f2791cb3fd4723d381ba&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=8cb3300e12608e230aef867395ac5595&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Dec 23, 2013</div><div class="nh-date">11:48 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=8491aec0e04c8e93b8ff239e8668be48&_cview=0">Changed</a><div class="nh-date">Jan 08, 2014</div><div class="nh-date">11:40 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=d52875bee1b4f2791cb3fd4723d381ba&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">8:00 pm</div><div class="nh-date"><em>Solicitation</em></div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8cb3300e12608e230aef867395ac5595'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8cb3300e12608e230aef867395ac5595'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W15P7T-14-R-E005
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-12-23 11:48:12">Dec 23, 2013 11:48 am</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-01-08 11:40:09">Jan 08, 2014 11:40 am<a href="/utils/viewDifferences?class=notice_description&id=5c76220c969e881e5da373955c43896c&compared_to=408d6bb4162a2b0cdfbba451cf9b3740" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=5c76220c969e881e5da373955c43896c&compared_to=408d6bb4162a2b0cdfbba451cf9b3740&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		This notice is for informational purposes only.  <br>    <br>  The Government anticipates entering into a Competitive Small Business Set-Aside contract, consisting of one (1) twelve (12) month base period and one (1) twelve (12) month option period, estimated at $2.0 Million, for non-personnel services to provide Enterprise Information Technology Solutions Senior Leader Development Management System (SLDMS) Web Application Support to the Software Engineering Center's (SEC) Enterprise Solutions Directorate (ESD) Data Services Division (DSD). The resulting contract will be Cost Plus Fixed Fee (CPFF) Term for labor services.  <br>    <br>  The US Army Contracting Command-Aberdeen Proving Ground has a requirement to procure the services needed for continued operations and maintenance of the unique applications, databases, and Senior Leader Development Management System (SLDMS) used by the Army SLD Office. It is comprised of two applications: the Colonel Officers Management Office (COMO) web application called Development Opportunities Management System (the DOM) and the General Officers Management Office (GOMO) web application called General Officer Resource Management System (GORMS) (also called  quote mark GOMONet quote mark ). The Senior Leader Development Management System (SLDMS) is the underlying system of record and each of these web applications service a distinct managed population.  <br>    <br>  The Army SLD Office uses the SLDMS to assist in the administration of promotable lieutenant colonels, colonels, and general officers. The SLD Office serves under the operational control of the Chief of Staff of the Army (CSA).  The SLD Office relies heavily on technology in its ongoing commitment to meet the demands and expectations of Army senior leaders and the Army General Officers Corps.  The SLD Office has several critical applications and databases that aid in the processing of personnel data and information not currently provided by existing Army systems.  The SLD Office is a knowledge-centric organization empowering the CSA and Secretary of the Army to make informed decisions with accurate and timely data.  <br>    <br>  The contractor shall have access to Army's Personnel systems including the Total Army Personnel Management Information System (TOPMIS) II, Worldwide Individual Augmentation System (WIAS), and Integrated Personnel and Pay System-Army (IPPS-A).  <br>    <br>  The primary work performed under this contract shall be performed in Government facilities in the National Capital Region (NCR) to include locations such as Headquarters Department of the Army (HQDA), Washington District of Columbia, and Crystal City, Virginia. No performance or delivery will be required in a foreign country.  <br>    <br>  This requirement will result in the release of a solicitation (W15P7T-14-R-E005) totally set-aside for Small Business concerns. The North American Industry Classification System (NAICS) Code for this requirement is 541511. In order to determine a small business concern under NAICS 541511, a business must not have more than an average of $25,500,000.00 in annual receipts as defined in 13 C.F.R 121.104.  <br>    <br>  In accordance with FAR 16.301-3 and FAR Part 31,  quote mark Contract Cost Principles and Procedures quote mark ,   the contractor must have an adequate accounting system for determining costs applicable to a cost-reimbursement type contract.  <br>    <br>  In accordance with FAR 52.219-14, Limitations of Subcontracting, under a total small business set-aside, the Offeror shall agree in performance of a contract that at least 50 percent of the cost of contract performance incurred for personnel shall be expended for employees of the small business concern.  <br>    <br>  The following security requirements apply to the anticipated solicitation:  <br>    <br>  The contractor shall be required to have a SECRET Facility Clearance with NO Safeguarding requirement.  Contractor personnel performing work under this contract shall have at least a SECRET clearance at time of the proposal submission, and shall maintain a SECRET clearance for the life of the contract. The Contractor shall comply with the security requirements defined IAW the CECOM LCMC G2 approved DD Form 254, Contract Security Classification Specification. The contractor shall be required to access Communications Security (COMSEC) information, Non-SCI information, North Atlantic Treaty Organization (NATO) information, and For Official Use Only (FOUO) information. The contractor shall also be required to access General Officer Resource Management System (GORMS), Integrated Personnel and Pay System-Army (IPPS-A), Total Army Personnel Management Information System (TOPMIS), and Worldwide Individual Augmentation System (WIAS) at Government facilities only. The contractor shall comply with all applicable Government security clearance regulations and procedures contained in DoD 8570.1, DoD 8570.1-M, AR 25-2 and DoD 8500-2.   <br>    <br>  Contractor personnel requiring COMSEC access must be U.S. citizens and possess a final clearance at the SECRET level. All contractors shall be briefed before access to COMSEC is granted. The contractor shall require COMSEC access, and perform Automated Information System (AIS) Processing IAW DI-MGMT-80934C, OPERATION SECURITY PLAN. The contractor shall receive and generate classified materials, and fabricate/modify/store classified hardware. Operations Security (OPSEC) requirements will be provided by the Government IAW AR 530-1.  The Contractor shall have access to classified information outside of the U.S., Puerto Rico, and U.S Possessions and trusted territories, and will be authorized to use the Defense Technical Information Center (DTIC).  <br>    <br>  Antiterrorism (AT) Level I Training. This provision/contract text is for contractor employees with an area of performance within an Army controlled installation, facility or area. All contractor employees, to include subcontractor employees, requiring access to Government installations, facilities and controlled access areas shall complete AT Level I awareness training within 30 calendar days after contract start date or effective date of incorporation of this requirement into the contract, whichever is applicable. The Contractor shall submit certificates of completion for each affected Contractor employee and subcontractor employee to the COR (or PCO if a COR is not assigned) within 30 calendar days after contract award for all employees and subcontractor personnel. AT level I awareness training is available at the following website: https://atlevel1.dtic.mil/at.  <br>    <br>  AT Awareness Training for Contractor Personnel Traveling Overseas. This standard language text required US based contractor employees and associated sub-contractor employees to make available and to receive Government provided area of responsibility (AOR) specific AT awareness training as directed by AR 525-13. Specific AOR training content is directed by the combatant commander with the unit ATO being the local point of contact.  <br>    <br>  iWATCH Training. This standard language is for contractor employees with an area of performance within an Army controlled installation, facility or area. The contractor and all associated sub-contractors shall brief all employees on the local iWATCH program (training standards provided by the requiring activity ATO). This local developed training will be used to inform employees of the types of behavior to watch for and instruct employees to report suspicious activity to the COR. This training shall be completed within 30 calendar days of contract award and within 30 calendar days of new employees commencing performance.  The contractor shall provide the COR with a status update regarding its compliance with this requirement NLT 30 calendar days after contract award. iWATCH is available at http://www.myarmyonesource.com/FamilyProgramsandServices/iWatchProgram/default.aspx  <br>    <br>  Access and General Protection/Security Policy and Procedures. This standard language text is for contractor employees with an area of performance within an Army controlled installation, facility or area. Contractor and all associated sub-contractor employees shall comply with applicable installation, facility and area commander installation/facility access and local security policies and procedures (provided by Government representative). The contractor shall also provide all information required for background checks to meet installation access requirements to be accomplished by installation Provost Marshal Office, Director of Emergency Services or Security Office. Contractor workforce must comply with all personal identity verification requirements as directed by DOD, HQDA and/or local policy. Should the Force Protection Condition (FPCON) at any individual facility or installation change, the Government may require changes in Contractor security matters or processes.  <br>    <br>  For Contracts That Require Handling or Access to Classified Information. The contractor shall comply with FAR 52.204-2, Security Requirements. This clause involves access to information classified  quote mark Confidential, quote mark   quote mark Secret, quote mark  or  quote mark Top Secret quote mark  and requires contractors to comply with- (1) The Security Agreement (DD Form 441), including the National Industrial Security Program Operating Manual (DoD 5220.22-M); any revisions to DOD 5220.22-M, notice of which has been furnished to the contractor.  <br>    <br>  For Contracts that require an OPSEC Standing Operating Procedure/Plan. The contractor shall develop an OPSEC Standing Operating Procedure (SOP)/Plan within 90 calendar days of contract award, to be reviewed and approved by the responsible Government OPSEC officer, per AR 530-1, Operations Security. This SOP/Plan will include the Government's critical information, why it needs to be protected, where it is located, who is responsible for it, and how to protect it. In addition, the contractor shall identify an individual who will be an OPSEC Coordinator. The contractor shall ensure this individual becomes OPSEC Level II certified per AR 530-1.  Per AR 530-1, Operations Security, new contractor employees must complete Level I OPSEC training within 30 calendar days of their reporting for duty. All contractor employees must complete annual OPSEC awareness training.  <br>    <br>  Contractor Employees Who Require Access to Government Information Systems. All contractor employees with access to a Government info system must be registered in the ATCTS (Army Training Certification Tracking System) at commencement of services, and must successfully complete the DOD Information Assurance Awareness training prior to access to the IS, and then annually thereafter.  <br>    <br>  For Information assurance (IA)/information technology (IT) training. All contractor employees and associated sub-contractor employees must complete the DoD IA awareness training before issuance of network access, and annually thereafter. All contractor employees working IA/IT functions must comply with the DoD and Army training requirements found in DoDD 8570.01, DoD 8570.01-M, and AR 25-2 within six (6) months of employment.  <br>    <br>  For information assurance (IA)/information technology (IT) certification. Per DoD 8570.01-M, DFARS 252.239.7001, and AR 25-2, the contractor employees supporting IA/IT functions shall be appropriately certified upon contract award. The baseline certification as stipulated in DoD 8570.01-M must be completed upon contract award.  <br>    <br>  All contractor personnel assigned to this task must be U.S. citizens and have the appropriate background check/investigation associated with their particular position.  The Contractor must have a favorable check/investigation completed within thirty (30) days from commencement of duties. The Contractor must complete the Defense Information Systems Agency (DISA) Information Security (INFOSEC) Awareness training requirements and shall be subject to the successful completion of recurring computer security awareness training.  The awarded contractor shall provide names, dates of birth, Social Security Numbers, and contact telephone numbers of all employees that will perform on this contract.  This information will be provided to the Government security official within three (3) business days of award -or- within one (1) business day of a new employee commencing work under this contract.  <br>    <br>  New employees will be screened by the Government security official for investigative requirements.  If an investigation is required, the Government security official will notify the employee directly and provide the employee with the necessary security forms.  The employee has five (5) calendar days to complete and return all security forms.  The Government may deny a contract employee from performing on this contract for failure to return complete, accurate, and timely security forms.  <br>    <br>  The current contract is W91WAW-08-C-0007. The incumbent is CYIOS Corporation.  <br>    <br>  The Government anticipates releasing a solicitation, W15P7T-14-R-E005, on 24 January 2014. The anticipated award date of the resulting contract is 16 May 2014.   <br>    <br>  *These dates are Government estimate and are not definitive.   <br>    <br>  This synopsis is provided for informational purposes and is not to be considered a request for proposal (RFP). However, all responsible sources may submit a proposal, which shall be considered by the agency WHEN THE FINAL RFP IS POSTED. Solicitation Number W15P7T-14-R-E005 is assigned for reference purposes. All parties interested in doing business with The United States Army Contracting Command - Aberdeen Proving Ground (ACC-APG) are invited to access, operate, send, and receive information from the Army Single Face to Industry (ASFI) at https://acquisition.army.mil/asfi?ASFI_FAQ.cfm.  <br>    <br>  A pre-solicitation conference is not planned.  <br>    <br>  The final solicitation will be posted on the ASFI website in order to provide the opportunity for all small businesses to propose.  <br>    <br>  Questions and/or concerns regarding this synopsis shall be directed to Ms. Idia Osaghae, Lead Contract Specialist, via email at idia.i.osaghae.civ@mail.mil AND the Contracting Officer for this acquisition, Mr. Matthew R. Marx at matthew.r.marx.civ@mail.mil.   <br>    <br> All questions must be presented to the Contracting Officer via email no later than 07 January 2014. <br>  <br> ---------------------------------------BREAK-------------------------------------- <br>  <br> THE BELOW ARE QUESTIONS POSED BY INDUSTRY, WITH THE GOVERNMENT'S RESPONSES IMMEDIATELY FOLLOWING EACH QUESTION. <br>  <br> 1. In order to prepare a quality response I was hoping you could share the software technologies currently in use for the application. Can you provide this information? <br>  <br> A: MS ASP, ASP.NET, C#, MS SQL, HTML <br>  <br> 2. Below please find information on the PCL and FCL from the SBA web site. Do these instructions apply to the PCL and FCL requirements in this Presolicitation?  <br>  <br> A: No, the information from SBA website does not apply because the government will not sponsor a company for a security clearance in order to propose.  <br>  <br> 3. We are a 100% U.S. owned sole proprietor corporation. We are a private corporation Small Business (not an LLC) without any Security Facility Clearance (FCL). We are a SB. We are seeking a SECRET Facility Clearance (FCL). We intend to apply for 8(a) status in January 2014. Otherwise, we have no federal socio-economic designation status. For this requirement, we responded previously to the Sources Sought Notice. The Presolicitation  states  quote mark The contractor shall be required to have a SECRET Facility Clearance with NO Safeguarding requirement. Contractor personnel performing work under this contract shall have at least a SECRET clearance at time of the proposal submission and shall maintain a SECRET clearance for the life of the contract. quote mark  All personnel we intend to propose are U.S. citizens with appropriate security clearances. We also have every reason to believe we will be granted an INTERIM SECRET Facility Clearance. Will the government accept an INTERIM Secret clearance? Will the government accept a proposal from a U.S. owned company where all personnel bid on this project are U.S. citizens with security  clearance and with the contractor having the intent to apply for an Interim SECRET Facility Clearance?  <br>  <br> A: Per G2 guidance, we will not sponsor a company for a clearance, even if it is a small business. They cannot be awarded a contract without a final secret clearance at time of award so an interim is not acceptable.  <br>  <br> 4. If this arrangement is not acceptable, what other options are available? Will the government accept teaming with a partner who holds a SECRET Facility Clearance? Will the government be willing to sponsor the winning bidder for a SECRET FCL? If acceptable, do we need to contact Defense Security Service (DSS) to learn process? Backlog? <br>  <br> A: At this time, we do not wish to assume any potential risk associated with accepting an  quote mark interim quote mark  Facility Clearance; nor will we serve to sponsor a company during the FCL process. However, if a vendor chooses to team with a business partner who can provide the FCL, the Government believes that would be acceptable, so long as it does not violate any Contract Command stipulations on this solicitation. <br>  <br> Further information is available via the Defense Security Service's Facility Clearance Process FAQs located at: http://www.dss.mil/isp/fac_clear/per_sec_clear_proc_faqs.html <br>  <br> 5. What technologies have been used to develop the web applications? <br>  <br> A: MS ASP, ASP.NET, C#, MS SQL, HTML <br>  <br> 6. What is the average effort, in terms of man-hours per man-month, that is being used to support these web applications? <br>  <br> A: 160 man-hours per man-month. 3 FTE will be required to support the web applications.160*3=480 total man-hours per man-month <br>  <br> 7. Are you looking to maintain an existing set of applications only or is there any interest in re-architecture and building from the ground up? <br>  <br> A: We are just looking to maintain an existing set of applications. There is no interest in building the architecture from the ground up. <br>  <br> 8.  Are you interested in deploying to mobile technologies? <br>  <br> A: We are not interested in deploying mobile technologies at this time. <br>  <br> 9.  On a scale of 1-10 with 10 being the most important, how important is data security for these applications? <br>  <br> A: 10 being the most important. The data in these systems are Personally Identifiable Information (PII) including Health information of very high ranking officials. <br>  <br>  <br> 10. We are in the process of getting the facility clearance and not anticipating that by the time of proposal submission. We have reached out to a potential teaming partner, LB and also a SB, who each have a Secret Facility Clearance. Will the Government allow a contractor teaming arrangement for this opportunity? Is it acceptable if the teaming partner is not a SB? Is it legally binding?  <br>  <br> A: The Prime contractor (which must be a small business) can partner with another company providing the prime does at least 50% of the work. However the prime must have a final secret facility clearance at time of award. <br>  <br> 11. We're interested in responding to the opportunity, and writing to inquire when is the RFP planned for. <br>  <br> A: The current RFP release is anticipated to be late January 2014, however this is subject to change. <br> 
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W15P7T14RE005" target="_blank" class="link">https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W15P7T14RE005</a></div>
+		<div><span class="label">Description:</span> See Solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	ACC-APG - Aberdeen Division B, HQ CECOM CONTRACTING CENTER, 6001 COMBAT DRIVE, ABERDEEN PROVING GROU, MD  21005-1846
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	National Capital Region 2530 Crystal Drive, Suite 7208 Crystal City VA<br />
+22202<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Matthew Marx, 4438614878<br />
+<br />
+<a href="mailto:matthew.r.marx.civ@mail.mil">ACC-APG - Aberdeen Division B</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8cb3300e12608e230aef867395ac5595'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8cb3300e12608e230aef867395ac5595'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=53ecb62d25b9e40286db1c48afdefeb7">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=8cb3300e12608e230aef867395ac5595&class=document_package&id=53ecb62d25b9e40286db1c48afdefeb7" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W15P7T14RE005" target="_blank" title="Go to https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W15P7T14RE005 in new browser window." class="link">See Solicitation</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	December 23, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	March 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	March 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 21, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	April 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541511 -- Custom Computer Programming Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

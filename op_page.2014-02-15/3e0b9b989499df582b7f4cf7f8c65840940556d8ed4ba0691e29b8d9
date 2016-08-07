@@ -1,0 +1,491 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Online Collaboration Tool - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392490555');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392490555';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=bb23f9941e9c51cd223500e741772406&inline_disposition=1" border="0" alt="National Institute of Standards and Technology (NIST) logo"></div><div class="agency-header"><h2>Online Collaboration Tool</h2><div class="sol-num">Solicitation Number: SB1341-14-Online_Collaboration_Tool</div><div class="agency-name">Agency: Department of Commerce<br>Office: National Institute of Standards and Technology (NIST)<br>Location: Acquisition Management Division</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=8cde0239479a1d272ecc543c1d91058c&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DOC/NIST/AcAsD/SB1341-14-Online_Collaboration_Tool/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DOC/NIST/AcAsD/SB1341-14-Online_Collaboration_Tool/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DOC/NIST/AcAsD/SB1341-14-Online_Collaboration_Tool/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=8cde0239479a1d272ecc543c1d91058c&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8cde0239479a1d272ecc543c1d91058c&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8cde0239479a1d272ecc543c1d91058c&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 13, 2014</div><div class="nh-date">12:46 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8cde0239479a1d272ecc543c1d91058c'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8cde0239479a1d272ecc543c1d91058c'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	SB1341-14-Online_Collaboration_Tool
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-13 12:46:21">Feb 13, 2014 12:46 pm</span>
+					</div>
+		<p>This sources sought notice is issued for information and planning purposes only. This announcement is not a Request for Proposal (RFP) and does not commit the Government to solicit or award a contract now or in the future. No solicitation is available at this time. No reimbursement will be made for any costs associated with providing information in response to this announcement and any follow-up information requests. Respondents will not be notified of the results of the evaluation. All information submitted in response to this announcement must arrive on or before the closing date. No telephone requests will be honored. All information provided will become property of NIST and will not be returned.<br /><br />The purpose of this notice is to identify sources with the requisite qualifications that could provide the services stated herein. All large and small businesses (8(a), SDB, WOSB, HUBZone, VOSB and SDVOSB) capable of performing the requirement indicated below are encouraged to respond to this notice.<br /><br />The National Institute of Standards and Technology (NIST) has a requirement for an online collaboration tool to assist the NIST Manufacturing Extension Partnership (MEP). MEP is seeking an on-line, cloud-based collaboration tool to provide the minimum requirements listed below. The collaboration tool will allow the MEP system, including partners and stakeholders to work together to serve the mission of the NIST MEP program. A collaboration tool provides real-time sharing of documents, presentations, and group discussions, and streamlines overall document management and archiving materials. A collaboration tool supports the co-creation of documents and program materials. A collaboration tool facilitates consensus building through group discussion and polling of group members.</p><br />
+<p>MEP's minimum requirements are as follows:<br />&bull; Access &amp; Tools:<br />o NIST MEP shall receive 5,000 user licenses that NIST MEP will manage including setting access controls, enforcing password policies, and revoking or redistributing accounts as needed. These licenses are for 1-year access starting on the contract award date. <br />o NIST MEP shall have the ability to setup 50 community user groups within the online tool as NIST MEP deems appropriate. These groups shall be accessible for 1-year beginning on the starting date of the contract award. The tool shall be user-friendly to establish, maintain, update and control.<br />o NIST MEP shall gain access to 500gb of storage space on the tool servers. This storage space shall be accessible for 1-year beginning on the starting date of the contract award.</p><br />
+<p>&bull; Support for Tool - Contractor shall provide the following: <br />o Technical support to NIST MEP to use the collaboration tools. This includes supporting NIST MEP system administrators as they own, administer, customize, manage and integrate services for community groups and licensed users.<br />o Implementation of tool within NIST MEP community groups and users. Implementation of the tool shall include:<br />&#61607; Custom home-page / login screen for NIST MEP users. Home-page / login screen must include web banner provided from NIST MEP. User login screen must include NIST Comment Policy for users to read before entering the tool. [NIST COMMENT POLICY: We will post comments without editing as long as they are on topic and do not contain profanity, personal attacks, or promote specific commercial products or services. Posts that violate our comment policy will be deleted.]<br />&#61607; User login passwords shall match NIST website security standards as defined in NIST - Collaboration Security Plan. Detailed password requirements are described in security section below. <br />o Seamless data Integration with other NIST MEP information systems. Data integration can be accomplished by the following:<br />&#61607; XML<br />&#61607; SAML<br />&#61607; Web Services<br />&#61607; API<br />&#61607; SOAP<br />o Migration Support Services - Contractor shall support and perform migration of data and groups if needed to new system.</p><br />
+<p>&bull; Ongoing Support - Contractor shall provide:<br />o Ongoing tactical support to the tool for NIST MEP, such as tool updates and technical support throughout the contract term.<br />o Reporting and analysis of the community groups and users usage with the tool. With the reports and analysis, will provide suggestions on how to better leverage the tool within the NIST MEP community.<br />o Continual advice and guidance for the most effective structure and format to support collaboration and communication.<br />o 24/7 emergency support for the online tool.</p><br />
+<p>&bull; Security: <br />o Individual user accounts must be able to be given to specific users at specific locations. MEP Administrator shall administer and manage all accounts. For example: <br />&#61607; Ability for users to set strong passwords: at least 12 characters with alphanumeric characters and at least one special character.<br />&#61607; Passwords must be configured to change every 90 days; users will be notified at least 10 business days before a password expires.<br />o All communications between tool and NIST are through either conventional email or standard web based (HTTP/HTTPS) interfaces. <br />o Protection from Man-in-the-middle attacks (intruder interrupting the dialog or modifying the data) must be implemented.<br />o Protection from intruders gaining illegitimate access by posing as a trusted endpoint or the server must be implemented.<br />o Ability for Administrator to collect and view group activity reports showing usage per group, user activity, and number of users per group.<br />o System must be offered via a cloud computing environment. NIST MEP will not invest in hardware or software to run system in house. <br />o Vendor shall have an IT Security Assessment and Authorization package that is either approved or pending with the FedRAMP PMO. See the GSA website for more information about FedRAMP: http://www.gsa.gov/portal/category/102371. If this is not feasible, an IT Security Assessment and Authorization package will be created by NIST MEP that accurately documents the security of the cloud service. <br />o FIPS 140-2 validated encryption standards must be used for the encryption of all data in transit (HTTPS) and for passwords at rest (stored in a database). More information about FIPS-140-2 is located: http://csrc.nist.gov/publications/PubsFIPS.html and a vendor list is available here: http://csrc.nist.gov/groups/STM/cmvp/documents/140-1/1401vend.htm <br />o All cloud services must be reachable using both IPv4 and IPv6.</p><br />
+<p>After an award is made, Contractor shall provide information to address IT security controls established in the NIST 800-53 Rev 4 document (http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf) directly to the program office procuring services. The Program Office IT Security Officer (ITSO) will determine which controls are mandatory based on NIST IT Security requirements, the needs of the organization, the functionality of the system, and the data that will be stored and processed by the system. Contractor shall also be prepared to provide documented policies and procedures relating to IT Security and address how the selected set of security controls are implemented. The information collection process will begin after award. The A&amp;A process will take approximately 3-4 months and the system cannot be put into use until it is approved by the NIST CIO. <br />NIST anticipates using FAR Part 13 procedures to award a firm-fixed-price contract for one (1) base period of one-year plus four (4) one-year option periods. <br /><br />The applicable NAICS code for this requirement is 518210 - DATA PROCESSING, HOSTING, AND RELATED SERVICES, with an SBA size standard of $30.0 million.</p><br />
+<p><br /><strong>INSTRUCTIONS<br /></strong>Businesses with the capabilities of providing the required services, as described above, are invited to submit, on a voluntary basis, a written capability statement identifying the business size/designation (e.g. 8(a), SDB, WOSB, HUBZone, VOSB and SDVOSB utilizing a NAICS Code of 541330), with sufficient information that demonstrates ability to fulfill the above requirements. Businesses that offer the required services under a GSA Schedule contract shall indicate the applicable GSA schedule, SIN and their cognizant GSA Schedule contract number. <br /><br />The written capability statement/response must include the following:<br />1. Company name, address, phone number, and email address(es) for point(s) of contact.<br />2. Detailed descriptions of similar work performed by the company as a prime contractor or subcontractor within the past three (3) years. Include contract/order numbers, periods of performance, and total dollar amount of contracts/orders and customer point(s) of contact (name, phone number, email address).<br />3. Indication of whether the company has already been through the NIST A&amp;A process or is willing to go through the 3-4 month process if an award is made to them.<br />4. Size of the company in terms of dollars under NAICS code 518210, and whether the company is an 8(a), SDB, WOSB, HUBZone, VOSB and/or SDVOSB under this NAICS code. If the company is a subsidiary of another company, list the total revenue and number of employees for the parent organization and all subsidiaries. <br />5. Company's DUNS number and also indicate whether the company is currently registered in the Government's System for Award Management (SAM) (Vendors must be registered in SAM to receive an award of any government contractual vehicle).<br />Mere expressions of interest without providing the above requested details will not be considered valid responses to this notice. Responses shall not exceed 10 pages and include the subject line "Online Collaboration Tool", should be single spaced and single sided, using Times New Roman, 12-point font, and should not include attachments or appendices.</p><br />
+<p>THIS IS A REQUEST FOR INFORMATION ONLY. THIS IS NOT A PRE-SOLICITATION NOTICE. ANY SOLICITATION WILL BE ANNOUNCED AT A LATER DATE. NO OFFERS ARE REQUESTED OR WILL BE ACCEPTED AT THIS TIME.</p><br />
+<p>Responses to this Sources Sought Notice and questions regarding this Sources Sought Notice should be submitted via email to Divya Soni at divya.soni@nist.gov and shall be received no later than 12:00 PM (EST) February 27, 2014.</p><br />
+<p>DOC/NIST appreciates your assistance with this market research and emphasizes that this effort is for planning purposes only. Responses will not be treated as proposals, but may be used to create the subsequent Request for Proposal (RFP). Respondents should clearly mark any proprietary information submitted in response to this Sources Sought Notice.</p><br />
+<p>&nbsp;</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		100 Bureau Drive, Building 301<br />
+Room B130<br/>
+
+			
+				
+		Gaithersburg,
+
+			
+	
+		Maryland
+
+			
+	
+		20899-1410
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Divya Soni</div>
+		<div><a href="mailto:divya.soni@nist.gov">divya.soni@nist.gov</a></div>
+	<div>Phone: 3019756394</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8cde0239479a1d272ecc543c1d91058c'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8cde0239479a1d272ecc543c1d91058c'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 27, 2014 12:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	518 -- Data Processing, Hosting and Related Services/518210 -- Data Processing, Hosting, and Related Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

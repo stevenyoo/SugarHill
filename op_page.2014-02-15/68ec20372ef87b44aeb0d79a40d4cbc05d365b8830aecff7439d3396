@@ -1,0 +1,853 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Logistics Support Services - FA7000-14-R-0001 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392494996');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392494996';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Direct Reporting Units logo"></div><div class="agency-header"><h2>Logistics Support Services</h2><div class="sol-num">Solicitation Number: FA7000-14-R-0001</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Direct Reporting Units<br>Location: USAF Academy - 10 CONS</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=e38f58249b92f0b75c66a977bc63a04c&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/DRU/10ABWLGC/FA7000-14-R-0001/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/DRU/10ABWLGC/FA7000-14-R-0001/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/DRU/10ABWLGC/FA7000-14-R-0001/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=e38f58249b92f0b75c66a977bc63a04c&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e38f58249b92f0b75c66a977bc63a04c&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=e38f58249b92f0b75c66a977bc63a04c&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=74ada617b82eff3314d14627516579af&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Jan 27, 2014</div><div class="nh-date">5:04 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=e38f58249b92f0b75c66a977bc63a04c&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">6:39 pm</div><div class="nh-date"><em>Solicitation</em></div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=74ada617b82eff3314d14627516579af'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=74ada617b82eff3314d14627516579af'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA7000-14-R-0001
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-27 17:04:02">Jan 27, 2014 5:04 pm</span>
+					</div>
+		<h4 style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">DESCRIPTION</span></span></h4><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">This synopsis is for informational purposes only and does not constitute a solicitation for bids or proposals.<span style="mso-spacerun: yes;">&nbsp; </span>Do not submit a bid/quote at this time.<span style="mso-spacerun: yes;">&nbsp; </span>This is a pre-solicitation notice for Logistic Support Services at the U.S. Air Force Academy, CO 80840.<span style="mso-spacerun: yes;">&nbsp; </span></span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt; tab-stops: 156.75pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">The contractor shall perform Logistics Support Service functions at USAFA.<span style="mso-spacerun: yes;">&nbsp; </span>Performance shall be In Accordance With (IAW) contract terms and conditions, and PWS requirements and standards.<span style="mso-spacerun: yes;">&nbsp; </span>The scope of service under the contract is to provide the United States Air Force Academy (USAFA) with logistic support services to support the USAFA Mission which is to prepare the next generation of Air Force leaders. The ultimate goal of the service provider shall be the establishment of a quality, customer-focused logistic support service that meets the needs of all USAFA customers and supports the USAFA mission. Services include operation and management of the standard base supply system, munitions account, ground and aviation fuels, HAZMAT/HAZMART, cargo movement services, equipment accounts, and mobility/readiness.<span style="mso-spacerun: yes;">&nbsp; </span></span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt; tab-stops: 156.75pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;"><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">The North American Industry Classification System Code (NAICS) is 561210 and the small business size standard is $35.5 million.<span style="mso-spacerun: yes;">&nbsp; </span>This acquisition is set-aside for 8(a) small businesses.<span style="mso-spacerun: yes;">&nbsp; </span>The Service Contract Act of 1965 and a Collective Bargaining Agreement (CBA) with International Associations of Machinists and Aerospace Workers District Lodge 47, apply to this requirement.<span style="mso-spacerun: yes;">&nbsp; </span>It is anticipated the solicitation will be issued electronically on or about <strong style="mso-bidi-font-weight: normal;">6 February 2014</strong> on the Federal Business Opportunities (FBO) web page at </span><a href="https://www.fbo.gov/"><span style="font-family: Times New Roman; color: #0000ff; font-size: small;">https://www.fbo.gov/</span></a><span style="font-size: small;"><span style="font-family: Times New Roman;">.<span style="mso-spacerun: yes;">&nbsp; </span>Due date for receipt of proposal will be indicated in the solicitation document when it is released.<span style="mso-spacerun: yes;">&nbsp; </span>Once the solicitation is posted on FBO, it is incumbent upon the interested parties to review this site frequently for any updates or amendments.<span style="mso-spacerun: yes;">&nbsp; </span>It should be noted that paper copies of documents will not be provided.<span style="mso-spacerun: yes;">&nbsp; </span></span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">Offerors must be registered with the System for Award Management (SAM) or may not be considered for award.<span style="mso-spacerun: yes;">&nbsp; </span>Registration can be accomplished at </span><a href="https://www.sam.gov/"><span style="font-family: Times New Roman; color: #0000ff; font-size: small;">https://www.sam.gov</span></a><span style="font-family: Times New Roman; font-size: small;">.<span style="mso-spacerun: yes;">&nbsp; </span>As of 1 January 2005, the Federal Acquisition Regulation (FAR) requires the use of Online Representations and Certifications Application (ORCA) in Federal solicitations as part of the proposal submission process.<span style="mso-spacerun: yes;">&nbsp; </span>Representation and Certification are to be accomplished at </span><a href="https://www.sam.gov/"><span style="font-family: Times New Roman; color: #0000ff; font-size: small;">https://www.sam.gov</span></a><span style="font-family: Times New Roman; font-size: small;">. <span style="mso-spacerun: yes;">&nbsp;</span>Registration requires applicants to have a DUNS number from Dun and Bradstreet and can be obtained at </span><a href="http://www.dnb.com/"><span style="font-family: Times New Roman; color: #0000ff; font-size: small;">http://www.dnb.com</span></a><span style="font-size: small;"><span style="font-family: Times New Roman;">/.</span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></p><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-size: small;"><span style="font-family: Times New Roman;">OMBUDSMAN (NOV 2012)</span></span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><br /><span style="font-size: small;"><span style="font-family: Times New Roman;">(a) An ombudsman has been appointed to hear and facilitate the resolution of concerns from offerors, potential offerors, and others for this acquisition. When requested, the ombudsman will maintain strict confidentiality as to the source of the concern. The existence of the ombudsman does not affect the authority of the program manager, contracting officer, or source selection official. Further, the ombudsman does not participate in the evaluation of proposals, the source selection process, or the adjudication of protests or formal contract disputes. The ombudsman may refer the interested party to another official who can resolve the concern. <br /><br />(b) Before consulting with an ombudsman, interested parties must first address their concerns, issues, disagreements, and/or recommendations to the contracting officer for resolution. Consulting an ombudsman does not alter or postpone the timelines for any other processes (e.g., agency level bid protests, GAO bid protests, requests for debriefings, employee-employer actions, contests of <span style="text-decoration: underline;"><a href="http://www.whitehouse.gov/omb/circulars/a076/a76_rev2003.pdf" target="_blank"><span style="color: #0000ff;">OMB Circular A-76</span></a></span> competition performance decisions).<br /><br />(c) If resolution cannot be made by the contracting officer, the interested party may contact the Center/MAJCOM/DRU or AFISRA ombudsmen, </span></span></span></h4><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">Kelly S. Snyder</span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">8110 Industrial Drive, Suite 200</span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">USAFA, CO 80840</span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">Telephone number 719-333-2074</span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">FAX 719-333-2379</span></span></p><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">Email:<span style="mso-spacerun: yes;">&nbsp; </span>kelly.snyder@us.af.mil</span></span></p><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-size: small;"><span style="font-family: Times New Roman;">Concerns, issues, disagreements, and recommendations that cannot be resolved at the Center/MAJCOM/DRU or AFISRA level, may be brought by the interested party for further consideration to the Air Force ombudsman, Associate Deputy Assistant Secretary (ADAS) (Contracting), SAF/AQC, 1060 Air Force Pentagon, Washington DC 20330-1060, phone number (571) 256-2397, facsimile number (571) 256-2431.</span></span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-size: small;"><span style="font-family: Times New Roman;">(d) The ombudsman has no authority to render a decision that binds the agency. </span></span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-size: small;"><span style="font-family: Times New Roman;">(e) Do not contact the ombudsman to request copies of the solicitation, verify offer due date, or clarify technical requirements. Such inquiries shall be directed to the Contracting Officer. </span></span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-size: small;"><span style="font-family: Times New Roman;">(End of clause)</span></span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-size: small;"><span style="font-family: Times New Roman;">POINT OF CONTACT</span></span></h4><br />
+<h4 style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></h4><br />
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Times New Roman; font-size: small;">Questions and responses should be addressed to the primary contact, Nathaniel Searing, Contract Specialist, at 719-333-8269 or nathaniel.searing@us.af.mil, or the alternate point of contact, Aaron Schulz, Contracting Officer, 719-333-8059 or </span><a href="mailto:aaron.schulz@us.af.mil"><span style="font-family: Times New Roman; color: #0000ff; font-size: small;">aaron.schulz@us.af.mil</span></a><span style="font-size: small;"><span style="font-family: Times New Roman;">. </span></span></p><br />
+<h4 style="margin: auto 0in;"><span style="font-size: small;"><span style="font-family: Times New Roman;">ATTACHMENT</span></span></h4><br />
+<h4 style="margin: auto 0in;"><span style="font-size: small;"><span style="font-family: Times New Roman;"><span style="font-weight: normal; mso-bidi-font-weight: bold;">A </span>DRAFT<span style="font-weight: normal; mso-bidi-font-weight: bold;"> PWS is attached for informational purposes only</span></span></span></h4><br />
+<h4 style="margin: auto 0in;"><span style="font-weight: normal; mso-bidi-font-weight: bold;"><span style="font-family: Times New Roman; font-size: small;">&nbsp;</span></span></h4>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft PWS</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Draft PWS
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	January 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c738ed70932535a7a347ecb1b5c79496' target='_blank' title='Download/View PWS_(new_contract)_(draft_special_(1en)(LGRM-10CONS)(14_Jan_14)-Conversion.docx' class='file'&gt;PWS_(new_contract)_(draft_special_(1en)(LGRM-10CONS)(14_Jan_14)-Conversion.docx&lt;/a&gt;"><a href='/utils/view?id=c738ed70932535a7a347ecb1b5c79496' target='_blank' title='Download/View PWS_(new_contract)_(draft_special_(1en)(LGRM-10CONS)(14_Jan_14)-Conversion.docx' class='file'>PWS_(new_contract)_(draft_special_(1en)(LGRM-10CONS)(14_Jan_14)-Conversion.docx</a> (290.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft LRS PWS</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=12628ca2dd0ca8acaa4f693609909197' target='_blank' title='Download/View FA7000-14-R-0001_Logistics_Support_Services.pdf' class='file'&gt;FA7000-14-R-0001_Logistics_Support_Services.pdf&lt;/a&gt;"><a href='/utils/view?id=12628ca2dd0ca8acaa4f693609909197' target='_blank' title='Download/View FA7000-14-R-0001_Logistics_Support_Services.pdf' class='file'>FA7000-14-R-0001_Logistics_Support_Services.pdf</a> (391.40 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA7000-14-R-0001 Logistics Support Services Solicitation</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=fb8c6d02a6ad055616db3fe32d13f820' target='_blank' title='Download/View Attach_1_PWS_(6_Feb_14).pdf' class='file'&gt;Attach_1_PWS_(6_Feb_14).pdf&lt;/a&gt;"><a href='/utils/view?id=fb8c6d02a6ad055616db3fe32d13f820' target='_blank' title='Download/View Attach_1_PWS_(6_Feb_14).pdf' class='file'>Attach_1_PWS_(6_Feb_14).pdf</a> (1,138.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 1 - PWS dated 6-Feb-2014</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=66ed49e13ff5b8f6e0885026a26e5c0d' target='_blank' title='Download/View Attach_1A_Compliance_Inspections.xlsx' class='file'&gt;Attach_1A_Compliance_Inspections.xlsx&lt;/a&gt;"><a href='/utils/view?id=66ed49e13ff5b8f6e0885026a26e5c0d' target='_blank' title='Download/View Attach_1A_Compliance_Inspections.xlsx' class='file'>Attach_1A_Compliance_Inspections.xlsx</a> (184.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 1A - PWS attachment - Compliance Inspections</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=1350986ba7430daf4b97d3fe26a25f1e' target='_blank' title='Download/View Attach_1B_LCAP_Checklists.xlsx' class='file'&gt;Attach_1B_LCAP_Checklists.xlsx&lt;/a&gt;"><a href='/utils/view?id=1350986ba7430daf4b97d3fe26a25f1e' target='_blank' title='Download/View Attach_1B_LCAP_Checklists.xlsx' class='file'>Attach_1B_LCAP_Checklists.xlsx</a> (124.97 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 1B - PWS Attachment - LCAP Checklists</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=ac239964abf036386033e393721a113c' target='_blank' title='Download/View Attach_2_Scheduled-GFP.pdf' class='file'&gt;Attach_2_Scheduled-GFP.pdf&lt;/a&gt;"><a href='/utils/view?id=ac239964abf036386033e393721a113c' target='_blank' title='Download/View Attach_2_Scheduled-GFP.pdf' class='file'>Attach_2_Scheduled-GFP.pdf</a> (604.61 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 2 - Scheduled GFP </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=7ceea26528ef73945b2ba6e6028a21ab' target='_blank' title='Download/View Attach_3_GFE_Listing_(7_Feb_14).pdf' class='file'&gt;Attach_3_GFE_Listing_(7_Feb_14).pdf&lt;/a&gt;"><a href='/utils/view?id=7ceea26528ef73945b2ba6e6028a21ab' target='_blank' title='Download/View Attach_3_GFE_Listing_(7_Feb_14).pdf' class='file'>Attach_3_GFE_Listing_(7_Feb_14).pdf</a> (58.28 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 3 - GFE Listing dated 7-Feb-2014</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=8f37adc0ac046834b45d8a6832058713' target='_blank' title='Download/View Attach_4_(Floorplans)_(25_Nov_13).pdf' class='file'&gt;Attach_4_(Floorplans)_(25_Nov_13).pdf&lt;/a&gt;"><a href='/utils/view?id=8f37adc0ac046834b45d8a6832058713' target='_blank' title='Download/View Attach_4_(Floorplans)_(25_Nov_13).pdf' class='file'>Attach_4_(Floorplans)_(25_Nov_13).pdf</a> (187.89 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 4 - GFF dated 25-Nov-2013</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=4a99908ffd5b9afc88be5d5ac7d30192' target='_blank' title='Download/View Attach_5_dd254.pdf' class='file'&gt;Attach_5_dd254.pdf&lt;/a&gt;"><a href='/utils/view?id=4a99908ffd5b9afc88be5d5ac7d30192' target='_blank' title='Download/View Attach_5_dd254.pdf' class='file'>Attach_5_dd254.pdf</a> (388.63 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 5 - DD254</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=44ac8189933b5197a5be5648bc7215c4' target='_blank' title='Download/View Attach_6_SCA_WD_05-279_Rev.-14_062513.pdf' class='file'&gt;Attach_6_SCA_WD_05-279_Rev.-14_062513.pdf&lt;/a&gt;"><a href='/utils/view?id=44ac8189933b5197a5be5648bc7215c4' target='_blank' title='Download/View Attach_6_SCA_WD_05-279_Rev.-14_062513.pdf' class='file'>Attach_6_SCA_WD_05-279_Rev.-14_062513.pdf</a> (40.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 6 - SCA Wage Determination </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=31d730eea618254b685fb593e4badeb2' target='_blank' title='Download/View Attach_7_CBA_(expires_Nov_2014).pdf' class='file'&gt;Attach_7_CBA_(expires_Nov_2014).pdf&lt;/a&gt;"><a href='/utils/view?id=31d730eea618254b685fb593e4badeb2' target='_blank' title='Download/View Attach_7_CBA_(expires_Nov_2014).pdf' class='file'>Attach_7_CBA_(expires_Nov_2014).pdf</a> (1,078.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 7 - CBA</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=3a788cb76c358b251ccc1363473ae187' target='_blank' title='Download/View Attach_8_Est_Workload_Data_(Jan_14).pdf' class='file'&gt;Attach_8_Est_Workload_Data_(Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=3a788cb76c358b251ccc1363473ae187' target='_blank' title='Download/View Attach_8_Est_Workload_Data_(Jan_14).pdf' class='file'>Attach_8_Est_Workload_Data_(Jan_14).pdf</a> (114.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 8 - Estimated Workload Data</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=40881665dabfd82b70ebbdff1a22917d' target='_blank' title='Download/View Attach_9_Offeror_Financial_Reference.pdf' class='file'&gt;Attach_9_Offeror_Financial_Reference.pdf&lt;/a&gt;"><a href='/utils/view?id=40881665dabfd82b70ebbdff1a22917d' target='_blank' title='Download/View Attach_9_Offeror_Financial_Reference.pdf' class='file'>Attach_9_Offeror_Financial_Reference.pdf</a> (135.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 9 - Offeror Financial Reference</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=fd0dd3ce6f3e59d2a5227337c6db8d27' target='_blank' title='Download/View Exhibit_A_DD_1423.pdf' class='file'&gt;Exhibit_A_DD_1423.pdf&lt;/a&gt;"><a href='/utils/view?id=fd0dd3ce6f3e59d2a5227337c6db8d27' target='_blank' title='Download/View Exhibit_A_DD_1423.pdf' class='file'>Exhibit_A_DD_1423.pdf</a> (403.22 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Exhibit A - DD1423</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=89f66ffdfbe249eaa22a1e15a7a0a564' target='_blank' title='Download/View Questions_1_for_Solicitation_FA7000-14-R-0001.pdf' class='file'&gt;Questions_1_for_Solicitation_FA7000-14-R-0001.pdf&lt;/a&gt;"><a href='/utils/view?id=89f66ffdfbe249eaa22a1e15a7a0a564' target='_blank' title='Download/View Questions_1_for_Solicitation_FA7000-14-R-0001.pdf' class='file'>Questions_1_for_Solicitation_FA7000-14-R-0001.pdf</a> (186.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions Set #1 dated 11-Feb-2014</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		8110 Industrial Drive<br />
+Suite 200<br/>
+
+			
+				
+		USAF Academy,
+
+			
+	
+		Colorado
+
+			
+	
+		80840-2315
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		United States Air Force Academy<br/>
+
+			
+				
+		USAFA,
+
+			
+	
+		Colorado
+
+			
+	
+		80840
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Nathaniel F. Searing,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:nathaniel.searing@us.af.mil">nathaniel.searing@us.af.mil</a></div>
+	<div>Phone: 7193338269</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Jan K. Christensen,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:jan.christensen@usafa.af.mil">jan.christensen@usafa.af.mil</a></div>
+	<div>Phone: (719) 333-8923</div>		<div>Fax: (719) 333-8939</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=74ada617b82eff3314d14627516579af'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=74ada617b82eff3314d14627516579af'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=0e95329d033edb5094f0fb75ccfd9133">Draft PWS</a> <a target="_blank" href="/utils/dZip?base=74ada617b82eff3314d14627516579af&class=document_package&id=0e95329d033edb5094f0fb75ccfd9133" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 27, 2014</div></dt><dd><a href="/utils/view?id=c738ed70932535a7a347ecb1b5c79496" target="_blank" title="Download/View PWS_(new_contract)_(draft_special_(1en)(LGRM-10CONS)(14_Jan_14)-Conversion.docx" class="file">PWS_(new_contract)_(draft_special_(1en)(LGRM-10CONS)(14_Jan_14)-Conversion.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=15109b67f667e21d4ed342e40716f6a0">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=74ada617b82eff3314d14627516579af&class=document_package&id=15109b67f667e21d4ed342e40716f6a0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=12628ca2dd0ca8acaa4f693609909197" target="_blank" title="Download/View FA7000-14-R-0001_Logistics_Support_Services.pdf" class="file">FA7000-14-R-0001_Logistics_Support_Services.pdf</a></dd><dd><a href="/utils/view?id=fb8c6d02a6ad055616db3fe32d13f820" target="_blank" title="Download/View Attach_1_PWS_(6_Feb_14).pdf" class="file">Attach_1_PWS_(6_Feb_14).pdf</a></dd><dd><a href="/utils/view?id=66ed49e13ff5b8f6e0885026a26e5c0d" target="_blank" title="Download/View Attach_1A_Compliance_Inspections.xlsx" class="file">Attach_1A_Compliance_Inspections.xlsx</a></dd><dd><a href="/utils/view?id=1350986ba7430daf4b97d3fe26a25f1e" target="_blank" title="Download/View Attach_1B_LCAP_Checklists.xlsx" class="file">Attach_1B_LCAP_Checklists.xlsx</a></dd><dd><a href="/utils/view?id=ac239964abf036386033e393721a113c" target="_blank" title="Download/View Attach_2_Scheduled-GFP.pdf" class="file">Attach_2_Scheduled-GFP.pdf</a></dd><dd><a href="/utils/view?id=7ceea26528ef73945b2ba6e6028a21ab" target="_blank" title="Download/View Attach_3_GFE_Listing_(7_Feb_14).pdf" class="file">Attach_3_GFE_Listing_(7_Feb_14).pdf</a></dd><dd><a href="/utils/view?id=8f37adc0ac046834b45d8a6832058713" target="_blank" title="Download/View Attach_4_(Floorplans)_(25_Nov_13).pdf" class="file">Attach_4_(Floorplans)_(25_Nov_13).pdf</a></dd><dd><a href="/utils/view?id=4a99908ffd5b9afc88be5d5ac7d30192" target="_blank" title="Download/View Attach_5_dd254.pdf" class="file">Attach_5_dd254.pdf</a></dd><dd><a href="/utils/view?id=44ac8189933b5197a5be5648bc7215c4" target="_blank" title="Download/View Attach_6_SCA_WD_05-279_Rev.-14_062513.pdf" class="file">Attach_6_SCA_WD_05-279_Rev.-14_062513.pdf</a></dd><dd><a href="/utils/view?id=31d730eea618254b685fb593e4badeb2" target="_blank" title="Download/View Attach_7_CBA_(expires_Nov_2014).pdf" class="file">Attach_7_CBA_(expires_Nov_2014).pdf</a></dd><dd><a href="/utils/view?id=3a788cb76c358b251ccc1363473ae187" target="_blank" title="Download/View Attach_8_Est_Workload_Data_(Jan_14).pdf" class="file">Attach_8_Est_Workload_Data_(Jan_14).pdf</a></dd><dd><a href="/utils/view?id=40881665dabfd82b70ebbdff1a22917d" target="_blank" title="Download/View Attach_9_Offeror_Financial_Reference.pdf" class="file">Attach_9_Offeror_Financial_Reference.pdf</a></dd><dd><a href="/utils/view?id=fd0dd3ce6f3e59d2a5227337c6db8d27" target="_blank" title="Download/View Exhibit_A_DD_1423.pdf" class="file">Exhibit_A_DD_1423.pdf</a></dd><dd><a href="/utils/view?id=89f66ffdfbe249eaa22a1e15a7a0a564" target="_blank" title="Download/View Questions_1_for_Solicitation_FA7000-14-R-0001.pdf" class="file">Questions_1_for_Solicitation_FA7000-14-R-0001.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Competitive 8(a)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Competitive 8(a)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	561 -- Administrative and Support Services/561210 -- Facilities Support Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

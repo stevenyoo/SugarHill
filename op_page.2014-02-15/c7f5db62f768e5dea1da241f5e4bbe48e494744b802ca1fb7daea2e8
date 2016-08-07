@@ -1,0 +1,1056 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>IDIQ Term Contract(s) for Supplemental Architect-Engineering Design Services  - GS-02P-13-PV-D-0014 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495854');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495854';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=a42cc99ad9c56187bc68c611e4067366&inline_disposition=1" border="0" alt="Public Buildings Service (PBS) logo"></div><div class="agency-header agency-header-med"><h2>IDIQ Term Contract(s) for Supplemental Architect-Engineering Design Services </h2><div class="sol-num">Solicitation Number: GS-02P-13-PV-D-0014</div><div class="agency-name">Agency: General Services Administration<br>Office: Public Buildings Service (PBS)<br>Location: Acquisition Management Division Operation Branch B</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=9e068724b901edfff8790022da1adf8b&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/9e068724b901edfff8790022da1adf8b" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/9e068724b901edfff8790022da1adf8b" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/9e068724b901edfff8790022da1adf8b" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=9e068724b901edfff8790022da1adf8b&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=9e068724b901edfff8790022da1adf8b&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=9e068724b901edfff8790022da1adf8b&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=bbf0733b7d8fa2dd004a604b4b9d6ad6&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Dec 17, 2012</div><div class="nh-date">10:19 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d5d5b032dcb32230e81ffba2b055ee61&_cview=0">Changed</a><div class="nh-date">Jan 04, 2013</div><div class="nh-date">9:56 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=7c85df6094c1a4acaf0f6ad5fc2e18bd&_cview=0">Changed</a><div class="nh-date">Jan 07, 2013</div><div class="nh-date">10:52 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d67d380a60e173b977807b2c2f05dc5a&_cview=0">Changed</a><div class="nh-date">Jan 17, 2013</div><div class="nh-date">3:47 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=af819c3881dfdaadfb4397df605baaf2&_cview=0">Changed</a><div class="nh-date">Jan 24, 2013</div><div class="nh-date">9:32 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3137b41d0139bb2ae456b2d8a6337a22&_cview=0">Changed</a><div class="nh-date">Jan 24, 2013</div><div class="nh-date">9:46 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2417b40d15a1bf4d8052bf941f7d626b&_cview=0">Changed</a><div class="nh-date">Mar 06, 2013</div><div class="nh-date">7:48 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=80dc6fbf774e0411f4c36c5fd4f2f828&_cview=0">Changed</a><div class="nh-date">Mar 06, 2013</div><div class="nh-date">8:02 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=4ee848e8323d952d56c54c82eaeae7c7&_cview=0">Changed</a><div class="nh-date">Mar 06, 2013</div><div class="nh-date">8:39 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=4d1399219f28ce63e2859050e7279dbd&_cview=0">Changed</a><div class="nh-date">Mar 22, 2013</div><div class="nh-date">10:43 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=945633d113fc272794dff51d00aa2fbf&_cview=0">Changed</a><div class="nh-date">Jan 15, 2014</div><div class="nh-date">3:03 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=9e068724b901edfff8790022da1adf8b&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">2:50 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=bbf0733b7d8fa2dd004a604b4b9d6ad6'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=bbf0733b7d8fa2dd004a604b4b9d6ad6'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	GS-02P-13-PV-D-0014
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2012-12-17 10:19:04">Dec 17, 2012 10:19 am</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-11 14:47:43">Feb 11, 2014 2:47 pm<a href="/utils/viewDifferences?class=notice_description&id=6f8ed4700c61e81a9fa8c43c257011c8&compared_to=3065b8ea66c92a5e5b65b124d8b52c81" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=6f8ed4700c61e81a9fa8c43c257011c8&compared_to=3065b8ea66c92a5e5b65b124d8b52c81&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<div style="background-color: transparent; font-family: Times; font-size: medium;"><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">To all firms that provided submissions to this solicitation:</span></p><br />
+</div><br />
+<p>The following firms will be invited for interviews. Please note that the list is not in any particular order.</p><br />
+<p><span style="text-decoration: underline;">Zone 1 and/or 2</span> <br />&bull; Goshow<br />&bull; Helpern<br />&bull; Lothrop<br />&bull; Richard McElhiney<br />&bull; Robert Siegel<br />&bull; Ronnette Riley</p><br />
+<p><span style="text-decoration: underline;">Zone 3<br /></span>&bull; Design Resources Group<br />&bull; Lothrop<br />&bull; RSC Architects</p><br />
+<div><br />
+<p><span>************************************************************<br /><br />The selection criteria for "Specialized Design Expertise in Commercial Office Space" has changed.&nbsp;The five project examples must be from the past 5 years (see revision below).<br /><br />The General Services Administration (&ldquo;GSA&rdquo;), Northeast Caribbean Region is seeking Architect-Engineering (&ldquo;A/E&rdquo;) firms to provide supplemental design services for Renovations, Additions, and Repair and Alteration projects &nbsp;in Federal Buildings, U.S. Courthouses, and various leased locations. Supplemental design services shall include architectural and engineering studies and reports; architectural and engineering design services; preparation of construction documents, and optional construction services and post construction services; (See attached SOW for details). These services will be provided on an as needed basis for a term of five (5) years, which includes a one (1) year base period plus four (4) one-year unilateral options. &nbsp;The aggregate Maximum Order Limitation (&ldquo;MOL&rdquo;) shall not exceed $7,500,000 for the total five-year term of each contract. The minimum guarantee for each contract will be $2,500 for the entire term of the contract (including the exercise of any options).<br />&nbsp;</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">GSA will award three single Indefinite-Delivery, Indefinite-Quantity (IDIQ) contracts from this acquisition; one for each of the following geographical areas: &nbsp;<br />&nbsp;</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Zone 1 (New York City) &ndash; Jacob K Javits Federal Building at 26 Federal Plaza, Court of International Trade at 1 Federal Plaza, Ted Weiss Federal Building at 290 Broadway, Daniel Patrick Moynihan Courthouse at 500 Pearl Street, Thurgood Marshall U.S. Courthouse at 40 Centre Street, the Silvio Mollo Federal Building at 1 St. Andrews Plaza, Alexander Hamilton U.S. Custom House at 1 Bowling Green, Federal Office Building at 201 Varick Street, Howard Street Garage at 203 Centre Street, and the United States Mission to the UN at 799 UN Plaza, New York, New York; US Courthouse at 300 Quarappos Avenue, White Plains, New York and all leased locations within the Manhattan District, and the counties of Rockland and Westchester. </span></p><br />
+<br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Zone 2 (Brooklyn, Queens, Long Island) &ndash; Emanuel Celler US Courthouse at 225 Cadman Plaza East, General Post Office at 271 Cadman Plaza East, Theodore Roosevelt U.S. Courthouse at Cadman Plaza East, Brooklyn, New York; Joseph P. Addabbo Federal Building at One Jamaica Center Plaza, Jamaica, New York; Alfonse D&rsquo;Amato Courthouse at 1 Federal Plaza, Central Islip, New York; IRS Service Center at 1040 Waverly Avenue, Holtsville, New York and all leased locations within the Brooklyn, Queens and Long Island Districts.</span></p><br />
+<br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Zone 3 (New Jersey) &ndash; Martin Luther King U.S. Courthouse at 50 Walnut Street, Peter W. Rodino Federal building at 970 Broad Street, and the Veterans Administration at 20 Washington Place, Newark, New Jersey; Robert A. Roe Federal Building at 200 Federal Plaza, Paterson, New Jersey; Trust Fund Building at 396 Bloomfield Avenue, Montclair, New Jersey and all leased locations within the New Jersey Center District, which include the following counties: Bergen, Essex, Union, Morris, Passaic, Hudson, Middlesex and Monmouth.</span></p><br />
+<br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">A/E firms must clearly specify the zone(s) for which they are submitting. A/E firms submitting for Zones 1 and 2 must be licensed in the State of New York, and firms submitting for Zone 3 must be licensed in the State of New Jersey. Be advised that there will be only one contract award per firm. &nbsp;<br />&nbsp;</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">All services shall be performed under the direction and supervision of registered architects and professional engineers. &nbsp;Services shall include, but not be limited to: &nbsp;renovations; additions; repair and alteration projects; including interior space alterations, in the fields of mechanical, electrical, fire protection, environmental work, sustainability design, familiarity with courtroom design including architectural woodwork; roof replacements; elevator modernization; childcare; historic preservation; site work; and building systems. &nbsp;&nbsp;<br />&nbsp;</span></p><br />
+<span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The A/E Firm as used in this RFQ means an individual, firm, joint venture, partnership, corporation, association, or other legal entity permitted by law to practice the profession of architecture or engineering that will have contractual responsibility for the work provided under this solicitation. If the A/E Firm is comprised of a partnership, corporation, association, or other legal entity permitted by law to practice architecture or engineering, a complete description of the proposed internal responsibilities of the components must be included in your response to this announcement. At least one key member in any proposed joint venture must have an existing active office within the stated geographic limits.&nbsp;&nbsp;&nbsp;&nbsp; <br /></span><br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">This acquisition will be 100% SET-ASIDE for small business concerns. &nbsp;The North American Industrial Classification System (NAICS) code for this procurement is 541310. &nbsp;The small business size standard for NAICS Code 541310 is an average annual gross sales/receipts for the last three years of $7,000,000. <br />&nbsp;</span></p><br />
+<span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">This will be a negotiated procurement issued in accordance with the Brooks Act, Public Law 92-852, and FAR Part 36.6. The A/E selection criteria will be as follows: &nbsp;1) Professional Qualifications of Key Personnel, 2) The Capacity to Accomplish the Work in the Required Time, 3) Specialized Design Expertise in Commercial Office Space, 4) Past Performance on Design, and 5) Design Office Located in Geographical Area. For each criterion, the corresponding section(s) of SF 330 must be completed as outlined below. </span><br /><br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Professional Qualifications of Key Personnel (SF 330, Part 1, Sections C and E):</span></p><br />
+<span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The firm/joint venture with its consultants shall possess New York and/or New Jersey licensed personnel in the following disciplines: Architecture, Mechanical, Electrical, and Civil Engineering. &nbsp;The firm/joint venture shall submit resumes for its key personnel (Part I Section E of SF 330) consisting of principals/partners, Project Managers and Lead/Senior Architect/Engineer. &nbsp;At least two of the key personnel shall have LEED certification. &nbsp;Each resume shall include all pertinent information that clearly exhibits the qualifications of the proposed personnel. &nbsp;Resumes for each individual shall summarize the qualifications, experience, education, certifications and licenses possessed by the key personnel. &nbsp;For each category of key personnel listed below, two resume submissions shall be submitted for a total of eight resumes.</span><br /><br /><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">At a minimum, the proposed key personnel shall have the following years of experience:</span><br /><ol style="margin-top: 0pt; margin-bottom: 0pt;"><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Principal/Partners must possess at a minimum 15 years of recent (within the past 17 years) experience as principal/partner of an architectural firm;</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Project Manager must possess at a minimum 12 years of recent (within the past 15 years) experience in the management of projects that are approximate in complexity and scope of the design and construction described in the Scope of Work; and</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Lead/Senior Architect and Lead/Senior Engineer must possess at a minimum 8 years experience (within the past 10 years) as Lead/Senior Architect/Engineer in managing projects that are approximate in complexity and scope of the design and construction described in the Scope of Work.</span></li><br />
+</ol><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">All key personnel shall have either a Bachelor of Arts in Architecture or Bachelor of Science in Engineering with a professional Engineering license or be a registered Architect.</span><br /><br /><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Each proposed team member will be evaluated based on the relevance of their qualifications and experience with regards to fulfilling the requirements of this acquisition. &nbsp;Relevant experience relates to complex commercial office space facilities and infrastructure design requirements. &nbsp;All certifications and licenses must be submitted with the resumes.</span><br /><br /><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Capacity to Accomplish the Work in the Required Time (SF 330, Part I, Section D): </span><br /><br />
+<div style="background-color: transparent; font-family: Times;"><strong><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">This factor will consider the degree to which the firm/joint venture can demonstrate its ability to complete the work within the required time. &nbsp;The narrative will be evaluated to assess the application of sound management principles in the planning, organizing, and managing of internal resources and consultants, resolving problems, and integrating multiple work directions at varying levels of complexity and scope. &nbsp;The firm/joint venture shall submit a written narrative (maximum of ten 8-1/2 x 11 pages) addressing all of the following items in response to this factor:</span></strong></div><br />
+<br /><br />
+<ul style="margin-top: 0pt; margin-bottom: 0pt;"><br />
+<li style="list-style-type: disc; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Organizational structure - provide a written narrative and organizational chart that describes the firm/joint venture&rsquo;s organizational structure and details the lines of communication, relationships, and responsibilities of the proposed key personnel and any other additional personnel that the firm/joint venture deems as essential to meet the requirements for this acquisition.</span></li><br />
+<li style="list-style-type: disc; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Provide details of specific assignments and other significant information for each member designated as key personnel and their anticipated duties.</span></li><br />
+<li style="list-style-type: disc; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Describe offeror&rsquo;s ability to complete several large and small task orders concurrently that require a quick turnaround. </span></li><br />
+<li style="list-style-type: disc; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Describe proposed project approach for tracking and carrying out the work in order to meet the anticipated project requirements.</span></li><br />
+<li style="list-style-type: disc; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Describe offeror&rsquo;s experience working with proposed team members on projects addressed in the firm/joint venture's proposal.</span></li><br />
+<li style="list-style-type: disc; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Describe offeror&rsquo;s ability to assign adequate resources in order to ensure continuity of services and meet unexpected project demands.</span></li><br />
+<li style="list-style-type: disc; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Describe current workload and the availability of the offeror and its consultants for the period of performance specified for this acquisition.<br />&nbsp;</span></li><br />
+</ul><br />
+<p style="margin-left: 3pt; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Specialized Design Expertise in Commercial Office Space (SF 330, Part I, Section F, G &amp; H): Provide five project examples from the past&nbsp;5 years (maximum of ten pages) </span></p><br />
+<p style="margin-left: 3pt; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The firm/joint venture shall demonstrate its experience in applying workable and cost effective concepts and principles for complex commercial office space facilities and infrastructure problems. &nbsp;The firm/joint venture shall provide five projects from the past&nbsp;five years that demonstrate the technical competence of the firm/joint venture in performing the following design specialties: architectural renovations, additions, and repair and alteration projects, including interior space alterations, addressing mechanical, electrical, fire protection, environmental work, sustainability design, Architectural Woodwork Institute millwork standards, roof replacements, elevator modernization, childcare facilities design, historic preservation, site work, building security, and building systems. &nbsp;At a minimum, the five projects shall each have a construction cost greater than $150,000.<br />&nbsp;</span></p><br />
+<p style="margin-left: 3pt; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In addition, each project, at a minimum, must include the following information:</span></p><br />
+<br /><ol style="margin-top: 0pt; margin-bottom: 0pt;"><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Name and description of the project/work;</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Cost of design to construction;</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Size of project; </span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Size of project team; and</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Explanation/detail of project complexity including all disciplines involved.</span></li><br />
+</ol><br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Past Performance on Design (SF 330, Part 1, Section H): </span></p><br />
+<span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The submission for this factor is limited to a total of ten 8-1/2 x 11 pages. The offeror shall provide a written narrative detailing five specific projects performed within the past five years where the firm/joint venture has performed complex commercial office space, architectural, mechanical, electrical, and fire protection design. &nbsp;The projects shall include past and/or current task orders or contracts, with Government agencies and/or private industry, and may be the same five projects from Factor 3. &nbsp;The projects shall be complex in nature and the written narrative of the projects shall describe the success of the project and how the offeror met the customer&rsquo;s requirements and how the customer benefited from choosing the offeror to participate in the project. &nbsp;The written narrative must address the outcome of the project and shall feature how the client's program, function, image, mission, cost control, schedule and operational objectives were satisfied by the overall design/planning solution. </span><br /><br /><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">If more than five projects are submitted, only the five most recently completed projects will be considered. &nbsp;Projects not completed within the last five years will not be considered. &nbsp;Project data shall include the following:</span><br /><br /><ol style="margin-top: 0pt; margin-bottom: 0pt;"><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Name and description of the project/work;</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Initial and final construction cost; </span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Design start and completion dates;</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Construction start and completion dates.</span></li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Names of key participants and their contributions. </span></li><br />
+</ol><br /><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The offeror shall provide a written narrative detailing at least two specific projects (from the five aforementioned projects) where the firm/joint venture performed cost control functions and cost reconciliation. &nbsp;</span><br /><br /><br />
+<p style="margin-left: 36pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Independent References</span></p><br />
+<p style="margin-left: 36pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Each firm/joint venture will be required to provide five completed past performance questionnaires prepared by the Owner/Client or the Contracting Officer/Contracting Officer&rsquo;s Representative or Project Manager for each project provided above for Architectural-Engineering design services performed within the past five years. &nbsp;The firm/joint venture shall submit reliable** references for all submitted projects.</span></p><br />
+<p style="margin-left: 36pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p><br />
+<p style="margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Instructions and procedures for the submitting Owner&rsquo;s or CO / COR past performance questionnaires are as follows and will ensure the utmost integrity in the submission of these documents. The Past Performance Questionnaires shall be prepared by the Owner/Client or the Contracting Officer/Contracting Officer&rsquo;s Representative or Project Manager for each contract / task order (government or commercial). The Owner/Client or the Contracting Officer/Contracting Officer&rsquo;s Representative or Project Manager shall then forward the past performance questionnaire in a sealed envelope to the firm/joint venture so that it may be submitted as part of its submission. Failure to submit required Owner/Client&rsquo;s or the Contracting Officer/Contracting Officer&rsquo;s Representative or Project Manager&rsquo;s past performance questionnaires will result in an unacceptable or a neutral rating for this evaluation factor.<br />&nbsp;</span></p><br />
+<p style="margin-left: 36pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">**The term &ldquo;reliable&rdquo; relates to the ability of the Technical Evaluation Board (TEB) to contact submitted references. &nbsp;GSA will expend only a reasonable amount of time and effort to contact submitted references. Current e-mail addresses should be provided for references when available to facilitate contact by the TEB. &nbsp;Other project reference sources may be considered. &nbsp;GSA will not limit its reference contacts to those provided by the firm/joint venture. &nbsp;GSA may choose to contact references independent of those provided. &nbsp;Other project reference sources include government-wide past performance evaluation systems such as CPARS, PPIRS, etc.</span></p><br />
+<br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Design Office located in Geographical Area (SF 330, Part 1, Section H): </span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The firm/joint venture must demonstrate that it has an active design/production office within the geographical areas serviced by the Manhattan, Brooklyn/Queens/Long Island, and New Jersey Operation Branches. &nbsp;The contract will require the firm to have an office and knowledge of any of the stated geographical areas. &nbsp;At least one member of any proposed joint venture must have an office within the geographical area. &nbsp;The firm/joint venture must specify for which zone(s) it is submitting a response, either New York or New Jersey. &nbsp;The firm/joint venture submitting a response for the zones in the New York area must be licensed in New York and those submitting a response for the New Jersey zone must be licensed in New Jersey. &nbsp;The firm/joint venture shall provide a written narrative indicating its capability and the location of its office within the geographic area specified in its proposal. &nbsp;The narrative shall not exceed two 8-1/2 x 11 pages. <br /><br />Firms/joint ventures in the New York area (NYC, Brooklyn, Queens and Long Island) may submit for Zone 1 and/or Zone 2. &nbsp;Firms submitting for New Jersey must be within the counties listed above in Zone 3.</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In accordance with FAR 36.6, following initial evaluations, up to nine firms will be short listed for interviews and further evaluation prior to recommendation and approval of the selected A-E firm(s).&nbsp;&nbsp;Two shortlists will be created; one for firms who submit for Zone 1 and 2 (New York); and one for firms who submit for Zone 3 (New Jersey). The shortlists will be published in the Federal Business Opportunities (FBO) website. &nbsp;The top firms from each shortlist found to be the most highly qualified to perform the services, will be selected to proceed into the negotiation phase of the acquisition. &nbsp;The highest ranked firm from the New York shortlist will be invited to submit a proposal for Zone 1, the next highest ranked will be invited to submit a proposal for Zone 2. The highest ranked firm from the New Jersey shortlist will be invited to submit a proposal for Zone 3.<br />&nbsp;</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Price negotiations will be conducted in accordance with FAR Part 36.606, and Part 15 beginning with the most preferred firm(s) in the final selection. If a mutually satisfactory contract cannot be negotiated, a written final proposal revision from the firm will be obtained, and the firm will be notified that negotiations have been terminated. Negotiations with the next firm in order of preference on the final selection list will be initiated. This procedure will continue until a mutually satisfactory contract has been negotiated. Please be advised that although you may submit for more than one zone, only one contract will be awarded per firm/joint venture.<br />&nbsp;</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Government may use fixed price amounts provided in a Supplemental Architect-Engineer Contract Lookup Table for pricing design work orders over the life of the contract. &nbsp;However, the Government may award an individual work order based on level of effort and negotiated hourly rates for other services not provided under the Lookup Table.</span></p><br />
+<span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Please note that active registration in the Systems for Award Management (SAM) (</span><a style="font-family: Times; font-size: medium; font-weight: bold;" href="http://www.sam.gov"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">www.sam.gov</span></a><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">) is required in order to conduct business with the Federal Government.&nbsp;</span><br /><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><strong>All questions to this synopsis are due on March 14, 2013 at Noon. &nbsp;Please note that all previous questions which were submitted will not be answered as they were based on selection criteria/requirements that have significantly changed and no longer apply. &nbsp;If you would like responses to previously submitted questions, please resubmit them by March 14, 2013.</strong></span><br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">A cover letter of interest is required.&nbsp;&nbsp;Your letter should reference this FedBizOpps announcement and which Zone(s) you want to be considered for. <br /><br />Also, include a brief description of the A/E Firm and its location, its organizational makeup, its ability to manage workload, and its noteworthy accomplishments. &nbsp;The A/E firm(s) will submit its response to the five (5) evaluation criteria in this announcement on a composite Standard Form 330, Part I &ndash; Contract-Specific Qualifications that reflects the entire project team. <br /><br />In addition, Standard Form 330, Part II &ndash; General Qualifications shall be submitted for the prime firm and each proposed consultant, which must be dated and not more than twelve months before the date of this synopsis. &nbsp;The A/E firm must complete the name and title as well as sign and date Part I, Block I and Part II, Block 12 of the SF 330. &nbsp;Three copies of the composite SF-330 is required. In order to be considered, A/E firms having the capability for this proposed work must submit all required documentation, including Standard Form 330 by </span><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">3:00 PM Eastern time, on April 9, 2013</span><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> to:<br />&nbsp;</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">General Services Administration</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Public Building Services</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Acquisition Management Division</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">26 Federal Plaza, Room 3132</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">New York, NY 10278</span></p><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Attn: Sung Yoo, Contract Specialist</span></p><br />
+<br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The following information MUST be on the outside of the sealed envelope:</span></p><br />
+<br /><ol style="margin-top: 0pt; margin-bottom: 0pt;"><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Solicitation No. GS-02P-13-PV-D-0014 IDIQ Term Contract(s) for Supplemental Architect-Engineering Design Services </span></p><br />
+</li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Due Date: April 9, 2013</span></p><br />
+</li><br />
+<li style="list-style-type: decimal; font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;" dir="ltr"><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Closing Time: 3:00PM Eastern</span></p><br />
+</li><br />
+</ol><br /><br />
+<p style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Late responses are subject to FAR Provision 52.214-7. &nbsp;Award of the contracts will be contingent upon availability of funds. &nbsp;This is not a Request for Proposal.</span></p><br />
+<div style="font-family: Times; font-size: medium; font-weight: bold;"><span style="font-size: 11px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br />
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Scope of Work</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Scope of Work
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	December 17, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=2fb76985dcea935bb8cad7ba2cc11e83' target='_blank' title='Download/View AE_SOW_12-14-12_Final.docx' class='file'&gt;AE_SOW_12-14-12_Final.docx&lt;/a&gt;"><a href='/utils/view?id=2fb76985dcea935bb8cad7ba2cc11e83' target='_blank' title='Download/View AE_SOW_12-14-12_Final.docx' class='file'>AE_SOW_12-14-12_Final.docx</a> (53.12 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Scope of Work -- IDIQ Term Contract(s) for Supplemental Architect-Engineering Design Services </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=989c5f0debda664c3aa4e2a8b2c76452' target='_blank' title='Download/View AE_IDIQ_Clauses.xlsx' class='file'&gt;AE_IDIQ_Clauses.xlsx&lt;/a&gt;"><a href='/utils/view?id=989c5f0debda664c3aa4e2a8b2c76452' target='_blank' title='Download/View AE_IDIQ_Clauses.xlsx' class='file'>AE_IDIQ_Clauses.xlsx</a> (23.24 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> AE IDIQ Clauses - Incorporated by Reference</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=7b8ba8330f692b98ecbf4a74ba1ae69c' target='_blank' title='Download/View FAR_Text_Clauses.docx' class='file'&gt;FAR_Text_Clauses.docx&lt;/a&gt;"><a href='/utils/view?id=7b8ba8330f692b98ecbf4a74ba1ae69c' target='_blank' title='Download/View FAR_Text_Clauses.docx' class='file'>FAR_Text_Clauses.docx</a> (54.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FAR Clauses</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=f99af5f34be94c03f874fdde957dc2c3' target='_blank' title='Download/View GSAM_Text_Clauses.docx' class='file'&gt;GSAM_Text_Clauses.docx&lt;/a&gt;"><a href='/utils/view?id=f99af5f34be94c03f874fdde957dc2c3' target='_blank' title='Download/View GSAM_Text_Clauses.docx' class='file'>GSAM_Text_Clauses.docx</a> (27.82 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> GSAM Clauses</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Pre-Proposal Conference Sign-In Sheet</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Pre-Proposal Conference Sign-In Sheet
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	January 24, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=688c17e9a1d71e1ac74535416882a553' target='_blank' title='Download/View Pre-proposal_Conference_Sign-In_Sheet.pdf' class='file'&gt;Pre-proposal_Conference_Sign-In_Sheet.pdf&lt;/a&gt;"><a href='/utils/view?id=688c17e9a1d71e1ac74535416882a553' target='_blank' title='Download/View Pre-proposal_Conference_Sign-In_Sheet.pdf' class='file'>Pre-proposal_Conference_Sign-In_Sheet.pdf</a> (2,828.83 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Pre-Proposal Conference Sign-In Sheet</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	March 6, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=4d4552987d9b1a725b19ae2ac5091596' target='_blank' title='Download/View PAST_PERFORMANCE_QUESTIONNAIRE' class='file'&gt;PAST_PERFORMANCE_QUESTIONNAIRE&lt;/a&gt;"><a href='/utils/view?id=4d4552987d9b1a725b19ae2ac5091596' target='_blank' title='Download/View PAST_PERFORMANCE_QUESTIONNAIRE' class='file'>PAST_PERFORMANCE_QUESTIONNAIRE</a> (57.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Past Performance Questionnaire</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Questions and Answers</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__name__widget">
+	Questions and Answers
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	March 22, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e6d40cfc99c85f7fe527577e24df853b' target='_blank' title='Download/View QUESTIONS_(New_Due_Date)_v3.docx' class='file'&gt;QUESTIONS_(New_Due_Date)_v3.docx&lt;/a&gt;"><a href='/utils/view?id=e6d40cfc99c85f7fe527577e24df853b' target='_blank' title='Download/View QUESTIONS_(New_Due_Date)_v3.docx' class='file'>QUESTIONS_(New_Due_Date)_v3.docx</a> (26.45 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Answers</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	January 15, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=348c76a9ce42b8d409e7b3939a67ad28' target='_blank' title='Download/View Amendment_No._2.docx' class='file'&gt;Amendment_No._2.docx&lt;/a&gt;"><a href='/utils/view?id=348c76a9ce42b8d409e7b3939a67ad28' target='_blank' title='Download/View Amendment_No._2.docx' class='file'>Amendment_No._2.docx</a> (257.02 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment No. 2</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		26 Federal Plaza<br/>
+
+			
+				
+		New York,
+
+			
+	
+		New York
+
+			
+	
+		10278
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Various locations in New York and New Jersey<br/>
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Sung H. Yoo,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:sung.yoo@gsa.gov">sung.yoo@gsa.gov</a></div>
+	<div>Phone: 212-264-4256</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Nicholas S. Uom,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:nicholas.uom@gsa.gov">nicholas.uom@gsa.gov</a></div>
+	<div>Phone: 212-264-7367</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=bbf0733b7d8fa2dd004a604b4b9d6ad6'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=bbf0733b7d8fa2dd004a604b4b9d6ad6'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e9b99c4e6c02b6c3bd6f9965f371a941">Scope of Work</a> <a target="_blank" href="/utils/dZip?base=bbf0733b7d8fa2dd004a604b4b9d6ad6&class=document_package&id=e9b99c4e6c02b6c3bd6f9965f371a941" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 17, 2012</div></dt><dd><a href="/utils/view?id=2fb76985dcea935bb8cad7ba2cc11e83" target="_blank" title="Download/View AE_SOW_12-14-12_Final.docx" class="file">AE_SOW_12-14-12_Final.docx</a></dd><dd><a href="/utils/view?id=989c5f0debda664c3aa4e2a8b2c76452" target="_blank" title="Download/View AE_IDIQ_Clauses.xlsx" class="file">AE_IDIQ_Clauses.xlsx</a></dd><dd><a href="/utils/view?id=7b8ba8330f692b98ecbf4a74ba1ae69c" target="_blank" title="Download/View FAR_Text_Clauses.docx" class="file">FAR_Text_Clauses.docx</a></dd><dd><a href="/utils/view?id=f99af5f34be94c03f874fdde957dc2c3" target="_blank" title="Download/View GSAM_Text_Clauses.docx" class="file">GSAM_Text_Clauses.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=56eb135b0c2a0fd64338b7de052bf9ab">Pre-Proposal Conference Sign-In Sheet</a> <a target="_blank" href="/utils/dZip?base=bbf0733b7d8fa2dd004a604b4b9d6ad6&class=document_package&id=56eb135b0c2a0fd64338b7de052bf9ab" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 24, 2013</div></dt><dd><a href="/utils/view?id=688c17e9a1d71e1ac74535416882a553" target="_blank" title="Download/View Pre-proposal_Conference_Sign-In_Sheet.pdf" class="file">Pre-proposal_Conference_Sign-In_Sheet.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=100adc43a72020eb1cb656220b06f080">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=bbf0733b7d8fa2dd004a604b4b9d6ad6&class=document_package&id=100adc43a72020eb1cb656220b06f080" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Mar 06, 2013</div></dt><dd><a href="/utils/view?id=4d4552987d9b1a725b19ae2ac5091596" target="_blank" title="Download/View PAST_PERFORMANCE_QUESTIONNAIRE" class="file">PAST_PERFORMANCE_QUESTIONNAIRE</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b87c03f9d03f3601d293f1751805f9f2">Questions and Answers</a> <a target="_blank" href="/utils/dZip?base=bbf0733b7d8fa2dd004a604b4b9d6ad6&class=document_package&id=b87c03f9d03f3601d293f1751805f9f2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Mar 22, 2013</div></dt><dd><a href="/utils/view?id=e6d40cfc99c85f7fe527577e24df853b" target="_blank" title="Download/View QUESTIONS_(New_Due_Date)_v3.docx" class="file">QUESTIONS_(New_Due_Date)_v3.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=465f1316a1b0d7373bf272532802d12a">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=bbf0733b7d8fa2dd004a604b4b9d6ad6&class=document_package&id=465f1316a1b0d7373bf272532802d12a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 15, 2014</div></dt><dd><a href="/utils/view?id=348c76a9ce42b8d409e7b3939a67ad28" target="_blank" title="Download/View Amendment_No._2.docx" class="file">Amendment_No._2.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	December 17, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 14, 2014 3:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Jan 22, 2013 3:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 6, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	C -- Architect and engineering services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541310 -- Architectural Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

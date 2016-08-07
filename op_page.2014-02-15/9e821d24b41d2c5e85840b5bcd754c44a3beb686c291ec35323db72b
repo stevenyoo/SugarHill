@@ -1,0 +1,2305 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>AIMM SIR - DTFAWA-13-R-00020 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392498295');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392498295';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=0f9f9700c1655c5d8c0f9fb2d2d6a228&inline_disposition=1" border="0" alt="Federal Aviation Administration (FAA) logo"></div><div class="agency-header"><h2>AIMM SIR</h2><div class="sol-num">Solicitation Number: DTFAWA-13-R-00020</div><div class="agency-name">Agency: Department of Transportation<br>Office: Federal Aviation Administration (FAA)<br>Location: Headquarters</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=5b199d878be54fe70b39cc950c576863&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DOT/FAA/HQ/DTFAWA-13-R-00020/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DOT/FAA/HQ/DTFAWA-13-R-00020/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DOT/FAA/HQ/DTFAWA-13-R-00020/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=5b199d878be54fe70b39cc950c576863&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=5b199d878be54fe70b39cc950c576863&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=5b199d878be54fe70b39cc950c576863&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=8560446f782ef372f996b0ffb1469431&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">Jan 02, 2014</div><div class="nh-date">4:05 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=6864f9c4b75dc7002499e0b6137d873e&_cview=0">Changed</a><div class="nh-date">Jan 06, 2014</div><div class="nh-date">8:04 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=df88bffa17d445d0761cc4917732e5f3&_cview=0">Changed</a><div class="nh-date">Jan 23, 2014</div><div class="nh-date">4:39 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d2aac903cd5fb4863260886d95f7b096&_cview=0">Changed</a><div class="nh-date">Jan 30, 2014</div><div class="nh-date">4:53 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e085925427403c82d1b352f015833617&_cview=0">Changed</a><div class="nh-date">Jan 30, 2014</div><div class="nh-date">6:56 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=287b919b16b8f596afdcbd10a99b61a5&_cview=0">Changed</a><div class="nh-date">Jan 31, 2014</div><div class="nh-date">4:51 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=939870afe5380bc9eb60d3ed03134c68&_cview=0">Changed</a><div class="nh-date">Feb 04, 2014</div><div class="nh-date">4:17 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=5b199d878be54fe70b39cc950c576863&_cview=0">Changed</a><div class="nh-date">Feb 10, 2014</div><div class="nh-date">4:49 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8560446f782ef372f996b0ffb1469431'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8560446f782ef372f996b0ffb1469431'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	DTFAWA-13-R-00020
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-01-02 16:05:36">Jan 02, 2014 4:05 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-10 16:49:26">Feb 10, 2014 4:49 pm<a href="/utils/viewDifferences?class=notice_description&id=2972e56e4f21b8bc593e24a10ace4e68&compared_to=20dfdaf14603d247919d5c8decaa3574" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=2972e56e4f21b8bc593e24a10ace4e68&compared_to=20dfdaf14603d247919d5c8decaa3574&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		SIR/AERONAUTICAL INFORMATION MANAGEMENT MODERNIZATION (AIMM)<br /><br />
+Posted: Thursday January 6, 2014.<br /><br />
+<br /><br />
+Please review Amendment#7 for new changes. <br /><br />
+<br /><br />
+All other sections will remain unchanged.<br /><br />
+										<br /><br />
+										If you're viewing this announcement from a source other than Federal Aviation Administration Contract Opportunities (FAACO), visit https://faaco.faa.gov/index.cfm/announcement/view/15750 to view the original announcement.<br /><br />
+										
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	January 2, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36118" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36118</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Question Form_12312013 (xlsx)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36130" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36130</a></div>
+		<div><span class="label">Description:</span> AIMM Section C (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36119" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36119</a></div>
+		<div><span class="label">Description:</span> AIMM Section B (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36133" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36133</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36134" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36134</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionaire (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36131" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36131</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRL Guide (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36132" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36132</a></div>
+		<div><span class="label">Description:</span> Attachment J-3_CDRLs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36138" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36138</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36137" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36137</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36136" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36136</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36135" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36135</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36139" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36139</a></div>
+		<div><span class="label">Description:</span> AIMM Section D (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36128" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36128</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 Min Quals for Prog Personnel (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36140" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36140</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36129" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36129</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36141" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36141</a></div>
+		<div><span class="label">Description:</span> AIMM Section F (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36142" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36142</a></div>
+		<div><span class="label">Description:</span> AIMM Section G (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36126" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36126</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36143" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36143</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36127" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36127</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36144" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36144</a></div>
+		<div><span class="label">Description:</span> AIMM Section I (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36124" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36124</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36145" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36145</a></div>
+		<div><span class="label">Description:</span> AIMM Section K (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36125" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36125</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36123" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36123</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36122" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36122</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36121" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36121</a></div>
+		<div><span class="label">Description:</span> AIMM Section M (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36120" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36120</a></div>
+		<div><span class="label">Description:</span> AIMM Section L (pdf)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	January 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36192" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36192</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 Min Quals for Prog Personnel (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36191" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36191</a></div>
+		<div><span class="label">Description:</span> AIMM Section D (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36190" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36190</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36199" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36199</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36198" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36198</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36197" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36197</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36196" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36196</a></div>
+		<div><span class="label">Description:</span> AIMM Section G (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36195" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36195</a></div>
+		<div><span class="label">Description:</span> AIMM Section F (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36194" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36194</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36193" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36193</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36207" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36207</a></div>
+		<div><span class="label">Description:</span> AIMM Section L (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36206" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36206</a></div>
+		<div><span class="label">Description:</span> AIMM Section M (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36205" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36205</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36204" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36204</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36203" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36203</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36202" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36202</a></div>
+		<div><span class="label">Description:</span> AIMM Section K (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36181" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36181</a></div>
+		<div><span class="label">Description:</span> AIMM Section C (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36201" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36201</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36180" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36180</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Question Form_12312013 (xlsx)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36183" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36183</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36182" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36182</a></div>
+		<div><span class="label">Description:</span> AIMM Section B (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36185" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36185</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRL Guide (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36184" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36184</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionaire (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36187" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36187</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36186" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36186</a></div>
+		<div><span class="label">Description:</span> Attachment J-3_CDRLs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36189" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36189</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36188" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36188</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36200" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36200</a></div>
+		<div><span class="label">Description:</span> AIMM Section I (pdf)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	January 23, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36749" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36749</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36748" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36748</a></div>
+		<div><span class="label">Description:</span> AIMM Section M (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36763" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36763</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36745" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36745</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36762" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36762</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36744" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36744</a></div>
+		<div><span class="label">Description:</span> AIMM Section F (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36765" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36765</a></div>
+		<div><span class="label">Description:</span> Amendment_2_AIMM 01-23-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36747" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36747</a></div>
+		<div><span class="label">Description:</span> AIMM Section L (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36764" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36764</a></div>
+		<div><span class="label">Description:</span> AIMM Section I (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36746" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36746</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36741" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36741</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36740" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36740</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36743" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36743</a></div>
+		<div><span class="label">Description:</span> AIMM Section G (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36742" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36742</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36760" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36760</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36761" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36761</a></div>
+		<div><span class="label">Description:</span> Attachment J-3_CDRLs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36759" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36759</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionaire (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36739" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36739</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36738" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36738</a></div>
+		<div><span class="label">Description:</span> AIMM Section D (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36737" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36737</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 Min Quals for Prog Personnel (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36754" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36754</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36753" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36753</a></div>
+		<div><span class="label">Description:</span> AIMM Section C (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36752" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36752</a></div>
+		<div><span class="label">Description:</span> AIMM Section K (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36751" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36751</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36758" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36758</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRL Guide (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36757" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36757</a></div>
+		<div><span class="label">Description:</span> AIMM Section B (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36756" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36756</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36755" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36755</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Question Form_12312013 (xlsx)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36750" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36750</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD (pdf)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	January 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36913" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36913</a></div>
+		<div><span class="label">Description:</span> AIMM Sction A - SF-33 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36914" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36914</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36915" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36915</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36916" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36916</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionnaire (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36917" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36917</a></div>
+		<div><span class="label">Description:</span> FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36918" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36918</a></div>
+		<div><span class="label">Description:</span> List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36919" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36919</a></div>
+		<div><span class="label">Description:</span> AIMM Section B_Clean Copy 1-30-14 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36911" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36911</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36912" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36912</a></div>
+		<div><span class="label">Description:</span> Amendment_3_AIMM SIR 01-30-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36926" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36926</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36894" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36894</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36909" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36909</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36924" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36924</a></div>
+		<div><span class="label">Description:</span> AIMM Section I- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36906" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36906</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36897" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36897</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36925" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36925</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36896" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36896</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36903" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36903</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36922" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36922</a></div>
+		<div><span class="label">Description:</span> AIMM Section F_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36923" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36923</a></div>
+		<div><span class="label">Description:</span> AIMM Section G - Copy 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36920" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36920</a></div>
+		<div><span class="label">Description:</span> AIMM Section C_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36921" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36921</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Section D- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36883" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36883</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36884" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36884</a></div>
+		<div><span class="label">Description:</span> AIMM Section M (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36885" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36885</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36886" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36886</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36889" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36889</a></div>
+		<div><span class="label">Description:</span> Amendment_2_AIMM 01-23-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36892" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36892</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36893" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36893</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	January 30, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36934" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36934</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionnaire (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36952" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36952</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Section D- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36933" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36933</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36951" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36951</a></div>
+		<div><span class="label">Description:</span> AIMM Section C_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36950" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36950</a></div>
+		<div><span class="label">Description:</span> AIMM Section G - Copy 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36932" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36932</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36931" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36931</a></div>
+		<div><span class="label">Description:</span> AIMM Sction A - SF-33 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36956" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36956</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36955" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36955</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36954" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36954</a></div>
+		<div><span class="label">Description:</span> AIMM Section M (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36953" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36953</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36959" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36959</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36958" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36958</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36957" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36957</a></div>
+		<div><span class="label">Description:</span> Amendment_2_AIMM 01-23-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36939" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36939</a></div>
+		<div><span class="label">Description:</span> Amendment_3_AIMM SIR 01-30-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36938" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36938</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36937" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36937</a></div>
+		<div><span class="label">Description:</span> AIMM Section B_Clean Copy 1-30-14 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36936" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36936</a></div>
+		<div><span class="label">Description:</span> List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36935" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36935</a></div>
+		<div><span class="label">Description:</span> FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36943" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36943</a></div>
+		<div><span class="label">Description:</span> AIMM Section I- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36960" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36960</a></div>
+		<div><span class="label">Description:</span> AIMM Section L - Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36942" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36942</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36945" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36945</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36944" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36944</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36941" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36941</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36940" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36940</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36947" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36947</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36946" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36946</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36949" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36949</a></div>
+		<div><span class="label">Description:</span> AIMM Section F_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36948" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36948</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	January 31, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36992" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36992</a></div>
+		<div><span class="label">Description:</span> AIMM Section B_Clean Copy 1-30-14 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36991" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36991</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36990" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36990</a></div>
+		<div><span class="label">Description:</span> Amendment_3_AIMM SIR 01-30-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37004" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37004</a></div>
+		<div><span class="label">Description:</span> AIMM Section F_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37005" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37005</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37006" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37006</a></div>
+		<div><span class="label">Description:</span> AIMM SIR_Section_K (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37001" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37001</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37000" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37000</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37003" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37003</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36979" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36979</a></div>
+		<div><span class="label">Description:</span> AIMM Section C_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37002" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37002</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36995" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36995</a></div>
+		<div><span class="label">Description:</span> AIMM Section I- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36977" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36977</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Section D- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36996" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36996</a></div>
+		<div><span class="label">Description:</span> AIMM Section L - Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36978" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36978</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36993" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36993</a></div>
+		<div><span class="label">Description:</span> List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36994" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36994</a></div>
+		<div><span class="label">Description:</span> FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36976" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36976</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionnaire (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36999" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36999</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36997" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36997</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36998" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36998</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36981" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36981</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36980" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36980</a></div>
+		<div><span class="label">Description:</span> AIMM Section G - Copy 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36986" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36986</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36987" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36987</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36988" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36988</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36989" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36989</a></div>
+		<div><span class="label">Description:</span> Amendment_2_AIMM 01-23-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36982" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36982</a></div>
+		<div><span class="label">Description:</span> AIMM Sction A - SF-33 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36983" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36983</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36984" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36984</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/36985" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/36985</a></div>
+		<div><span class="label">Description:</span> AIMM Section M (pdf)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	February 4, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37099" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37099</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37108" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37108</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37109" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37109</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37103" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37103</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37104" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37104</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37095" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37095</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37097" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37097</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Section D- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37106" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37106</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37092" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37092</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37091" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37091</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37094" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37094</a></div>
+		<div><span class="label">Description:</span> AIMM Section C_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37093" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37093</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37090" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37090</a></div>
+		<div><span class="label">Description:</span> AIMM SIR_Section_K (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37100" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37100</a></div>
+		<div><span class="label">Description:</span> List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37120" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37120</a></div>
+		<div><span class="label">Description:</span> AIMM Section F_0006 2-4-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37102" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37102</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionnaire (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37101" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37101</a></div>
+		<div><span class="label">Description:</span> FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37122" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37122</a></div>
+		<div><span class="label">Description:</span> AIMM Section I - 02-4-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37121" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37121</a></div>
+		<div><span class="label">Description:</span> AIMM Section G - 2-4-14-  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37123" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37123</a></div>
+		<div><span class="label">Description:</span> AIMM Section L -  2-4-14 revised (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37118" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37118</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table_0006 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37089" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37089</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37119" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37119</a></div>
+		<div><span class="label">Description:</span> Amendment_0006 AIMM SIR 02-04-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37116" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37116</a></div>
+		<div><span class="label">Description:</span> Revised Section M Revised 2-4-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37087" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37087</a></div>
+		<div><span class="label">Description:</span> Amendment_3_AIMM SIR 01-30-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37117" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37117</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD_0006 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37114" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37114</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37085" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37085</a></div>
+		<div><span class="label">Description:</span> AIMM Section B_Clean Copy 1-30-14 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37113" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37113</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37112" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37112</a></div>
+		<div><span class="label">Description:</span> AIMM Sction A - SF-33 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37111" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37111</a></div>
+		<div><span class="label">Description:</span> Amendment_2_AIMM 01-23-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37110" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37110</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attachment</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	Attachment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37354" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37354</a></div>
+		<div><span class="label">Description:</span> Amendment_0006 AIMM SIR 02-04-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37334" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37334</a></div>
+		<div><span class="label">Description:</span> AIMM Section H (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37355" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37355</a></div>
+		<div><span class="label">Description:</span> Revised Section M Revised 2-4-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37335" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37335</a></div>
+		<div><span class="label">Description:</span> Attachment J-11 Small Bus Vendor List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37352" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37352</a></div>
+		<div><span class="label">Description:</span> Attachment J-9 Staffing Plan Table_0006 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37336" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37336</a></div>
+		<div><span class="label">Description:</span> Attachment J-4 AIM Leg Sys Serv &amp; Tools (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37353" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37353</a></div>
+		<div><span class="label">Description:</span> Attachment J-10 AIMM Modern Vision (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37337" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37337</a></div>
+		<div><span class="label">Description:</span> Attachment J-12 Sample Client Auth Ltr (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37338" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37338</a></div>
+		<div><span class="label">Description:</span> AIMM SIR Section D- Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37350" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37350</a></div>
+		<div><span class="label">Description:</span> AIMM Section G - 2-4-14-  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37339" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37339</a></div>
+		<div><span class="label">Description:</span> Attachment J-14 - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37359" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37359</a></div>
+		<div><span class="label">Description:</span> AIMM Section B_Clean Copy 1-30-14 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37358" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37358</a></div>
+		<div><span class="label">Description:</span> Attachment J-8 Key Personnel Resume (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37357" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37357</a></div>
+		<div><span class="label">Description:</span> Attachment J-1 AIMM S2 SSD_0006 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37333" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37333</a></div>
+		<div><span class="label">Description:</span> AIMM Section J List of Attachments (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37332" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37332</a></div>
+		<div><span class="label">Description:</span> Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37356" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37356</a></div>
+		<div><span class="label">Description:</span> Amendment_3_AIMM SIR 01-30-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37341" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37341</a></div>
+		<div><span class="label">Description:</span> Attachment J-7 GFI - Copy 1-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37360" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37360</a></div>
+		<div><span class="label">Description:</span> Attachment J-2_DIDs (zip)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37342" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37342</a></div>
+		<div><span class="label">Description:</span> AIMM Section C_Copy 1-30-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37343" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37343</a></div>
+		<div><span class="label">Description:</span> Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37361" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37361</a></div>
+		<div><span class="label">Description:</span> AIMM Sction A - SF-33 (doc)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37344" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37344</a></div>
+		<div><span class="label">Description:</span> AIMM SIR_Section_K (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37362" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37362</a></div>
+		<div><span class="label">Description:</span> Amendment_2_AIMM 01-23-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37363" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37363</a></div>
+		<div><span class="label">Description:</span> AIMM Section E (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37364" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37364</a></div>
+		<div><span class="label">Description:</span> AIMM Section L -  2-10-14 revised (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37365" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37365</a></div>
+		<div><span class="label">Description:</span> Amendment_7 AIMM SIR 02-10-14_ (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37340" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37340</a></div>
+		<div><span class="label">Description:</span> Attachment J-13 AIMM Acronym List (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37349" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37349</a></div>
+		<div><span class="label">Description:</span> AIMM Section I - 02-4-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37346" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37346</a></div>
+		<div><span class="label">Description:</span> AIMM Section F_0006 2-4-14 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37345" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37345</a></div>
+		<div><span class="label">Description:</span> List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37348" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37348</a></div>
+		<div><span class="label">Description:</span> FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://faaco.faa.gov/index.cfm/attachment/download/37347" target="_blank" class="link">https://faaco.faa.gov/index.cfm/attachment/download/37347</a></div>
+		<div><span class="label">Description:</span> Attachment J-5 Past Perf Questionnaire (doc)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__additional_info_link_" class="field fld_additional_info_link fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__additional_info_link__field-label">
+	<label for="dnf_class_values_procurement_notice__additional_info_link_">Additional Info</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__additional_info_link__widget">
+	<a href="https://faaco.faa.gov/index.cfm/announcement/view/15750" target="_blank">FAA Contract Opportunities (official record)</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Additional Info )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	 FEDERAL AVIATION ADMINISTRATION, AAQ-240 WA - FAA Headquarters (Washington, DC) 
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__poc_text_" class="field last field-last fld_poc_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__poc_text__field-label">
+	<label for="dnf_class_values_procurement_notice__poc_text_">Point of Contact(s)</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__poc_text__widget">
+	Robert Kiani, robert.kiani@faa.gov, Phone: 202-493-4046<br />
+<br />
+<a href="mailto:robert.kiani@faa.gov">Click here to email Robert Kiani</a>
+	</div><!-- widget -->
+	
+        </div><!--field ( Point of Contact(s) )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8560446f782ef372f996b0ffb1469431'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8560446f782ef372f996b0ffb1469431'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=dd1d39673789b0b914e85278953144f6">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=dd1d39673789b0b914e85278953144f6" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 02, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36118" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36118 in new browser window." class="link">AIMM SIR Question Form_12312013 (xlsx)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36130" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36130 in new browser window." class="link">AIMM Section C (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36119" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36119 in new browser window." class="link">AIMM Section B (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36133" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36133 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36134" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36134 in new browser window." class="link">Attachment J-5 Past Perf Questionaire (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36131" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36131 in new browser window." class="link">Attachment J-3 CDRL Guide (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36132" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36132 in new browser window." class="link">Attachment J-3_CDRLs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36138" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36138 in new browser window." class="link">Attachment J-9 Staffing Plan Table (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36137" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36137 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36136" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36136 in new browser window." class="link">Attachment J-7 GFI (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36135" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36135 in new browser window." class="link">Attachment J-6 Cost Exhibits (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36139" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36139 in new browser window." class="link">AIMM Section D (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36128" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36128 in new browser window." class="link">Attachment J-14 Min Quals for Prog Personnel (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36140" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36140 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36129" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36129 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36141" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36141 in new browser window." class="link">AIMM Section F (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36142" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36142 in new browser window." class="link">AIMM Section G (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36126" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36126 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36143" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36143 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36127" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36127 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36144" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36144 in new browser window." class="link">AIMM Section I (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36124" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36124 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36145" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36145 in new browser window." class="link">AIMM Section K (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36125" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36125 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36123" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36123 in new browser window." class="link">Attachment J-1 AIMM S2 SSD (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36122" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36122 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36121" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36121 in new browser window." class="link">AIMM Section M (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36120" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36120 in new browser window." class="link">AIMM Section L (pdf)</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=27a9e8410face857530d498f6432bee2">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=27a9e8410face857530d498f6432bee2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 06, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36192" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36192 in new browser window." class="link">Attachment J-14 Min Quals for Prog Personnel (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36191" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36191 in new browser window." class="link">AIMM Section D (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36190" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36190 in new browser window." class="link">Attachment J-6 Cost Exhibits (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36199" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36199 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36198" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36198 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36197" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36197 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36196" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36196 in new browser window." class="link">AIMM Section G (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36195" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36195 in new browser window." class="link">AIMM Section F (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36194" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36194 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36193" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36193 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36207" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36207 in new browser window." class="link">AIMM Section L (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36206" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36206 in new browser window." class="link">AIMM Section M (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36205" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36205 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36204" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36204 in new browser window." class="link">Attachment J-1 AIMM S2 SSD (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36203" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36203 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36202" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36202 in new browser window." class="link">AIMM Section K (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36181" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36181 in new browser window." class="link">AIMM Section C (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36201" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36201 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36180" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36180 in new browser window." class="link">AIMM SIR Question Form_12312013 (xlsx)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36183" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36183 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36182" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36182 in new browser window." class="link">AIMM Section B (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36185" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36185 in new browser window." class="link">Attachment J-3 CDRL Guide (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36184" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36184 in new browser window." class="link">Attachment J-5 Past Perf Questionaire (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36187" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36187 in new browser window." class="link">Attachment J-9 Staffing Plan Table (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36186" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36186 in new browser window." class="link">Attachment J-3_CDRLs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36189" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36189 in new browser window." class="link">Attachment J-7 GFI (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36188" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36188 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36200" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36200 in new browser window." class="link">AIMM Section I (pdf)</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=810e742772eb2f4dd5afed1180983b55">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=810e742772eb2f4dd5afed1180983b55" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 23, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36749" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36749 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36748" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36748 in new browser window." class="link">AIMM Section M (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36763" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36763 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36745" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36745 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36762" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36762 in new browser window." class="link">Attachment J-7 GFI (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36744" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36744 in new browser window." class="link">AIMM Section F (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36765" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36765 in new browser window." class="link">Amendment_2_AIMM 01-23-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36747" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36747 in new browser window." class="link">AIMM Section L (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36764" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36764 in new browser window." class="link">AIMM Section I (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36746" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36746 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36741" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36741 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36740" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36740 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36743" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36743 in new browser window." class="link">AIMM Section G (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36742" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36742 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36760" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36760 in new browser window." class="link">Attachment J-9 Staffing Plan Table (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36761" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36761 in new browser window." class="link">Attachment J-3_CDRLs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36759" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36759 in new browser window." class="link">Attachment J-5 Past Perf Questionaire (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36739" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36739 in new browser window." class="link">Attachment J-6 Cost Exhibits (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36738" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36738 in new browser window." class="link">AIMM Section D (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36737" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36737 in new browser window." class="link">Attachment J-14 Min Quals for Prog Personnel (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36754" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36754 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36753" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36753 in new browser window." class="link">AIMM Section C (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36752" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36752 in new browser window." class="link">AIMM Section K (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36751" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36751 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36758" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36758 in new browser window." class="link">Attachment J-3 CDRL Guide (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36757" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36757 in new browser window." class="link">AIMM Section B (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36756" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36756 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36755" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36755 in new browser window." class="link">AIMM SIR Question Form_12312013 (xlsx)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36750" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36750 in new browser window." class="link">Attachment J-1 AIMM S2 SSD (pdf)</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d4b5d199a1953fe9c985055e507689a9">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=d4b5d199a1953fe9c985055e507689a9" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 30, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36913" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36913 in new browser window." class="link">AIMM Sction A - SF-33 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36914" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36914 in new browser window." class="link">Attachment J-14 - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36915" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36915 in new browser window." class="link">Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36916" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36916 in new browser window." class="link">Attachment J-5 Past Perf Questionnaire (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36917" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36917 in new browser window." class="link">FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36918" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36918 in new browser window." class="link">List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36919" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36919 in new browser window." class="link">AIMM Section B_Clean Copy 1-30-14 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36911" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36911 in new browser window." class="link">Attachment J-1 AIMM S2 SSD (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36912" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36912 in new browser window." class="link">Amendment_3_AIMM SIR 01-30-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36926" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36926 in new browser window." class="link">Attachment J-7 GFI - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36894" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36894 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36909" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36909 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36924" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36924 in new browser window." class="link">AIMM Section I- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36906" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36906 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36897" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36897 in new browser window." class="link">Attachment J-9 Staffing Plan Table (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36925" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36925 in new browser window." class="link">Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36896" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36896 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36903" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36903 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36922" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36922 in new browser window." class="link">AIMM Section F_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36923" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36923 in new browser window." class="link">AIMM Section G - Copy 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36920" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36920 in new browser window." class="link">AIMM Section C_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36921" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36921 in new browser window." class="link">AIMM SIR Section D- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36883" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36883 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36884" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36884 in new browser window." class="link">AIMM Section M (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36885" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36885 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36886" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36886 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36889" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36889 in new browser window." class="link">Amendment_2_AIMM 01-23-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36892" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36892 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36893" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36893 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=65ba5371769d8a71f28f57eafc614ce2">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=65ba5371769d8a71f28f57eafc614ce2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 30, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36934" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36934 in new browser window." class="link">Attachment J-5 Past Perf Questionnaire (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36952" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36952 in new browser window." class="link">AIMM SIR Section D- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36933" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36933 in new browser window." class="link">Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36951" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36951 in new browser window." class="link">AIMM Section C_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36950" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36950 in new browser window." class="link">AIMM Section G - Copy 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36932" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36932 in new browser window." class="link">Attachment J-14 - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36931" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36931 in new browser window." class="link">AIMM Sction A - SF-33 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36956" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36956 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36955" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36955 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36954" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36954 in new browser window." class="link">AIMM Section M (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36953" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36953 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36959" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36959 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36958" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36958 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36957" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36957 in new browser window." class="link">Amendment_2_AIMM 01-23-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36939" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36939 in new browser window." class="link">Amendment_3_AIMM SIR 01-30-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36938" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36938 in new browser window." class="link">Attachment J-1 AIMM S2 SSD (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36937" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36937 in new browser window." class="link">AIMM Section B_Clean Copy 1-30-14 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36936" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36936 in new browser window." class="link">List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36935" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36935 in new browser window." class="link">FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36943" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36943 in new browser window." class="link">AIMM Section I- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36960" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36960 in new browser window." class="link">AIMM Section L - Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36942" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36942 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36945" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36945 in new browser window." class="link">Attachment J-9 Staffing Plan Table (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36944" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36944 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36941" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36941 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36940" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36940 in new browser window." class="link">Attachment J-7 GFI - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36947" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36947 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36946" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36946 in new browser window." class="link">Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36949" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36949 in new browser window." class="link">AIMM Section F_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36948" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36948 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ea25eab2e3d6e18268cec47347bab163">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=ea25eab2e3d6e18268cec47347bab163" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 31, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36992" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36992 in new browser window." class="link">AIMM Section B_Clean Copy 1-30-14 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36991" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36991 in new browser window." class="link">Attachment J-1 AIMM S2 SSD (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36990" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36990 in new browser window." class="link">Amendment_3_AIMM SIR 01-30-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37004" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37004 in new browser window." class="link">AIMM Section F_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37005" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37005 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37006" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37006 in new browser window." class="link">AIMM SIR_Section_K (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37001" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37001 in new browser window." class="link">Attachment J-7 GFI - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37000" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37000 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37003" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37003 in new browser window." class="link">Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36979" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36979 in new browser window." class="link">AIMM Section C_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37002" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37002 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36995" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36995 in new browser window." class="link">AIMM Section I- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36977" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36977 in new browser window." class="link">AIMM SIR Section D- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36996" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36996 in new browser window." class="link">AIMM Section L - Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36978" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36978 in new browser window." class="link">Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36993" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36993 in new browser window." class="link">List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36994" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36994 in new browser window." class="link">FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36976" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36976 in new browser window." class="link">Attachment J-5 Past Perf Questionnaire (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36999" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36999 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36997" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36997 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36998" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36998 in new browser window." class="link">Attachment J-9 Staffing Plan Table (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36981" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36981 in new browser window." class="link">Attachment J-14 - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36980" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36980 in new browser window." class="link">AIMM Section G - Copy 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36986" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36986 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36987" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36987 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36988" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36988 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36989" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36989 in new browser window." class="link">Amendment_2_AIMM 01-23-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36982" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36982 in new browser window." class="link">AIMM Sction A - SF-33 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36983" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36983 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36984" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36984 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/36985" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/36985 in new browser window." class="link">AIMM Section M (pdf)</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f085bc17142336984c098c1040c9ebcf">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=f085bc17142336984c098c1040c9ebcf" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 04, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37099" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37099 in new browser window." class="link">Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37108" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37108 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37109" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37109 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37103" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37103 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37104" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37104 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37095" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37095 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37097" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37097 in new browser window." class="link">AIMM SIR Section D- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37106" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37106 in new browser window." class="link">Attachment J-14 - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37092" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37092 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37091" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37091 in new browser window." class="link">Attachment J-7 GFI - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37094" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37094 in new browser window." class="link">AIMM Section C_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37093" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37093 in new browser window." class="link">Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37090" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37090 in new browser window." class="link">AIMM SIR_Section_K (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37100" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37100 in new browser window." class="link">List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37120" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37120 in new browser window." class="link">AIMM Section F_0006 2-4-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37102" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37102 in new browser window." class="link">Attachment J-5 Past Perf Questionnaire (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37101" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37101 in new browser window." class="link">FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37122" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37122 in new browser window." class="link">AIMM Section I - 02-4-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37121" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37121 in new browser window." class="link">AIMM Section G - 2-4-14-  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37123" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37123 in new browser window." class="link">AIMM Section L -  2-4-14 revised (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37118" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37118 in new browser window." class="link">Attachment J-9 Staffing Plan Table_0006 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37089" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37089 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37119" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37119 in new browser window." class="link">Amendment_0006 AIMM SIR 02-04-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37116" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37116 in new browser window." class="link">Revised Section M Revised 2-4-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37087" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37087 in new browser window." class="link">Amendment_3_AIMM SIR 01-30-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37117" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37117 in new browser window." class="link">Attachment J-1 AIMM S2 SSD_0006 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37114" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37114 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37085" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37085 in new browser window." class="link">AIMM Section B_Clean Copy 1-30-14 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37113" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37113 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37112" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37112 in new browser window." class="link">AIMM Sction A - SF-33 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37111" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37111 in new browser window." class="link">Amendment_2_AIMM 01-23-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37110" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37110 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f70c9d885b7814d4aa3feb0ce219d459">Attachment</a> <a target="_blank" href="/utils/dZip?base=8560446f782ef372f996b0ffb1469431&class=document_package&id=f70c9d885b7814d4aa3feb0ce219d459" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37354" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37354 in new browser window." class="link">Amendment_0006 AIMM SIR 02-04-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37334" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37334 in new browser window." class="link">AIMM Section H (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37355" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37355 in new browser window." class="link">Revised Section M Revised 2-4-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37335" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37335 in new browser window." class="link">Attachment J-11 Small Bus Vendor List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37352" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37352 in new browser window." class="link">Attachment J-9 Staffing Plan Table_0006 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37336" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37336 in new browser window." class="link">Attachment J-4 AIM Leg Sys Serv & Tools (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37353" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37353 in new browser window." class="link">Attachment J-10 AIMM Modern Vision (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37337" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37337 in new browser window." class="link">Attachment J-12 Sample Client Auth Ltr (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37338" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37338 in new browser window." class="link">AIMM SIR Section D- Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37350" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37350 in new browser window." class="link">AIMM Section G - 2-4-14-  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37339" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37339 in new browser window." class="link">Attachment J-14 - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37359" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37359 in new browser window." class="link">AIMM Section B_Clean Copy 1-30-14 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37358" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37358 in new browser window." class="link">Attachment J-8 Key Personnel Resume (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37357" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37357 in new browser window." class="link">Attachment J-1 AIMM S2 SSD_0006 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37333" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37333 in new browser window." class="link">AIMM Section J List of Attachments (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37332" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37332 in new browser window." class="link">Attachment J-3 CDRLs_Word Version Amendment TBD (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37356" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37356 in new browser window." class="link">Amendment_3_AIMM SIR 01-30-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37341" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37341 in new browser window." class="link">Attachment J-7 GFI - Copy 1-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37360" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37360 in new browser window." class="link">Attachment J-2_DIDs (zip)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37342" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37342 in new browser window." class="link">AIMM Section C_Copy 1-30-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37343" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37343 in new browser window." class="link">Attachment J-6 Cost Exhibits Cop 1-30-2014  (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37361" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37361 in new browser window." class="link">AIMM Sction A - SF-33 (doc)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37344" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37344 in new browser window." class="link">AIMM SIR_Section_K (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37362" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37362 in new browser window." class="link">Amendment_2_AIMM 01-23-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37363" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37363 in new browser window." class="link">AIMM Section E (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37364" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37364 in new browser window." class="link">AIMM Section L -  2-10-14 revised (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37365" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37365 in new browser window." class="link">Amendment_7 AIMM SIR 02-10-14_ (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37340" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37340 in new browser window." class="link">Attachment J-13 AIMM Acronym List (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37349" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37349 in new browser window." class="link">AIMM Section I - 02-4-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37346" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37346 in new browser window." class="link">AIMM Section F_0006 2-4-14 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37345" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37345 in new browser window." class="link">List of Questions for AIMM SIR # DTFAWA-13-R-00020 - 0003 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37348" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37348 in new browser window." class="link">FAA Response to AIMM SIR Industry Questions 01-30-2014 (pdf)</a></dd><dd><a href="https://faaco.faa.gov/index.cfm/attachment/download/37347" target="_blank" title="Go to https://faaco.faa.gov/index.cfm/attachment/download/37347 in new browser window." class="link">Attachment J-5 Past Perf Questionnaire (doc)</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	January 2, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	February 25, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	February 18, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, on specified date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	February 18, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	February 25, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541511 -- Custom Computer Programming Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

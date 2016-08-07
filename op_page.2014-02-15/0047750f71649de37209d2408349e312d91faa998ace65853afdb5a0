@@ -1,0 +1,588 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>JOFOC posted - 2WV0098 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392492511');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392492511';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=a42cc99ad9c56187bc68c611e4067366&inline_disposition=1" border="0" alt="Public Buildings Service (PBS) logo"></div><div class="agency-header"><h2>JOFOC posted</h2><div class="sol-num">Solicitation Number: 2WV0098</div><div class="agency-name">Agency: General Services Administration<br>Office: Public Buildings Service (PBS)<br>Location: ACQUISITION MANAGEMENT DIVISION (3PQ)</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=a48ca92a7f695def403a948f7fb60d74&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/GSA/PBS/3PK/2WV0098/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/GSA/PBS/3PK/2WV0098/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/GSA/PBS/3PK/2WV0098/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=a48ca92a7f695def403a948f7fb60d74&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=a48ca92a7f695def403a948f7fb60d74&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=a48ca92a7f695def403a948f7fb60d74&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 12, 2014</div><div class="nh-date">3:09 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=a48ca92a7f695def403a948f7fb60d74'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=a48ca92a7f695def403a948f7fb60d74'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	2WV0098
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Justification and Approval (J&A)
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__ja_statutory_" class="field fld_ja_statutory fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__ja_statutory__field-label">
+	<label for="dnf_class_values_procurement_notice__ja_statutory_">J&A Statutory Authority</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__ja_statutory__widget">
+	FAR 6.302-1 - Only one responsible source (except brand name)
+	</div><!-- widget -->
+	
+        </div><!--field ( J&A Statutory Authority )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_date_" class="field fld_contract_award_date fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_date__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_date_">Contract Award Date</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_date__widget">
+	February 12, 2014
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Date )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_number_" class="field fld_contract_award_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_number__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_number_">Contract Award Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_number__widget">
+	GS-03B-30078
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__ja_mod_number_" class="field fld_ja_mod_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__ja_mod_number__field-label">
+	<label for="dnf_class_values_procurement_notice__ja_mod_number_">Modification Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__ja_mod_number__widget">
+	39
+	</div><!-- widget -->
+	
+        </div><!--field ( Modification Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-12 15:09:05">Feb 12, 2014 3:09 pm</span>
+					</div>
+		U.S. General Services Administration<br />GSA Region 3<br />South Service Center<br />Justification for Other than Full and Open Competition<br />
+<p>LEASE NUMBER: GS-03B-30078<br />PROJECT NUMBER: 2WV0098<br />Agency Name: Department of Veterans Affairs (VA)<br /> <br />1.  Nature and/or description of the action being approved.<br />The General Services Administration currently leases 35,085 ANSI/BOMA Office Area (ABOA) square feet (40,348 Rentable square feet) at Spring Mills Office Park, 882 TJ Jackson Drive, Falling Waters, WV, under lease number GS-03B-30078.  This lease houses the US Department of Veterans Affairs (VA) and includes both a 24/7 operating data center and office support functions.  This lease expires on March 24, 2014.</p><br />
+<p>Approval is requested to renew the current lease for 35,085 ABOA SF, with the incumbent lessor without full and open competition, for continued occupancy at this leased location to allow for the development of long term space requirements. While there has been an agency-wide initiative for the VA to reduce space at the national level, additional time is needed to determine the impact of these revised workplace standards on the efficacy of agency operations at the Falling Waters, WV office.  The existing lease contains one (1) three-year lease renewal option (two years firm) with full termination rights for the Government upon ninety (90) calendar days written notice.</p><br />
+<p>2.  Description of the supplies or services required to meet the agency's needs (including estimated value).<br />The VA confirmed its interest in pursuing execution of the existing three-year renewal option to allow for development of long term space requirements. By pursuing a lease renewal, the VA's operations would not be interrupted while these long term space needs are being confirmed and finalized.<br />The VA is satisfied with its current space and the lessor's performance. The requirement is to exercise a three (3) year renewal option, two (2) years firm. <br />The estimated cost is: <br />Term: $19.00 rate/rsf x 40,348 rsf = $766,612.00 (Annual Rent) x 3 years = $2,299,836.00<br />Total Contract Value: $2,299,836.00</p><br />
+<p><br />3.  Identification of the statutory authority.<br />41 U.S.C. 253(c) (1) and FAR 6.302-1:  Only one responsible source and no other supplies or services will satisfy agency requirements.<br />4.  Demonstration that the proposed contractor's unique qualifications or nature of the acquisition requires use of the authority cited.<br />In accordance with 41 U.S.C. 253 (c) (1), the agency's minimum needs can only be satisfied by unique supplies or services available from only one responsible source and no other type of property or services will satisfy the needs of the agency.<br />GSAM 570.402-4, "No potential acceptable locations," allows for negotiation with the incumbent lessor if no acceptable locations are identified through the advertisement or the market research. <br />An advertisement (notice of intent) was posted on the Federal Business Opportunities Web site (febizopps.gov) on November 13, 2013.  As a result of this posting, zero (0) offerors contacted the Government with a formal interest in housing the Government's space need in Berkeley County, WV, by the closing date of November 21, 2013.<br />Also, additional market research was performed utilizing &lt;REDACTED&gt; and &lt;REDACTED&gt; on October 29, 2013.  However, this research demonstrated that there are no available properties within the agency's delineated area that could potentially satisfy their requirements.  Nonetheless, vacant properties in Berkeley County, WV, which did not have the ability to meet the minimum agency square footage requirement, were identified and further analyzed as a comparable for market rental rates purposes only.  <br />Due to the fact that there are no alternate locations that can meet the agency's square footage requirement, a cost benefit analysis cannot be performed.  Furthermore, a cost benefit analysis is not required under GSAM 570.402-4, "No potential acceptable locations."<br />Thus, it is in the best interest of the Government to renew the current lease at the existing location. This procurement strategy will ensure that the Government will meet the agency's requirements. <br /> See Attachment 1&lt;REDACTED&gt;, Market Research Memorandum <br />5.  Description of efforts made to ensure that offers are solicited from as many potential sources as is practicable.<br />An advertisement (notice of intent) for this requirement was placed on Fedbizopps on November 13, 2013.  On October 29, 2013, a database market search was also conducted in addition to &lt;REDACTED&gt; which yielded zero (0) potential alternative space options to house the agency's requirements.<br /> See Attachment 1&lt;REDACTED&gt;, Market Research Memorandum<br />6.  Determination by the Contracting Officer that the anticipated cost to the Government will be fair and reasonable.<br />&lt;REDACTED&gt; data for this market is unavailable.  <br />Based on the aforementioned factors, the anticipated fully-serviced rental rate of $19.00/RSF is determined to be fair and reasonable.   <br />7.  Description of the market research conducted.<br /> See Attachment 1, Market Research Memorandum&lt;REDACTED&gt;,<br />8.  Other facts supporting the use of other than full and open competition.<br />The VA has indicated its desire to remain at its current location while long term space requirements are being developed.  The agency and GSA are satisfied with the lessor's performance on lease administration issues.  By securing a renewal, disruption of the VA's daily activities would be minimized.  There are no potential alternatives within the Berkeley County market that can meet the agency's requirements.   <br />9.  List of any sources that expressed in writing an interest in the acquisition.<br />No other source has expressed in writing a formal interest in the acquisition.</p><br />
+<p>10.  Statement of actions the agency may take to remove or overcome any barriers to competition.<br />At the end of the proposed lease renewal term, a fully competitive lease action, if appropriate, will be initiated to fulfill the agency's long term requirements.<br />Contracting Officer's Certification:<br />I hereby certify that the above information is accurate and complete to the best of my knowledge.</p><br />
+<p>&nbsp;</p><br />
+<p>&nbsp;</p><br />
+<p><br />Prepared by: 		<br /> <br />____________________________							<br />Caitlin O'Donnell    					Date		<br />Leasing Specialist</p><br />
+<p><br />Concurred by:</p><br />
+<p>____________________________						<br />Cathleen Ryer	    	   			Date		<br />Lease Contracting Officer</p><br />
+<p>Concurred by:</p><br />
+<p>____________________________						<br />Stacy C. Keefer	    	   			Date		<br />Realty Section Chief</p><br />
+<p>Concurred by:</p><br />
+<p>____________________________						<br />Luann Caruso    	   				Date		<br />Real Estate Acquisition Branch Chief	<br /> <br />Approved by:</p><br />
+<p>____________________________						<br />Dorothy Baratta	    	   			Date		<br />Regional Competition Advocate</p><br />
+<p>&nbsp;</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		The Strawbridge Building<br />
+20 North 8th Street, <br/>
+
+			
+				
+		Philadelphia,
+
+			
+	
+		Pennsylvania
+
+			
+	
+		19107-3191
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		882 TJ Jackson Drive<br/>
+
+			
+				
+		Falling Waters,
+
+			
+	
+		West Virginia
+
+			
+	
+		25419-9549
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>cathleen ryer,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:cathleen.ryer@gsa.gov">cathleen.ryer@gsa.gov</a></div>
+	<div>Phone: 2154464587</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=a48ca92a7f695def403a948f7fb60d74'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=a48ca92a7f695def403a948f7fb60d74'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Justification and Approval (J&A)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 30 days after award date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	X -- Lease or rental of facilities
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	531 -- Real Estate/531190 -- Lessors of Other Real Estate Property
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

@@ -1,0 +1,1358 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Global Health Supply Chain - Commodity Procurement - GREEN BOX - SINGLE AWARD IDIQ - SOL-OAA-12-000128 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501479');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501479';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6019ad0ba5aeaf83e69db679304afb24&inline_disposition=1" border="0" alt="Washington D.C. logo"></div><div class="agency-header agency-header-med"><h2>Global Health Supply Chain - Commodity Procurement - GREEN BOX - SINGLE AWARD IDIQ</h2><div class="sol-num">Solicitation Number: SOL-OAA-12-000128</div><div class="agency-name">Agency: Agency for International Development<br>Office: Washington D.C.<br>Location: USAID/Washington</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=2478efc9936c75d19abbf7241e3e1d27&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OAA-12-000128/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OAA-12-000128/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/AID/OP/WashingtonDC/SOL-OAA-12-000128/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=2478efc9936c75d19abbf7241e3e1d27&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=2478efc9936c75d19abbf7241e3e1d27&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<div class='notice'>
+<div class='miw'>
+<h2>Note: </h2>
+This opportunity allows for electronic responses.  <a href="?s=main&mode=list&tab=login&_eresp=2478efc9936c75d19abbf7241e3e1d27">Click here</a> to log in and submit a response.
+</div>
+</div>
+<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=c167a3215b0bb901b47b64f775e41d04&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Aug 21, 2012</div><div class="nh-date">12:58 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b7754f88ef8570e2c1c2f9456f65c8ca&_cview=0">Changed</a><div class="nh-date">Feb 22, 2013</div><div class="nh-date">12:06 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=f63ea60f9c4045ffc2b3d8b630e0219b&_cview=0">Changed</a><div class="nh-date">Apr 12, 2013</div><div class="nh-date">1:21 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=42bf78411aca81246418ddbfc3fc7466&_cview=0">Changed</a><div class="nh-date">Apr 18, 2013</div><div class="nh-date">4:12 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=370081a71aee3139935a863b6f5c9e96&_cview=0">Changed</a><div class="nh-date">Aug 16, 2013</div><div class="nh-date">2:14 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=42b9c8719d413a3d14f47e6d35ae0651&_cview=0">Changed</a><div class="nh-date">Oct 03, 2013</div><div class="nh-date">11:39 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=573cd52260e7a7142a868775e3abd84a&_cview=0">Changed</a><div class="nh-date">Nov 15, 2013</div><div class="nh-date">2:58 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=54fbbf469d9a4125db2dadfb7ba9cc6a&_cview=0">Changed</a><div class="nh-date">Jan 06, 2014</div><div class="nh-date">6:02 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=5e41594d9c696cdb92424bcc22e12e69&_cview=0">Changed</a><div class="nh-date">Jan 08, 2014</div><div class="nh-date">10:09 am</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=2478efc9936c75d19abbf7241e3e1d27&_cview=0">Changed</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">4:08 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=c167a3215b0bb901b47b64f775e41d04'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=c167a3215b0bb901b47b64f775e41d04'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	SOL-OAA-12-000128
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2012-08-21 12:58:36">Aug 21, 2012 12:58 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-07 16:03:25">Feb 07, 2014 4:03 pm<a href="/utils/viewDifferences?class=notice_description&id=854707c1d015378d3ed468b76ee588bd&compared_to=19bc374ccfa9d0666bb847fa7a378658" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=854707c1d015378d3ed468b76ee588bd&compared_to=19bc374ccfa9d0666bb847fa7a378658&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong>February 7, 2014 - </strong>RFP Amendment!!&nbsp; This Amendment includes 1) Q&amp;A; 2) Amended RFP; 3)&nbsp;Amended RFTOP's (3 documents); 4) Three additional attachmetns (J.19, J.20, and J.21).&nbsp; All other documents remain unchanged. <br /><br />USAID has made every effort to highlight in yellow the amendments to the RFP and RFTOP documents.&nbsp; Please read the revised documents and Q&amp;A carefully.&nbsp; It is the responsibility of potential offerors to read these documents carefully, and USAID bears no responsibility for changes that were mistakenly left un-highlighted.<br /><br /><strong>JANUARY 6, 2014 </strong>- OFFICIAL SOLICITATION RELEASE DATE - GREEN BOX - SINGLE AWARD IDIQ - Amendment #5<br /><br /><em><strong>Note attached RFP for Key dates. Questions due January 24, 2014. Past Performance Information due February 19, 2014. Final Proposals due March 5, 2014.&nbsp;<br /></strong></em><br /><br /><strong>*********</strong><br />SYNOPSIS<br />USAID Global Health Supply Chain<br />
+<p>DISCLAIMER<br />This is not a solicitation. USAID does NOT invite offerors to submit proposals in response to this synopsis NOR will USAID accept comments, questions and/or inquiries in response to this synopsis and will NOT respond to any. NO awards are anticipated to be made in response to this synopsis. Prospective offerors are advised to periodically monitor the above website for updates concerning this procurement.</p><br />
+<p>The purpose of this notice is to comply with the synopses and pre-solicitation notice requirements of FAR 5.2 - Synopses of Proposed Contract Actions. Any solicitation resulting from this notice will be handled in accordance with FAR 5.102(d); therefore, availability of the solicitation package is limited to the following electronic medium: FEDBIZOPPS web page (http://www.fbo.gov/).</p><br />
+<p>Purpose<br />The purpose of this synopsis is to outline the United States Agency for International Development's (USAID) proposed plans to:</p><br />
+<p>&bull; Procure health commodities and services and promote sustainable supply chains;<br />&bull; Inform and communicate USAID's plans with the public and key external stakeholders, in particular, members of the business community;<br />&bull; Facilitate and encourage advanced planning by partners for consideration of the follow on design; and<br />&bull; To encourage competition.</p><br />
+<p>Background<br />USAID is the USG's principle implementing agency for international development assistance. The Bureau for Global Health, whose vision is to create a world where people lead healthy, productive lives and where mothers and children thrive, has a broad portfolio that includes a wide array of programs and investments that represent the commitment and determination of USG to prevent suffering, save lives, and create an environment that encourages development.</p><br />
+<p>Successful implementation of USAID's health programs is dependent on, among other things, an uninterrupted supply of essential quality health commodities, including pharmaceuticals, in addition to supply chain assistance to health systems that manage these commodities.</p><br />
+<p>Currently, there are multiple offices within the Bureau for Global Health - as well as Presidential Initiatives - that run programs that procure health commodities. These are the Office of Health, Infectious Diseases, and Nutrition (HIDN), the Office of HIV/AIDS (OHA), and the Office of Population and Reproductive Health (PRH), and both the President's Emergency Plan for Aids Relief (PEPFAR) and the President's Malaria Initiative (PMI). As part of the Bureau's overall strategy, these offices and initiatives support partner countries in preventing and managing major health challenges of poor, underserved and vulnerable people, leading to improved health outcomes by:</p><br />
+<p>&bull; Providing technical leadership to USG programs<br />&bull; Partnering strategically with a wide array of stakeholders that enhance the development process<br />&bull; Accelerating innovation, science and technology in order to facilitate a successful treatment and prevention of disease<br />&bull; Scaling up evidence-based, equitable and locally adapted health solutions<br />&bull; Strengthening local health systems<br />&bull; Promoting gender equality<br />&bull; Working efficiently and being effective stewards of public trust and resources</p><br />
+<p>The Global Health Initiative<br />The U.S. Government's global health portfolio includes a diverse set of programs and investments in approximately 80 countries worldwide. All of the countries in which the USG has health investments are essential partners for achieving and sustaining the ambitious outcomes outlined in the Global Health Initiative (GHI). Equally important to the success of GHI is the strategic coordination and partnerships with USG partner organizations such as the Office of the Global AIDS Coordinator (S/GAC, Centers for Disease Control and Prevention (CDC), the Health Resources and Service Administration, the Department of Defense and the Peace Corps. The interagency coordination required to support PEPFAR and PMI increases the effectiveness and efficiency of USG health programs globally by using a "whole of government approach."</p><br />
+<p>Supply chain management and the procurement of essential health commodities are an essential component of the Agency's health portfolio and directly support the Agency's health contribution to GHI. For example, ensuring an adequate supply of quality medicines and diagnostic equipment for HIV programs has contributed significantly to PEPFAR's ability to provide care and treatment for 4.5 million persons living with HIV/AIDS. Maintaining an adequate supply of quality essential medicines is critical to achieving President Obama's goal of putting six million people on treatment by the end 2015 - two million more people than the Administration's original goal.</p><br />
+<p>Essential good quality health commodities have played a critical role toward achieving PMI's goal to halve the burden of malaria in 70 percent of at-risk populations in sub-Saharan Africa (approximately 450 million people). Between 2006 and 2010, PMI procured 95.3 million artemisinin-based combination therapy (ACT) treatments, 45.4 million insecticide treated nets (ITNs) and 10.2 million treatments for intermittent preventative treatment for malaria in pregnancy. This has contributed to the reductions in mortality among children under five in most of PMI's focus countries. Ensuring an adequate supply of malaria related commodities will continue to be a key component of PMI's continued efforts to further reduce the burden malaria.</p><br />
+<p>USAID has been a leader in efforts to meet the reproductive health needs of women and couples by increasing access to modern methods of contraception for millions of couples annually. While access to family planning services has improved dramatically since USAID's efforts began in the 1960s, more than 215 million women worldwide who would like to delay or avoid pregnancy still do not have access to family planning information and services. Under GHI, the USG goal is to prevent 54 million unintended pregnancies and increase the modern contraceptive prevalence by up to two percentage points annually on average across assisted countries. The Agency is placing special attention on increasing access to family planning services for the poorest wealth quintiles, where access remains lowest. Because USAID's programs maximize access to voluntary family planning products and services, more couples and individuals in the developing world have been able to determine the spacing of their children and family size. Investments in contraceptive commodity support and strengthening logistics systems have reduced stock outs and increased availability of contraceptives in key countries. Between 2006 and 2010, USAID delivered $376.4 million worth of contraceptives and condoms to public and private sector programs worldwide, while providing supply chain assistance in 33 countries. These efforts have contributed to substantial increases in the percentage of women using modern contraceptives in USAID priority countries and have translated to improved maternal and child health, family well-being, women's empowerment, poverty reduction and elevated development prospects.</p><br />
+<p>Current Health Awards<br />Currently, the Bureau for Global Health has two single award IQCs responsible for the procurement and delivery of essential health commodities and supply chain assistance. The first is the USAID | DELIVER PROJECT that focuses its support largely on the PMI and programs in family planning/reproductive health, maternal and child health, emerging pandemic threats, and other areas. The second is the Supply Chain Management System for HIV/AIDS (SCMS) IQC that supports the President's Emergency Plan for AIDS Relief (PEPFAR). More information on the current IQCs can be found on www.pfscm.org and www.deliver.jsi.com.</p><br />
+<p>New Award Design</p><br />
+<p>The consolidation of the procurement and assistance elements of the DELIVER and SCMS IQCs into a single award will ensure an uninterrupted supply of essential USAID-donated health commodities, align USAID's health commodity requirements across the priority health elements, reduce costs to the U.S. Government, improve management and accountability and ensure implementation flexibilities to respond to unpredictable global demands for USAID essential health commodities and assistance. In addition to this single award, USAID's Bureau for Global Health anticipates the release of several new awards to provide specialized services that are presently embedded in the DELIVER and SCMS IQCs.</p><br />
+<p>The new architecture will realign activities to achieve the following:</p><br />
+<p>&bull; Maintaining continuity of operations to ensure no interruption of supplies; <br />&bull; Ensuring technical and program soundness through a collaborative process; <br />&bull; Ensuring flexibility to meet different program (health element) requirements as well as future needs; <br />&bull; Minimizing management burden for the field; <br />&bull; Promoting risk mitigation by collaborative strategies in quantification/forecasting, market dynamics, and freight forwarding/warehousing and delivery;<br />&bull; Incorporating the principles of GHI, USAID Forward and Procurement Reform; and<br />&bull; Maintaining program oversight and accountability by the different health elements as needed to meet disease specific requirements.</p><br />
+<p>All awards will be made on a full and open competitive basis, except the laboratory procurement IQC that is set aside for small business concerns. The architecture for the supply chain follow-on includes the following awards:</p><br />
+<p>A. Single Award IQC for Commodity Procurement and Supply Chain Assistance: This activity will provide a comprehensive array of services for USG health commodity procurement and related supply chain assistance encompassing the different elements of a comprehensive supply chain (e.g. quantification/forecasting, procurement, transportation, warehousing, and information systems). The IQC holder will be expected to manage the full range of supply chain services - from quantification, procurement, and warehousing to delivery of product to the USG-designated client. The successful implementation of these services depends upon the IQC holder's ability to minimize lead time for field programs while maximizing overall value-for-money performance on delivery of quality essential health commodities. The tasks of this IQC are integrally related and implemented through a single award to optimize overall performance and accountability of what, by best practice, should be a continuous, seamless, operational supply chain. The IQC will work with USG country programs to improve country counterpart systems and increase their capacity to more fully conduct this procurement and distribution work on their own. The IQC is anticipated to supply an estimated $7 billion worth of essential health commodities annually at no fee to over 50 countries; and to provide technical assistance to improve the performance and sustainability of country supply chain systems. The duration of the IQC is anticipated to be 5 years with an option for an additional 3 year period.</p><br />
+<p>The IQC contractor is expected to work with the Quality Assurance holder (see D below) to ensure that the quality of products purchased meets USG standards. In addition, the IQC holder will provide a required set of data to the Business Intelligence (BI) contractor (see E below).</p><br />
+<p>B. Small Business Set Aside - Single award IQC for a Procurement Service Agent for Laboratory Supplies and Equipment: The IQC will have the responsibility for the procurement and shipment of laboratory supplies and equipment to designated destinations/stakeholders for use in host country programs. The duration of this IQC is anticipated to be 5 years with an option for an additional 3 year period.</p><br />
+<p>C. Multiple Awards for Specialized Supply Chain Assistance: These awards are anticipated to be made through annual program statements (APS) to invite and encourage organizations with specialized capabilities. One APS will seek capabilities for research, innovation and evaluation, and access to the state-of-the-art in supply chain management from academia as well as the private, commercial, and other sectors. Another possible APS will be for organizations in the "global south" with demonstrated capabilities in supply chain management, assistance, and/or training, to support local capacity building, and provide for south-to-south assistance and access to regional specializations. Other awards may be made in areas of specialization (e.g., management information system, information technologies) if there is sufficient demand from field.</p><br />
+<p>D. Quality Assurance Award: The Quality Assurance (QA) award will promote the effectiveness and efficiency of USAID QA services by combining and coordinating QA activities across health elements. This activity will provide independent, essential, comprehensive quality assurance/control services covering the different health elements in the Bureau.</p><br />
+<p>E. Business Intelligence Award: The Business Intelligence (BI) award is expected to collect and integrate data from multiple partner systems and generate reports and alerts based on established thresholds. By embedding BI into existing process applications, USAID's control, management, and ownership of information will be enhanced to facilitate information sharing and coordination across health elements within the Bureau's supply chain.</p><br />
+<p>Please note that to avoid the appearance of a conflict of interest, offerors bidding as primes for award A (Single Award IQC for Commodity Procurement and Supply Chain Assistance) and/or award B (small business set-aside for Laboratory Equipment and Supplies) will not be permitted to bid as primes on award D (Quality Assurance) and vice versa. This is done to ensure the independence of those responsible for ensuring the safety and efficacy of the products being purchased from those responsible for procurement of product. In addition all awardees are expected to collaborate with one another and will be required to provide non-proprietary data to the Agency using the IT platform developed and maintained by the BI contractor.</p><br />
+<p>USAID bears no responsibility for data errors resulting from this transmission. This notice does not obligate USAID to release a solicitation or award a contract nor does it commit the Government to pay for costs incurred in the preparation and submission of a proposal.</p><br />
+<p>&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-04-12 13:21:06">Apr 12, 2013 1:21 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][modified_on]" value="2014-01-06 17:48:16">Jan 06, 2014 5:48 pm<a href="/utils/viewDifferences?class=notice_description&id=b8be58aaac19a6ba05f8c7d4c320788f&compared_to=ea23bc5406fc743acbc26d5fed4386f5" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=b8be58aaac19a6ba05f8c7d4c320788f&compared_to=ea23bc5406fc743acbc26d5fed4386f5&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		&nbsp;<br />
+<p style="text-align: center; mso-layout-grid-align: none;"><strong><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin">PRESOLICITATION NOTICE NO: SOL-OAA-12-000128 - April 12 Modification</span></strong><strong><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin">&nbsp;</span></strong></p><br />
+<p style="text-align: center; mso-layout-grid-align: none;"><strong><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin">SYNOPSIS USAID GLOBAL HEALTH SUPPLY CHAIN<br /></span></strong><strong><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin"><br />&nbsp;See Attached PDFs (4)&nbsp;for contents of notification.</span></strong></p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2013-04-18 16:12:47">Apr 18, 2013 4:12 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][modified_on]" value="2014-01-06 17:48:16">Jan 06, 2014 5:48 pm<a href="/utils/viewDifferences?class=notice_description&id=98451a56d8748bf9f324b21c92fc63d2&compared_to=380405fb1f793d63f604d5439ec86810" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=98451a56d8748bf9f324b21c92fc63d2&compared_to=380405fb1f793d63f604d5439ec86810&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong>Amendment 2 for Solicitation # SOL-OAA-12-000128</strong><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l1 level1 lfo1"><span style="mso-bidi-theme-font: minor-latin; mso-bidi-font-family: Calibri"><span>&bull;1.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>Handling of Confidential Questions: To the extent any interested party identifies any question(s) submitted in connection to this solicitation as confidential, USAID will honor that request. Parties submitting confidential questions or comments are directed to include the word <span style="mso-spacerun: yes">&nbsp;</span>"Confidential" in the subject line of the email. To the extent that parties may submit both confidential and non-confidential material, it may be submitted in the same email, but please take care to clearly label which material is not intended for public release.<br /><br />Please note that to the extent that USAID opts to provide any answers/responses to questions/comments received, it may be that USAID will only provide publicly-released answers/responses to the non-confidential questions/comments, and will not address on a one-to-one basis the confidential questions/comments received.</p><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l1 level1 lfo1"><span style="mso-bidi-theme-font: minor-latin; mso-bidi-font-family: Calibri"><span>&bull;2.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>Reminder regarding use of question/comment inboxes:<span style="mso-spacerun: yes">&nbsp; </span>Anyone interested in submitting questions or comments to any of the three draft SOWs released in Amendment 1 are reminded to address their submissions to the email addresses listed below:</p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level1 lfo2"><span style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><a href="mailto:IQCQ@usaid.gov">IQCQ@usaid.gov</a></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level1 lfo2"><span style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><a href="mailto:PMIQ@usaid.gov">PMIQ@usaid.gov</a></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level1 lfo2"><span style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span>&bull;&middot;<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><a href="mailto:HIVQ@usaid.gov">HIVQ@usaid.gov</a></p><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l1 level1 lfo1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global Health Supply Chain Quality Assurance (QA) Solicitation: # SOL-OAA-13-000999-AC<span style="mso-spacerun: yes">&nbsp; </span>was released on FBO.gov on April 12, 2013. For the sake of clarification, solicitation # SOL-OAA-13-000999-AC corresponds to the Quality Assurance requirement mentioned in the Global Health Supply Chain solicitation # SOL-OAA-12-000128, released on FBO.gov on August 21, 2012.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2013-11-15 14:58:33">Nov 15, 2013 2:58 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][modified_on]" value="2014-02-07 16:03:25">Feb 07, 2014 4:03 pm<a href="/utils/viewDifferences?class=notice_description&id=073ff39e45021b893d01730a1931f0f0&compared_to=be1d1bb657c80cd71a0b535a07343c38" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=073ff39e45021b893d01730a1931f0f0&compared_to=be1d1bb657c80cd71a0b535a07343c38&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<strong>Amendment 4 for Solicitation # SOL-OAA-12-000128</strong><br /><br />The purpose of this amendment is to upload documents and the complete transcript from USAID's Global Health Supply Chain Program Industry Day, which was held on October 31, 2013 in Washington, DC. &nbsp;Please see attached documents.&nbsp;<br /><strong><br /><br /><strong>Amendment 5 for Solicitation #SOL-OAA-12-000128 - GREEN BOX - SINGLE AWARD IDIQ ONLY</strong><br /><br />Official Solicitation Release Date&nbsp;<br /><br />Note attached RFP for Key dates. &nbsp;Questions due January 24, 2014. &nbsp;Past Performance Information due February 19, 2014. &nbsp; Final Proposals due March 5, 2014.<br /><br />Amendment 6 for SOL-OAA-12-000128 - Amended RFP and Q&amp;A.&nbsp; See top of notice. </strong>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">JOFOC for Task Order No. 3 under IQC No. GPO-I-00-05-00032 </h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	JOFOC for Task Order No. 3 under IQC No. GPO-I-00-05-00032 
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 22, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=cfec618365a0b0d698170c70607af5d7' target='_blank' title='Download/View GPO-I-00-05-00032_SCMS_TO_3_Signed_JOFOC_Jul_12_12.pdf' class='file'&gt;GPO-I-00-05-00032_SCMS_TO_3_Signed_JOFOC_Jul_12_12.pdf&lt;/a&gt;"><a href='/utils/view?id=cfec618365a0b0d698170c70607af5d7' target='_blank' title='Download/View GPO-I-00-05-00032_SCMS_TO_3_Signed_JOFOC_Jul_12_12.pdf' class='file'>GPO-I-00-05-00032_SCMS_TO_3_Signed_JOFOC_Jul_12_12.pdf</a> (250.15 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Justification for other than full and open competition (JOFOC) for extending the period of performance of Task Order No. 3 under IQC No. GPO-I-00-05-00032, known as the Supply Chain Management System (SCMS) contract.  JOFOC is to extend the period of performance end date of subject SCMS Task Order 3 by 2 years, from September 26, 2013 to September 26, 2015, and also to raise the ceiling of subject task order by a proportionate amount. The purpose of this extension is to allow for adequate time to complete design of the follow-on requirement for the SCMS program, to compete the new requirement under full-and-open conditions, and after awarding it to the successful offeror, to transition operations from the incumbent contractor to the successful offeror, without a gap in life-saving SCMS services. This JOFOC links to presolicitation notice No. SOL-OAA-12-12-000128, Title: Global Health Supply Chain Synopsis.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	April 12, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1b6bb0275539f18c0b2eb23e45e1c20d' target='_blank' title='Download/View IQC_Presolicitation_Notice_12_Apr_2013.pdf' class='file'&gt;IQC_Presolicitation_Notice_12_Apr_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=1b6bb0275539f18c0b2eb23e45e1c20d' target='_blank' title='Download/View IQC_Presolicitation_Notice_12_Apr_2013.pdf' class='file'>IQC_Presolicitation_Notice_12_Apr_2013.pdf</a> (87.83 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> IQC Presolicitation Notice</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=5ac353a7de57b93081c1d64b70b3c2f8' target='_blank' title='Download/View DRAFT_SOW_IQC_12_Apr_2013.pdf' class='file'&gt;DRAFT_SOW_IQC_12_Apr_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=5ac353a7de57b93081c1d64b70b3c2f8' target='_blank' title='Download/View DRAFT_SOW_IQC_12_Apr_2013.pdf' class='file'>DRAFT_SOW_IQC_12_Apr_2013.pdf</a> (533.53 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> DRAFT SOW IQC</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=923e4d49b08489b3a31a0a7a137ee1c9' target='_blank' title='Download/View DRAFT_SOW_TO_PMI_12_April_2013.docx.pdf' class='file'&gt;DRAFT_SOW_TO_PMI_12_April_2013.docx.pdf&lt;/a&gt;"><a href='/utils/view?id=923e4d49b08489b3a31a0a7a137ee1c9' target='_blank' title='Download/View DRAFT_SOW_TO_PMI_12_April_2013.docx.pdf' class='file'>DRAFT_SOW_TO_PMI_12_April_2013.docx.pdf</a> (249.67 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft SOW PMI Task Order</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=accda0efc8376f4f42b8c48c80020f9d' target='_blank' title='Download/View DRAFT_SOW_TO_HIV_AIDS_12_Apr_2013.pdf' class='file'&gt;DRAFT_SOW_TO_HIV_AIDS_12_Apr_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=accda0efc8376f4f42b8c48c80020f9d' target='_blank' title='Download/View DRAFT_SOW_TO_HIV_AIDS_12_Apr_2013.pdf' class='file'>DRAFT_SOW_TO_HIV_AIDS_12_Apr_2013.pdf</a> (206.01 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft SOW HIV AIDS Task Order</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	August 16, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=ad1bbec212424b3fef5a765bce938e8c' target='_blank' title='Download/View GHSC_Presolicitation_Amendment_3.pdf' class='file'&gt;GHSC_Presolicitation_Amendment_3.pdf&lt;/a&gt;"><a href='/utils/view?id=ad1bbec212424b3fef5a765bce938e8c' target='_blank' title='Download/View GHSC_Presolicitation_Amendment_3.pdf' class='file'>GHSC_Presolicitation_Amendment_3.pdf</a> (109.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> PRESOLICITATION NOTICE NO: SOL-OAA-12-000128 - August 16 2013 Amendment <br />
+SYNOPSIS USAID GLOBAL HEALTH SUPPLY CHAIN<br />
+See Attached PDFs (5) for contents of notification, which include further important information about the overall Global Health Supply Chain program architecture and requirements, as well as well as documents pertaining specifically to the Single-Holder IQC and three associated task orders under that IQC.<br />
+</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=0db9a6fd835d6620099627f667c65b58' target='_blank' title='Download/View DRAFT_SOW_IQC_Aug_15_2013.pdf' class='file'&gt;DRAFT_SOW_IQC_Aug_15_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=0db9a6fd835d6620099627f667c65b58' target='_blank' title='Download/View DRAFT_SOW_IQC_Aug_15_2013.pdf' class='file'>DRAFT_SOW_IQC_Aug_15_2013.pdf</a> (789.14 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> This is the draft SOW for the GHSC single-holder IQC. *Revised SOW*</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=a0e368f9864cd5d2dc2885c83928686c' target='_blank' title='Download/View DRAFT_SOW_TO_HIV_AIDS_Aug_15_2013.pdf' class='file'&gt;DRAFT_SOW_TO_HIV_AIDS_Aug_15_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=a0e368f9864cd5d2dc2885c83928686c' target='_blank' title='Download/View DRAFT_SOW_TO_HIV_AIDS_Aug_15_2013.pdf' class='file'>DRAFT_SOW_TO_HIV_AIDS_Aug_15_2013.pdf</a> (307.26 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> This is the draft SOW for HIV Task Order under the GHSC single-holder IQC. *Revised SOW*</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=07f112ed222b7a658a29b2ad54722068' target='_blank' title='Download/View DRAFT_SOW_TO_PMI_Aug_15_2013.pdf' class='file'&gt;DRAFT_SOW_TO_PMI_Aug_15_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=07f112ed222b7a658a29b2ad54722068' target='_blank' title='Download/View DRAFT_SOW_TO_PMI_Aug_15_2013.pdf' class='file'>DRAFT_SOW_TO_PMI_Aug_15_2013.pdf</a> (145.06 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> This is the draft SOW for the PMI Task Order under the GHSC single-holder IQC. *Revised SOW*</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=5bb03330629d4462ed84bee3f2d355fa' target='_blank' title='Download/View DRAFT_SOW_CSL_TO_Aug_15_2013.pdf' class='file'&gt;DRAFT_SOW_CSL_TO_Aug_15_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=5bb03330629d4462ed84bee3f2d355fa' target='_blank' title='Download/View DRAFT_SOW_CSL_TO_Aug_15_2013.pdf' class='file'>DRAFT_SOW_CSL_TO_Aug_15_2013.pdf</a> (361.75 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> This is the draft SOW for the CSL Task Order under the GHSC single-holder IQC. *New SOW*</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	October 3, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=5f4c2e89e12595e5cd710f3e08404efb' target='_blank' title='Download/View 2013.10.01_Industry_Day_Invite.pdf' class='file'&gt;2013.10.01_Industry_Day_Invite.pdf&lt;/a&gt;"><a href='/utils/view?id=5f4c2e89e12595e5cd710f3e08404efb' target='_blank' title='Download/View 2013.10.01_Industry_Day_Invite.pdf' class='file'>2013.10.01_Industry_Day_Invite.pdf</a> (24.88 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Invitation to Industry Day for Global Health Supply Chain Program (GHSC Program), to be held in Washington, DC on Oct 31, 2013. Please submit reservations NLT 5:00 PM EDT, Friday, Oct 18, 2013.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=742d45fda0ed0033f704fefe53a18711' target='_blank' title='Download/View 2013.10.01_Response_to_Questions.pdf' class='file'&gt;2013.10.01_Response_to_Questions.pdf&lt;/a&gt;"><a href='/utils/view?id=742d45fda0ed0033f704fefe53a18711' target='_blank' title='Download/View 2013.10.01_Response_to_Questions.pdf' class='file'>2013.10.01_Response_to_Questions.pdf</a> (50.24 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Limited Response to Questions focusing on regarding bidding limitations among the various GHSC requirements.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=4f08cedfa1b0976755b9ac8e6a167dc0' target='_blank' title='Download/View 2013.10.01_Global_Health_Supply_Chain_Current_Program_Data.pdf' class='file'&gt;2013.10.01_Global_Health_Supply_Chain_Current_Program_Data.pdf&lt;/a&gt;"><a href='/utils/view?id=4f08cedfa1b0976755b9ac8e6a167dc0' target='_blank' title='Download/View 2013.10.01_Global_Health_Supply_Chain_Current_Program_Data.pdf' class='file'>2013.10.01_Global_Health_Supply_Chain_Current_Program_Data.pdf</a> (82.88 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Global Health Supply Chain Program current data for SCMS and DELIVER.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=4966784bb26053f893ec9751aeccab62' target='_blank' title='Download/View 2013.10.01_Global_Health_Supply_Chain_Current_Program_Data_for_SCMS_and_DELIVER.xlsx' class='file'&gt;2013.10.01_Global_Health_Supply_Chain_Current_Program_Data_for_SCMS_and_DELIVER.xlsx&lt;/a&gt;"><a href='/utils/view?id=4966784bb26053f893ec9751aeccab62' target='_blank' title='Download/View 2013.10.01_Global_Health_Supply_Chain_Current_Program_Data_for_SCMS_and_DELIVER.xlsx' class='file'>2013.10.01_Global_Health_Supply_Chain_Current_Program_Data_for_SCMS_and_DELIVER.xlsx</a> (5,495.07 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Global Health Supply Chain Program current data for SCMS and DELIVER spreadsheet.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	November 15, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=aaf0ccdbb7b5bd236137369a80ffd650' target='_blank' title='Download/View Industry_Day_Agenda.pdf' class='file'&gt;Industry_Day_Agenda.pdf&lt;/a&gt;"><a href='/utils/view?id=aaf0ccdbb7b5bd236137369a80ffd650' target='_blank' title='Download/View Industry_Day_Agenda.pdf' class='file'>Industry_Day_Agenda.pdf</a> (129.61 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Industry Day Agenda </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=0a8b9dc35c6bf4ce5f8fff954ffd112a' target='_blank' title='Download/View Organizations_Attending_GH_Supply_Chain_Industry_Day.pdf' class='file'&gt;Organizations_Attending_GH_Supply_Chain_Industry_Day.pdf&lt;/a&gt;"><a href='/utils/view?id=0a8b9dc35c6bf4ce5f8fff954ffd112a' target='_blank' title='Download/View Organizations_Attending_GH_Supply_Chain_Industry_Day.pdf' class='file'>Organizations_Attending_GH_Supply_Chain_Industry_Day.pdf</a> (100.17 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> List of participating organizations</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=334a3ddd106217af8858a57312a6c9e1' target='_blank' title='Download/View Slides_on_Conflicts_of_Interest_-_GH_Supply_Chain_Industry_Day.pdf' class='file'&gt;Slides_on_Conflicts_of_Interest_-_GH_Supply_Chain_Industry_Day.pdf&lt;/a&gt;"><a href='/utils/view?id=334a3ddd106217af8858a57312a6c9e1' target='_blank' title='Download/View Slides_on_Conflicts_of_Interest_-_GH_Supply_Chain_Industry_Day.pdf' class='file'>Slides_on_Conflicts_of_Interest_-_GH_Supply_Chain_Industry_Day.pdf</a> (59.63 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Conflicts of Interest presentation </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=47f4e8d36433a884c5ecb38ce1d9afba' target='_blank' title='Download/View Slides_on_Structure_of_Program_-_GH_Supply_Chain_Industry_Day.pdf' class='file'&gt;Slides_on_Structure_of_Program_-_GH_Supply_Chain_Industry_Day.pdf&lt;/a&gt;"><a href='/utils/view?id=47f4e8d36433a884c5ecb38ce1d9afba' target='_blank' title='Download/View Slides_on_Structure_of_Program_-_GH_Supply_Chain_Industry_Day.pdf' class='file'>Slides_on_Structure_of_Program_-_GH_Supply_Chain_Industry_Day.pdf</a> (138.81 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Supply Chain structure presentation </div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=a28f97743d97b946c758cb6180f77f06' target='_blank' title='Download/View Transcript_of_Industry_Day_Remarks.pdf' class='file'&gt;Transcript_of_Industry_Day_Remarks.pdf&lt;/a&gt;"><a href='/utils/view?id=a28f97743d97b946c758cb6180f77f06' target='_blank' title='Download/View Transcript_of_Industry_Day_Remarks.pdf' class='file'>Transcript_of_Industry_Day_Remarks.pdf</a> (82.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Complete Transcript of Industry Day </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	January 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b28fd3803eef181274468eeb3ebe2ba2' target='_blank' title='Download/View RFP_SOL-OAA-12-000128.pdf' class='file'&gt;RFP_SOL-OAA-12-000128.pdf&lt;/a&gt;"><a href='/utils/view?id=b28fd3803eef181274468eeb3ebe2ba2' target='_blank' title='Download/View RFP_SOL-OAA-12-000128.pdf' class='file'>RFP_SOL-OAA-12-000128.pdf</a> (998.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Final RFP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=e3bf687a269f14e31b3668b1dbfdcc61' target='_blank' title='Download/View Section_J.1_HIV_Task_Order.pdf' class='file'&gt;Section_J.1_HIV_Task_Order.pdf&lt;/a&gt;"><a href='/utils/view?id=e3bf687a269f14e31b3668b1dbfdcc61' target='_blank' title='Download/View Section_J.1_HIV_Task_Order.pdf' class='file'>Section_J.1_HIV_Task_Order.pdf</a> (358.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.1 - HIV RFTOP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=8959064b36db685c2242af5dc903001f' target='_blank' title='Download/View Section_J.2_PMI_Task_Order.pdf' class='file'&gt;Section_J.2_PMI_Task_Order.pdf&lt;/a&gt;"><a href='/utils/view?id=8959064b36db685c2242af5dc903001f' target='_blank' title='Download/View Section_J.2_PMI_Task_Order.pdf' class='file'>Section_J.2_PMI_Task_Order.pdf</a> (398.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.2 - President's Malaria Initiative RFTOP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=3ad6519303b2147f6152e508c30a5589' target='_blank' title='Download/View Section_J.3_PRH_Task_Order.pdf' class='file'&gt;Section_J.3_PRH_Task_Order.pdf&lt;/a&gt;"><a href='/utils/view?id=3ad6519303b2147f6152e508c30a5589' target='_blank' title='Download/View Section_J.3_PRH_Task_Order.pdf' class='file'>Section_J.3_PRH_Task_Order.pdf</a> (433.05 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.3 - Commodity Security and Logistics RFTOP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=7a9d4c3e673f30ed0c234668802edab6' target='_blank' title='Download/View Section_J.4_Proposal_Preparation_Checklist.xls' class='file'&gt;Section_J.4_Proposal_Preparation_Checklist.xls&lt;/a&gt;"><a href='/utils/view?id=7a9d4c3e673f30ed0c234668802edab6' target='_blank' title='Download/View Section_J.4_Proposal_Preparation_Checklist.xls' class='file'>Section_J.4_Proposal_Preparation_Checklist.xls</a> (44.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.4 - Proposal Preparation Checklist</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=5ca5acd614780e6075f452d93ab0bb0f' target='_blank' title='Download/View Section_J.5_Disclosure_of_Lobbying_Activities.pdf' class='file'&gt;Section_J.5_Disclosure_of_Lobbying_Activities.pdf&lt;/a&gt;"><a href='/utils/view?id=5ca5acd614780e6075f452d93ab0bb0f' target='_blank' title='Download/View Section_J.5_Disclosure_of_Lobbying_Activities.pdf' class='file'>Section_J.5_Disclosure_of_Lobbying_Activities.pdf</a> (60.83 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.5 - Disclosure of Lobbying Activities </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=b1c76bdc0c170a19e4973a5b5653d542' target='_blank' title='Download/View Section_J.6_Small_Business_SubContracting_Plan_Template.doc' class='file'&gt;Section_J.6_Small_Business_SubContracting_Plan_Template.doc&lt;/a&gt;"><a href='/utils/view?id=b1c76bdc0c170a19e4973a5b5653d542' target='_blank' title='Download/View Section_J.6_Small_Business_SubContracting_Plan_Template.doc' class='file'>Section_J.6_Small_Business_SubContracting_Plan_Template.doc</a> (108.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.6 - Small Business Subcontracting Plan Template</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=38a772b0f585e82326ba0830fa9352dd' target='_blank' title='Download/View Section_J.7_Contractor_Performance_Report_-_Short_Form.pdf' class='file'&gt;Section_J.7_Contractor_Performance_Report_-_Short_Form.pdf&lt;/a&gt;"><a href='/utils/view?id=38a772b0f585e82326ba0830fa9352dd' target='_blank' title='Download/View Section_J.7_Contractor_Performance_Report_-_Short_Form.pdf' class='file'>Section_J.7_Contractor_Performance_Report_-_Short_Form.pdf</a> (11.28 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.7 - Contractor Performance Report - Short Form</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=3bc11603033142083a8891d0ed800848' target='_blank' title='Download/View Section_J.8_Illustrative_List_of_Commodities.xlsx' class='file'&gt;Section_J.8_Illustrative_List_of_Commodities.xlsx&lt;/a&gt;"><a href='/utils/view?id=3bc11603033142083a8891d0ed800848' target='_blank' title='Download/View Section_J.8_Illustrative_List_of_Commodities.xlsx' class='file'>Section_J.8_Illustrative_List_of_Commodities.xlsx</a> (44.78 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.8 - Illustrative List of Commodities</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=f8d89bcc5750f8ce17147282a5419643' target='_blank' title='Download/View Section_J.9_Historical_Procurement_Transaction.xlsx' class='file'&gt;Section_J.9_Historical_Procurement_Transaction.xlsx&lt;/a&gt;"><a href='/utils/view?id=f8d89bcc5750f8ce17147282a5419643' target='_blank' title='Download/View Section_J.9_Historical_Procurement_Transaction.xlsx' class='file'>Section_J.9_Historical_Procurement_Transaction.xlsx</a> (5,495.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.9 - Historical Procurement Transaction</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=23e14971082021050abcb2c130cc07af' target='_blank' title='Download/View Section_J.10__OGAC_ARV_FY_2012.xlsx' class='file'&gt;Section_J.10__OGAC_ARV_FY_2012.xlsx&lt;/a&gt;"><a href='/utils/view?id=23e14971082021050abcb2c130cc07af' target='_blank' title='Download/View Section_J.10__OGAC_ARV_FY_2012.xlsx' class='file'>Section_J.10__OGAC_ARV_FY_2012.xlsx</a> (67.78 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.10 - OGAC ARV FY 2012</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=dd931a8f3f99aaa8048fceca511e90b8' target='_blank' title='Download/View Section_J.11_Legacy_Country_Systems.xlsx' class='file'&gt;Section_J.11_Legacy_Country_Systems.xlsx&lt;/a&gt;"><a href='/utils/view?id=dd931a8f3f99aaa8048fceca511e90b8' target='_blank' title='Download/View Section_J.11_Legacy_Country_Systems.xlsx' class='file'>Section_J.11_Legacy_Country_Systems.xlsx</a> (23.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.11 - Legacy Country Systems</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=7e8d832b63f22fec2f770cfefe7e4176' target='_blank' title='Download/View Section_J.12_List_of_Field_Offices.pdf' class='file'&gt;Section_J.12_List_of_Field_Offices.pdf&lt;/a&gt;"><a href='/utils/view?id=7e8d832b63f22fec2f770cfefe7e4176' target='_blank' title='Download/View Section_J.12_List_of_Field_Offices.pdf' class='file'>Section_J.12_List_of_Field_Offices.pdf</a> (64.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.12 List of Field Offices</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=afb3aac4836ad893dfaf4690f7c34e7d' target='_blank' title='Download/View Section_J.13_Initial_Environmental_Examination.pdf' class='file'&gt;Section_J.13_Initial_Environmental_Examination.pdf&lt;/a&gt;"><a href='/utils/view?id=afb3aac4836ad893dfaf4690f7c34e7d' target='_blank' title='Download/View Section_J.13_Initial_Environmental_Examination.pdf' class='file'>Section_J.13_Initial_Environmental_Examination.pdf</a> (15,764.26 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.13 - Initial Environmental Examination</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=b5169dcb7f92beeeee1c9ad5cdc549ca' target='_blank' title='Download/View Section_J.14_Transcript_of_Industry_Day_Remarks.pdf' class='file'&gt;Section_J.14_Transcript_of_Industry_Day_Remarks.pdf&lt;/a&gt;"><a href='/utils/view?id=b5169dcb7f92beeeee1c9ad5cdc549ca' target='_blank' title='Download/View Section_J.14_Transcript_of_Industry_Day_Remarks.pdf' class='file'>Section_J.14_Transcript_of_Industry_Day_Remarks.pdf</a> (95.56 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.14 - Transcript of Industry Day Remarks</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][15][file][0][preview]" value="&lt;a href='/utils/view?id=38ee98719e8cc28d746c492155a54941' target='_blank' title='Download/View Section_J.15_Vendor_List.xlsx' class='file'&gt;Section_J.15_Vendor_List.xlsx&lt;/a&gt;"><a href='/utils/view?id=38ee98719e8cc28d746c492155a54941' target='_blank' title='Download/View Section_J.15_Vendor_List.xlsx' class='file'>Section_J.15_Vendor_List.xlsx</a> (15.89 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.15 - Vendor List</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][16][file][0][preview]" value="&lt;a href='/utils/view?id=3dbdcd5fc14e23dfb799fcd78cfceb73' target='_blank' title='Download/View Section_J.16_SCMS_Annual_Report_of_Government_Property.XLS' class='file'&gt;Section_J.16_SCMS_Annual_Report_of_Government_Property.XLS&lt;/a&gt;"><a href='/utils/view?id=3dbdcd5fc14e23dfb799fcd78cfceb73' target='_blank' title='Download/View Section_J.16_SCMS_Annual_Report_of_Government_Property.XLS' class='file'>Section_J.16_SCMS_Annual_Report_of_Government_Property.XLS</a> (643.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.16 - SCMS Annual Report of Government Property</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][17][file][0][preview]" value="&lt;a href='/utils/view?id=902832c5df908124c707d1320352789a' target='_blank' title='Download/View Section_J.17_Illustrative_HQ_Budget_Expenditures_Template.xlsx' class='file'&gt;Section_J.17_Illustrative_HQ_Budget_Expenditures_Template.xlsx&lt;/a&gt;"><a href='/utils/view?id=902832c5df908124c707d1320352789a' target='_blank' title='Download/View Section_J.17_Illustrative_HQ_Budget_Expenditures_Template.xlsx' class='file'>Section_J.17_Illustrative_HQ_Budget_Expenditures_Template.xlsx</a> (12.89 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.17 - Illustrative HQ Budget Expenditures Template</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][18][file][0][preview]" value="&lt;a href='/utils/view?id=879b865a0d53195542459688129c5aee' target='_blank' title='Download/View Section_J.18_Condom_Fact_Sheet.pdf' class='file'&gt;Section_J.18_Condom_Fact_Sheet.pdf&lt;/a&gt;"><a href='/utils/view?id=879b865a0d53195542459688129c5aee' target='_blank' title='Download/View Section_J.18_Condom_Fact_Sheet.pdf' class='file'>Section_J.18_Condom_Fact_Sheet.pdf</a> (181.83 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment J.18 - Condom Fact Sheet</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 5</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=a71e0886c38c97afac834279e8d3e63c' target='_blank' title='Download/View Q&amp;A_-_SOL-OAA-12-000128_RFP_Amendment.pdf' class='file'&gt;Q&amp;A_-_SOL-OAA-12-000128_RFP_Amendment.pdf&lt;/a&gt;"><a href='/utils/view?id=a71e0886c38c97afac834279e8d3e63c' target='_blank' title='Download/View Q&A_-_SOL-OAA-12-000128_RFP_Amendment.pdf' class='file'>Q&A_-_SOL-OAA-12-000128_RFP_Amendment.pdf</a> (159.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Answers(Q&amp;A) document </div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=9b80c885d753294b7400c0e0455adcf0' target='_blank' title='Download/View SOL-OAA-12-000128_AMENDED_Feb_7_2014.pdf' class='file'&gt;SOL-OAA-12-000128_AMENDED_Feb_7_2014.pdf&lt;/a&gt;"><a href='/utils/view?id=9b80c885d753294b7400c0e0455adcf0' target='_blank' title='Download/View SOL-OAA-12-000128_AMENDED_Feb_7_2014.pdf' class='file'>SOL-OAA-12-000128_AMENDED_Feb_7_2014.pdf</a> (1,001.39 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amended RFP</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=f5ddb065ca34c7a5fc86605601fe1c6c' target='_blank' title='Download/View Section_J.1_HIV_Task_Order_Amended.pdf' class='file'&gt;Section_J.1_HIV_Task_Order_Amended.pdf&lt;/a&gt;"><a href='/utils/view?id=f5ddb065ca34c7a5fc86605601fe1c6c' target='_blank' title='Download/View Section_J.1_HIV_Task_Order_Amended.pdf' class='file'>Section_J.1_HIV_Task_Order_Amended.pdf</a> (360.79 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> HIV/AIDS RFTOP Amended</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=431a2a6f3c634d8b17857767cf003f8b' target='_blank' title='Download/View Section_J.2_PMI_Task_Order_Amended.pdf' class='file'&gt;Section_J.2_PMI_Task_Order_Amended.pdf&lt;/a&gt;"><a href='/utils/view?id=431a2a6f3c634d8b17857767cf003f8b' target='_blank' title='Download/View Section_J.2_PMI_Task_Order_Amended.pdf' class='file'>Section_J.2_PMI_Task_Order_Amended.pdf</a> (399.59 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> PMI RFTOP Amended</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=43481875e4fcd87d82b9f39185bed902' target='_blank' title='Download/View Section_J.3_PRH_Task_Order_Amended.pdf' class='file'&gt;Section_J.3_PRH_Task_Order_Amended.pdf&lt;/a&gt;"><a href='/utils/view?id=43481875e4fcd87d82b9f39185bed902' target='_blank' title='Download/View Section_J.3_PRH_Task_Order_Amended.pdf' class='file'>Section_J.3_PRH_Task_Order_Amended.pdf</a> (444.53 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> PRH (formerly CSL or Family Planning) RFTOP Amended</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=9a2e50797ea9687bfeee88ab7b34a25c' target='_blank' title='Download/View Section_J.19_DELIVER_&amp;_SCMS_PROJECTS'_ANNUAL_REPORTS.pdf' class='file'&gt;Section_J.19_DELIVER_&amp;_SCMS_PROJECTS'_ANNUAL_REPORTS.pdf&lt;/a&gt;"><a href='/utils/view?id=9a2e50797ea9687bfeee88ab7b34a25c' target='_blank' title='Download/View Section_J.19_DELIVER_&_SCMS_PROJECTS'_ANNUAL_REPORTS.pdf' class='file'>Section_J.19_DELIVER_&_SCMS_PROJECTS'_ANNUAL_REPORTS.pdf</a> (16,464.25 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> New Attachment J.19</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=af6d2b41c64e54cf20208e0712213363' target='_blank' title='Download/View Section_J.20_SCMS_PERFORMANCE_MONITORING_PLANS.pdf' class='file'&gt;Section_J.20_SCMS_PERFORMANCE_MONITORING_PLANS.pdf&lt;/a&gt;"><a href='/utils/view?id=af6d2b41c64e54cf20208e0712213363' target='_blank' title='Download/View Section_J.20_SCMS_PERFORMANCE_MONITORING_PLANS.pdf' class='file'>Section_J.20_SCMS_PERFORMANCE_MONITORING_PLANS.pdf</a> (1,922.15 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> New Attachment J.20</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=6c1a181a3749c96a08ebd51ea9a0dc74' target='_blank' title='Download/View Section_J.21_USAID_BRANDING_AND_MARKING_PLAN_FOR_THE_USAID_GLOBAL_HEALTH_SUPPLY_CHAIN_PROGRAM.pdf' class='file'&gt;Section_J.21_USAID_BRANDING_AND_MARKING_PLAN_FOR_THE_USAID_GLOBAL_HEALTH_SUPPLY_CHAIN_PROGRAM.pdf&lt;/a&gt;"><a href='/utils/view?id=6c1a181a3749c96a08ebd51ea9a0dc74' target='_blank' title='Download/View Section_J.21_USAID_BRANDING_AND_MARKING_PLAN_FOR_THE_USAID_GLOBAL_HEALTH_SUPPLY_CHAIN_PROGRAM.pdf' class='file'>Section_J.21_USAID_BRANDING_AND_MARKING_PLAN_FOR_THE_USAID_GLOBAL_HEALTH_SUPPLY_CHAIN_PROGRAM.pdf</a> (545.11 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> New Attachment J.21</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		1300 Pennsylvania Avenue, NW<br />
+Room 7.10-006<br/>
+
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+	
+		20523
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Paul D. Burford,</div>
+	<div>Contracting Officer </div>	<div><a href="mailto:pburford@usaid.gov">pburford@usaid.gov</a></div>
+	<div>Phone: (202) 567-5303</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=c167a3215b0bb901b47b64f775e41d04'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=c167a3215b0bb901b47b64f775e41d04'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=60e8dd477788c2cd9487e9dab988de52">JOFOC for Task Order No. 3 under IQC No. GPO-I-00-05-00032 </a> <a target="_blank" href="/utils/dZip?base=c167a3215b0bb901b47b64f775e41d04&class=document_package&id=60e8dd477788c2cd9487e9dab988de52" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 22, 2013</div></dt><dd><a href="/utils/view?id=cfec618365a0b0d698170c70607af5d7" target="_blank" title="Download/View GPO-I-00-05-00032_SCMS_TO_3_Signed_JOFOC_Jul_12_12.pdf" class="file">GPO-I-00-05-00032_SCMS_TO_3_Signed_JOFOC_Jul_12_12.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ad820532264b60bb87878db30caa1354">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=c167a3215b0bb901b47b64f775e41d04&class=document_package&id=ad820532264b60bb87878db30caa1354" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Apr 12, 2013</div></dt><dd><a href="/utils/view?id=1b6bb0275539f18c0b2eb23e45e1c20d" target="_blank" title="Download/View IQC_Presolicitation_Notice_12_Apr_2013.pdf" class="file">IQC_Presolicitation_Notice_12_Apr_2013.pdf</a></dd><dd><a href="/utils/view?id=5ac353a7de57b93081c1d64b70b3c2f8" target="_blank" title="Download/View DRAFT_SOW_IQC_12_Apr_2013.pdf" class="file">DRAFT_SOW_IQC_12_Apr_2013.pdf</a></dd><dd><a href="/utils/view?id=923e4d49b08489b3a31a0a7a137ee1c9" target="_blank" title="Download/View DRAFT_SOW_TO_PMI_12_April_2013.docx.pdf" class="file">DRAFT_SOW_TO_PMI_12_April_2013.docx.pdf</a></dd><dd><a href="/utils/view?id=accda0efc8376f4f42b8c48c80020f9d" target="_blank" title="Download/View DRAFT_SOW_TO_HIV_AIDS_12_Apr_2013.pdf" class="file">DRAFT_SOW_TO_HIV_AIDS_12_Apr_2013.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=19c8b461514cca479b67a92b6562345a">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=c167a3215b0bb901b47b64f775e41d04&class=document_package&id=19c8b461514cca479b67a92b6562345a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 16, 2013</div></dt><dd><a href="/utils/view?id=ad1bbec212424b3fef5a765bce938e8c" target="_blank" title="Download/View GHSC_Presolicitation_Amendment_3.pdf" class="file">GHSC_Presolicitation_Amendment_3.pdf</a></dd><dd><a href="/utils/view?id=0db9a6fd835d6620099627f667c65b58" target="_blank" title="Download/View DRAFT_SOW_IQC_Aug_15_2013.pdf" class="file">DRAFT_SOW_IQC_Aug_15_2013.pdf</a></dd><dd><a href="/utils/view?id=a0e368f9864cd5d2dc2885c83928686c" target="_blank" title="Download/View DRAFT_SOW_TO_HIV_AIDS_Aug_15_2013.pdf" class="file">DRAFT_SOW_TO_HIV_AIDS_Aug_15_2013.pdf</a></dd><dd><a href="/utils/view?id=07f112ed222b7a658a29b2ad54722068" target="_blank" title="Download/View DRAFT_SOW_TO_PMI_Aug_15_2013.pdf" class="file">DRAFT_SOW_TO_PMI_Aug_15_2013.pdf</a></dd><dd><a href="/utils/view?id=5bb03330629d4462ed84bee3f2d355fa" target="_blank" title="Download/View DRAFT_SOW_CSL_TO_Aug_15_2013.pdf" class="file">DRAFT_SOW_CSL_TO_Aug_15_2013.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=9abb3e6f5ad9e551c2a81a0697239d83">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=c167a3215b0bb901b47b64f775e41d04&class=document_package&id=9abb3e6f5ad9e551c2a81a0697239d83" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Oct 03, 2013</div></dt><dd><a href="/utils/view?id=5f4c2e89e12595e5cd710f3e08404efb" target="_blank" title="Download/View 2013.10.01_Industry_Day_Invite.pdf" class="file">2013.10.01_Industry_Day_Invite.pdf</a></dd><dd><a href="/utils/view?id=742d45fda0ed0033f704fefe53a18711" target="_blank" title="Download/View 2013.10.01_Response_to_Questions.pdf" class="file">2013.10.01_Response_to_Questions.pdf</a></dd><dd><a href="/utils/view?id=4f08cedfa1b0976755b9ac8e6a167dc0" target="_blank" title="Download/View 2013.10.01_Global_Health_Supply_Chain_Current_Program_Data.pdf" class="file">2013.10.01_Global_Health_Supply_Chain_Current_Program_Data.pdf</a></dd><dd><a href="/utils/view?id=4966784bb26053f893ec9751aeccab62" target="_blank" title="Download/View 2013.10.01_Global_Health_Supply_Chain_Current_Program_Data_for_SCMS_and_DELIVER.xlsx" class="file">2013.10.01_Global_Health_Supply_Chain_Current_Program_Data_for_SCMS_and_DELIVER.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6e508d398f76adfd37cc2d0158f01917">Amendment 4</a> <a target="_blank" href="/utils/dZip?base=c167a3215b0bb901b47b64f775e41d04&class=document_package&id=6e508d398f76adfd37cc2d0158f01917" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 15, 2013</div></dt><dd><a href="/utils/view?id=aaf0ccdbb7b5bd236137369a80ffd650" target="_blank" title="Download/View Industry_Day_Agenda.pdf" class="file">Industry_Day_Agenda.pdf</a></dd><dd><a href="/utils/view?id=0a8b9dc35c6bf4ce5f8fff954ffd112a" target="_blank" title="Download/View Organizations_Attending_GH_Supply_Chain_Industry_Day.pdf" class="file">Organizations_Attending_GH_Supply_Chain_Industry_Day.pdf</a></dd><dd><a href="/utils/view?id=334a3ddd106217af8858a57312a6c9e1" target="_blank" title="Download/View Slides_on_Conflicts_of_Interest_-_GH_Supply_Chain_Industry_Day.pdf" class="file">Slides_on_Conflicts_of_Interest_-_GH_Supply_Chain_Industry_Day.pdf</a></dd><dd><a href="/utils/view?id=47f4e8d36433a884c5ecb38ce1d9afba" target="_blank" title="Download/View Slides_on_Structure_of_Program_-_GH_Supply_Chain_Industry_Day.pdf" class="file">Slides_on_Structure_of_Program_-_GH_Supply_Chain_Industry_Day.pdf</a></dd><dd><a href="/utils/view?id=a28f97743d97b946c758cb6180f77f06" target="_blank" title="Download/View Transcript_of_Industry_Day_Remarks.pdf" class="file">Transcript_of_Industry_Day_Remarks.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6ff87ba014e143e0bbefeaa90b8642ec">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=c167a3215b0bb901b47b64f775e41d04&class=document_package&id=6ff87ba014e143e0bbefeaa90b8642ec" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 06, 2014</div></dt><dd><a href="/utils/view?id=b28fd3803eef181274468eeb3ebe2ba2" target="_blank" title="Download/View RFP_SOL-OAA-12-000128.pdf" class="file">RFP_SOL-OAA-12-000128.pdf</a></dd><dd><a href="/utils/view?id=e3bf687a269f14e31b3668b1dbfdcc61" target="_blank" title="Download/View Section_J.1_HIV_Task_Order.pdf" class="file">Section_J.1_HIV_Task_Order.pdf</a></dd><dd><a href="/utils/view?id=8959064b36db685c2242af5dc903001f" target="_blank" title="Download/View Section_J.2_PMI_Task_Order.pdf" class="file">Section_J.2_PMI_Task_Order.pdf</a></dd><dd><a href="/utils/view?id=3ad6519303b2147f6152e508c30a5589" target="_blank" title="Download/View Section_J.3_PRH_Task_Order.pdf" class="file">Section_J.3_PRH_Task_Order.pdf</a></dd><dd><a href="/utils/view?id=7a9d4c3e673f30ed0c234668802edab6" target="_blank" title="Download/View Section_J.4_Proposal_Preparation_Checklist.xls" class="file">Section_J.4_Proposal_Preparation_Checklist.xls</a></dd><dd><a href="/utils/view?id=5ca5acd614780e6075f452d93ab0bb0f" target="_blank" title="Download/View Section_J.5_Disclosure_of_Lobbying_Activities.pdf" class="file">Section_J.5_Disclosure_of_Lobbying_Activities.pdf</a></dd><dd><a href="/utils/view?id=b1c76bdc0c170a19e4973a5b5653d542" target="_blank" title="Download/View Section_J.6_Small_Business_SubContracting_Plan_Template.doc" class="file">Section_J.6_Small_Business_SubContracting_Plan_Template.doc</a></dd><dd><a href="/utils/view?id=38a772b0f585e82326ba0830fa9352dd" target="_blank" title="Download/View Section_J.7_Contractor_Performance_Report_-_Short_Form.pdf" class="file">Section_J.7_Contractor_Performance_Report_-_Short_Form.pdf</a></dd><dd><a href="/utils/view?id=3bc11603033142083a8891d0ed800848" target="_blank" title="Download/View Section_J.8_Illustrative_List_of_Commodities.xlsx" class="file">Section_J.8_Illustrative_List_of_Commodities.xlsx</a></dd><dd><a href="/utils/view?id=f8d89bcc5750f8ce17147282a5419643" target="_blank" title="Download/View Section_J.9_Historical_Procurement_Transaction.xlsx" class="file">Section_J.9_Historical_Procurement_Transaction.xlsx</a></dd><dd><a href="/utils/view?id=23e14971082021050abcb2c130cc07af" target="_blank" title="Download/View Section_J.10__OGAC_ARV_FY_2012.xlsx" class="file">Section_J.10__OGAC_ARV_FY_2012.xlsx</a></dd><dd><a href="/utils/view?id=dd931a8f3f99aaa8048fceca511e90b8" target="_blank" title="Download/View Section_J.11_Legacy_Country_Systems.xlsx" class="file">Section_J.11_Legacy_Country_Systems.xlsx</a></dd><dd><a href="/utils/view?id=7e8d832b63f22fec2f770cfefe7e4176" target="_blank" title="Download/View Section_J.12_List_of_Field_Offices.pdf" class="file">Section_J.12_List_of_Field_Offices.pdf</a></dd><dd><a href="/utils/view?id=afb3aac4836ad893dfaf4690f7c34e7d" target="_blank" title="Download/View Section_J.13_Initial_Environmental_Examination.pdf" class="file">Section_J.13_Initial_Environmental_Examination.pdf</a></dd><dd><a href="/utils/view?id=b5169dcb7f92beeeee1c9ad5cdc549ca" target="_blank" title="Download/View Section_J.14_Transcript_of_Industry_Day_Remarks.pdf" class="file">Section_J.14_Transcript_of_Industry_Day_Remarks.pdf</a></dd><dd><a href="/utils/view?id=38ee98719e8cc28d746c492155a54941" target="_blank" title="Download/View Section_J.15_Vendor_List.xlsx" class="file">Section_J.15_Vendor_List.xlsx</a></dd><dd><a href="/utils/view?id=3dbdcd5fc14e23dfb799fcd78cfceb73" target="_blank" title="Download/View Section_J.16_SCMS_Annual_Report_of_Government_Property.XLS" class="file">Section_J.16_SCMS_Annual_Report_of_Government_Property.XLS</a></dd><dd><a href="/utils/view?id=902832c5df908124c707d1320352789a" target="_blank" title="Download/View Section_J.17_Illustrative_HQ_Budget_Expenditures_Template.xlsx" class="file">Section_J.17_Illustrative_HQ_Budget_Expenditures_Template.xlsx</a></dd><dd><a href="/utils/view?id=879b865a0d53195542459688129c5aee" target="_blank" title="Download/View Section_J.18_Condom_Fact_Sheet.pdf" class="file">Section_J.18_Condom_Fact_Sheet.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c6a0cfd0a3e8fb83d6e9253e6eca9d8d">Amendment 5</a> <a target="_blank" href="/utils/dZip?base=c167a3215b0bb901b47b64f775e41d04&class=document_package&id=c6a0cfd0a3e8fb83d6e9253e6eca9d8d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 07, 2014</div></dt><dd><a href="/utils/view?id=a71e0886c38c97afac834279e8d3e63c" target="_blank" title="Download/View Q&amp;A_-_SOL-OAA-12-000128_RFP_Amendment.pdf" class="file">Q&A_-_SOL-OAA-12-000128_RFP_Amendment.pdf</a></dd><dd><a href="/utils/view?id=9b80c885d753294b7400c0e0455adcf0" target="_blank" title="Download/View SOL-OAA-12-000128_AMENDED_Feb_7_2014.pdf" class="file">SOL-OAA-12-000128_AMENDED_Feb_7_2014.pdf</a></dd><dd><a href="/utils/view?id=f5ddb065ca34c7a5fc86605601fe1c6c" target="_blank" title="Download/View Section_J.1_HIV_Task_Order_Amended.pdf" class="file">Section_J.1_HIV_Task_Order_Amended.pdf</a></dd><dd><a href="/utils/view?id=431a2a6f3c634d8b17857767cf003f8b" target="_blank" title="Download/View Section_J.2_PMI_Task_Order_Amended.pdf" class="file">Section_J.2_PMI_Task_Order_Amended.pdf</a></dd><dd><a href="/utils/view?id=43481875e4fcd87d82b9f39185bed902" target="_blank" title="Download/View Section_J.3_PRH_Task_Order_Amended.pdf" class="file">Section_J.3_PRH_Task_Order_Amended.pdf</a></dd><dd><a href="/utils/view?id=9a2e50797ea9687bfeee88ab7b34a25c" target="_blank" title="Download/View Section_J.19_DELIVER_&amp;_SCMS_PROJECTS'_ANNUAL_REPORTS.pdf" class="file">Section_J.19_DELIVER_&_SCMS_PROJECTS'_ANNUAL_REPORTS.pdf</a></dd><dd><a href="/utils/view?id=af6d2b41c64e54cf20208e0712213363" target="_blank" title="Download/View Section_J.20_SCMS_PERFORMANCE_MONITORING_PLANS.pdf" class="file">Section_J.20_SCMS_PERFORMANCE_MONITORING_PLANS.pdf</a></dd><dd><a href="/utils/view?id=6c1a181a3749c96a08ebd51ea9a0dc74" target="_blank" title="Download/View Section_J.21_USAID_BRANDING_AND_MARKING_PLAN_FOR_THE_USAID_GLOBAL_HEALTH_SUPPLY_CHAIN_PROGRAM.pdf" class="file">Section_J.21_USAID_BRANDING_AND_MARKING_PLAN_FOR_THE_USAID_GLOBAL_HEALTH_SUPPLY_CHAIN_PROGRAM.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	August 21, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Mar 05, 2014 11:00 am&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Mar 05, 2014 11:00 am
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541611 -- Administrative Management and General Management Consulting Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

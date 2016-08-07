@@ -1,0 +1,1056 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Splunk Enterprise Softwasre - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392488420');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392488420';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Education and Training Command logo"></div><div class="agency-header"><h2>Splunk Enterprise Softwasre</h2><div class="sol-num">Solicitation Number: F2MU1D3343A003</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Education and Training Command<br>Location: 502d Contracting Squadron</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=8ed033fc3fef58d1ace5d11d5be150e1&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AETC/LackAFBCS/F2MU1D3343A003/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AETC/LackAFBCS/F2MU1D3343A003/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AETC/LackAFBCS/F2MU1D3343A003/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=8ed033fc3fef58d1ace5d11d5be150e1&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8ed033fc3fef58d1ace5d11d5be150e1&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=8ed033fc3fef58d1ace5d11d5be150e1&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=2e45a5a1350de35271feeeb2464c224c&_cview=0">Original Synopsis</a><div class="nh-date"><em>Combined Synopsis/Solicitation</em></div><div class="nh-date">Feb 10, 2014</div><div class="nh-date">4:20 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=02856c846a2b2223c6f18396d9b5484a&_cview=0">Changed</a><div class="nh-date">Feb 10, 2014</div><div class="nh-date">4:23 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=1d086fb2e92d82716544d561a4c0c9f8&_cview=0">Changed</a><div class="nh-date">Feb 12, 2014</div><div class="nh-date">12:04 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=8ed033fc3fef58d1ace5d11d5be150e1&_cview=0">Changed</a><div class="nh-date">Feb 14, 2014</div><div class="nh-date">11:55 am</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=2e45a5a1350de35271feeeb2464c224c'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=2e45a5a1350de35271feeeb2464c224c'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	F2MU1D3343A003
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-10 16:20:19">Feb 10, 2014 4:20 pm</span>
+					</div>
+		<p>&nbsp;</p><br />
+<p style="TEXT-ALIGN: left" align="left"><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-fareast-font-family: Calibri">This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice.<span style="mso-spacerun: yes">&nbsp; </span>This announcement constitutes the only solicitation; proposals are being requested and a separate Request for Proposal (RFP) will not be issued.<span style="mso-spacerun: yes">&nbsp; </span>The solicitation number is # F2MU1D3343A003 and is issued as a Request for Quotation (RFQ).<span style="mso-spacerun: yes">&nbsp; </span>This combined synopsis/solicitation incorporates provisions and clauses are those in effect through Federal Acquisition Circular 2005-66 and DFARS change notice 20130522. <span style="mso-spacerun: yes">&nbsp;&nbsp;</span>This purchase is restricted to Small Business concerns.<span style="mso-spacerun: yes">&nbsp; </span>This NAICS code is 334614and the size standard is 750 employees.<span style="mso-spacerun: yes">&nbsp; </span>This is a requirement for Splunk Enterprise Software as indicate below.</span></p><br />
+<p style="TEXT-ALIGN: left" align="left"><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 12pt">Splunk Enterprise Software</span></p><br />
+<p><span style="FONT-SIZE: 12pt">BRAND NAME Only<br /></span><span style="FONT-SIZE: 11pt; FONT-WEIGHT: normal">(The quote shall be effective 30 days after submission)</span></p><br />
+<p><span style="FONT-SIZE: 11pt; FONT-WEIGHT: normal">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 0in; mso-add-space: auto"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">Please respond to this RFQ by emailing response to: SSG Alfredo Avila at E-mail: alfredo.avila@us.af.mil no later than 2:00pm EST, 13 February 2014 - Thursday (or sooner if possible) in order to be considered timely. Any quote, modification, revision, or withdrawal of a quote received after the exact time specified above shall be determined as late and will not be considered unless received before award is made, the Contracting Officer determines that accepting the late quote would not unduly delay the acquisition, and it was the only quote received. Please contact SSG Alfredo Avila with additional questions at the above noted email address or call (210)671-1761.</span></p><br />
+<p style="TEXT-ALIGN: left" align="left"><span style="FONT-SIZE: 12pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold">&nbsp;</span></p><br />
+<p><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold"><span style="mso-spacerun: yes">&nbsp;</span>(Please provide a quote for the line items listed below. Failure to quote on all CLINs will render the quote unacceptable and ineligible for award consideration in the absence of discussions.)</span></p><br />
+<p><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold">&nbsp;</span></p><br />
+<p><br />
+<table style="width: 478pt; border-collapse: collapse; margin-left: 4.65pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" border="0" cellspacing="0" cellpadding="0" width="637"><br />
+<tbody><br />
+<tr style="height: 25.5pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 37.5pt; padding-right: 5.4pt; background: black; height: 25.5pt; padding-top: 0in; mso-border-alt: solid windowtext .5pt; border: windowtext 1pt solid;" width="50" valign="top"><br />
+<p style="TEXT-ALIGN: center" align="center"><strong><span style="COLOR: white; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">ITEM</span></strong><strong></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 202.8pt; padding-right: 5.4pt; background: black; height: 25.5pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="270" valign="top"><br />
+<p style="TEXT-ALIGN: center" align="center"><strong><span style="COLOR: white; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">DESCRIPTION</span></strong><strong></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 33.9pt; padding-right: 5.4pt; background: black; height: 25.5pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="45" valign="top"><br />
+<p style="TEXT-ALIGN: center" align="center"><strong><span style="COLOR: white; FONT-SIZE: 10pt">QTY</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 36.05pt; padding-right: 5.4pt; background: black; height: 25.5pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="48" valign="top"><br />
+<p style="TEXT-ALIGN: center" align="center"><strong><span style="COLOR: white; FONT-SIZE: 10pt">Unit </span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 84.1pt; padding-right: 5.4pt; background: black; height: 25.5pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="112" valign="top"><br />
+<p style="TEXT-ALIGN: center" align="center"><strong><span style="COLOR: white; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Unit Price</span></strong><strong></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 83.65pt; padding-right: 5.4pt; background: black; height: 25.5pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="112" valign="top"><br />
+<p style="TEXT-ALIGN: center" align="center"><strong><span style="COLOR: white; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Extended Amount</span></strong><strong></strong></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 63.75pt; mso-yfti-irow: 1;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 37.5pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="50"><br />
+<p><span style="COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">0001-AA</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 202.8pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="270"><br />
+<p><span style="COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">MFG:</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt"> Splunk Enterprise Annual, 1 year 50GB/day</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 33.9pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="45"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt">2</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 36.05pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="48"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt">EA</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 84.1pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="112">&nbsp;</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 83.65pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="112">&nbsp;</td><br />
+</tr><br />
+<tr style="height: 63.75pt; mso-yfti-irow: 2;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 37.5pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="50"><br />
+<p><span style="COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">0002-AA</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 202.8pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="270"><br />
+<p><span style="COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">MFG:<span style="mso-spacerun: yes">&nbsp; </span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Splunk Enterprise Support, 1 Year</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 33.9pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="45"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt">1</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 36.05pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="48"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 10pt">EA</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 84.1pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="112">&nbsp;</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 83.65pt; padding-right: 5.4pt; height: 63.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="112">&nbsp;</td><br />
+</tr><br />
+<tr style="height: 30pt; mso-yfti-irow: 3; mso-yfti-lastrow: yes;"><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 37.5pt; padding-right: 5.4pt; height: 30pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="50" valign="bottom"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 11pt">&nbsp;</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 202.8pt; padding-right: 5.4pt; height: 30pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" width="270" valign="bottom"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 11pt">&nbsp;</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 33.9pt; padding-right: 5.4pt; height: 30pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" width="45" valign="bottom"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 11pt">&nbsp;</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 36.05pt; padding-right: 5.4pt; height: 30pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" width="48" valign="bottom"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 11pt">&nbsp;</span></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0in; padding-left: 5.4pt; width: 84.1pt; padding-right: 5.4pt; height: 30pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt;" width="112"><br />
+<p style="TEXT-ALIGN: center" align="center"><strong><span style="COLOR: black; FONT-SIZE: 10pt">TOTAL COST</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 83.65pt; padding-right: 5.4pt; height: 30pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt;" width="112"><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; COLOR: black; FONT-SIZE: 11pt">$___________</span></p><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+</p><br />
+<p><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold">&nbsp;</span></p><br />
+<p><strong><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span></strong></p><br />
+<p><strong><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span></strong></p><br />
+<p><strong><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span></strong></p><br />
+<p><strong><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt">Please provide the information below:</span></span></strong></p><br />
+<p><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-weight: bold">&nbsp;</span></p><br />
+<p><br />
+<table style="width: 489.9pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-border-insideh: none; mso-border-insidev: none;" border="0" cellspacing="0" cellpadding="0" width="653"><br />
+<tbody><br />
+<tr style="height: 48.8pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 54.8pt; padding-right: 5.4pt; height: 48.8pt; padding-top: 0in;" width="73"><br />
+<h2 style="TEXT-ALIGN: right; mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">FOB (Select)</span></h2><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 84.1pt; padding-right: 5.4pt; height: 48.8pt; padding-top: 0in;" width="112"><br />
+<h2 style="mso-outline-level: 2"><span style="mso-bookmark: Check1"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt"><a name="Check1"></a></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt"><span style="mso-spacerun: yes">&nbsp;</span></span><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-size: 11.0pt; mso-bidi-font-weight: bold">Destination<br style="mso-special-character: line-break" /><br style="mso-special-character: line-break" /></span></h2><br />
+<h2 style="mso-outline-level: 2"><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-size: 11.0pt; mso-bidi-font-weight: bold"><span style="mso-spacerun: yes">&nbsp;</span>Origin</span></h2><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 96.2pt; padding-right: 5.4pt; height: 48.8pt; padding-top: 0in;" width="128"><br />
+<h2 style="TEXT-ALIGN: right; mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Shipping Cost Included?</span></h2><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 60.6pt; padding-right: 5.4pt; height: 48.8pt; padding-top: 0in;" width="81"><br />
+<h2 style="mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt"><span style="mso-spacerun: yes">&nbsp;</span><span style="mso-spacerun: yes">&nbsp;</span></span><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-size: 11.0pt; mso-bidi-font-weight: bold">Yes<br style="mso-special-character: line-break" /><br style="mso-special-character: line-break" /></span></h2><br />
+<h2 style="mso-outline-level: 2"><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-size: 11.0pt; mso-bidi-font-weight: bold"><span style="mso-spacerun: yes">&nbsp;</span><span style="mso-spacerun: yes">&nbsp;</span>No</span></h2><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; height: 48.8pt; padding-top: 0in;" width="108" valign="top"><br />
+<h2 style="TEXT-ALIGN: right; mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt"><br />Pricing Quoted:</span></h2><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 113.2pt; padding-right: 5.4pt; height: 48.8pt; padding-top: 0in;" width="151" valign="top"><br />
+<h2 style="mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt"><span style="mso-spacerun: yes">&nbsp;</span><span style="mso-spacerun: yes">&nbsp;</span></span></h2><br />
+<h2 style="TEXT-INDENT: -17.1pt; MARGIN-LEFT: 17.1pt; mso-outline-level: 2"><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-size: 11.0pt; mso-bidi-font-weight: bold"><span style="mso-spacerun: yes">&nbsp;</span><span style="mso-spacerun: yes">&nbsp;</span>Includes Open Market prices ONLY.</span></h2><br />
+</td><br />
+</tr><br />
+<tr style="height: 21.7pt; mso-yfti-irow: 1; mso-yfti-lastrow: yes;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 138.9pt; padding-right: 5.4pt; height: 21.7pt; padding-top: 0in;" colspan="2" width="185" valign="bottom"><br />
+<h2 style="TEXT-ALIGN: right; mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Payment Terms</span></h2><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 96.2pt; padding-right: 5.4pt; height: 21.7pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" width="128" valign="bottom"><br />
+<h2 style="TEXT-ALIGN: right; mso-outline-level: 2"><span style="FONT-SIZE: 10pt; FONT-WEIGHT: normal; mso-bidi-font-size: 11.0pt; mso-bidi-font-weight: bold">&nbsp;</span></h2><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 141.6pt; padding-right: 5.4pt; height: 21.7pt; padding-top: 0in;" colspan="2" width="189" valign="bottom"><br />
+<h2 style="TEXT-ALIGN: right; mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Delivery Date</span></h2><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 113.2pt; padding-right: 5.4pt; height: 21.7pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" width="151" valign="top"><br />
+<h2 style="mso-outline-level: 2"><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">&nbsp;</span></h2><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+</p><br />
+<p><span style="FONT-SIZE: 5pt">&nbsp;</span></p><br />
+<p><strong><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span></strong></p><br />
+<p><br />
+<table style="width: 486.35pt; border-collapse: collapse; margin-left: -4.65pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-border-insideh: none; mso-border-insidev: none;" border="0" cellspacing="0" cellpadding="0" width="648"><br />
+<tbody><br />
+<tr style="height: 13.15pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 83.15pt; padding-right: 5.4pt; height: 13.15pt; padding-top: 0in;" width="111"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">Company Name:</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 5.6in; padding-right: 5.4pt; height: 13.15pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" colspan="3" width="538" valign="top"><br />
+<p><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">&nbsp;</span></strong></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 23.85pt; mso-yfti-irow: 1;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 83.15pt; padding-right: 5.4pt; height: 23.85pt; padding-top: 0in;" width="111"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">DUNS #</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 160pt; padding-right: 5.4pt; height: 23.85pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt;" width="213"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">&nbsp;</span></strong></p><br />
+</td><br />
+<td style="border-bottom: medium none; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 137.15pt; padding-right: 5.4pt; height: 23.85pt; border-top: windowtext 1pt solid; border-right: medium none; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt;" width="183" valign="bottom"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">Required Cage Code Number:</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 106.05pt; padding-right: 5.4pt; height: 23.85pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" width="141" valign="top"><br />
+<p><span style="FONT-SIZE: 10pt">&nbsp;</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 23.85pt; mso-yfti-irow: 2;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 83.15pt; padding-right: 5.4pt; height: 23.85pt; padding-top: 0in;" width="111"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">POC:</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 160pt; padding-right: 5.4pt; height: 23.85pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt;" width="213"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">&nbsp;</span></strong></p><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 137.15pt; padding-right: 5.4pt; height: 23.85pt; padding-top: 0in;" width="183" valign="bottom"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">Telephone #</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 106.05pt; padding-right: 5.4pt; height: 23.85pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-bottom-alt: solid windowtext .5pt;" width="141" valign="top"><br />
+<p><span style="FONT-SIZE: 10pt">&nbsp;</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 23.85pt; mso-yfti-irow: 3;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 83.15pt; padding-right: 5.4pt; height: 23.85pt; padding-top: 0in;" width="111"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">E-Mail Address:</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 160pt; padding-right: 5.4pt; height: 23.85pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt;" width="213"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">&nbsp;</span></strong></p><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 137.15pt; padding-right: 5.4pt; height: 23.85pt; padding-top: 0in;" width="183" valign="bottom"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt">Tax ID#:</span></strong></p><br />
+</td><br />
+<td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0in; padding-left: 5.4pt; width: 106.05pt; padding-right: 5.4pt; height: 23.85pt; border-top: medium none; border-right: medium none; padding-top: 0in; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt;" width="141" valign="top"><br />
+<p><span style="FONT-SIZE: 10pt">&nbsp;</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 19.05pt; mso-yfti-irow: 4;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 380.3pt; padding-right: 5.4pt; height: 19.05pt; padding-top: 0in;" colspan="3" width="507" valign="top"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt">&nbsp;</span></strong></p><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt">Warranty Informaiton:____________________________________________________</span></strong></p><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 106.05pt; padding-right: 5.4pt; height: 19.05pt; padding-top: 0in;" width="141" valign="top"><br />
+<p><span style="FONT-SIZE: 10pt">&nbsp;</span></p><br />
+</td><br />
+</tr><br />
+<tr style="height: 19.05pt; mso-yfti-irow: 5; mso-yfti-lastrow: yes;"><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 380.3pt; padding-right: 5.4pt; height: 19.05pt; padding-top: 0in;" colspan="3" width="507" valign="top"><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt">&nbsp;</span></strong></p><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt">&nbsp;</span></strong></p><br />
+<p style="TEXT-ALIGN: right" align="right"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt">Do you have capacity to invoice electronically (invoicing through WAWF)?_________</span></strong></p><br />
+</td><br />
+<td style="padding-bottom: 0in; padding-left: 5.4pt; width: 106.05pt; padding-right: 5.4pt; height: 19.05pt; padding-top: 0in;" width="141" valign="top"><br />
+<p><span style="FONT-SIZE: 10pt">&nbsp;</span></p><br />
+</td><br />
+</tr><br />
+</tbody><br />
+</table><br />
+</p><br />
+<p><strong><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span></strong></p><br />
+<p><strong style="mso-bidi-font-weight: normal"><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span></strong></p><br />
+<p><strong style="mso-bidi-font-weight: normal"><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span></strong></p><br />
+<p><strong style="mso-bidi-font-weight: normal"><span style="text-decoration: underline;"><span style="FONT-SIZE: 10pt">Special Notes and Instructions</span></span></strong><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt">: </span></strong></p><br />
+<p><span style="FONT-SIZE: 10pt">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1"><strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'"><span>&bull;1.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-bidi-font-style: italic">This is a notice that this order is a<strong style="mso-bidi-font-weight: normal"> total set-aside for</strong> small business concerns or specify a subset of small business concern. Only quotes submitted by small business concerns will be accepted by the Government.<span style="mso-spacerun: yes">&nbsp; </span>Any quote that is submitted by a contractor that is not small business will not be considered for award. </span></p><br />
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1"><strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'"><span>&bull;2.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">Basis for Award.</span></strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt"><span style="mso-spacerun: yes">&nbsp; </span>502d CONS/JBKAB will issue a purchase order to the vendor who is determined to offer the best value to the Government<span style="mso-bidi-font-weight: bold">.</span></span></p><br />
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1"><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'"><span>&bull;3.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-bidi-font-style: italic">Best Value Determination. </span></strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-bidi-font-style: italic">The technically acceptable, lowest priced </span><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">quote<span style="mso-bidi-font-style: italic"> will be determined to represent the best value.<span style="mso-spacerun: yes">&nbsp; </span>Technical acceptability will be determined by an evaluation of the quoted requirements that meet the technical criteria that is contained in the solicited item description.<span style="mso-spacerun: yes">&nbsp; </span>If the lowest priced submission does not meet the technical criteria described in the solicited item description, the government reserves the right to evaluate the next lowest priced submissions until it has determined a technically acceptable submission. The evaluation will stop at the point when the government determines an offeror to be technically acceptable with the lowest evaluated price, because that offer will represent the best value.<span style="mso-spacerun: yes">&nbsp; </span></span>Contingent upon a determination of contractor responsibility, award will be made to that offeror without further evaluation of other offers.<span style="mso-spacerun: yes">&nbsp; </span><span style="mso-bidi-font-style: italic">Award will be made to the responsible vendor whose quote is the lowest evaluated price among technically acceptable quotes.</span><strong style="mso-bidi-font-weight: normal"> </strong></span></p><br />
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1"><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'"><span>&bull;4.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">Discussions.</span></strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt"> The government intends to award a purchase order without discussions with respective<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>vendors/quoters.<span style="mso-spacerun: yes">&nbsp; </span>The government however, reserves the right to conduct discussions if deemed in its best<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>interest. </span></p><br />
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1"><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'"><span>&bull;5.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">Mandatory Registrations.</span></strong><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt"> To be eligible for award, registration with the System for Award Management (SAM) must be current (legacy for On-line Registration and Certifications Application (ORCA) and Central Contractor Registration (CCR) registrations).<span style="mso-spacerun: yes">&nbsp; </span>To register or update former CCR and Reps &amp; Certs that are not current go to </span><a href="https://www.sam.gov/portal/public/SAM/"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">https://www.sam.gov/portal/public/SAM/</span></a><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt"> and provide mandatory information.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span></span></p><br />
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 0in; MARGIN-LEFT: 0in; mso-add-space: auto; mso-list: l0 level1 lfo1; tab-stops: 9.0pt .25in"><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'"><span>&bull;6.<span style="FONT: 7pt 'Times New Roman'"> </span></span></span></strong><strong style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">The following FAR/DFARS provisions and clauses are applicable to this solicitation:</span></strong></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 0in; mso-add-space: auto; tab-stops: 9.0pt"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">(For full text references, go to </span><a href="http://www.arnet.gov"><em style="mso-bidi-font-style: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt; mso-bidi-font-weight: bold">www.arnet.gov</span></em></a><em style="mso-bidi-font-style: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt"> or </span></em><a href="http://farsite.hill.af.mil"><em style="mso-bidi-font-style: normal"><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">http://farsite.hill.af.mil</span></em></a><span style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman', 'serif'; FONT-SIZE: 10pt">.)<span style="BACKGROUND: yellow; mso-highlight: yellow"> </span><strong style="mso-bidi-font-weight: normal"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;</span></strong></span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Commodities:</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.204-7<span style="mso-spacerun: yes">&nbsp; </span>System for Award Management</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.204-13<span style="mso-spacerun: yes">&nbsp; </span>System for Award Management Maintenance</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.211-17<span style="mso-spacerun: yes">&nbsp; </span>Delivery of Excess Quantities</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.212-1 Instructions to Offerors-Commercial Items </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.212-4 Contract Terms and Conditions-Commercial Items, Addendum: Para (c) of this clause is tailored as follows: Changes in the terms and conditions of this contract may be made only by written agreement of the parties with the exception of administrative changes, such as changes in the paying office, appropriations data, etc., which may be change unilaterally by the Government. </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.212-5 Contract Terms and Conditions Required to Implement Statutes or Executive Orders-Commercial Items (Deviation) </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52-219-6<span style="mso-spacerun: yes">&nbsp; </span>Notice of Small Business Set-Aside</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.219-13<span style="mso-spacerun: yes">&nbsp; </span>Notice of Set-Aside of Orders</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.219-28<span style="mso-spacerun: yes">&nbsp; </span>Post-Award Small Business Program Rerepresentation</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.222-19 Child Labor </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.222-21 Prohibition of Segregated Facilities </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.222-26 Equal Opportunity </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.222-50 Trafficking in Persons </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.223-18 Contractor Policy to Ban Text Messaging While Driving </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.232-23 Assignment of Claims </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.232-36 Payment by Third Party </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.233-1 Disputes </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.233-3 Protest After Award </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.233-4 Applicable Law for Breach of Contract Claim </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 11.5pt">52.</span><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252-1 Solicitation Provisions Incorporated By Reference </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.252-2 Clauses Incorporated By Reference </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.252-6 Authorized Deviations in Clauses </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">52.253-1 Computer Generated Forms </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252.204-7004 Alt A<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Central Contractor Registration (52.204-7) Alternate A</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252.211-7003<span style="mso-spacerun: yes">&nbsp; </span>Item Identification and Valuation </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252.212-7001<span style="mso-spacerun: yes">&nbsp; </span>Contract Terms and Conditions Required to Implement Statutes or Executive Orders Applicable to Defense Acquisitions of Commercial Items (DEVIATION)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252.232-7003<span style="mso-spacerun: yes">&nbsp; </span>Electronic Submission of Payment Requests </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252.232-7006<span style="mso-spacerun: yes">&nbsp; </span>Wide Area Work Flow Payment Instructions</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252.232-7010 Levies on Contract Payments </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">5352.201-9101 OMBUDSMAN (APR 2010)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">ADDENDUM TO 52.212-4<span style="mso-spacerun: yes">&nbsp; </span>(LACKLAND 0007) (FEB 11)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Paragraph (c) of Clause 52.212-4 is tailored as follows:</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(c) Changes.<span style="mso-spacerun: yes">&nbsp; </span>Changes in the terms and conditions of this contract may be made only by written agreement of the parties with the exception of administrative changes, such as changes in the paying office, appropriations data, etc., which may be changed unilaterally by the Government.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(End of clause)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">REPRESENTATION BY CORPORATIONS REGARDING AN UNPAID DELINQUENT TAX LIABILITY OR A FELONY CONVICTION UNDER ANY FEDERAL LAW-FISCAL YEAR 2014 APPROPRIATIONS (DEVIATION 2014-00004) (OCTOBER 2013)</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(a) In accordance with section 101(a) of Division A of the Continuing Appropriations Act, 2014 (Pub. L. 113-46), none of the funds made available by that Act for DoD (including Military Construction funds) may be used to enter into a contract with any corporation that-</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(1) Has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability, where the awarding agency is aware of the unpaid tax liability, unless the agency has considered suspension or debarment of the corporation and made a determination that this further action is not necessary to protect the interests of the Government; or</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(2) Was convicted of a felony criminal violation under any Federal law within the preceding 24 months, where the awarding agency is aware of the conviction, unless the agency has considered suspension or debarment of the corporation and made a determination that this action is not necessary to protect the interests of the Government.</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(b) The Offeror represents that-</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(1) It is [<span style="mso-spacerun: yes">&nbsp; </span><span style="mso-spacerun: yes">&nbsp;</span>] is not [ <span style="mso-spacerun: yes">&nbsp;</span>] a corporation that has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability,</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(2) It is [<span style="mso-spacerun: yes">&nbsp; </span>] is not [ <span style="mso-spacerun: yes">&nbsp;</span>] a corporation that was convicted of a felony criminal violation under a Federal law within the preceding 24 months. </span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(End of provision)</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 27pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">252.209-7995 REPRESENTATION BY CORPORATIONS REGARDING AN UNPAID DELINQUENT TAX</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">LIABILITY OR A FELONY CONVICTION UNDER ANY FEDERAL LAW-FISCAL YEAR 2013</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">APPROPRIATIONS (DEVIATION 2013-O0010) (April 2013)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(a) In accordance with sections 8112 and 8113 of Division C and sections 514 and 515 of Division E of the Consolidated and Further Continuing Appropriations Act, 2013,(Pub. L. 113-6), none of the funds made available by that Act for DoD (including Military Construction funds) may be used to enter into a contract with any corporation that-</span></p><br />
+<p style="MARGIN-LEFT: 13.5pt"><span style="mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(1) Has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability, where the awarding agency is aware of the unpaid tax liability, unless the agency has considered suspension or debarment of the corporation and made a determination that this further action is not necessary to protect the interests of the Government; or</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(2) Was convicted of a felony criminal violation under any Federal law within the preceding 24 months, where the awarding agency is aware of the conviction, unless the agency has considered suspension or debarment of the corporation and made a determination that this action is not necessary to protect the interests of the Government.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(b) The Offeror represents that-</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(1) It is [ ] is not [ ] a corporation that has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability,</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(2) It is [ ] is not [ ] a corporation that was convicted of a felony criminal violation under a Federal law within the preceding 24 months.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(End of provision)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">FORMER AETC CLAUSES (LACKLAND 0009) (FEB 11)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Smoking in AETC Facilities</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Contractors are advised that the Commander has placed restrictions on the smoking of tobacco products in AETC facilities.<span style="mso-spacerun: yes">&nbsp; </span>AFI 40-102, Tobacco Use in the Air Force, and its AETC Supplement 1, outline the procedures used by the commander to control smoking in our facilities.<span style="mso-spacerun: yes">&nbsp; </span>Contractor employees and visitors are subject to the same restrictions as government personnel.<span style="mso-spacerun: yes">&nbsp; </span>Smoking is permitted only in designated smoking areas.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Lackland Air Force Base Traffic Code</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">All applicable Traffic Codes will be enforced and apply to all personnel operating vehicles on Lackland Air Force Base (LAFB).<span style="mso-spacerun: yes">&nbsp; </span>They are extracted from LAFB Instruction 31-204.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>For a complete listing of all LAFB Traffic Codes and all other applicable traffic policies and procedures, please contact the Contracting Office for a copy of LAFB Instruction 31-204.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Cell Phone Usage</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Contractors are advised that LAFB Instruction 31-204 prohibits cellular telephone usage when approaching and entering any installation entry gate, or exiting of Lackland AFB.<span style="mso-spacerun: yes">&nbsp; </span>Cell phone usage by drivers on LAFB is prohibited in moving vehicles unless used with a hands-free device.<span style="mso-spacerun: yes">&nbsp; </span>The 802nd Security Forces Squadron (SFS) is strictly enforcing this regulation.<span style="mso-spacerun: yes">&nbsp; </span>Those found in violation of this regulation are subject to be ticketed.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">Base Fire Prevention Program</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">The contractor will be required to comply with the applicable Fire Prevention Program, for LAFB the applicable directive is LAFB Instruction 32-2001, dated 20 Feb 04.<span style="mso-spacerun: yes">&nbsp; </span>Contact the Contracting Office for a copy of Lackland AFB Instruction 32-2001.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(End of clause)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">SECURITY REQUIREMENTS FOR UNCLASSIFIED SOLICITATIONS AND CONTRACTS (LACKLAND 0010) (FEB 11)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">1.<span style="mso-spacerun: yes">&nbsp; </span>Base Entry and Vehicle Control Requirements.<span style="mso-spacerun: yes">&nbsp; </span>Contractor shall comply with AFFARS Clause 5352.242-9000, "Contractor access to Air Force installations" which is hereby incorporated by reference if not otherwise included.<span style="mso-spacerun: yes">&nbsp; </span>Contractor personnel shall comply with all on-base traffic laws.<span style="mso-spacerun: yes">&nbsp; </span>Background investigations will be conducted by the government at no additional cost to the contractor on all contractor personnel prior to issuance of any base pass. </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri"><span style="mso-spacerun: yes">&nbsp;</span></span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">2.<span style="mso-spacerun: yes">&nbsp; </span>Government Computer Access Requirements.<span style="mso-spacerun: yes">&nbsp; </span>If this contract requires contractor personnel to have access to government computers, contractor personnel requiring access to government computers shall successfully complete, a National Agency Check with Inquiries (NACI) request, before obtaining access to the computer.<span style="mso-spacerun: yes">&nbsp; </span>These investigations shall be submitted by the government at no additional cost to the contractor.<span style="mso-spacerun: yes">&nbsp; </span>All contractor employees affected by this requirement must have completed an acceptable submission that complies with all directions for completion of the investigation request through the government security office within 30 calendar days of Contract Award or Notice of Award.<span style="mso-spacerun: yes">&nbsp; </span>To begin this process, all affected contractor employees must complete within 15 calendar days after Contract Award or Notice of Award Standard Form 85P worksheet that can be downloaded from </span><a href="http://www.opm.gov/forms/pdf_fill/SF85P.pdf"><span style="COLOR: windowtext; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: Calibri; text-underline: none">http://www.opm.gov/forms/pdf_fill/SF85P.pdf</span></a><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri"> .<span style="mso-spacerun: yes">&nbsp; </span>The contractor shall notify the Quality Assurance Evaluator or Government Inspector when the worksheet is complete.<span style="mso-spacerun: yes">&nbsp; </span>The affected employee will then be scheduled by the government for two or more appointments to complete the security package.<span style="mso-spacerun: yes">&nbsp; </span>If at any point after submission of the security worksheet, disqualifying information is discovered or developed, the government reserves the right to deny computer access.<span style="mso-spacerun: yes">&nbsp; </span>In this instance the Contracting Officer will notify the contractor of the denial. That individual will no longer be allowed to perform duties requiring computer access.<span style="mso-spacerun: yes">&nbsp; </span>After submission of the complete security package through the security office and completion of an adjudicated NACI, contractor employees may obtain their "Common Access Card" (CAC) for the duration of their contract, unless disqualifying information is subsequently discovered.<span style="mso-spacerun: yes">&nbsp; </span>In this instance access will be revoked.<span style="mso-spacerun: yes">&nbsp; </span>The NACI adjudication process normally takes 2 to 5 months after submission of the package. Contractor shall comply with AFFARS Clause 5352.242-9001 Common Access Cards (CACs) for Contractor Personnel which is hereby incorporated by reference if not otherwise included.<span style="mso-spacerun: yes">&nbsp; </span>The contractor shall comply with DODD 5200.08R Physical Security Program, (Chapter 3, Section C.3) requirements.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">3.<span style="mso-spacerun: yes">&nbsp; </span>Installation Access.<span style="mso-spacerun: yes">&nbsp; </span>Criminal History Check will be conducted on all prime/subcontractor employees requiring base access. The contractor shall provide the Contracting Officer and the Information Protection Office a current list of employees needing access within 3 working days after receiving award or Notice of Award.<span style="mso-spacerun: yes">&nbsp; </span>The list shall include employee's name, date of birth, state driver's license/state ID number and state of issue.<span style="mso-spacerun: yes">&nbsp; </span>Notifications of contractor employee additions and deletions shall be provided with the same information listed above and within 3 working days.<span style="mso-spacerun: yes">&nbsp; </span>Within 10 business days after receipt of the list the Government will notify the Contractor that installation access passes are available for those employees clearing the criminal history check.<span style="mso-spacerun: yes">&nbsp; </span>The duration of any pass issued will not exceed one year or the duration of the contract, whichever is shorter.<span style="mso-spacerun: yes">&nbsp; </span>This process will be repeated at the exercise of any option period.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">4.<span style="mso-spacerun: yes">&nbsp; </span>Government Data.<span style="mso-spacerun: yes">&nbsp; </span>The Contractor shall manage all data created for Government use or legally controlled by the Government, in support of the functional activity or required by AF publication, IAW with the records management procedures in Air Force Instruction (AFI) 33 - 322, Records Management Program,<span style="mso-spacerun: yes">&nbsp; </span>Air Force Manual (AFMAN) 33-363, Management of Records,<span style="mso-spacerun: yes">&nbsp; </span>and the Air Force Records Disposition Schedule (AF RDS) located at<span style="mso-spacerun: yes">&nbsp; </span></span><a href="https://www.my.af.mil/gcss-af61a/afrims/afrims/rims.cfm"><span style="COLOR: windowtext; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: Calibri; text-underline: none">https://www.my.af.mil/gcss-af61a/afrims/afrims/rims.cfm</span></a></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">5.<span style="mso-spacerun: yes">&nbsp; </span>Reporting Requirements.<span style="mso-spacerun: yes">&nbsp; </span>The contractor shall comply with AFI 71-101, Volume 1, Criminal Investigations and Volume-2, Protective Service Matters and AFI 31-401 (Chapter 8).<span style="mso-spacerun: yes">&nbsp; </span>Contractor shall report to Security Forces any information or circumstances which may pose a threat to DOD or contractor personnel, resources, or DOD information. </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">6.<span style="mso-spacerun: yes">&nbsp; </span>Freedom of Information.<span style="mso-spacerun: yes">&nbsp; </span>The contractor shall not respond to any Freedom of Information Act request or release any information in response to a Freedom of Information request.<span style="mso-spacerun: yes">&nbsp; </span>Any request for information received by the contractor under the Freedom of Information Act will be referred to the Contracting Officer.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">7.<span style="mso-spacerun: yes">&nbsp; </span>Physical Security.<span style="mso-spacerun: yes">&nbsp; </span>The contractor shall comply with Force Protection Condition (FPCON) procedures, Random Antiterrorism Measures (RAMS) and local search/identification requirements.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">The contractor shall safeguard all government property, including controlled forms, provided for contractor use.<span style="mso-spacerun: yes">&nbsp; </span>At the close of each work period, government training equipment, ground aerospace vehicles, facilities, support equipment, and other valuable materials shall be secured.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">8.<span style="mso-spacerun: yes">&nbsp; </span>Key Control.<span style="mso-spacerun: yes">&nbsp; </span>The contractor shall safeguard all keys issued by the government and ensure they are used only by authorized contractor personnel. The contractor shall not duplicate issued keys and shall report lost keys to the contracting officer immediately.<span style="mso-spacerun: yes">&nbsp; </span>The contractor will be charged for lost keys, re-keying, and lock replacement as applicable.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">9.<span style="mso-spacerun: yes">&nbsp; </span>Additional Security Requirements.<span style="mso-spacerun: yes">&nbsp; </span>NACI's will be IAW Homeland Security Presidential Directive 12 (HSPD-12).<span style="mso-spacerun: yes">&nbsp; </span>If this contract requires access to classified materials the contractor shall comply with DOD 5200.1-R,<span style="mso-spacerun: yes">&nbsp; </span>AFI 31-401, AFI 33-201, Volume 1, and Volume 2 (COMSEC) , AFSSI 7700 (Emission Security), AFSSI 8502, (Organizational Computer Security), and AFPD 16-14, (Information Protection), and Operations Security (OPSEC) Instructions.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">10.<span style="mso-spacerun: yes">&nbsp; </span>Unescorted Entry to Restricted/Controlled Areas.<span style="mso-spacerun: yes">&nbsp; </span>If this contract requires unescorted entry to controlled or restricted areas, the contractor shall comply with DOD 5200.2-R, Appendix 1, and AFI 31-501, Personnel Security Program Management (Paragraph 3.24).<span style="mso-spacerun: yes">&nbsp; </span>If the performance of this contract requires unescorted entry to a restricted/controlled area, personnel must have a favorably adjudicated NACI investigation.<span style="mso-spacerun: yes">&nbsp; </span>All contractor employees affected by this requirement must have completed an acceptable submission that complies with all directions for completion, of the investigation request through the government security office within 30 calendar days of Contract Award or Notice of Award.<span style="mso-spacerun: yes">&nbsp; </span>To begin this process, all affected contractor employees must complete within 15 calendar days after Contract Award or Notice of Award Standard Form 85P worksheet that can be downloaded from </span><a href="http://www.opm.gov/forms/pdf_fill/SF85P.pdf"><span style="COLOR: windowtext; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-fareast-font-family: Calibri; text-underline: none">http://www.opm.gov/forms/pdf_fill/SF85P.pdf</span></a><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri"> . The contractor shall notify the Quality Assurance Evaluator or Government Inspector when the worksheet is complete.<span style="mso-spacerun: yes">&nbsp; </span>The affected employee will then be scheduled by the government for two or more appointments to complete the security package.<span style="mso-spacerun: yes">&nbsp; </span>If at any point after submission of the security worksheet, disqualifying information is discovered or developed, the government reserves the right to deny entry to restricted/controlled areas.<span style="mso-spacerun: yes">&nbsp; </span>In this instance the Contracting Officer will notify the contractor of the denial. That individual will not be allowed to perform duties requiring access to restricted/controlled areas.<span style="mso-spacerun: yes">&nbsp; </span>Upon receipt of a favorable investigation results and authorization by the appropriate commander, the contractor member will receive appropriate entry credentials for access to restricted/controlled areas, unless disqualifying information is subsequently discovered. In this instance access will be revoked.<span style="mso-spacerun: yes">&nbsp; </span>The NACI adjudication process normally takes 2 to 5 months after submission of the package. </span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">11.<span style="mso-spacerun: yes">&nbsp; </span>Credentials Turn-In.<span style="mso-spacerun: yes">&nbsp; </span>Upon completion of performance, termination of the contract or termination of performance on this contract by any individual for any reason, the contractor shall turn in all CAC Cards, Base Identification Passes, Restricted Area Badges, and any other documents issued by the government to the Issuing office, Quality Assurance Evaluator, or Project Manager.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">12.<span style="mso-spacerun: yes">&nbsp; </span>Weapons, Firearms, and Ammunition.<span style="mso-spacerun: yes">&nbsp; </span>Contractor employees are prohibited from possessing weapons, firearms, or ammunition, on themselves or within their contractor-owned vehicle or privately-owned vehicle while on Lackland AFB.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">(End of Clause)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">CONTRACTOR PERSONNEL CONDUCT (LACKLAND 0013) (FEB 11)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">The contractor will ensure that its employees conduct themselves in a professional manner while on the installation and refrain from disruptive, offensive, or otherwise improper behavior that undermines order and discipline.<span style="mso-spacerun: yes">&nbsp; </span>The contracting officer may direct the contractor to remove from performance of this contract on this installation any contractor employee engaging in such misconduct.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">CONTRACT WORK HOURS (LACKLAND 0014) (MAY 2011)</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">1.<span style="mso-spacerun: yes">&nbsp; </span>The contractor shall provide service on the dates and at the times specified in the contract.<span style="mso-spacerun: yes">&nbsp; </span>Any deviation to these dates and times will be only as authorized by the Contracting Officer.<span style="mso-spacerun: yes">&nbsp; </span>Contract performance requirements are governed by the contract.<span style="mso-spacerun: yes">&nbsp; </span>Contractor personnel shall take their direction concerning their duty status and hours of performance from their contractor management chain and not from government personnel.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">2.<span style="mso-spacerun: yes">&nbsp; </span>The contractor is advised that special activities including but not limited to commander's calls, sports days, employee quality of life meetings, late reporting, staggered reporting times, early release, down-days (goal days), physical fitness time, office picnics, and holiday parties are for government personnel only and do not apply to the contractor employees unless<span style="mso-spacerun: yes">&nbsp; </span>expressly<span style="mso-spacerun: yes">&nbsp; </span>stated otherwise in the contract.<span style="mso-spacerun: yes">&nbsp; </span>If any special activity occurs, the contractor will continue to perform contract requirements unless expressly excused by the contracting officer.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>In the event that the contracting officer excuses performance, the contractor understands that its employees' participation in such event will not be at government expense.<span style="mso-spacerun: yes">&nbsp; </span>The contractor is further advised that any special time off granted by the president or other competent authority is for government personnel only and does not apply to the contractor employees.</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">&nbsp;</span></p><br />
+<p style="TEXT-ALIGN: justify; MARGIN-LEFT: 13.5pt"><span style="FONT-SIZE: 10pt; mso-fareast-font-family: Calibri">3.<span style="mso-spacerun: yes">&nbsp; </span>If the contractor is prevented from performing due to acts beyond the contractor's control including emergency base closure the standards in clause 52.212-4(f) and or 52.249-8/9/10 as appropriate will be applied to determine if the non-performance is excusable.<span style="mso-spacerun: yes">&nbsp; </span>In the event of an emergency base closure due to weather or other contingency situation the contracting officer will notify the contractor of any changes in performance requirements.<span style="mso-spacerun: yes">&nbsp; </span>The Contractor shall be responsible for instructing contractor personnel concerning their duty status.<span style="mso-spacerun: yes">&nbsp; </span>Under no circumstances will the contractor be paid for supplies or services not delivered.<span style="mso-spacerun: yes">&nbsp; </span></span></p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-02-12 12:04:16">Feb 12, 2014 12:04 pm</span>
+					</div>
+		<p>&nbsp;</p><br />
+<p><strong>Period of Performance (POP): 24 Feb 2014 - 23 Feb 2015</strong></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+	
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Package #1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field first field-first default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=a67dccb1aa2f611fb917c8a3267c9fd7' target='_blank' title='Download/View RFQ-_Splunk.docx' class='file'&gt;RFQ-_Splunk.docx&lt;/a&gt;"><a href='/utils/view?id=a67dccb1aa2f611fb917c8a3267c9fd7' target='_blank' title='Download/View RFQ-_Splunk.docx' class='file'>RFQ-_Splunk.docx</a> (35.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFQ</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+	
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Package #2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field first field-first default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=38f3a096f16e1a3b4b5a81f4c25e2ac3' target='_blank' title='Download/View BNJ_Splunk.pdf' class='file'&gt;BNJ_Splunk.pdf&lt;/a&gt;"><a href='/utils/view?id=38f3a096f16e1a3b4b5a81f4c25e2ac3' target='_blank' title='Download/View BNJ_Splunk.pdf' class='file'>BNJ_Splunk.pdf</a> (93.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Brand Name Justification</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		1655 Selfridge Avenue<br/>
+
+			
+				
+		JBSA Lackland,
+
+			
+	
+		Texas
+
+			
+	
+		78236-5253
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		90 IOS 404 Greig St <br/>
+
+			
+				
+		San Antonio,
+
+			
+	
+		Texas
+
+			
+	
+		78226
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Alfredo Avila</div>
+		<div><a href="mailto:alfredo.avila@us.af.mil">alfredo.avila@us.af.mil</a></div>
+	<div>Phone: 2106711761</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Heather A. Sorensen,</div>
+	<div>Contract Administrator</div>	<div><a href="mailto:heather.sorensen@us.af.mil">heather.sorensen@us.af.mil</a></div>
+	<div>Phone: 2106715937</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=2e45a5a1350de35271feeeb2464c224c'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=2e45a5a1350de35271feeeb2464c224c'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2f1d383d04807cee55fa30fbd58f87ed">Package</a> <a target="_blank" href="/utils/dZip?base=2e45a5a1350de35271feeeb2464c224c&class=document_package&id=2f1d383d04807cee55fa30fbd58f87ed" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="/utils/view?id=a67dccb1aa2f611fb917c8a3267c9fd7" target="_blank" title="Download/View RFQ-_Splunk.docx" class="file">RFQ-_Splunk.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=76d70459557a9a5396144fa3e22435ac">Package</a> <a target="_blank" href="/utils/dZip?base=2e45a5a1350de35271feeeb2464c224c&class=document_package&id=76d70459557a9a5396144fa3e22435ac" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 10, 2014</div></dt><dd><a href="/utils/view?id=38f3a096f16e1a3b4b5a81f4c25e2ac3" target="_blank" title="Download/View BNJ_Splunk.pdf" class="file">BNJ_Splunk.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Combined Synopsis/Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	February 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 19, 2014 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Mar 13, 2014 2:00 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after response date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	March 28, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	70 -- General purpose information technology equipment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	334 -- Computer and Electronic Product Manufacturing/334614 -- Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

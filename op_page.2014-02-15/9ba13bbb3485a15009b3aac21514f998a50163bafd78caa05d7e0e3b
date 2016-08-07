@@ -1,0 +1,1722 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Information Technology Capabilities Contract (ITCC) II - FA4600-12-R-0026 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392495128');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392495128';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Combat Command logo"></div><div class="agency-header"><h2>Information Technology Capabilities Contract (ITCC) II</h2><div class="sol-num">Solicitation Number: FA4600-12-R-0026</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Combat Command<br>Location: 55 CONS</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=bbac45c7fc15eaa071618694727e8046&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/ACC/55CONS/FA4600-12-R-0026/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/ACC/55CONS/FA4600-12-R-0026/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/ACC/55CONS/FA4600-12-R-0026/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=bbac45c7fc15eaa071618694727e8046&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=bbac45c7fc15eaa071618694727e8046&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=bbac45c7fc15eaa071618694727e8046&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=de93de439fdc239225263929e69f3a4e&_cview=0">Original Synopsis</a><div class="nh-date"><em>Sources Sought</em></div><div class="nh-date">May 16, 2012</div><div class="nh-date">3:57 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=1f0b4a69f9018536af0980d64c45feea&_cview=0">Changed</a><div class="nh-date">May 17, 2012</div><div class="nh-date">1:10 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=da94cea77f5e541675c63011ecb3b7de&_cview=0">Changed</a><div class="nh-date">May 30, 2012</div><div class="nh-date">4:17 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=f8d79e227f1b155cd563c946422c0923&_cview=0">Changed</a><div class="nh-date">May 30, 2012</div><div class="nh-date">4:30 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=0b42cbbc3a8df92f9946be445a6af267&_cview=0">Changed</a><div class="nh-date">Sep 12, 2012</div><div class="nh-date">12:35 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=2a61fb3100c91374ed87cb96d0e85306&_cview=0">Changed</a><div class="nh-date">Mar 18, 2013</div><div class="nh-date">5:20 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=dc3140c5845b82779ed80ecb54c7dafa&_cview=0">Changed</a><div class="nh-date">Mar 22, 2013</div><div class="nh-date">3:18 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=f1daf1ddf5d3e8630b73ff20e18efb42&_cview=0">Changed</a><div class="nh-date">Jun 05, 2013</div><div class="nh-date">9:30 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=a35677ee68f96c1fb66b94b81f84f6cc&_cview=0">Changed</a><div class="nh-date">Jun 05, 2013</div><div class="nh-date">9:51 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=806e6dd582dc5d14ca481d3d8c9f80a5&_cview=0">Changed</a><div class="nh-date">Jun 20, 2013</div><div class="nh-date">4:59 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b2d8f7b5f16e0b92dad16a4dd4f7feb6&_cview=0">Changed</a><div class="nh-date">Aug 26, 2013</div><div class="nh-date">1:52 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=04254b0384e0ec7efa509d6e03ad4399&_cview=0">Changed</a><div class="nh-date">Nov 01, 2013</div><div class="nh-date">4:42 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=41f372b80cc8f74d9cb0012c00a802a9&_cview=0">Changed</a><div class="nh-date">Nov 12, 2013</div><div class="nh-date">4:07 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=50c612b6711dcdaa1b2af45e8ef4c97a&_cview=0">Changed</a><div class="nh-date">Nov 27, 2013</div><div class="nh-date">4:08 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=95c997b386a7e54ec341daf1af8f146d&_cview=0">Changed</a><div class="nh-date">Dec 05, 2013</div><div class="nh-date">5:43 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=7f45d174caf32c8ac71dd8817f325227&_cview=0">Changed</a><div class="nh-date">Dec 09, 2013</div><div class="nh-date">6:50 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=123a73f57d4bee4451db6724ae951697&_cview=0">Changed</a><div class="nh-date">Jan 16, 2014</div><div class="nh-date">10:32 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d27d515d30bb5c4652f7526c3dc3dbf3&_cview=0">Changed</a><div class="nh-date">Jan 24, 2014</div><div class="nh-date">3:09 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=bbac45c7fc15eaa071618694727e8046&_cview=0">Changed</a><div class="nh-date">Feb 11, 2014</div><div class="nh-date">5:26 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=de93de439fdc239225263929e69f3a4e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=de93de439fdc239225263929e69f3a4e'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA4600-12-R-0026
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2012-05-16 15:57:46">May 16, 2012 3:57 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2014-02-11 17:25:41">Feb 11, 2014 5:25 pm<a href="/utils/viewDifferences?class=notice_description&id=53a01c892a00d31e0e2aa741aad7dba3&compared_to=82aff6b56753d91403cf1ef820f2ce7a" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=53a01c892a00d31e0e2aa741aad7dba3&compared_to=82aff6b56753d91403cf1ef820f2ce7a&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		Current Update (11 Feb 14):&nbsp;The second Q&amp;A and a draft Authorized Baseline are posted.&nbsp; As a reminder, any ITCC II-related contact with the Government shall be issued in writing to <a href="mailto:andrew.philson@us.af.mil">andrew.philson@us.af.mil</a> and <a href="mailto:debra.simons@us.af.mil">debra.simons@us.af.mil</a>.&nbsp;&nbsp;A draft RFP is&nbsp;anticipated to be posted by the end of the month, 28 Feb 14.&nbsp;<br /><br />Previous Updates--<br /><br />16 Jan 14: Post-Industry Q&amp;A #1 and a draft of the Cost/Pricing Model are posted for Industry review and feedback.&nbsp; The remaining Q&amp;A and an updated Sections L&amp;M are anticipated to be posted by on or around 30 Jan 14.<br /><br />12 November 2013: Industry Day and One-on-One Meeting information,&nbsp;including RSVP information, is included in the attached "Industry Day and One-on-Ones" document and accompanying Offutt Map.&nbsp; Additionally, a second volume of Questions and Answers is provided.<br /><br />1 November 2013: A draft of Sections L&amp;M is attached for Industry review and comment.&nbsp; Also, Industry Day has been scheduled for 10 December 2013 in the Bellevue, NE area.&nbsp; As further details are finalized, more information will provided.&nbsp; Please continue to monitor this posting, as&nbsp;additional information regarding the&nbsp;Industry Day venue and&nbsp;one-on-one meeting reservations are anticipated to be posted within the next 10 days.<br /><br />26 August 2013: The current milestone estimates have been delayed.&nbsp; The new estimate is as follows:<br /><br />Draft RFP:&nbsp;late October 2013<br />Industry Day: early December 2013<br />Final RFP: late April 2014<br /><br />20 June 2013: RFI Questions &amp; Answers #1 is posted as an attachment.<br /><br />5 June 2013: In an effort to enable early and meaningful correspondence with Industry, the Contracting Officer seeks input, not to exceed&nbsp;5 total pages in length,&nbsp;to the following Request for Information (RFI) by 5 July 2013--<br />1. Provide sample projects the government can use to evaluate this proposal. The project must be realistic in that they can be executed by the government and must show cost savings and increased efficiencies.<br />2. Provide ideas to incentivize contract performance, reduce cost, and introduce efficiencies.<br />3. Provide examples of using various service levels for IT Support. What are the break-points in the performance threshold service levels that the government will see cost savings? <br />4. Provide examples of ISO or ITIL processes that can be introduced to increase efficiencies.<br />No proprietary information or data shall be submitted; by providing a response to the above RFI, the responder gives the Government the right to utilize the information in the formation of any forthcoming Request for Proposal (RFP). This utilization may include, but is not limited to, the inclusion of potential expansion tasks, performance and cost incentives, and flexibility in the services summary. <br />Any questions shall be submitted in writing to the contract administrator at andrew.philson@offutt.af.mil. Answers will be provided in a Q&amp;A format to this notice. Interested parties are encouraged to review the attached DRAFT PWS and DRAFT Services Summary, as well as the newly revised milestone estimates below:<br />Draft RFP: August 2013<br />Industry Day: October 2013<br />Final RFP: February 2013<br /><br /><br />22 Mar 13: To clarify the previous update, the Government is not currently requesting additional capability packages.&nbsp; The update was solely to notify interested vendors of the change in Contract Specialists.&nbsp; Also, the following milestones are available for planning purposes (milestones are approximations only and are&nbsp;subject to change without notice):<br />Draft RFP: July 2013<br />Industry Day: September 2013<br />Final RFP: January 2014<br /><br />18 Mar 13:&nbsp; The Contract Specialist is changed to Mr. Andrew Philson at <a href="mailto:andrew.philson@offutt.af.mil">andrew.philson@offutt.af.mil</a>.<br /><br />12 Sep 12:&nbsp; Questions in regards to the the ITCC II requirement:<br />1.&nbsp; QUESTION:&nbsp; Has the government determined the acquisition strategy (i.e. full and open, SB, 8(a), etc.?&nbsp; RESPONSE:&nbsp; The ITCC II requirement is in the early stages of planning.&nbsp; The acqusition strategy will be announced in the synopsis to be posted prior to the draft RFP.&nbsp; The release of the synopsis is to be determined.<br />2.&nbsp; QUESTION:&nbsp; Is there an estimates acquisition time frame for the solicitation release?&nbsp; The release date is to be determined.&nbsp; RESPONSE: &nbsp;A draft RFP will be released prior to release of the formal RFP to allow for industry input.<br />3.&nbsp; QUESTION:&nbsp; What is the estimated contract value for this effort?&nbsp; RESPONSE:&nbsp; The estimated contract value for this effort&nbsp;is considered For Official Use Only (FOUO).&nbsp; A budget will be posted in Section L of the RFP.&nbsp; The budget is to be determined.<br />4.&nbsp; QUESTION:&nbsp; Is there an incumbent currently performing these requirements?&nbsp; If so, who?&nbsp; RESPONSE:&nbsp; The current ITCC requirements are performed by CSC on FA4600-04-C-0010 awarded for $700M.<br /><br />An industry day is planned to take place after release of the draft RFP.&nbsp; Meetings with potential offerors will be scheduled to take place following&nbsp;the Industry Day.&nbsp; Date for Industry Day&nbsp;is to be determined.&nbsp; All information, not considered classified, will be posted on FedBizOps to give all interested parties the same advantage as all other parties.&nbsp;&nbsp; If there is classified information to be distributed, instructions will be posted on FedBizOps on how to obtain the information.&nbsp; <br /><br />30 May 12:&nbsp; Sources Sought Questions and Answers spreadsheet is posted.&nbsp; Sources Sought is modified to change D1 from:&nbsp; "Possess expertise and experience to design, develop, test and deliver new weather data processing and display capabilities within existing enterprise architecture." to "Possess expertise and experience to design, develop, test and deliver new capabilities within the existing enterprise architecture."<br /><br />The response due date for the capability packages is no later than 1600 hours (Central) on 15 Jun 2012.<br />
+<p><br />SOURCES SOUGHT ANNOUNCEMENT FOR<br />INFORMATION TECHNOLOGY CAPABILITIES CONTRACT (ITCC) II</p><br />
+<p><br />A. INTRODUCTION <br />1. This is a Sources Sought synopsis being conducted pursuant to FAR Part 10, Market Research. This is for planning purposes only and there is no solicitation available at this time.<br />2. This is an initial step in the planning process for the Information Technology Capabilities Contract (ITCC) II follow-on acquisition currently titled Information Technology Capabilities Contract (ITCC). The Government is contemplating award of a Requirements Contract with Task Orders (Cost Plus Incentive Fee (CPIF) with Firm Fixed Price (FFP and Cost Reimbursable (CR) CLINs).<br />3. The 55th Contracting Squadron at Offutt Air Force Base, Nebraska, seeks potential sources to perform systems engineering, management and sustainment services for integration, modification, and system support to the United States Strategic Command (USSTRATCOM).<br />4. USSTRATCOM requires a provider who possesses industry standard skill levels and appropriate security clearances, to perform system engineering, integration, operational, logistical, maintenance, configuration management and system administration services for their IT infrastructure. This infrastructure includes several separate Local Area Networks (Commercial, Unclassified, Secret, Top Secret, and Top Secret Extremely Sensitive Information (ESI)) currently comprised of ~13000 PCs / workstations / servers on fixed and mobile platforms utilizing commercial off the shelf (COTS) hardware and COTS &amp; GOTS software. System administration will need to be provided for all systems and applications connected to the LANs, plus standalones and/or laptops. Systems engineering processes consistent with industry standards are to be implemented and the provider will be expected to continually evolve the IT infrastructure to a common architecture through the technical solution process. Earned Value (EV) analysis and management for each discrete Work Breakdown Structure (WBS) element must be provided.<br />5. USSTRATCOM is seeking a partnership that will permit the service provider maximum flexibility in implementing IT infrastructure services through performance-based Service Level Agreements (SLA) satisfying cost, schedule and performance parameters while achieving a balance between service provider accountability and government insight.<br />6. The North American Industrial Classification Systems (NAICS) code is 541512, Computer Systems Design Services, which has a small business size standard of $25.5M. A small business firm competing as a prime contractor must be able to perform at least 50% of the total personnel requirement within its own company (reference FAR 52.219-14, Limitations on Subcontracting).</p><br />
+<p>B. REQUIREMENTS<br />1. Objective: For USSTRATCOM systems to deliver increasingly higher levels of reliability and performance to satisfy existing and emerging missions while reducing total cost of ownership. <br />2. Tasks:</p><br />
+<p>a) Program Management<br />a. Develop, maintain &amp; use an Integrated Master Plan (IMP) and an Integrated Master Schedule (IMS)).<br />b. Communicate statuses and issues to the government in a clear, consistent and timely manner.<br />c. Business Management. Develop, maintain &amp; use a Performance Work Statement (PWS) in partnership with the government.<br />d. Establish and maintain effective business and technical relationships with government. Establish and maintain effective business and technical relationships with all associate contractors. <br />e. Meet Small Business participation requirements / goals IAW Small Business Plan.<br />f. Quality Management. Must be ISO 20000 certified; must maintain a high customer satisfaction program; and shall develop, maintain &amp; use a Program Quality Manual (PQM)).<br />g. Provide cost reporting (to include cost variance analysis, cost management, and Business Case Analyses for reducing costs).<br />h. Monitor and report cost, schedule, and performance consistent with an approved overall integration plan/master schedule. Human Resources. Provide personnel with appropriate professional certifications, equipment, tools, materials, supplies, parts, test equipment, supervision, and other items and services necessary for complete life-cycle support of USSTRATCOM systems to include planning, installation, sustainment, and optimization. Provide personnel that can be certified per DoD Directive 8500.1).<br />i. Conduct Cost As an Independent Variable (CAIV) Analysis &amp; Life Cycle Cost (LCC) management to achieve an affordable balance between cost and performance. Provide EVMS data on all task orders and/or as required by the government.<br />j. Risk Management. Manage technical and management risks; reduce cycle time for all sustainment and modernization activities consistent with sound risk management which will include government representation.<br />k. Configuration Management. Provide configuration management and testing to ensure interoperability, security, and compatibility among all systems/subsystems. Validate the baseline for all systems. Maintain and audit USSTRATCOM system and communication configuration baselines, and make them available to the government. <br />l. Life-Cycle Planning. Utilize life-cycle management processes.<br />m. Procurement. Purchases must meet specifications defined in the Technical Solution; assets are purchased and delivered on schedule, are within budget, fully satisfy all requirements; and defects are returned as required.<br />n. Training. Provide initial and recurring training on hardware and software items/components to support implementation and sustainment.<br />o. Metrics. Identify metrics for system performance evaluation and report measurements and other metrics as required by the government.<br />b) Operations &amp; Maintenance. Provide integrated IT infrastructure capabilities and services for all operations, maintenance, logistics, and procurement functions required to sustain, enhance and optimize the command's existing and future infrastructure; increase system reliability while decreasing maintenance requirements).<br />a. Hardware Maintenance. Manage &amp; maintain the identified system components (including COTS license renewals) to meet critical and non-critical mission requirements; manage these components IAW the Life Cycle Management Plan and the Technical Refreshment Plan; maintain a level of bench stock items required for critical and routine maintenance actions.<br />b. Deployment Services. Successfully complete installations (includes assemble, setup, configure, and test) of system components.<br />c. Cabling. Support all IT cabling requirements, end-to-end.<br />d. Warehouse. Operate the IT warehouse; provide receiving &amp; shipping services, storage and pre-staging of all incoming, outgoing and spare IT hardware and software components, inventory control/management, and packing, unpacking and disposal of shipping materials.<br />e. Dispose of all IT hardware and software components IAW government policies and procedures<br />f. Decommission and dispose of USSTRATCOM systems and subsystems IAW government policies and procedures when useful life is exceeded. <br />g. Service Center Operations. Operate a 24/7 single Service Center capable of coordinating all customer maintenance and service issues and requests; document fix actions and lessons learned; and achieve high and increasing accuracy in first call resolution.<br />h. Provide Technical Refreshment Plan with associated costs and support Life-Cycle Management processes (cradle-to-grave).<br />i. Logistics. Develop and implement processes and capabilities for managing logistics required to sustain and enhance the command's existing &amp; future infrastructure. Maximize cost effective contractor logistics support (CLS) consistent with the warfighter's concepts of operations, to include changing the functions already performed under CLS and/or bringing additional systems under CLS.<br />j. Windows Services (Server Administration &amp; Desktop Services). Implement policies &amp; procedures to manage, maintain and administer the servers, clients, storage and services to meet operational, availability and critical and non-critical mission requirements - includes adding/configuring PCs &amp; servers; setting up &amp; maintaining LAN and WAN users; installing system-wide software, complying with security policies / procedures; file management; allocating and managing storage space; performing backups and restores; load and performance monitoring; performing preventative maintenance; diagnosing, repairing, upgrading, replacing or adjusting defective, broken and damaged system components; supporting all end user change requirements.<br />k. UNIX Services (System and Workstation Management &amp; Administration). Implement policies &amp; procedures to manage, maintain and administer the servers, clients, storage and services to meet operational, availability and critical and non-critical mission requirements - includes adding/configuring workstations &amp; servers; setting up &amp; maintaining LAN and WAN users; installing system-wide software, complying with security policies / procedures; file management; allocating and managing storage space; performing backups and restores; load and performance monitoring (to include monitoring all system components to identify potential problem areas and assisting in devising targeted metrics to assess system performance on an ongoing basis); performing preventative maintenance; diagnosing, repairing, upgrading, replacing or adjusting defective, broken and damaged system components; supporting all end user change requirements.<br />l. Security (Information Assurance) Management. Provide USSTRATCOM with robust information assurance capability; maintain current knowledge of IA industry best practices and recommend system changes as necessary to remain current; monitor computer emergency response teams (CERTs); prepare configuration updates or mitigation strategies and execute configuration updates as IA threats are identified; support the government in maintaining the Security Accreditation of the LANs.<br />m. Enterprise Database Services. Development, Test and Production database schemas shall be developed, built and deployed and accurately populated on schedule; database backups shall be completed and retained; maintain operational database availability; perform permissions &amp; account management and authentication to meet mission requirements; provide on-site response to database problems.<br />n. Meet 24/7 system operational availability and performance requirements for systems and subsystems, on-call engineering, vendor support, and system maintenance as required. <br />o. Maintain and perform incremental improvements to system and communications hardware and software including local area networks to ensure they meet capabilities and performance requirements, including correcting any deficiencies in meeting those requirements. Provide system administration, property management, and data administration.</p><br />
+<p>c) Systems Engineering. Ensure an appropriate level of standardization consistent with USSTRATCOM architectures and security requirements; evolve IT infrastructure to a more common, flexible architecture with enhanced capabilities through lifecycle management, technical solutions, software licensing and technical refresh processes.<br />a. Design effective solutions to satisfy technical, operational and personnel requirements. Translate functional requirements into system allocated and product configuration baselines. Recommend changes to system functional baselines.<br />b. Perform requirements analysis, life cycle cost analysis, and test and evaluation to reduce cost of ownership and optimize system and communications performance (e.g. value-added engineering). Increase system reliability while decreasing maintenance requirements.<br />c. Recommend changes to integration plans and interface specifications that accelerate capability delivery while reducing project costs.<br />d. Technical Solution Development, Testing and Integration. Develop all IT infrastructure technical solutions, brief government for approval, and implement solutions; implement configuration control processes; document and manage IT infrastructure baselines; support or provide testing for components being implemented to ensure interoperability of IT components prior to deployment and installation to assure minimal impact in the operational environment; ensure that all relevant unique and separate systems and components are able to coexist and interface without negatively affecting each other)<br />e. Provide test engineering to ensure validation and verification of user capabilities for delivered systems and components. Conduct a test process that demonstrates that product deliveries meet requirements and minimizes the probability of undetected errors. Support Government development test and evaluation, acceptance testing, operational acceptance testing and deployment of systems and applications. As practical, combine development and operational testing activities.<br />f. Security Architecture. Maintain current knowledge of information assurance industry best practices and recommend system changes as necessary to remain current; identify IA compliance issues; provide security &amp; risk analysis of engineering solutions; participate in and support IA reviews groups.</p><br />
+<p>d) The Contractor shall provide concurrent services for transition to the new USSTRATCOM Headquarters building for a period of 6 months to a year.<br />3. Period of Performance: It is anticipated that the contract period will be a base period of one year (from date of award, with a 2-3 month transition period) and four one-year option periods.<br />4. Security: The contractor must provide a portion of personnel that have TOP SECRET/Sensitive Compartmented Information clearances or that are eligible for said clearances. The remaining personnel must possess Secret clearances or at a minimum, favorable National Agency Check with inquiries. All personnel must be United States citizens. Final security requirements will be documented in the DD Form 254.</p><br />
+<p><br />C. INFORMATION AND INSTRUCTIONS:<br />1. All businesses capable of providing these services are invited to respond. Any information provided to the government as a result of this sources sought synopsis is voluntary and the Government will not pay for any information submitted. Respondents are requested to submit capability packages electronically, as described below.<br />a. Capability packages shall be one electronic copy. Capability package files should be in MS Office format (Word, Excel or PowerPoint) or Adobe pdf format, and should not exceed 5 MB on one e-mail. All packages shall contain UNCLASSIFIED material only.<br />b. Capability packages should not exceed 20 pages, each single side counting one page, 8.5 x 11 inch, with one-inch margins, and font no smaller than 10 point Times New Roman. All capability packages must be received no later than 1600 hours (Central) on 31 May 2012.<br />c. Capability package responses shall be sent via email to Cynthia.Waller@offutt.af.mil AND Debra.Simons@offutt.af.mil.<br />2. Respondents must include the following information within their statement of capability packages:<br />a. Company Information: Provide company name, address, a point of contact with e-mail address and telephone number, Federal Cage Code, Data Universal Numbering System (DUNS), business size, and security clearance level. Your company must be registered in CCR and ORCA. To register, go to https://www.bpn.gov/ccr and http://orca.bpn.gov. Also include intent to be a prime or sub-contractor on this effort.<br />b. Small Business: Small business respondents to this announcement should indicate whether the respondent is a small business, 8(a) concern, veteran-owned small business, service-disabled veteran-owned small business, HUB Zone small business, small disadvantaged business, women-owned small business, or historically black college or university (HBCU) or minority institution (MI) (as defined by the clause at DFARS 252.226-7000).<br />3. In addition to the 20-page capability statement, contractors are encouraged to submit thoughts on overall contract structure, including incentives and fee construct, period of performance, ability of the prime contractor to self perform (and the types of activities considered appropriate for the prime contractor to self perform), small business subcontracting goals, etc. <br />4. Small businesses are encouraged to submit responses even if your experience is primarily that of a specialized subcontractor.<br />5. List Teaming Partners: Provide company name, address, a point of contact with e-mail address and telephone number, Federal Cage Code, Data Universal Numbering System (DUNS), business size, and security clearance level. <br />6. Identify whether the company and team partners have a DCAA approved accounting system. Provide the DCAA address, a point of contact with e-mail address and telephone number for the Prime Contractor and Team Partners.</p><br />
+<p>D. CAPABILITY PACKAGE AND EVALUATION: Interested businesses should provide a capability package describing corporate experience in managing recent (within the past 3 years) requirements similar in size and scope to the activities described in this sources sought. Performance information should include dollar value, performance period, point of contact information for verification purposes, and description of the requirement. The Government will identify competitive firms by evaluating the capability packages using the following evaluation criteria. Potential offers should identify the following mandatory capabilities to accomplish the tasks in Section B and program management functions:</p><br />
+<p>1. Possesses expertise and experience to design, develop, test and deliver new&nbsp;capabilities within existing enterprise architecture. Must demonstrate experience in successful system engineering (using DoD or ISO standards and processes) to reduce cost of ownership and optimize system and communications performance. Must possess design methodologies that increase system reliability, decrease maintenance requirements and meet functional requirements.<br />2. Possesses expertise and experience to manage efforts to meet contract requirements within budget, and provide government insight into performance. Must be able to demonstrate personnel have appropriate professional certifications, security clearances, equipment, tools, materials, supplies, parts, test equipment, supervision, and other items and services necessary for complete system support. Program management processes must provide continuity of staffing to prevent loss of system support. Must show ability for timely monitoring and reporting of cost, schedule, and performance in comparison with pre-established baseline. Possess processes that communicate status and issues to the government in a clear, consistent and timely manner for joint resolution. Display business practices that reduce cycle time for sustainment and modernization activities.<br />3. Experience as a Prime or subcontractor of secure Government IT infrastructures providing services consistent with Government or commercial standards using full corporate resources and industry best practices.<br />4. Experience providing successful Operations, Maintenance and Logistics for networks of 13,000 or more workstations or desktops, associated servers, and network infrastructure in a single contracted secure IT service level environment. This includes help desk, and implementation of baseline changes (i.e. capitalization or leasing of the IT assets and infrastructure).<br />5. Possesses experience with secure Government IT systems containing multiple LANs and multiple security classification levels.<br />6. Possesses expertise and experience to provide system performance metrics and report measurements that are sensitive to predicting the future performance of the systems. Management processes identify risks, plan and implement mitigation actions, and monitor progress to identify deviations from planned events. Capable to understand existing assets and requirements.<br />7. Capable of performing necessary enhancements to and correction of deficiencies in systems and communications hardware and software including local area networks. Processes ensure 24/7 system operational availability and performance requirements will be met.<br />8. Demonstrate possession of processes, expertise, and experience to incorporate new and emerging information technologies into the USSTRATCOM enterprise architecture.<br />9. Possess Capability Maturity Model Integration&reg; processes rated level 3 (or higher).<br />10. Possess ISO 20000 certification.<br />11. Contract transition approach provides system continuity through the transition, innovative strategies to reduce transition costs, and time-phased staffing through the transition period.<br />12. Management capability to control costs and use Earned Value Management (EVM) techniques.<br />13. Financial capability to perform a cost reimbursement contract (including whether the company has a DCAA/DCMA approved accounting system, approved purchasing system, approved estimating system, etc. and whether the company has current Forward Pricing Rate Agreements with a DCAA/DCMA point(s) of contact).<br />14. Demonstrate ability to conduct and oversee all aspects of technical and administrative work described above, on contracts that are an Acquisition of Services Category I (reference DoDI 5000.02, Enclosure 9, Table 9).<br />15. Capable of performing at least 50% of the total personnel requirement within your own company (if you are a small business firm planning to compete as a prime contractor).</p><br />
+<p><br />E. GOVERNMENT RESPONSIBILITY: This Sources Sought Notice is not a commercial solicitation per FAR Part 12, and should not be construed as a commitment by the Government for any purpose, nor does it restrict the Government to an ultimate acquisition approach. Any information submitted by respondents to this sources sought is strictly voluntary and any offer submitted by such a firm will be evaluated without prejudice. All questions and comments on this synopsis shall be submitted via e-mail to only the contacts listed below. PRIMARY CONTACT: Ms. Cynthia Waller, Contract Specialist, Cynthia.Waller@offutt.af.mil. ALTERNATE CONTACT: Ms. Deb Simons, Contracting Officer, debra.simons@offutt.af.mil. Mark all e-mail responses beginning with: ITCC II.</p><br />
+<p>&nbsp;</p><br />
+<p>&nbsp;</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Revised Sources Sought document</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	Revised Sources Sought document
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	May 17, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=6a4059fba98b4528684a19dc8145c2b0' target='_blank' title='Download/View Sources Sought v1.1.doc' class='file'&gt;Sources Sought v1.1.doc&lt;/a&gt;"><a href='/utils/view?id=6a4059fba98b4528684a19dc8145c2b0' target='_blank' title='Download/View Sources Sought v1.1.doc' class='file'>Sources Sought v1.1.doc</a> (81.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Revised Response due date to 15 June 2012</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Sources Sought Q&A</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__name__widget">
+	Sources Sought Q&A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	May 30, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=cbbcf48a83a459c259a1366856120918' target='_blank' title='Download/View Consolidated Questions.docx' class='file'&gt;Consolidated Questions.docx&lt;/a&gt;"><a href='/utils/view?id=cbbcf48a83a459c259a1366856120918' target='_blank' title='Download/View Consolidated Questions.docx' class='file'>Consolidated Questions.docx</a> (15.60 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Responses to Sources Sought questions.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft PWS and Draft Services Summary</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Draft PWS and Draft Services Summary
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	June 5, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=629eefb573f4e19750f089ffc4fb4a1b' target='_blank' title='Download/View Draft_PWS.pdf' class='file'&gt;Draft_PWS.pdf&lt;/a&gt;"><a href='/utils/view?id=629eefb573f4e19750f089ffc4fb4a1b' target='_blank' title='Download/View Draft_PWS.pdf' class='file'>Draft_PWS.pdf</a> (606.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft Performance Work Statement</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=722e5d5b636980a8ba5aa239586aa3ce' target='_blank' title='Download/View SS_for_ITCC_II.pdf' class='file'&gt;SS_for_ITCC_II.pdf&lt;/a&gt;"><a href='/utils/view?id=722e5d5b636980a8ba5aa239586aa3ce' target='_blank' title='Download/View SS_for_ITCC_II.pdf' class='file'>SS_for_ITCC_II.pdf</a> (113.85 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Draft Services Summary</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">RFI Questions & Answers #1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__name__widget">
+	RFI Questions & Answers #1
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	June 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=11f43788808892496dc048e6cae8df3f' target='_blank' title='Download/View Q&amp;A__1.docx' class='file'&gt;Q&amp;A__1.docx&lt;/a&gt;"><a href='/utils/view?id=11f43788808892496dc048e6cae8df3f' target='_blank' title='Download/View Q&A__1.docx' class='file'>Q&A__1.docx</a> (13.65 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> RFI Q&amp;A #1</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Draft L&M #1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__name__widget">
+	Draft L&M #1
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	November 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=3d067021612c5ff5bc855dff77e2105d' target='_blank' title='Download/View Section_L_and_M_DRAFT_for_Industry_Review.pdf' class='file'&gt;Section_L_and_M_DRAFT_for_Industry_Review.pdf&lt;/a&gt;"><a href='/utils/view?id=3d067021612c5ff5bc855dff77e2105d' target='_blank' title='Download/View Section_L_and_M_DRAFT_for_Industry_Review.pdf' class='file'>Section_L_and_M_DRAFT_for_Industry_Review.pdf</a> (356.64 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Initial draft of Sections L&amp;M</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Industry Day information</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__name__widget">
+	Industry Day information
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	November 12, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c49d81a128b794e8d776ea85d6324dc5' target='_blank' title='Download/View Industry_Day_and_One-on-Ones.docx' class='file'&gt;Industry_Day_and_One-on-Ones.docx&lt;/a&gt;"><a href='/utils/view?id=c49d81a128b794e8d776ea85d6324dc5' target='_blank' title='Download/View Industry_Day_and_One-on-Ones.docx' class='file'>Industry_Day_and_One-on-Ones.docx</a> (15.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Industry Day and One-on-One Meeting information</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=99d9135abb5264df8959ecb4a981062c' target='_blank' title='Download/View Offutt_Map.pptx' class='file'&gt;Offutt_Map.pptx&lt;/a&gt;"><a href='/utils/view?id=99d9135abb5264df8959ecb4a981062c' target='_blank' title='Download/View Offutt_Map.pptx' class='file'>Offutt_Map.pptx</a> (1,236.03 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Map for Industry Day and One-on-One Meeting locations.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">RFI Questions & Answers #2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__name__widget">
+	RFI Questions & Answers #2
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	November 12, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1ea3675f14f97cb67bd7b082072c0e36' target='_blank' title='Download/View Q&amp;A__2.docx' class='file'&gt;Q&amp;A__2.docx&lt;/a&gt;"><a href='/utils/view?id=1ea3675f14f97cb67bd7b082072c0e36' target='_blank' title='Download/View Q&A__2.docx' class='file'>Q&A__2.docx</a> (12.98 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Q&amp;A #2</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Industry Day Q&A</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	Industry Day Q&A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	November 27, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c8ac2a821b2f3bb1dae0315e8a349c8f' target='_blank' title='Download/View Industry_Day_Q&amp;A__1.docx' class='file'&gt;Industry_Day_Q&amp;A__1.docx&lt;/a&gt;"><a href='/utils/view?id=c8ac2a821b2f3bb1dae0315e8a349c8f' target='_blank' title='Download/View Industry_Day_Q&A__1.docx' class='file'>Industry_Day_Q&A__1.docx</a> (14.88 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Questions and Answers for Industry Day</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Attendance Roster for 10 Dec 13 Industry Day</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__name__widget">
+	Attendance Roster for 10 Dec 13 Industry Day
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	December 5, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=810dac1adec1f6733d60b36147962768' target='_blank' title='Download/View Industry_Day_Company_List_for_FBO_Posting.docx' class='file'&gt;Industry_Day_Company_List_for_FBO_Posting.docx&lt;/a&gt;"><a href='/utils/view?id=810dac1adec1f6733d60b36147962768' target='_blank' title='Download/View Industry_Day_Company_List_for_FBO_Posting.docx' class='file'>Industry_Day_Company_List_for_FBO_Posting.docx</a> (29.18 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Listing of Companies and POC's attending ITCC II Industry Day on 10 Dec 13</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Industry Day slides</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__name__widget">
+	Industry Day slides
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	December 9, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c68a6736129ade4d16aef0cfe0f6dec3' target='_blank' title='Download/View Industry_Day_Brief_FINAL.pptx' class='file'&gt;Industry_Day_Brief_FINAL.pptx&lt;/a&gt;"><a href='/utils/view?id=c68a6736129ade4d16aef0cfe0f6dec3' target='_blank' title='Download/View Industry_Day_Brief_FINAL.pptx' class='file'>Industry_Day_Brief_FINAL.pptx</a> (5,429.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Industry Day powerpoint presentation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Post-Industry Day Q&A #1 and DRAFT Cost/Pricing Model</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__name__widget">
+	Post-Industry Day Q&A #1 and DRAFT Cost/Pricing Model
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b46eddba15146bce0be4d4a304a04c20' target='_blank' title='Download/View Post-Industry_Day_Q&amp;A__1.docx' class='file'&gt;Post-Industry_Day_Q&amp;A__1.docx&lt;/a&gt;"><a href='/utils/view?id=b46eddba15146bce0be4d4a304a04c20' target='_blank' title='Download/View Post-Industry_Day_Q&A__1.docx' class='file'>Post-Industry_Day_Q&A__1.docx</a> (53.31 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Post-Industry Day Q&amp;A #1</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=a36cc9dad9e6b744d6f1cc812a3096f5' target='_blank' title='Download/View Price_model_WBS.xls' class='file'&gt;Price_model_WBS.xls&lt;/a&gt;"><a href='/utils/view?id=a36cc9dad9e6b744d6f1cc812a3096f5' target='_blank' title='Download/View Price_model_WBS.xls' class='file'>Price_model_WBS.xls</a> (3,671.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> DRAFT Cost/Pricing Model</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Clarification of Q&A #1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__name__widget">
+	Clarification of Q&A #1
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__posted_date__widget">
+	January 24, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=aeb6451a859323b76b68b302677e9d89' target='_blank' title='Download/View Clarification_for_Q&amp;A__1.docx' class='file'&gt;Clarification_for_Q&amp;A__1.docx&lt;/a&gt;"><a href='/utils/view?id=aeb6451a859323b76b68b302677e9d89' target='_blank' title='Download/View Clarification_for_Q&A__1.docx' class='file'>Clarification_for_Q&A__1.docx</a> (12.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Clarification of answer for question #82</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">DRAFT Authorized Baseline</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__name__widget">
+	DRAFT Authorized Baseline
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][12][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e9233416ba3cc6b10d5d93c605f12713' target='_blank' title='Download/View ITCC_II_AB_DRAFT_7_Feb.xlsx' class='file'&gt;ITCC_II_AB_DRAFT_7_Feb.xlsx&lt;/a&gt;"><a href='/utils/view?id=e9233416ba3cc6b10d5d93c605f12713' target='_blank' title='Download/View ITCC_II_AB_DRAFT_7_Feb.xlsx' class='file'>ITCC_II_AB_DRAFT_7_Feb.xlsx</a> (582.67 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> DRAFT Authorized Baseline</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Post-Industry Day Q&A #2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__name__widget">
+	Post-Industry Day Q&A #2
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][13][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9f3f6db50377aa71f24addf15e76b989' target='_blank' title='Download/View Q&amp;A__2.docx' class='file'&gt;Q&amp;A__2.docx&lt;/a&gt;"><a href='/utils/view?id=9f3f6db50377aa71f24addf15e76b989' target='_blank' title='Download/View Q&A__2.docx' class='file'>Q&A__2.docx</a> (79.76 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Post-Industry Day Q&amp;A #2</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		101 Washington Sq Bldg 40<br/>
+
+			
+				
+		Offutt AFB,
+
+			
+	
+		Nebraska
+
+			
+	
+		68113-2107
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		USSTRATCOM<br/>
+
+			
+				
+		Offutt AFB,
+
+			
+	
+		Nebraska
+
+			
+	
+		68113
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Andrew Philson</div>
+		<div><a href="mailto:andrew.philson@offutt.af.mil">andrew.philson@offutt.af.mil</a></div>
+	<div>Phone: 402-294-7282</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Debra J Simons,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:debra.simons@offutt.af.mil">debra.simons@offutt.af.mil</a></div>
+			
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=de93de439fdc239225263929e69f3a4e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=de93de439fdc239225263929e69f3a4e'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=fb395d956e0fb2260558a7fd62fcb820">Revised Sources Sought document</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=fb395d956e0fb2260558a7fd62fcb820" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 17, 2012</div></dt><dd><a href="/utils/view?id=6a4059fba98b4528684a19dc8145c2b0" target="_blank" title="Download/View Sources Sought v1.1.doc" class="file">Sources Sought v1.1.doc</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1009306e68c49ba79427ba6e1bbe25e6">Sources Sought Q&A</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=1009306e68c49ba79427ba6e1bbe25e6" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 30, 2012</div></dt><dd><a href="/utils/view?id=cbbcf48a83a459c259a1366856120918" target="_blank" title="Download/View Consolidated Questions.docx" class="file">Consolidated Questions.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=bd689a7403e495db1cd387061edcfd9e">Draft PWS and Draft Services Summary</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=bd689a7403e495db1cd387061edcfd9e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 05, 2013</div></dt><dd><a href="/utils/view?id=629eefb573f4e19750f089ffc4fb4a1b" target="_blank" title="Download/View Draft_PWS.pdf" class="file">Draft_PWS.pdf</a></dd><dd><a href="/utils/view?id=722e5d5b636980a8ba5aa239586aa3ce" target="_blank" title="Download/View SS_for_ITCC_II.pdf" class="file">SS_for_ITCC_II.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c7b794ae744372728ce83f11413f97f0">RFI Questions & Answers #1</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=c7b794ae744372728ce83f11413f97f0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 20, 2013</div></dt><dd><a href="/utils/view?id=11f43788808892496dc048e6cae8df3f" target="_blank" title="Download/View Q&amp;A__1.docx" class="file">Q&A__1.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f186fe0b8c7fc2579c2ae353a641c252">Draft L&M #1</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=f186fe0b8c7fc2579c2ae353a641c252" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 01, 2013</div></dt><dd><a href="/utils/view?id=3d067021612c5ff5bc855dff77e2105d" target="_blank" title="Download/View Section_L_and_M_DRAFT_for_Industry_Review.pdf" class="file">Section_L_and_M_DRAFT_for_Industry_Review.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e4e9e4e37d9cec00925a1b464082ce60">Industry Day information</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=e4e9e4e37d9cec00925a1b464082ce60" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 12, 2013</div></dt><dd><a href="/utils/view?id=c49d81a128b794e8d776ea85d6324dc5" target="_blank" title="Download/View Industry_Day_and_One-on-Ones.docx" class="file">Industry_Day_and_One-on-Ones.docx</a></dd><dd><a href="/utils/view?id=99d9135abb5264df8959ecb4a981062c" target="_blank" title="Download/View Offutt_Map.pptx" class="file">Offutt_Map.pptx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f4e35330797d155856228d0bb91f6522">RFI Questions & Answers #2</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=f4e35330797d155856228d0bb91f6522" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 12, 2013</div></dt><dd><a href="/utils/view?id=1ea3675f14f97cb67bd7b082072c0e36" target="_blank" title="Download/View Q&amp;A__2.docx" class="file">Q&A__2.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=94b8e254beb7832df4276b59eb2bc3d3">Industry Day Q&A</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=94b8e254beb7832df4276b59eb2bc3d3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 27, 2013</div></dt><dd><a href="/utils/view?id=c8ac2a821b2f3bb1dae0315e8a349c8f" target="_blank" title="Download/View Industry_Day_Q&amp;A__1.docx" class="file">Industry_Day_Q&A__1.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c8ac9c4815765eceeb57473cb9dbf73c">Attendance Roster for 10 Dec 13 Industry Day</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=c8ac9c4815765eceeb57473cb9dbf73c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 05, 2013</div></dt><dd><a href="/utils/view?id=810dac1adec1f6733d60b36147962768" target="_blank" title="Download/View Industry_Day_Company_List_for_FBO_Posting.docx" class="file">Industry_Day_Company_List_for_FBO_Posting.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a3b9867ac7aced0a0d58b63c6aa9cda9">Industry Day slides</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=a3b9867ac7aced0a0d58b63c6aa9cda9" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 09, 2013</div></dt><dd><a href="/utils/view?id=c68a6736129ade4d16aef0cfe0f6dec3" target="_blank" title="Download/View Industry_Day_Brief_FINAL.pptx" class="file">Industry_Day_Brief_FINAL.pptx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2c6e103477abe253cdd5c4243039433d">Post-Industry Day Q&A #1 and DRAFT Cost/Pricing Model</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=2c6e103477abe253cdd5c4243039433d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=b46eddba15146bce0be4d4a304a04c20" target="_blank" title="Download/View Post-Industry_Day_Q&amp;A__1.docx" class="file">Post-Industry_Day_Q&A__1.docx</a></dd><dd><a href="/utils/view?id=a36cc9dad9e6b744d6f1cc812a3096f5" target="_blank" title="Download/View Price_model_WBS.xls" class="file">Price_model_WBS.xls</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a20b1c76a2bf277213271a93d1dc0f1e">Clarification of Q&A #1</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=a20b1c76a2bf277213271a93d1dc0f1e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 24, 2014</div></dt><dd><a href="/utils/view?id=aeb6451a859323b76b68b302677e9d89" target="_blank" title="Download/View Clarification_for_Q&amp;A__1.docx" class="file">Clarification_for_Q&A__1.docx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=0f4573a093f10e5bde08751c0f831d96">DRAFT Authorized Baseline</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=0f4573a093f10e5bde08751c0f831d96" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=e9233416ba3cc6b10d5d93c605f12713" target="_blank" title="Download/View ITCC_II_AB_DRAFT_7_Feb.xlsx" class="file">ITCC_II_AB_DRAFT_7_Feb.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a3846d9efa234128b97adb649557fe18">Post-Industry Day Q&A #2</a> <a target="_blank" href="/utils/dZip?base=de93de439fdc239225263929e69f3a4e&class=document_package&id=a3846d9efa234128b97adb649557fe18" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 11, 2014</div></dt><dd><a href="/utils/view?id=9f3f6db50377aa71f24addf15e76b989" target="_blank" title="Download/View Q&amp;A__2.docx" class="file">Q&A__2.docx</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	May 16, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 11, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Jun 15, 2012 11:59 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	D -- Information technology services, including telecommunications services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541512 -- Computer Systems Design Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

@@ -1,0 +1,1083 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Residential Reentry Center (RRC) Services and Home Detention Services Located Within the Boundaries of Hidalgo County, Texas - RFP-200-1211-WS - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392501903');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392501903';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=44256daa6478d1faa07438fc535b86c4&inline_disposition=1" border="0" alt="Bureau of Prisons logo"></div><div class="agency-header agency-header-sm"><h2>Residential Reentry Center (RRC) Services and Home Detention Services Located Within the Boundaries of Hidalgo County, Texas</h2><div class="sol-num">Solicitation Number: RFP-200-1211-WS</div><div class="agency-name">Agency: Department of Justice<br>Office: Bureau of Prisons<br>Location: Acquisitions Branch</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=c94acf79fab63bf1dbb9aaa27107b899&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/DOJ/BPR/PPB/RFP-200-1211-WS/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/DOJ/BPR/PPB/RFP-200-1211-WS/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/DOJ/BPR/PPB/RFP-200-1211-WS/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=c94acf79fab63bf1dbb9aaa27107b899&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=c94acf79fab63bf1dbb9aaa27107b899&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=58be892a85d6f06bbd34b289886c5508&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Mar 22, 2013</div><div class="nh-date">12:38 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=538fe53cd8b2befc0686ed595acb6419&_cview=0">Changed</a><div class="nh-date">Apr 23, 2013</div><div class="nh-date">9:24 am</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=ab900da8baa11cf0c6a2721333f15fd9&_cview=0">Changed</a><div class="nh-date">Apr 23, 2013</div><div class="nh-date">2:02 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=8c969978c8ab2ec9b28e732c8841877c&_cview=0">Changed</a><div class="nh-date">Apr 23, 2013</div><div class="nh-date">2:13 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d0feaa96276a5bf30c4e7c2c1a429fa0&_cview=0">Changed</a><div class="nh-date">May 10, 2013</div><div class="nh-date">11:10 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b4262bc383c8caf1c37582403d8d5422&_cview=0">Changed</a><div class="nh-date">Jun 07, 2013</div><div class="nh-date">3:02 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=c94acf79fab63bf1dbb9aaa27107b899&_cview=0">Award</a><div class="nh-date">Feb 07, 2014</div><div class="nh-date">2:26 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">     </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	RFP-200-1211-WS
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_date_" class="field fld_contract_award_date fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_date__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_date_">Contract Award Date</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_date__widget">
+	February 7, 2014
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Date )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_number_" class="field fld_contract_award_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_number__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_number_">Contract Award Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_number__widget">
+	DJB200183
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_amount_" class="field fld_contract_award_amount fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_amount__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_amount_">Contract Award Dollar Amount</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_amount__widget">
+	$17,892,313.46 (estimated maximum for base and all options)
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Dollar Amount )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contractor_awarded_name_" class="field fld_contractor_awarded_name fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contractor_awarded_name__field-label">
+	<label for="dnf_class_values_procurement_notice__contractor_awarded_name_">Contractor Awarded Name</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contractor_awarded_name__widget">
+	The GEO Group, Inc.
+	</div><!-- widget -->
+	
+        </div><!--field ( Contractor Awarded Name )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contractor_awarded_duns_" class="field fld_contractor_awarded_duns fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contractor_awarded_duns__field-label">
+	<label for="dnf_class_values_procurement_notice__contractor_awarded_duns_">Contractor Awarded DUNS</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contractor_awarded_duns__widget">
+	612706465
+	</div><!-- widget -->
+	
+        </div><!--field ( Contractor Awarded DUNS )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contractor_awarded_address_" class="field fld_contractor_awarded_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contractor_awarded_address__field-label">
+	<label for="dnf_class_values_procurement_notice__contractor_awarded_address_">Contractor Awarded Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contractor_awarded_address__widget">
+		<div>
+	621 NW 53rd Street<br>
+	Boca Raton, Florida <br>	
+	United States
+	</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contractor Awarded Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-03-22 12:38:10">Mar 22, 2013 12:38 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2013-06-07 15:00:48">Jun 07, 2013 3:00 pm<a href="/utils/viewDifferences?class=notice_description&id=e5e8419491d74e30744af2f5cc3dec6e&compared_to=1c82e6002772748ea940ed2c180338f8" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=e5e8419491d74e30744af2f5cc3dec6e&compared_to=1c82e6002772748ea940ed2c180338f8&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		Pre-Solicitation Notice<br />RFP-200-1211-WS<br /><br />The Federal Bureau of Prisons is seeking concerns having the ability for providing residential reentry center (RRC) services (in-house RRC beds) and home detention services (home detention placements) for male and female Federal offenders held under the authority of United States Statutes located within the boundaries of Hidalgo County, Texas. <br /><br />Both the RRC services for in-house RRC beds and the home detention services for home detention placements shall be in accordance with the Federal Bureau of Prisons Statement of Work entitled, "Residential Reentry Center, August 2007; Revision 01 December 2007 CCB; Revision 02 December 2008 CCB, Revision 03, February 2010 CCB, Revision 04, May 2010 CCB, Revision 05, May 2011, CCB; Revision 06, January 2012, RRMB; Revision 07, February 2012, RRMB; Revision 08, January 2013 RRMB". Home detention services (for home detention placements) are specifically defined in chapter 10, programs, of the aforementioned SOW. Additional requirements for these services are referenced throughout the SOW as well.<br />
+<p>This will be an indefinite delivery, indefinite quantity type contract with firm-fixed unit prices for Line Item 1 and Line Item 2.&nbsp;<br /><br />The guaranteed minimum for RRC services for in-house RRC beds are estimated to be 92% male and 8% female for the one-year Base Period and for each of the four, one-year Option Periods thereafter, if options are exercised. <br /><br />The estimated maximum for RRC services for in-house RRC beds are estimated to be 92% male and 8% female for the one-year Base Period and for each of the four, one-year Option Periods thereafter, if options are exercised. <br /><br />For the Home Detention requirement for home detention placements, male and female quantities are combined for a total minimum guarantee and a total maximum estimate, which can be made up of either males or females.<br /><br />For each line item, the guaranteed minimum quantities and estimated maximum quantities for the RRC services for in-house RRC beds requirement are as follows:</p><br />
+<p>Line Item 1:<br />&bull; Base Period: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds); <br />&bull; Option Year 1: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds);<br />&bull; Option Year 2: The guaranteed minimum number of inmate days is 13,908 (35 male beds and 3 female beds) with an estimated maximum number of 21,594 inmate days (54 male beds and 5 female beds);<br />&bull; Option Year 3: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds); and<br />&bull; Option Year 4: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds).</p><br />
+<p>The guaranteed minimum quantities and estimated maximum quantities for the Home Detention Services (for home detention placements) Requirement are as follows:</p><br />
+<p>&bull; Base Period: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention);<br />&bull; Option Year 1: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention);<br />&bull; Option Year 2: The guaranteed minimum number of inmate days is 3,660 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,222 (17 placements onto home detention);<br />&bull; Option Year 3: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention); and<br />&bull; Option Year 4: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention).<br /><br />Line Item 2:<br />&bull; Base Period: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds); <br />&bull; Option Year 1: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds);<br />&bull; Option Year 2: The guaranteed minimum number of inmate days is 13,908 (35 male beds and 3 female beds) with an estimated maximum number of 21,594 inmate days (54 male beds and 5 female beds);<br />&bull; Option Year 3: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds); and<br />&bull; Option Year 4: The guaranteed minimum number of inmate days is 13,870 (35 male beds and 3 female beds) with an estimated maximum number of 21,535 inmate days (54 male beds and 5 female beds).<br />The guaranteed minimum quantities and estimated maximum quantities for the Home Detention Services (for home detention placements) Requirement are as follows:<br />&bull; Base Period: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention);<br />&bull; Option Year 1: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention);<br />&bull; Option Year 2: The guaranteed minimum number of inmate days is 3,660 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,222 (17 placements onto home detention);<br />&bull; Option Year 3: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention); and<br />&bull; Option Year 4: The guaranteed minimum number of inmate days is 3,650 (10 placements onto home detention) with an estimated maximum number of inmate days is 6,205 (17 placements onto home detention).<br /><br />The two line items contained in this solicitation can be awarded to a single offeror or multiple offers. Multiple sites of performance will be accepted. The Government is restricting one award per line item. It is the intent of the Government to award both types of services for (RRC in-house beds and home detention placements) to a single provider, as these services are interconnected and rely upon each other to ensure adequate programming and case management of offenders. The Government reserves the right to potentially make an award which is deemed to be in the best interest of the Government. <br /><br />RFP-200-1211-WS will be available on or about April 23, 2013, and it will be distributed solely through the General Services Administration's Federal Business Opportunities (FBO) website at http://www.fbo.gov. Hard copies of the solicitation will not be available. The site provides downloading instructions. All future information about this acquisition will also be distributed solely through this site. Interested parties are responsible for monitoring this site to ensure that they have the most up-to-date information about this acquisition. The estimated closing date of RFP-200-1211-WS will be on or about July 5, 2013. <br /><br />All responsible sources may submit a proposal which will be considered by this agency. No collect calls will be accepted. No telephone request or written requests for the solicitation will be accepted.<br /><br />Faith-Based and Community Organizations<br /><br />Faith-Based and Community Organizations can submit offers/bids/quotations equally with other organizations for contracts for which they are eligible.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	April 23, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://149.101.36.24/vss" target="_blank" class="link">https://149.101.36.24/vss</a></div>
+		<div><span class="label">Description:</span> To provide Residential Reentry Center (RRC) Services and Home Detention Services located within the boundaries of Hidalgo County, Texas</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	April 23, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=802e80ac714015934c04718cd10b9db1' target='_blank' title='Download/View 01_RFP-200-1211-WS_Solicitation_Coversheet.pdf' class='file'&gt;01_RFP-200-1211-WS_Solicitation_Coversheet.pdf&lt;/a&gt;"><a href='/utils/view?id=802e80ac714015934c04718cd10b9db1' target='_blank' title='Download/View 01_RFP-200-1211-WS_Solicitation_Coversheet.pdf' class='file'>01_RFP-200-1211-WS_Solicitation_Coversheet.pdf</a> (208.94 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 01 RFP-200-1211-WS Solicitation Coversheet</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=b474e912e88965a572de0650a8b94735' target='_blank' title='Download/View 02_RFP_200-1211-WS_Bid_Cover_Sheet.pdf' class='file'&gt;02_RFP_200-1211-WS_Bid_Cover_Sheet.pdf&lt;/a&gt;"><a href='/utils/view?id=b474e912e88965a572de0650a8b94735' target='_blank' title='Download/View 02_RFP_200-1211-WS_Bid_Cover_Sheet.pdf' class='file'>02_RFP_200-1211-WS_Bid_Cover_Sheet.pdf</a> (96.18 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 02 RFP-200-1211-WS Bid Cover Sheet</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=353c05eab567d79c4c779e206b602ec3' target='_blank' title='Download/View 03_RFP-200-1211-WS_Solicitation.pdf' class='file'&gt;03_RFP-200-1211-WS_Solicitation.pdf&lt;/a&gt;"><a href='/utils/view?id=353c05eab567d79c4c779e206b602ec3' target='_blank' title='Download/View 03_RFP-200-1211-WS_Solicitation.pdf' class='file'>03_RFP-200-1211-WS_Solicitation.pdf</a> (509.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 03 RFP-200-1211-WS Solicitation Document</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=65beed084370d9d9e8e99bf59a9dfb51' target='_blank' title='Download/View 04_RFP-200-1211-WS_Statement_of_Work.pdf' class='file'&gt;04_RFP-200-1211-WS_Statement_of_Work.pdf&lt;/a&gt;"><a href='/utils/view?id=65beed084370d9d9e8e99bf59a9dfb51' target='_blank' title='Download/View 04_RFP-200-1211-WS_Statement_of_Work.pdf' class='file'>04_RFP-200-1211-WS_Statement_of_Work.pdf</a> (513.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 04 RFP-200-1211-WS Statement of Work</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=4107a93edcc1742b948550e0f9964722' target='_blank' title='Download/View 05_RFP-200-1211-WS_Performance_Summary_Table.pdf' class='file'&gt;05_RFP-200-1211-WS_Performance_Summary_Table.pdf&lt;/a&gt;"><a href='/utils/view?id=4107a93edcc1742b948550e0f9964722' target='_blank' title='Download/View 05_RFP-200-1211-WS_Performance_Summary_Table.pdf' class='file'>05_RFP-200-1211-WS_Performance_Summary_Table.pdf</a> (96.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 05 RFP-200-1211-WS Performance Summary Table</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=07f309c506cc8bca867af3c6aef91891' target='_blank' title='Download/View 06_RFP-200-1211-WS_Environmental_Checklist.pdf' class='file'&gt;06_RFP-200-1211-WS_Environmental_Checklist.pdf&lt;/a&gt;"><a href='/utils/view?id=07f309c506cc8bca867af3c6aef91891' target='_blank' title='Download/View 06_RFP-200-1211-WS_Environmental_Checklist.pdf' class='file'>06_RFP-200-1211-WS_Environmental_Checklist.pdf</a> (50.33 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 06 RFP-200-1211-WS Environmental Checklist</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=768ef0e2b6eec30b507a64ef40ef0fcf' target='_blank' title='Download/View 07_RFP-200-1211-WS_Sample_Community_Notification_Letter.pdf' class='file'&gt;07_RFP-200-1211-WS_Sample_Community_Notification_Letter.pdf&lt;/a&gt;"><a href='/utils/view?id=768ef0e2b6eec30b507a64ef40ef0fcf' target='_blank' title='Download/View 07_RFP-200-1211-WS_Sample_Community_Notification_Letter.pdf' class='file'>07_RFP-200-1211-WS_Sample_Community_Notification_Letter.pdf</a> (35.90 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 07 RFP-200-1211-WS Sample Community Notification</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=07ddd762ecfbb79fee0577d1c49ef6ce' target='_blank' title='Download/View 08_RFP-200-1211-WS_Sample_Client_Notification_Letter.pdf' class='file'&gt;08_RFP-200-1211-WS_Sample_Client_Notification_Letter.pdf&lt;/a&gt;"><a href='/utils/view?id=07ddd762ecfbb79fee0577d1c49ef6ce' target='_blank' title='Download/View 08_RFP-200-1211-WS_Sample_Client_Notification_Letter.pdf' class='file'>08_RFP-200-1211-WS_Sample_Client_Notification_Letter.pdf</a> (21.85 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 08 RFP-200-1211-WS Sample Client Notification</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=2aa289f6aeedc5f551675f90b2852160' target='_blank' title='Download/View 09_RFP-200-1211-WS_Sample_Bank_Notification_Letter.pdf' class='file'&gt;09_RFP-200-1211-WS_Sample_Bank_Notification_Letter.pdf&lt;/a&gt;"><a href='/utils/view?id=2aa289f6aeedc5f551675f90b2852160' target='_blank' title='Download/View 09_RFP-200-1211-WS_Sample_Bank_Notification_Letter.pdf' class='file'>09_RFP-200-1211-WS_Sample_Bank_Notification_Letter.pdf</a> (20.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 09 RFP-200-1211-WS Sample Bank Notification</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=7c309dd90fffa0f47d8fadaf726825da' target='_blank' title='Download/View 10_RFP-200-1211-WS_Service_Contract_Business_Management.pdf' class='file'&gt;10_RFP-200-1211-WS_Service_Contract_Business_Management.pdf&lt;/a&gt;"><a href='/utils/view?id=7c309dd90fffa0f47d8fadaf726825da' target='_blank' title='Download/View 10_RFP-200-1211-WS_Service_Contract_Business_Management.pdf' class='file'>10_RFP-200-1211-WS_Service_Contract_Business_Management.pdf</a> (65.63 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 10 RFP-200-1211-WS Service Contract Business Management</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=24b6807cf585f4cf528c0653765574f1' target='_blank' title='Download/View 11_RFP_200-1211-WS_Compliance_Matrix.pdf' class='file'&gt;11_RFP_200-1211-WS_Compliance_Matrix.pdf&lt;/a&gt;"><a href='/utils/view?id=24b6807cf585f4cf528c0653765574f1' target='_blank' title='Download/View 11_RFP_200-1211-WS_Compliance_Matrix.pdf' class='file'>11_RFP_200-1211-WS_Compliance_Matrix.pdf</a> (110.99 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 11 RFP-22-1211-WS Compliance Matrix</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=a9cb19eac15d33a0d82308eaaf310a94' target='_blank' title='Download/View 12_RFP-200-1211-WS_RRC_Cert_of_Compliance.pdf' class='file'&gt;12_RFP-200-1211-WS_RRC_Cert_of_Compliance.pdf&lt;/a&gt;"><a href='/utils/view?id=a9cb19eac15d33a0d82308eaaf310a94' target='_blank' title='Download/View 12_RFP-200-1211-WS_RRC_Cert_of_Compliance.pdf' class='file'>12_RFP-200-1211-WS_RRC_Cert_of_Compliance.pdf</a> (21.89 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 12 RFP-200-1211-WS RRC Certificate of Compliance</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][12][file][0][preview]" value="&lt;a href='/utils/view?id=1b18f1d1eed985207e644f8eb380611d' target='_blank' title='Download/View 13_RFP-200-1211-WS_Local_Area_Concerns.pdf' class='file'&gt;13_RFP-200-1211-WS_Local_Area_Concerns.pdf&lt;/a&gt;"><a href='/utils/view?id=1b18f1d1eed985207e644f8eb380611d' target='_blank' title='Download/View 13_RFP-200-1211-WS_Local_Area_Concerns.pdf' class='file'>13_RFP-200-1211-WS_Local_Area_Concerns.pdf</a> (27.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 13 RFP-200-1211-WS Local Area Concerns</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][13][file][0][preview]" value="&lt;a href='/utils/view?id=87bf57f48042cf4a57ca07ccf5a5fda5' target='_blank' title='Download/View 14_RFP-200-1211-WS_Wage_Determination.pdf' class='file'&gt;14_RFP-200-1211-WS_Wage_Determination.pdf&lt;/a&gt;"><a href='/utils/view?id=87bf57f48042cf4a57ca07ccf5a5fda5' target='_blank' title='Download/View 14_RFP-200-1211-WS_Wage_Determination.pdf' class='file'>14_RFP-200-1211-WS_Wage_Determination.pdf</a> (211.09 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 14 RFP-200-1211-WS Wage Determination</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][14][file][0][preview]" value="&lt;a href='/utils/view?id=4728513a1a693dd396e3f6f39812d408' target='_blank' title='Download/View 15_RFP-200-1211-WS_Subcontracting_Plan.pdf' class='file'&gt;15_RFP-200-1211-WS_Subcontracting_Plan.pdf&lt;/a&gt;"><a href='/utils/view?id=4728513a1a693dd396e3f6f39812d408' target='_blank' title='Download/View 15_RFP-200-1211-WS_Subcontracting_Plan.pdf' class='file'>15_RFP-200-1211-WS_Subcontracting_Plan.pdf</a> (236.06 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> 15 RFP-200-1211-WS Subcontracting Plan</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	April 23, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=88f637208760b7922b2ef6208684c437' target='_blank' title='Download/View Amendment0001.pdf' class='file'&gt;Amendment0001.pdf&lt;/a&gt;"><a href='/utils/view?id=88f637208760b7922b2ef6208684c437' target='_blank' title='Download/View Amendment0001.pdf' class='file'>Amendment0001.pdf</a> (402.35 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	May 10, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=60e7f308bc3d55dea1f9af9bbf514417' target='_blank' title='Download/View Amendment0002.pdf' class='file'&gt;Amendment0002.pdf&lt;/a&gt;"><a href='/utils/view?id=60e7f308bc3d55dea1f9af9bbf514417' target='_blank' title='Download/View Amendment0002.pdf' class='file'>Amendment0002.pdf</a> (85.81 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0002</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	June 7, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=90a0dec6759e6e2a5786a707221e8c62' target='_blank' title='Download/View Amendment0003.pdf' class='file'&gt;Amendment0003.pdf&lt;/a&gt;"><a href='/utils/view?id=90a0dec6759e6e2a5786a707221e8c62' target='_blank' title='Download/View Amendment0003.pdf' class='file'>Amendment0003.pdf</a> (80.58 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0003</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		320 First Street, NW<br/>
+
+			
+				
+		Washington,
+
+			
+	
+		District of Columbia
+
+			
+	
+		20534
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Hidalgo County, Texas <br/>
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Kevin J. Hoff</div>
+		<div><a href="mailto:khoff@bop.gov">khoff@bop.gov</a></div>
+	<div>Phone: (215) 521-7355</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">     </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=2c5fc927e65d11f11015eebb4949c78a">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=58be892a85d6f06bbd34b289886c5508&class=document_package&id=2c5fc927e65d11f11015eebb4949c78a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Apr 23, 2013</div></dt><dd><a href="https://149.101.36.24/vss" target="_blank" title="Go to https://149.101.36.24/vss in new browser window." class="link">To provide Residential Reentry Center (RRC) Services and Home Detention Services located within the boundaries of Hidalgo County, Texas</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=4f6fb5da4856bb45eeb232dedc562a9e">Solicitation 2</a> <a target="_blank" href="/utils/dZip?base=58be892a85d6f06bbd34b289886c5508&class=document_package&id=4f6fb5da4856bb45eeb232dedc562a9e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Apr 23, 2013</div></dt><dd><a href="/utils/view?id=802e80ac714015934c04718cd10b9db1" target="_blank" title="Download/View 01_RFP-200-1211-WS_Solicitation_Coversheet.pdf" class="file">01_RFP-200-1211-WS_Solicitation_Coversheet.pdf</a></dd><dd><a href="/utils/view?id=b474e912e88965a572de0650a8b94735" target="_blank" title="Download/View 02_RFP_200-1211-WS_Bid_Cover_Sheet.pdf" class="file">02_RFP_200-1211-WS_Bid_Cover_Sheet.pdf</a></dd><dd><a href="/utils/view?id=353c05eab567d79c4c779e206b602ec3" target="_blank" title="Download/View 03_RFP-200-1211-WS_Solicitation.pdf" class="file">03_RFP-200-1211-WS_Solicitation.pdf</a></dd><dd><a href="/utils/view?id=65beed084370d9d9e8e99bf59a9dfb51" target="_blank" title="Download/View 04_RFP-200-1211-WS_Statement_of_Work.pdf" class="file">04_RFP-200-1211-WS_Statement_of_Work.pdf</a></dd><dd><a href="/utils/view?id=4107a93edcc1742b948550e0f9964722" target="_blank" title="Download/View 05_RFP-200-1211-WS_Performance_Summary_Table.pdf" class="file">05_RFP-200-1211-WS_Performance_Summary_Table.pdf</a></dd><dd><a href="/utils/view?id=07f309c506cc8bca867af3c6aef91891" target="_blank" title="Download/View 06_RFP-200-1211-WS_Environmental_Checklist.pdf" class="file">06_RFP-200-1211-WS_Environmental_Checklist.pdf</a></dd><dd><a href="/utils/view?id=768ef0e2b6eec30b507a64ef40ef0fcf" target="_blank" title="Download/View 07_RFP-200-1211-WS_Sample_Community_Notification_Letter.pdf" class="file">07_RFP-200-1211-WS_Sample_Community_Notification_Letter.pdf</a></dd><dd><a href="/utils/view?id=07ddd762ecfbb79fee0577d1c49ef6ce" target="_blank" title="Download/View 08_RFP-200-1211-WS_Sample_Client_Notification_Letter.pdf" class="file">08_RFP-200-1211-WS_Sample_Client_Notification_Letter.pdf</a></dd><dd><a href="/utils/view?id=2aa289f6aeedc5f551675f90b2852160" target="_blank" title="Download/View 09_RFP-200-1211-WS_Sample_Bank_Notification_Letter.pdf" class="file">09_RFP-200-1211-WS_Sample_Bank_Notification_Letter.pdf</a></dd><dd><a href="/utils/view?id=7c309dd90fffa0f47d8fadaf726825da" target="_blank" title="Download/View 10_RFP-200-1211-WS_Service_Contract_Business_Management.pdf" class="file">10_RFP-200-1211-WS_Service_Contract_Business_Management.pdf</a></dd><dd><a href="/utils/view?id=24b6807cf585f4cf528c0653765574f1" target="_blank" title="Download/View 11_RFP_200-1211-WS_Compliance_Matrix.pdf" class="file">11_RFP_200-1211-WS_Compliance_Matrix.pdf</a></dd><dd><a href="/utils/view?id=a9cb19eac15d33a0d82308eaaf310a94" target="_blank" title="Download/View 12_RFP-200-1211-WS_RRC_Cert_of_Compliance.pdf" class="file">12_RFP-200-1211-WS_RRC_Cert_of_Compliance.pdf</a></dd><dd><a href="/utils/view?id=1b18f1d1eed985207e644f8eb380611d" target="_blank" title="Download/View 13_RFP-200-1211-WS_Local_Area_Concerns.pdf" class="file">13_RFP-200-1211-WS_Local_Area_Concerns.pdf</a></dd><dd><a href="/utils/view?id=87bf57f48042cf4a57ca07ccf5a5fda5" target="_blank" title="Download/View 14_RFP-200-1211-WS_Wage_Determination.pdf" class="file">14_RFP-200-1211-WS_Wage_Determination.pdf</a></dd><dd><a href="/utils/view?id=4728513a1a693dd396e3f6f39812d408" target="_blank" title="Download/View 15_RFP-200-1211-WS_Subcontracting_Plan.pdf" class="file">15_RFP-200-1211-WS_Subcontracting_Plan.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=5d4bbb3395b4053da36f4f30eeb6d6e2">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=58be892a85d6f06bbd34b289886c5508&class=document_package&id=5d4bbb3395b4053da36f4f30eeb6d6e2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Apr 23, 2013</div></dt><dd><a href="/utils/view?id=88f637208760b7922b2ef6208684c437" target="_blank" title="Download/View Amendment0001.pdf" class="file">Amendment0001.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=9462f8ea8f214b103d384e0bdf67dc82">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=58be892a85d6f06bbd34b289886c5508&class=document_package&id=9462f8ea8f214b103d384e0bdf67dc82" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">May 10, 2013</div></dt><dd><a href="/utils/view?id=60e7f308bc3d55dea1f9af9bbf514417" target="_blank" title="Download/View Amendment0002.pdf" class="file">Amendment0002.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=e8cb558f4e50208cc1705c241441a6c2">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=58be892a85d6f06bbd34b289886c5508&class=document_package&id=e8cb558f4e50208cc1705c241441a6c2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 07, 2013</div></dt><dd><a href="/utils/view?id=90a0dec6759e6e2a5786a707221e8c62" target="_blank" title="Download/View Amendment0003.pdf" class="file">Amendment0003.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	March 22, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 7, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after award date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	March 3, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	March 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	G -- Social services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	623 -- Nursing and Residential Care Facilities/623990 -- Other Residential Care Facilities
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

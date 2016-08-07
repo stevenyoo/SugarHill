@@ -1,0 +1,988 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Base Paving ID/IQ Solicitation - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392486974');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392486974';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Space Command logo"></div><div class="agency-header"><h2>Base Paving ID/IQ Solicitation</h2><div class="sol-num">Solicitation Number: FA4610-12-R-0003</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Space Command<br>Location: 30CONS</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=380c0fe746d5b000106561e597487493&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USAF/AFSC/30CONS/FA4610-12-R-0003/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USAF/AFSC/30CONS/FA4610-12-R-0003/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USAF/AFSC/30CONS/FA4610-12-R-0003/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=380c0fe746d5b000106561e597487493&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=380c0fe746d5b000106561e597487493&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=380c0fe746d5b000106561e597487493&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=9879af434bbd94adf5c19495e35fff7e&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Jul 18, 2013</div><div class="nh-date">6:57 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=90a7e8ea8573152e7af18fc34fa6bfe8&_cview=0">Changed</a><div class="nh-date">Aug 14, 2013</div><div class="nh-date">7:52 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=63612c73cbd6a37e4e2e82b633fd8fe5&_cview=0">Changed</a><div class="nh-date">Sep 11, 2013</div><div class="nh-date">6:21 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=26a2136b21c7c89661c18708247f64f2&_cview=0">Changed</a><div class="nh-date">Sep 11, 2013</div><div class="nh-date">6:33 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=73176fb75d9bfb9c066e4d54bbe69af4&_cview=0">Changed</a><div class="nh-date">Sep 13, 2013</div><div class="nh-date">2:34 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=380c0fe746d5b000106561e597487493&_cview=0">Award</a><div class="nh-date">Feb 14, 2014</div><div class="nh-date">6:32 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">     </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA4610-12-R-0003
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_date_" class="field fld_contract_award_date fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_date__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_date_">Contract Award Date</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_date__widget">
+	February 14, 2014
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Date )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_number_" class="field fld_contract_award_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_number__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_number_">Contract Award Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_number__widget">
+	FA4610-14-D-0004_thru_0006
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_award_amount_" class="field fld_contract_award_amount fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_award_amount__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_award_amount_">Contract Award Dollar Amount</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_award_amount__widget">
+	Program amount NTE 5-years is $30,000,000.00
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Award Dollar Amount )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contract_line_item_number_" class="field fld_contract_line_item_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contract_line_item_number__field-label">
+	<label for="dnf_class_values_procurement_notice__contract_line_item_number_">Contract Line Item Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contract_line_item_number__widget">
+	0001-4001
+	</div><!-- widget -->
+	
+        </div><!--field ( Contract Line Item Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__contractor_awarded_name_" class="field fld_contractor_awarded_name fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__contractor_awarded_name__field-label">
+	<label for="dnf_class_values_procurement_notice__contractor_awarded_name_">Contractor Awarded Name</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__contractor_awarded_name__widget">
+	See synopsis below
+	</div><!-- widget -->
+	
+        </div><!--field ( Contractor Awarded Name )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-07-18 18:57:39">Jul 18, 2013 6:57 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2013-08-14 19:36:21">Aug 14, 2013 7:36 pm<a href="/utils/viewDifferences?class=notice_description&id=c69d22a9e4432c24d58ce5fbc1c30435&compared_to=ffcc98e0de8d439fa7f35fc028f7e68c" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=c69d22a9e4432c24d58ce5fbc1c30435&compared_to=ffcc98e0de8d439fa7f35fc028f7e68c&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		<p>This acquisition is an 8(a) competitive set-aside for contractors with a bona fide location in the state of California for a Base Paving firm fixed price Indefinite Delivery-Indefinite Quantity (IDIQ) Contract. This acquisition is being solicited under North American Industry Classification System (NAICS) Code 237310. All other firms are deemed ineligible to submit offers. The small business size standard is $33,500,000.00. The work requirements to be performed by the offerors will consist of, but are not limited to, a broad range of paving repair, alteration, maintenance, and new paving construction Vandenberg Air Force Base (VAFB), CA with a few projects at Pillar Point in San Mateo County CA. The work is required in support of the 30th Civil Engineering Squadron, Base Civil Engineering activities. During the contract period, the 30th Civil Engineering Squadron will identify road/paving projects for issuance of individual task orders for each project. The task orders may be for minimal design build or build only. Individual task orders will vary in size and complexity. The task orders will include, but are not limited to trades, such as grading, sub base and base course, Asphalt Cement (AC) and Portland Cement Concrete (PCC), micro-paving, sealing, markers and striping, street and parking lot lighting and signaling; drainage maintenance repair and minor construction includes, but is not limited to, culverts, swales, headwalls, slope modification, shoring, anchoring, retaining walls, soil stabilization, irrigation and re-vegetation on various real property facilities covered under this contract, including design and engineering services incidental to construction. Period of Performance: The performance period is one (1) base year with four (4) option years. The guaranteed contract minimum is $5,000.00 for the base year, with no minimum guarantee for any option period. The maximum program value is $30,000,000.00 for the life of the contract. The Government intends to award three (3) contracts based on a Lowest Price Technically Acceptable (LPTA) basis. No paper copies of the solicitation, specifications, plans, or bidders mailing list will be issued from this office. All potential offerors must be registered on the FedBizOpps.gov website in order to receive notification of changes to the solicitation. Prospective offerors must be registered in the System for Award Management (SAM) in order to be eligible for award. The SAM site is https://www.sam.gov. It is important to read the solicitation completely, as there are terms and conditions that must be met by the prospective offeror in order for the proposal to be considered responsive. The government will not pay for any information submitted in response to this solicitation notice. Any questions regarding this notice must be submitted via email to the points of contact listed in this synopsis.</p><br />
+<p>A pre-proposal conference is scheduled for 9:00 AM Pacific Time on Wednesday, 28 August 2013 at Marshallia Ranch Golf Course Club House, 1335 San Antonio Road West, Vandenberg AFB, CA 93437. The purpose of the pre-proposal conference will be to answer questions regarding the solicitation and is not intended for contractors to present their capabilities. Contractors wishing to attend the pre-proposal conference must RSVP in writing by contacting ALL the following individuals prior to 23 August 2013 at 3:00 PM Pacific Time:</p><br />
+<p>Albert Thompson, albert.thompson.2@us.af.mil, (805) 606-2195<br />Louis Buchanan, louis.buchanan.1@us.af.mil, (805) 605-8470<br />William S. Davis, william.davis.18@us.af.mil, (805) 605-0496</p><br />
+<p>The RSVP must contain:<br />The company name<br />The names of attendees (Attendees will be limited to 3 individuals per company due to limited room capacity)</p><br />
+<p>Upon receipt of the RSVP, a confirmation of receipt will be sent from one of the Government parties with further information regarding the conference. If you have not received a confirmation by 3:00 PM Pacific Time on 22 August 2013, please contact the individuals at the numbers listed no later than 3:00 PM Pacific Time on 23 August 2013 to ensure your RSVP was received.</p><br />
+<p>Attendance to the pre-proposal conference is not mandatory for contractors interested in proposing on the Base Paving Requirement, however, it is highly recommended.</p><br />
+<p>All questions regarding the solicitation must submitted in writing to the individuals listed above no later than 4 September 2013.</p><br />
+<p>Proposals are due by 3:00 PM Pacific Time on 16 September 2013.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2014-02-14 18:32:18">Feb 14, 2014 6:32 pm</span>
+					</div>
+		The awards resulting from the&nbsp;Base Paving ID/IQ Requirement at Vandenberg AFB are to&nbsp;the following firms:<br /><br /><br />
+<p>FA4610-14-D-0004<br />EXBON Development, Inc.<br />13831 Newhope St<br />Garden Grove, CA 92843-3714<br />POC: Jae Jung<br />Phone: (714) 539-2222<br />DUNS No.:&nbsp;&nbsp; 623013492<br /><br />FA4610-14-D-0005<br />North Star Construction<br />1282 Stabler Lane, 603-109<br />Yuba City, CA 95993-2625<br />POC: Suki Basrai<br />Phone: (530) 673-7080<br />DUNS No.:&nbsp; 611675331<br /><br />FA4610-14-D-0006<br />T. Simons Company<br />230 W Tefft St.<br />Nipomo, CA 93444-8848<br />POC: Tammy Simons<br />Phone: (805) 929-0700<br />DUNS No.:&nbsp; 167159198</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	August 14, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=145dbe6439da0746f1599ff3f4e0a4ff' target='_blank' title='Download/View FA4610-12-R-0003.pdf' class='file'&gt;FA4610-12-R-0003.pdf&lt;/a&gt;"><a href='/utils/view?id=145dbe6439da0746f1599ff3f4e0a4ff' target='_blank' title='Download/View FA4610-12-R-0003.pdf' class='file'>FA4610-12-R-0003.pdf</a> (482.22 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA4610-12-R-0003; Base Paving Solicitation</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=21f20e588a94b77d2af5110e33d651c5' target='_blank' title='Download/View Attachment_1,_Technical_Specs_Base_Paving.zip' class='file'&gt;Attachment_1,_Technical_Specs_Base_Paving.zip&lt;/a&gt;"><a href='/utils/view?id=21f20e588a94b77d2af5110e33d651c5' target='_blank' title='Download/View Attachment_1,_Technical_Specs_Base_Paving.zip' class='file'>Attachment_1,_Technical_Specs_Base_Paving.zip</a> (17,710.56 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 1, Technical Specifications Base Paving</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=bd185b3113162e33185a98d29a258558' target='_blank' title='Download/View Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf' class='file'&gt;Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf&lt;/a&gt;"><a href='/utils/view?id=bd185b3113162e33185a98d29a258558' target='_blank' title='Download/View Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf' class='file'>Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf</a> (87.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 2; Davis-Bacon Act Wage Determination - Santa Barbara County</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=375528bc7085fe52808f7c8fe7c27b2b' target='_blank' title='Download/View Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf' class='file'&gt;Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf&lt;/a&gt;"><a href='/utils/view?id=375528bc7085fe52808f7c8fe7c27b2b' target='_blank' title='Download/View Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf' class='file'>Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf</a> (87.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 2;  Santa Barbara County DBA Wage Determination CA130023</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=e43d2fb5b98aaed16b67d7242a1bc5e1' target='_blank' title='Download/View Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf' class='file'&gt;Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf&lt;/a&gt;"><a href='/utils/view?id=e43d2fb5b98aaed16b67d7242a1bc5e1' target='_blank' title='Download/View Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf' class='file'>Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf</a> (175.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 3; Davis-Bacon Act Wage Determination - San Mateo and Monterey Counties</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=85cf4d5b0691114acb8932b4ba6cc3dc' target='_blank' title='Download/View Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf' class='file'&gt;Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf&lt;/a&gt;"><a href='/utils/view?id=85cf4d5b0691114acb8932b4ba6cc3dc' target='_blank' title='Download/View Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf' class='file'>Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf</a> (175.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 3; San Mateo and Monterey County DBA Wage Determination CA130029</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=2a017272cdbe4697013761dc5b406e6a' target='_blank' title='Download/View Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf' class='file'&gt;Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf&lt;/a&gt;"><a href='/utils/view?id=2a017272cdbe4697013761dc5b406e6a' target='_blank' title='Download/View Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf' class='file'>Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf</a> (19,190.37 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 4; VAFB Facility Excellence</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=1faa8688b2900786159fccd02e93ad4d' target='_blank' title='Download/View Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf' class='file'&gt;Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf&lt;/a&gt;"><a href='/utils/view?id=1faa8688b2900786159fccd02e93ad4d' target='_blank' title='Download/View Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf' class='file'>Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf</a> (19,190.37 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 4; VAFB Facility Excellence Standard 2010</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=1e597989f702a0f211e72f4a468adbf1' target='_blank' title='Download/View Attachment_5_-_VAFB_Landfill_Acceptance_Standards.pdf' class='file'&gt;Attachment_5_-_VAFB_Landfill_Acceptance_Standards.pdf&lt;/a&gt;"><a href='/utils/view?id=1e597989f702a0f211e72f4a468adbf1' target='_blank' title='Download/View Attachment_5_-_VAFB_Landfill_Acceptance_Standards.pdf' class='file'>Attachment_5_-_VAFB_Landfill_Acceptance_Standards.pdf</a> (71.18 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 5; VAFB Landfill Acceptance Standards</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=36486f32eb9a5986a4a466daea2488ed' target='_blank' title='Download/View Attachment_6_-_Demo_Project_SOO.pdf' class='file'&gt;Attachment_6_-_Demo_Project_SOO.pdf&lt;/a&gt;"><a href='/utils/view?id=36486f32eb9a5986a4a466daea2488ed' target='_blank' title='Download/View Attachment_6_-_Demo_Project_SOO.pdf' class='file'>Attachment_6_-_Demo_Project_SOO.pdf</a> (21.07 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 6; Demonstration Project XUMU: 13-1234C, Upgrade Consolidated Accumulation Point, Statement of Objective</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=a7f36fc251d711c5e7fa9e44d4f7cc3e' target='_blank' title='Download/View Attachment_7_-_Project_Design,_Drawing,_and_Sketch.pdf' class='file'&gt;Attachment_7_-_Project_Design,_Drawing,_and_Sketch.pdf&lt;/a&gt;"><a href='/utils/view?id=a7f36fc251d711c5e7fa9e44d4f7cc3e' target='_blank' title='Download/View Attachment_7_-_Project_Design,_Drawing,_and_Sketch.pdf' class='file'>Attachment_7_-_Project_Design,_Drawing,_and_Sketch.pdf</a> (186.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 7; Demonstration Project XUMU: 13-1234C, Upgrade Consolidated Accumulation Point, Design, Drawing, and Sketch</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=b150bfec6ad87fe64248f6cc6d7859d8' target='_blank' title='Download/View Attachment_8_-_Material_Schedule.pdf' class='file'&gt;Attachment_8_-_Material_Schedule.pdf&lt;/a&gt;"><a href='/utils/view?id=b150bfec6ad87fe64248f6cc6d7859d8' target='_blank' title='Download/View Attachment_8_-_Material_Schedule.pdf' class='file'>Attachment_8_-_Material_Schedule.pdf</a> (15.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 8; Schedule of Material Submittals</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	September 11, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=9fd2506028fe912f545018f0d1b2f497' target='_blank' title='Download/View FA4610-12-R-0003-0001.pdf' class='file'&gt;FA4610-12-R-0003-0001.pdf&lt;/a&gt;"><a href='/utils/view?id=9fd2506028fe912f545018f0d1b2f497' target='_blank' title='Download/View FA4610-12-R-0003-0001.pdf' class='file'>FA4610-12-R-0003-0001.pdf</a> (140.66 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0001</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=03eb74aedf896132b95a0366df65ff1b' target='_blank' title='Download/View 01_04_00_(revised;_10_Sep_13).pdf' class='file'&gt;01_04_00_(revised;_10_Sep_13).pdf&lt;/a&gt;"><a href='/utils/view?id=03eb74aedf896132b95a0366df65ff1b' target='_blank' title='Download/View 01_04_00_(revised;_10_Sep_13).pdf' class='file'>01_04_00_(revised;_10_Sep_13).pdf</a> (763.88 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Revised Tech Spec; Section 01 04 00</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=301b6ad6da61537b168f5fb44e526b89' target='_blank' title='Download/View Revised;_Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf' class='file'&gt;Revised;_Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf&lt;/a&gt;"><a href='/utils/view?id=301b6ad6da61537b168f5fb44e526b89' target='_blank' title='Download/View Revised;_Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf' class='file'>Revised;_Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf</a> (353.76 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Revised Attachment 2</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=ca02426ad81a739e2cb3b24b6ca2c0e8' target='_blank' title='Download/View Revised;_Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf' class='file'&gt;Revised;_Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf&lt;/a&gt;"><a href='/utils/view?id=ca02426ad81a739e2cb3b24b6ca2c0e8' target='_blank' title='Download/View Revised;_Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf' class='file'>Revised;_Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf</a> (132.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Revised Attachment 3</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=65325b843ddaf0d0da230f30f9ddf04a' target='_blank' title='Download/View Attachment_9_-_Construction_Cost_Estimate_Breakdown_Worksheet.xlsx' class='file'&gt;Attachment_9_-_Construction_Cost_Estimate_Breakdown_Worksheet.xlsx&lt;/a&gt;"><a href='/utils/view?id=65325b843ddaf0d0da230f30f9ddf04a' target='_blank' title='Download/View Attachment_9_-_Construction_Cost_Estimate_Breakdown_Worksheet.xlsx' class='file'>Attachment_9_-_Construction_Cost_Estimate_Breakdown_Worksheet.xlsx</a> (185.10 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Attachment 9 - Construction Cost Estimate Breakdown Worksheet</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Pre-Proposal Conference Minutes/Q & A</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__name__widget">
+	Pre-Proposal Conference Minutes/Q & A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	September 11, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e670e919d88b3b2e0a8df085a1801fb0' target='_blank' title='Download/View Base_Paving_IDIQ_Pre-Proposal_Conference_Minutes_28_Aug_13.pdf' class='file'&gt;Base_Paving_IDIQ_Pre-Proposal_Conference_Minutes_28_Aug_13.pdf&lt;/a&gt;"><a href='/utils/view?id=e670e919d88b3b2e0a8df085a1801fb0' target='_blank' title='Download/View Base_Paving_IDIQ_Pre-Proposal_Conference_Minutes_28_Aug_13.pdf' class='file'>Base_Paving_IDIQ_Pre-Proposal_Conference_Minutes_28_Aug_13.pdf</a> (371.14 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Base Paving IDIQ Pre-Proposal Conference Minutes and Questions and Answers</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=a5ef652be84ac35c5397fcb736036eb2' target='_blank' title='Download/View 12-R-0003_-_Pre-Proposal_Conf._Attendance_List;_28_Aug_2013.pdf' class='file'&gt;12-R-0003_-_Pre-Proposal_Conf._Attendance_List;_28_Aug_2013.pdf&lt;/a&gt;"><a href='/utils/view?id=a5ef652be84ac35c5397fcb736036eb2' target='_blank' title='Download/View 12-R-0003_-_Pre-Proposal_Conf._Attendance_List;_28_Aug_2013.pdf' class='file'>12-R-0003_-_Pre-Proposal_Conf._Attendance_List;_28_Aug_2013.pdf</a> (75.68 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Pre-Proposal Attendance/Sign-In Sheet</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		1515 Iceland Avenue<br />
+Bldg 8500, Room 150<br/>
+
+			
+				
+		Vandenberg AFB,
+
+			
+	
+		California
+
+			
+	
+		93437-5212
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Vandenberg AFB,
+
+			
+	
+		California
+
+			
+	
+		93437-5212
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>AlbertThompson Jr,</div>
+	<div>Contract Specialist</div>	<div><a href="mailto:albert.thompson.2@us.af.mil">albert.thompson.2@us.af.mil</a></div>
+	<div>Phone: 805-606-2195</div>		<div>Fax: 805-605-5867</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Louis R. Buchanan,</div>
+	<div>Contract Specialist </div>	<div><a href="mailto:louis.buchanan.1@us.af.mil">louis.buchanan.1@us.af.mil</a></div>
+	<div>Phone: 805-605-8470</div>		<div>Fax: 805-606-5867</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">     </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=58cca7ad4e58ef6651de80dc7d42989d">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=9879af434bbd94adf5c19495e35fff7e&class=document_package&id=58cca7ad4e58ef6651de80dc7d42989d" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 14, 2013</div></dt><dd><a href="/utils/view?id=145dbe6439da0746f1599ff3f4e0a4ff" target="_blank" title="Download/View FA4610-12-R-0003.pdf" class="file">FA4610-12-R-0003.pdf</a></dd><dd><a href="/utils/view?id=21f20e588a94b77d2af5110e33d651c5" target="_blank" title="Download/View Attachment_1,_Technical_Specs_Base_Paving.zip" class="file">Attachment_1,_Technical_Specs_Base_Paving.zip</a></dd><dd><a href="/utils/view?id=375528bc7085fe52808f7c8fe7c27b2b" target="_blank" title="Download/View Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf" class="file">Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf</a></dd><dd><a href="/utils/view?id=85cf4d5b0691114acb8932b4ba6cc3dc" target="_blank" title="Download/View Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf" class="file">Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf</a></dd><dd><a href="/utils/view?id=1faa8688b2900786159fccd02e93ad4d" target="_blank" title="Download/View Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf" class="file">Attachment_4_-_VAFB_Facility_Excellence_Standard_2010.pdf</a></dd><dd><a href="/utils/view?id=1e597989f702a0f211e72f4a468adbf1" target="_blank" title="Download/View Attachment_5_-_VAFB_Landfill_Acceptance_Standards.pdf" class="file">Attachment_5_-_VAFB_Landfill_Acceptance_Standards.pdf</a></dd><dd><a href="/utils/view?id=36486f32eb9a5986a4a466daea2488ed" target="_blank" title="Download/View Attachment_6_-_Demo_Project_SOO.pdf" class="file">Attachment_6_-_Demo_Project_SOO.pdf</a></dd><dd><a href="/utils/view?id=a7f36fc251d711c5e7fa9e44d4f7cc3e" target="_blank" title="Download/View Attachment_7_-_Project_Design,_Drawing,_and_Sketch.pdf" class="file">Attachment_7_-_Project_Design,_Drawing,_and_Sketch.pdf</a></dd><dd><a href="/utils/view?id=b150bfec6ad87fe64248f6cc6d7859d8" target="_blank" title="Download/View Attachment_8_-_Material_Schedule.pdf" class="file">Attachment_8_-_Material_Schedule.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=90463183ce560b846bf6271c9371feac">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=9879af434bbd94adf5c19495e35fff7e&class=document_package&id=90463183ce560b846bf6271c9371feac" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Sep 11, 2013</div></dt><dd><a href="/utils/view?id=9fd2506028fe912f545018f0d1b2f497" target="_blank" title="Download/View FA4610-12-R-0003-0001.pdf" class="file">FA4610-12-R-0003-0001.pdf</a></dd><dd><a href="/utils/view?id=03eb74aedf896132b95a0366df65ff1b" target="_blank" title="Download/View 01_04_00_(revised;_10_Sep_13).pdf" class="file">01_04_00_(revised;_10_Sep_13).pdf</a></dd><dd><a href="/utils/view?id=301b6ad6da61537b168f5fb44e526b89" target="_blank" title="Download/View Revised;_Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf" class="file">Revised;_Attachment_2_-_Santa_Barbara_County_DBA_Wage_Determination_CA130023.pdf</a></dd><dd><a href="/utils/view?id=ca02426ad81a739e2cb3b24b6ca2c0e8" target="_blank" title="Download/View Revised;_Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf" class="file">Revised;_Attachment_3__-_San_Mateo_Monterey_County_DBA_Wage_Determination_CA130029.pdf</a></dd><dd><a href="/utils/view?id=65325b843ddaf0d0da230f30f9ddf04a" target="_blank" title="Download/View Attachment_9_-_Construction_Cost_Estimate_Breakdown_Worksheet.xlsx" class="file">Attachment_9_-_Construction_Cost_Estimate_Breakdown_Worksheet.xlsx</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=3456cc45c17e8688c2ba8d66ddd230fd">Pre-Proposal Conference Minutes/Q & A</a> <a target="_blank" href="/utils/dZip?base=9879af434bbd94adf5c19495e35fff7e&class=document_package&id=3456cc45c17e8688c2ba8d66ddd230fd" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Sep 11, 2013</div></dt><dd><a href="/utils/view?id=e670e919d88b3b2e0a8df085a1801fb0" target="_blank" title="Download/View Base_Paving_IDIQ_Pre-Proposal_Conference_Minutes_28_Aug_13.pdf" class="file">Base_Paving_IDIQ_Pre-Proposal_Conference_Minutes_28_Aug_13.pdf</a></dd><dd><a href="/utils/view?id=a5ef652be84ac35c5397fcb736036eb2" target="_blank" title="Download/View 12-R-0003_-_Pre-Proposal_Conf._Attendance_List;_28_Aug_2013.pdf" class="file">12-R-0003_-_Pre-Proposal_Conf._Attendance_List;_28_Aug_2013.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Award
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	July 18, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 14, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	-&nbsp;Pacific
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Sep 16, 2013 3:00 pm
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Automatic, 15 days after award date
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Competitive 8(a)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Competitive 8(a)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Z -- Maintenance, repair, and alteration of real property
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	237 -- Heavy and Civil Engineering Construction/237310 -- Highway, Street, and Bridge Construction
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

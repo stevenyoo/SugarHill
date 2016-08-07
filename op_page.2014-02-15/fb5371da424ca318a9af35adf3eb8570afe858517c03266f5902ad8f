@@ -1,0 +1,629 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>TRICARE DENTAL PROGRAM (TDP) - HT9402_REQUEST_FOR_INFORMATION_RFI - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392490645');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392490645';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/images/frontend/deflogo.jpg" border="0" alt="Defense Health Agency logo"></div><div class="agency-header"><h2>TRICARE DENTAL PROGRAM (TDP)</h2><div class="sol-num">Solicitation Number: HT9402_REQUEST_FOR_INFORMATION_RFI</div><div class="agency-name">Agency: Other Defense Agencies<br>Office: Defense Health Agency<br>Location: Contract Operations Division - Aurora</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=c80eec35053fd013be9c6f7d116edb32&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/c80eec35053fd013be9c6f7d116edb32" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/c80eec35053fd013be9c6f7d116edb32" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/c80eec35053fd013be9c6f7d116edb32" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=c80eec35053fd013be9c6f7d116edb32&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=c80eec35053fd013be9c6f7d116edb32&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=c80eec35053fd013be9c6f7d116edb32&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 13, 2014</div><div class="nh-date">12:01 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=c80eec35053fd013be9c6f7d116edb32'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=c80eec35053fd013be9c6f7d116edb32'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HT9402_REQUEST_FOR_INFORMATION_RFI
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-13 12:01:42">Feb 13, 2014 12:01 pm</span>
+					</div>
+		The Defense Health Agency (DHA) is contemplating a new, single award Indefinite Delivery Indefinite Quantity (IDIQ) with Fixed Unit Price Contract for the TRICARE Dental Program (TDP). The TDP provides dental coverage to Active Duty family members, members of the Selected Reserve and Individual Ready Reserve (IRR) and their family members. The period of performance is anticipated to be a transition-in phase of one year, plus five one-year options; however DHA is exploring the possibility of a longer performance period.<br />
+<p>This Request for Information (RFI) solicits industry's feedback on capabilities currently available to meet the attached TDP requirement. The North American Industry Classification system (NAICS) Class Code is 524114.</p><br />
+<p>To assist with industry's feedback we are posting a redacted version of the current contract.</p><br />
+<p>The Intent of this RFI is to accomplish two things:</p><br />
+<p>1. Request information from potential offerors to be utilized by the DHA Dental Program Office to support its continuous market research regarding upcoming TDP requirements. Iinformation provided will not be utilized for any purpose other than for market research; and <br />2. Potentially invite offerors that respond by the due date as specified in this RFI, for one-on one sessions to assist in determining the proper acquisition strategy for the TDP.</p><br />
+<p>PROGRAM BACKGROUND:</p><br />
+<p>DHA is contemplating the award of a contract utilizing a full and open competition for providing dental coverage to all eligible family members of Uniformed Service active duty personnel and to members of the Selected Reserve and Individual Ready Reserve (IRR) and their eligible family members. Active duty service members, former spouses, parents, in-laws, disabled veterans, foreign personnel, and retirees and their families are not eligible for the TDP. For purposes of this contract, the geographic area of coverage for the Continental United States (CONUS) includes the 50 United States, the District of Columbia, Puerto Rico, Guam and the U.S. Virgin Islands. Outside the Continental United States (OCONUS) service area includes Canada, all other countries, island masses and territorial waters.</p><br />
+<p>The following services are anticipated to be the major part of the contract's scope:<br />&bull; Provide dentist networks in the United States, the District of Columbia, Puerto Rico, Guam and the U.S. Virgin Islands.<br />&bull; Claims processing and reimbursement<br />&bull; Customer service<br />&bull; Beneficiary and provider education</p><br />
+<p>REQUEST FOR INFORMATION: Please review and provide responses to the following questions:</p><br />
+<p>1. How does your commercial business process phase-out of claims when a contract ends and you are not the successful offeror on the next contract? Do you turn over residual claims to the incoming contractor or do you process the claim to completion? If you do turn over residual claims to the incoming contractor at what point do you turn them over?</p><br />
+<p>2. When you are awarded a contract for services previously provided by another contractor, does your commercial business process claims (adjudication, appeals, etc) when care was rendered on the previous contract? If not, was this a negotiated process during transition?</p><br />
+<p>3. Eligibility for TDP enrollment is driven by the service member's military status as reported to DEERS. There are cases where the service member's military status is updated and can retroactively change plan type enrollment eligibility back a number of months or years. Depending on the status change, premiums may need to be refunded, claims payment recouped, or collection of additional premiums. What is your experience with retroactive enrollments and disenrollments within a program? Do your commercial plans have set retroactive enrollment policies?</p><br />
+<p>4. What is your annual maximum on your commercial plans? Our market research indicates that commercial plans exceed TDP's $1,300 annual maximum. How do your commercial plans offer a higher annual maximum while maintaining lower premiums? Are your benefit plans more restrictive than TDP's? What are your key risk mitigations that help you control costs? What percentage of beneficiaries exceeds the annual maximum on your commercial plans? What are your thoughts on increasing the TDP annual maximum of $1,300 to be more in alignment with commercial plans?</p><br />
+<p>5. Please provide a comparison (list similarities and differences) between the TDP benefit and your commercial plans. If you have a FedVIP plan and/or other Government plan, please provide a comparison of benefits with it too.</p><br />
+<p>6. What has been your experience with contracts longer than 6 years (Transition-In period plus 5 option periods)? What are your thoughts on the TDP contract period being 10 years (Transition-In period plus 9 option periods)? How many option periods beyond the Transition-In period do you consider to be reasonable? What is the maximum period of time you can predict premiums beyond 5 years?</p><br />
+<p>7. Currently the TDP contractor is responsible for providing the content of educational materials with the Government furnishing the printing of the materials. The TDP contractor is responsible for the distribution of the Government-furnished materials. What are your thoughts on the contractor being responsible for printing the materials? What would be the cost impact on the contract? If more materials are distributed electronically, how would this impact you? What are your thoughts on the Government handling all of the electronic distribution? How do your commercial plans handle the beneficiary notifications to opt in or opt out of receiving information electronically?</p><br />
+<p>8. What are your current orthodontic benefits for adults? What are your thoughts on increasing TDP's orthodontic benefit age limit to 35 or 40 years of age? Do you think there should be a reduced amount of coverage for anyone over 23 years of age? How much risk do your actuaries see in this benefit?</p><br />
+<p>9. What is your current orthodontic, prosthodontics, implant services and other restorative care benefit for beneficiaries residing overseas? What would be the impact of making these TDP benefits the same for CONUS and OCONUS beneficiaries? If this change were to be made for the next contract what would be the implications on grandfathering in those OCONUS beneficiaries that are already in treatment?</p><br />
+<p>10. TDP currently offers only Single and Family plans. Commercial plans, FedVIP and TRDP offer Single, Self+1, and Family plans. Would there be any program and/or cost implications if TDP were to offer this too?</p><br />
+<p>11. The Government is considering the removal of the following requirement.</p><br />
+<p>C.7.6.2. The Contractor shall pay the claims generated when CONUS enrollees use non-network providers (minus the appropriate cost-share) at the lesser of: (1) billed charges; or (2) prevailing charges at the 50th percentile for that geographic area using data derived from the most current version available of the Prevailing Health Care Charges System&reg;, from FAIR Health (formerly Ingenix) at http://www.fairhealthus.org/ at the time the claim is adjudicated except when the requirements of C.7.5.3 and C.7.5.3.2, and/or C.7.6.2.1 are applicable. The Contractor will update their system with the Fair Health information annually.</p><br />
+<p>What would be the impact on your business operations? What would be the cost implications?</p><br />
+<p>12. The Government is considering adding OCONUS claims processing standards. If you have experience in processing OCONUS claims, what do you consider to be the average timeline for processing OCONUS claims? Do you foresee any unusual circumstances that would need to be considered for these standards?</p><br />
+<p>RESPONSES REQUIRED:</p><br />
+<p>Responses to this RFI should be no more than 25 pages total including the cover page. This page limit does not apply to the comparison of benefits stated in #5 above. Please submit responses to Judith.Blomquist@dha.mil and Janice.McLeod@dha.mil no later than March 4, 2014. Responses that are not submitted in a timely manner may prevent your company from being invited to participate in a one-on-one meeting. Include with your responses a point of contact (name, title, address, phone/fax, email) that DHA can contact regarding a one-on-one meeting at DHA-Aurora, Colorado. The one-on-one is tentatively scheduled for March 12 - 13, 2014. The Government anticipates the sessions to be no longer than two hours each and offers the option to conduct in-person or by telephone. Please indicate in your response your preferred day, your preference for morning or afternoon, and whether you want to conduct it in-person or by telephone. We will accommodate on a first-come, first-serve basis. Those taking this opportunity should be prepared to discuss any minor and/or major issues along with any significant cost drivers.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus-only subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">INFORMATION FOR INDUSTRY</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	INFORMATION FOR INDUSTRY
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b8416b9498ad0ddc419dcb3ad598b464' target='_blank' title='Download/View Redacted_Confd_Contract_2-11-14.pdf' class='file'&gt;Redacted_Confd_Contract_2-11-14.pdf&lt;/a&gt;"><a href='/utils/view?id=b8416b9498ad0ddc419dcb3ad598b464' target='_blank' title='Download/View Redacted_Confd_Contract_2-11-14.pdf' class='file'>Redacted_Confd_Contract_2-11-14.pdf</a> (1,841.92 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> The current redacted and conformed contract.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=9884cdc854a9eac7b431f0e8f0d6fae8' target='_blank' title='Download/View CDRLs,_1-17-14.zip' class='file'&gt;CDRLs,_1-17-14.zip&lt;/a&gt;"><a href='/utils/view?id=9884cdc854a9eac7b431f0e8f0d6fae8' target='_blank' title='Download/View CDRLs,_1-17-14.zip' class='file'>CDRLs,_1-17-14.zip</a> (3,151.68 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Current Contract Data Requirements Lists (CDRLs)</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		16401 E. CenterTech Pkwy.<br/>
+
+			
+				
+		Aurora,
+
+			
+	
+		Colorado
+
+			
+	
+		80011
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		TBD<br/>
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Judith L. Blomquist</div>
+		<div><a href="mailto:Judith.Blomquist.ctr@tma.osd.mil">Judith.Blomquist.ctr@tma.osd.mil</a></div>
+	<div>Phone: 3036763839</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=c80eec35053fd013be9c6f7d116edb32'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=c80eec35053fd013be9c6f7d116edb32'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=5d69ea24e813c32558c444b69de3097b">INFORMATION FOR INDUSTRY</a> <a target="_blank" href="/utils/dZip?base=c80eec35053fd013be9c6f7d116edb32&class=document_package&id=5d69ea24e813c32558c444b69de3097b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 13, 2014</div></dt><dd><a href="/utils/view?id=b8416b9498ad0ddc419dcb3ad598b464" target="_blank" title="Download/View Redacted_Confd_Contract_2-11-14.pdf" class="file">Redacted_Confd_Contract_2-11-14.pdf</a></dd><dd><a href="/utils/view?id=9884cdc854a9eac7b431f0e8f0d6fae8" target="_blank" title="Download/View CDRLs,_1-17-14.zip" class="file">CDRLs,_1-17-14.zip</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Special Notice
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Mar 04, 2014 2:00 pm&nbsp;Mountain
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	Q -- Medical services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	524 -- Insurance Carriers and Related Activities/524114 -- Direct Health and Medical Insurance Carriers
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

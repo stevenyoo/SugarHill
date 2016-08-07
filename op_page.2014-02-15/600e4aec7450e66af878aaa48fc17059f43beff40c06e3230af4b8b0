@@ -1,0 +1,1919 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>F--FY2012 Multiple Award Task Order Contract (MATOC) Indefinite Delivery/Indefinite Quantity (IDIQ) for Cultural Resources and Related Investigations and Studies in the Pacific Ocean Region - W9128A12R0008 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392489276');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392489276';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=6bd159b079447f4207ba0206d3cc4ed0&inline_disposition=1" border="0" alt="U.S. Army Corps of Engineers logo"></div><div class="agency-header agency-header-sm"><h2>F--FY2012 Multiple Award Task Order Contract (MATOC) Indefinite Delivery/Indefinite Quantity (IDIQ) for Cultural Resources and Related Investigations and Studies in the Pacific Ocean Region</h2><div class="sol-num">Solicitation Number: W9128A12R0008</div><div class="agency-name">Agency: Department of the Army<br>Office: U.S. Army Corps of Engineers<br>Location: USACE District, Honolulu</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=0cf9568108780f9ccf328401517d238f&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/USA/COE/DACA83/W9128A12R0008/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/USA/COE/DACA83/W9128A12R0008/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/USA/COE/DACA83/W9128A12R0008/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=0cf9568108780f9ccf328401517d238f&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=0cf9568108780f9ccf328401517d238f&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=0cf9568108780f9ccf328401517d238f&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=8bc65d11c231cf4d58b7016a72ba910e&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Apr 05, 2012</div><div class="nh-date">2:31 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=edb92ea9acb4dd301d5ad9ccdadea28f&_cview=0">Changed</a><div class="nh-date">Jul 10, 2012</div><div class="nh-date">2:41 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=615e98fed23a2a7c8b1dad9bfcd0403d&_cview=0">Changed</a><div class="nh-date">Aug 06, 2012</div><div class="nh-date">9:37 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=1dac4f9be322c041ddadfade8dfa9175&_cview=0">Changed</a><div class="nh-date">Aug 07, 2012</div><div class="nh-date">4:15 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=096e5877d62f630281a2430d9dac4c0c&_cview=0">Changed</a><div class="nh-date">Oct 10, 2012</div><div class="nh-date">7:13 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=afc53a6f4f3c492e9df33e560ee2103d&_cview=0">Changed</a><div class="nh-date">Oct 29, 2012</div><div class="nh-date">8:32 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=84f2142b0a6a96af4785831c08d2ed8e&_cview=0">Changed</a><div class="nh-date">Oct 31, 2012</div><div class="nh-date">5:37 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=31cc306741322a3696c7fa60fdf3bf7e&_cview=0">Changed</a><div class="nh-date">Oct 31, 2012</div><div class="nh-date">5:40 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e05945abb02c2efa091970bc05cb89fa&_cview=0">Changed</a><div class="nh-date">Dec 17, 2012</div><div class="nh-date">10:39 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=5d75419235dfb73bfd7d1a935eeacd3d&_cview=0">Changed</a><div class="nh-date">Jan 16, 2013</div><div class="nh-date">5:14 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e4f789d9bd18d37186c97272f33d6522&_cview=0">Changed</a><div class="nh-date">Jan 30, 2013</div><div class="nh-date">1:46 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=a3d0a558cd3189f9178041af700505bb&_cview=0">Changed</a><div class="nh-date">Feb 20, 2013</div><div class="nh-date">4:27 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3e1eef83a48470b735351f179c9afd7b&_cview=0">Changed</a><div class="nh-date">Mar 22, 2013</div><div class="nh-date">3:00 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=c3ddd558e9cbf81ab08f879faa1e74e0&_cview=0">Changed</a><div class="nh-date">Apr 22, 2013</div><div class="nh-date">3:50 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=a15666ff136d743cfcf64893d837cc71&_cview=0">Changed</a><div class="nh-date">Jun 18, 2013</div><div class="nh-date">6:50 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=e58519a4eb6457074bf81219edbf2b09&_cview=0">Changed</a><div class="nh-date">Jul 03, 2013</div><div class="nh-date">10:00 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=5b83494a55392e7155b2bb36c275c5ab&_cview=0">Changed</a><div class="nh-date">Aug 27, 2013</div><div class="nh-date">6:13 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=98af5d943070cc6bc2d9513ae61a4052&_cview=0">Changed</a><div class="nh-date">Sep 30, 2013</div><div class="nh-date">9:03 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=8aed166619b0914ce28afb868d7014b1&_cview=0">Changed</a><div class="nh-date">Sep 30, 2013</div><div class="nh-date">9:04 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=cbec7926c7b2cba6d654980b7428b52d&_cview=0">Changed</a><div class="nh-date">Nov 07, 2013</div><div class="nh-date">5:55 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=27122102d61fd407ea7017b68bc6e479&_cview=0">Changed</a><div class="nh-date">Nov 26, 2013</div><div class="nh-date">11:41 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=b204a086c1972563d09c15838fbaf1e3&_cview=0">Changed</a><div class="nh-date">Dec 24, 2013</div><div class="nh-date">4:05 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=91107ed0f55e5663e02910c33662ce87&_cview=0">Changed</a><div class="nh-date">Jan 27, 2014</div><div class="nh-date">3:43 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=0cf9568108780f9ccf328401517d238f&_cview=0">Changed</a><div class="nh-date">Feb 13, 2014</div><div class="nh-date">7:23 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8bc65d11c231cf4d58b7016a72ba910e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8bc65d11c231cf4d58b7016a72ba910e'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	W9128A12R0008
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2012-04-05 14:31:12">Apr 05, 2012 2:31 pm</span>
+						<span class="modded"> Modified: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][modified_on]" value="2012-10-10 19:13:18">Oct 10, 2012 7:13 pm<a href="/utils/viewDifferences?class=notice_description&id=da135d35e2734cf19a5f4c67bc2e5a48&compared_to=984f9f62cf60d00bf2ada4f9a6c09878" onclick="showDiff('/utils/viewDifferences?class=notice_description&id=da135d35e2734cf19a5f4c67bc2e5a48&compared_to=984f9f62cf60d00bf2ada4f9a6c09878&ajax=true',event);" target="_blank" title="Show the changes made in last edit." class="difflink">Track Changes</a></span>
+			</div>
+		This announcement constitutes a Pre-solicitation notice (synopsis) in accordance with FAR Subpart 5.2. The U.S. Army Corps of Engineers, Honolulu District hereby announces its intent to issue a solicitation entitled "FY2012 Multiple Award Task Order Contract (MATOC) Indefinite Delivery/Indefinite Quantity (IDIQ) for Cultural Resources and Related Investigations and Studies in the Pacific Ocean Region as described within this announcement. THIS IS NOT A FORMAL SOLICITATION. The Government intends to issue a formal solicitation via a Request for Proposals (RFP) in accordance with FAR Part 15, which will follow this announcement and will take place no sooner than 30 days from the publication date of this announcement. The basis for award and evaluation factors will be in accordance with the "Basis for Award/Evaluation Factors" section within this announcement below.<br /><br />The primary purpose of this announcement is to improve small business access to acquisition information and enhance competition by identifying contracting and subcontracting opportunities. The Government intends to solicit this requirement as a total small business set-aside in accordance with FAR Subpart 19.5. The North American Industry Classification code (NAICS) for this requirement is 541720. The Small Business size standard for this NAICS code is $7,000,000.00 annual average revenue. <br /><br />This requirement is intended to be awarded as a firm-fixed price commercial item services contract. The Government intends to award two (2) to four (4) separate IDIQ contracts as a result of this solicitation. The duration of the resulting IDIQ contracts will include a base year from date of award + four (4) option years. Each task order will be competed amongst the awardees. The maximum shared capacity of the MATOC is Not-to-Exceed $9,500,000.00. The Government intends to obligate itself to a one time minimum guaranteed amount of $3,000 during the term of the contract. Contractors shall be required to conform to a separate scope of work for each task order, but in general the type and nature of the requirements will be in accordance with the "Project Description" section within this announcement below.<br /><br />The U.S. Army Corps of Engineers, Honolulu District currently has one (1) IDIQ contract: W9128A-08-D-0009 with the Firm: Cultural Surveys Hawaii, Inc. for the services requested by this Pre-Solicitation announcement. Capacity on this contract has been exhausted and this has subsequently created the need for this new MATOC requirement. <br /><br />Project Description: <br />FY2012 Multiple Award Task Order Contract (MATOC) Indefinite Delivery/Indefinite Quantity (IDIQ) for Cultural Resources and Related Investigations and Studies in the Pacific Ocean Region.<br /><br />The purpose of this Indefinite Delivery/Indefinite Quantity (IDIQ) contract will be to provide archaeological and cultural resource services to include the identification, assessment, significance evaluation, and data recovery; data analysis, documentation, interpretation, mitigation, and management of historic properties including archaeological sites (both prehistoric and historic), historic architectural structures, historic districts, cultural and historic landscapes, and traditional cultural properties; documentation of cultural resources, compilation of the data into professionally acceptable reports, and reproduction of the reports in a professionally acceptable format; and curation. The services also includes, but not be limited to, preparation of research designs; development/execution of integrated cultural resource management plans (ICRMP); evaluations of significance determinations of archaeological and historic sites for eligibility to the National Register of Historic Places (NRHP); preparation and submittal of National Register (NR) nomination forms; conducting archival and literature searches, field reconnaissance surveys, intensive surveys, and data recovery programs; eliciting cultural and traditional information, conducting data gathering and interviews, and documentation of traditional cultural properties (TCP); and data recovery, archaeological and cultural site monitoring and sampling; mitigation and treatment plans, laboratory analyses, and data interpretation; implementation of cultural monitoring program; historic architectural studies/investigations, preliminary evaluations and structural condition assessment surveys, and architectural monitoring plans; Historic American Buildings Survey/Historic American Engineering Records (HABS/HAER) and cultural landscape documentations; structural analysis, preservation, rehabilitation, restoration, and reconstruction oversight, data interpretation, and report preparation. <br /><br />Specific work requirements include the following:<br /><br />a. Archaeological Reconnaissance Surveys. Conduct an examination of all or part of an area in sufficient detail to make generalizations about the types, distributions, and preliminary significance evaluation of cultural properties that may be present. <br /><br />b. Archaeological Intensive Surveys. Perform systematic and detailed examination of an area designed to gather information about cultural properties sufficient to evaluate them against criteria of significance within specific historic/prehistoric contexts and for their eligibility for inclusion to the National Register of Historic Places.<br /><br />c. Archaeological Data Recovery. Perform archaeological data recovery research on historic properties that may be adversely altered, damaged or destroyed as a result of a construction, rehabilitation, or maintenance project.<br /><br />d. Archaeological Site Monitoring. Perform site monitoring programs to include the observation and sampling of an excavation or excavation(s) related to a construction project in order to recover archaeological information and materials, if they are exposed, and to ensure that any significant features, objects or remains that may have been missed during previous investigations are recorded and preserved as archival material or in situ.<br /><br />e. Cultural Monitoring. Perform cultural monitoring programs to include the observation of an archaeological survey, excavation or excavations during the performance of a construction project in order to recover culturally important or culturally significant information and materials, if they are present or exposed, and to ensure that any previously unrecorded or undocumented significant cultural features, objects, or remains are recorded and preserved as archival material or in situ.<br /><br />f. Development of cultural resources management plan/integrated cultural resources management plans. Prepare CRMP/ICRMPs which shall establish processes for integrating the preservation, use, and management of historic properties (as individual sites, historic districts, cultural landscapes, etc.) with the mission and programs of a particular federal agency and/or military installation in a manner appropriate to the nature of the historic properties involved, and the nature of the agency and/or installation and its mission, programs, and planning processes. Any task order for the preparation of an CRMP/ICRMP shall include in its contents the following elements: forward or executive summary, introduction, statutes and regulations, overview or planning level survey, cultural resources inventory, predictions, identification system, management plan or objectives including proposed historic districts and cultural landscapes, economic analysis, public involvement plan, CRMP/ICRMP implementation, and general provisions for reporting, qualifications of personnel, periodic CRMP/ICRMP review, and dispute resolution.<br /><br />g. Architectural Reconnaissance Surveys. Conduct an examination of all or part of an area, set of structures, or buildings in sufficient detail to make generalizations about the types, distributions and initial potential significance of historic properties that may be present.<br /><br />h. Condition Assessment surveys. Perform systematic and detailed examination of an area, set of structures, or buildings designed to gather information about properties or certain structural elements sufficient to evaluate them against criteria of significance within specific historic contexts.<br /><br />i. Site Architectural Monitoring. Develop and perform site monitoring programs to include the observation and inspection of a construction project from design phase through various stages of construction, to be determined for each task order, to ensure the protection of any existing significant architectural features and/or intact material remains, and to ensure these historic resources are properly addressed throughout the construction period.<br /><br />j. Mitigation and Treatment Plans. Perform historic architectural research/mitigation on historic properties that may be adversely altered, damaged or destroyed as a result of a construction, rehabilitation, renovation, demolition, or maintenance-related project.<br /><br />k. HABS/HAER and Historic Landscape Investigations. Establish standards for and perform appropriate methods and kinds of recordation and documentation for eligible historic buildings and/or engineering structures, and landscape(s) prior to their demolition, alteration, rehabilitation, or ownership transfer in consultation with appropriate representatives of the proprietary installation, Historic Preservation Officer, and HABS/HAER Division of the National Park Service.<br /><br />l. National Register (NR) Form preparation. Prepare NR forms for historic properties, districts, and/or landscapes in accordance with existing standards, criteria, and guidelines in an effort to document all available information of the historic properties, district, and/or landscapes for decisions regarding their eligibility for inclusion into the National Register of Historic Places.<br /><br />m. Preparation of Interpretive Studies, Materials, and Services. Prepare work plans for accomplishing the study, design, and production of interpretive tours, displays, and media for historic properties in accordance with existing standards, criteria and guidelines.<br /><br />n. GPS and GIS Requirements for geospatial data collection of cultural resources.<br /><br />o. Traditional Cultural Properties. Perform systematic and detailed examination of an area, landscape, district, region, island, etc., designed to gather information about properties that may hold importance to cultural entities, organizations, or societies. Information gathering may include oral interviews, audio- and video-taping of cultural historians, translating or transcribing of archival and library documents and material, any other methodology or context available and appropriate at the time.<br /><br />Specific requirements will be defined in each individual task order. The services may also include but not be limited to furnishing labor, transportation, equipment, material, supplies and supervision to perform each task specified in individual task orders. <br /><br />The Contractor will depending upon the particular scope of work contained in any individual task order, consult with the U.S. Army Corps of Engineers, Honolulu District (POH) Contracting Officer Representative (COR) to gather information for individual APP, WP, RD, DRP, AMP, CMP, CRMP, ICRMP or other plan formulation; archival, field and laboratory investigations; scheduling, points-of-contact, and rights-of-entry requirements; to mediate or clarify task order difficulties; to provide written progress reports. Contractor shall also immediately inform and confer with COR and POH environmental personnel with regards to identification of any major and/or significant cultural resources that may have an immediate impact on any project, cultural resources management planning, military training, etc., particularly as they might relate to future activities within the specific task order project area.<br /><br />Unless otherwise stated in a task order, written progress reports shall be submitted beginning within 30 calendar days of the date of award of each task order and every 30 calendar days thereafter, unless this requirement is waived by the POH Contracting Officer. These reports shall include at a minimum the hours spent and a description of the work performed. When necessary, the report shall also provide a description of current problems that may impede performance and suggested corrective action(s). Where milestone dates specified in each task order will not be met, written requests for extensions shall be submitted to the POH Contracting Officer.<br /><br /><br />Basis for Award/Evaluation Factors: <br />The Government intends to utilize the Best Value Tradeoff Process for Source Selection in accordance with FAR 15.101-1. Award will be made to the offerors proposing the combination most advantageous to the Government based upon an integrated assessment of the proposals received. A preliminary description of the evaluation factors and sub-factors is described below. Further details pertaining to the evaluation factors will be provided in the official RFP. For this procurement, it is intended that the non-priced factors listed below, when combined, will be approximately equal in importance to price.<br /><br />Factor 1: Technical. The Technical factor is further divided into the following sub-factors: <br /><br />Factor 1, Subfactor 1: Previous Experience<br />Factor 1, Subfactor 2: Key Personnel<br />Factor 1, Subfactor 3: Technical Approach for Sample Project<br /><br />Factor 2: Past Performance: Each offeror's past performance will be reviewed to determine relevancy and confidence assessment.<br /><br />Factor 3 Price: The resulting award(s) will be a commercial service firm-fixed price Multiple Award Task Order Contract (MATOC). Price reasonableness will be utilized in the evaluation of the Firm-Fixed Price effort.<br /><br />Factor 3, Sub-factor 1: Price Schedule Rates<br />Factor 3, Sub-factor 2: Sample Project - Price<br /><br /><br />Where to Send Responses: <br />Submit responses via email to W9128A-12-R-0008@usace.army.mil. <br /><br /><br />Place of Performance:<br />The study areas shall constitute locations within the Pacific Ocean Region, specifically the US Army Corps of Engineers, Pacific Ocean Division (POD) area of operations and responsibility (AOR). POD's AOR basically constitute area of the Pacific Ocean that is bounded, but does not include, the continental land masses of North and South America to the east and Asia to the west. POD's AOR includes Alaska and the Republic of South Korea as well as, but is not limited to, Hawaii, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, Federated States of Micronesia, Republic of Palau, Republic of the Marshall Islands (including Kwajalein Atoll) and in any other areas or regions where POD has on-going activities, actions and projects.<br /><br />Other information: <br />The solicitation will be posted to the Federal Business Opportunities web site (www.fbo.gov) when released. Proposals will be due approximately 30 days after the actual solicitation issuance date. <br />
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	July 10, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008" target="_blank" class="link">https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008</a></div>
+		<div><span class="label">Description:</span> See Solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	August 6, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008" target="_blank" class="link">https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008</a></div>
+		<div><span class="label">Description:</span> See Solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	October 29, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=edb57058431ed5702ee7b258342176e7' target='_blank' title='Download/View 12r8-sf1449-am2.pdf' class='file'&gt;12r8-sf1449-am2.pdf&lt;/a&gt;"><a href='/utils/view?id=edb57058431ed5702ee7b258342176e7' target='_blank' title='Download/View 12r8-sf1449-am2.pdf' class='file'>12r8-sf1449-am2.pdf</a> (625.85 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0002</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	October 31, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=60ebd64bf71ff6ba8ac1a105ba3df410' target='_blank' title='Download/View 12r8.pdf' class='file'&gt;12r8.pdf&lt;/a&gt;"><a href='/utils/view?id=60ebd64bf71ff6ba8ac1a105ba3df410' target='_blank' title='Download/View 12r8.pdf' class='file'>12r8.pdf</a> (1,473.26 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Original Solicitation</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	October 31, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=96e6a4c27576da7b1f24e34a04a2f025' target='_blank' title='Download/View 12r8-am1.pdf' class='file'&gt;12r8-am1.pdf&lt;/a&gt;"><a href='/utils/view?id=96e6a4c27576da7b1f24e34a04a2f025' target='_blank' title='Download/View 12r8-am1.pdf' class='file'>12r8-am1.pdf</a> (201.58 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Original AM-0001</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	December 17, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=48fb0cb9d9cca70ed0b5f39c987ad6c5' target='_blank' title='Download/View sf30-12r8-am4.pdf' class='file'&gt;sf30-12r8-am4.pdf&lt;/a&gt;"><a href='/utils/view?id=48fb0cb9d9cca70ed0b5f39c987ad6c5' target='_blank' title='Download/View sf30-12r8-am4.pdf' class='file'>sf30-12r8-am4.pdf</a> (81.95 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> AM-0004</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 5</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	January 16, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=d2d0d075944f4c009f2811e85ff28355' target='_blank' title='Download/View sf30-12r8-am5.pdf' class='file'&gt;sf30-12r8-am5.pdf&lt;/a&gt;"><a href='/utils/view?id=d2d0d075944f4c009f2811e85ff28355' target='_blank' title='Download/View sf30-12r8-am5.pdf' class='file'>sf30-12r8-am5.pdf</a> (177.33 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0005</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 6</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	January 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b419919d9f5157ee8bbfb2763db87927' target='_blank' title='Download/View sf30-12r8-am6.pdf' class='file'&gt;sf30-12r8-am6.pdf&lt;/a&gt;"><a href='/utils/view?id=b419919d9f5157ee8bbfb2763db87927' target='_blank' title='Download/View sf30-12r8-am6.pdf' class='file'>sf30-12r8-am6.pdf</a> (177.42 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0006</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 7</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	February 20, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=2619c9b00174c31d9905397dac9aea94' target='_blank' title='Download/View sf30-12r8-am7.pdf' class='file'&gt;sf30-12r8-am7.pdf&lt;/a&gt;"><a href='/utils/view?id=2619c9b00174c31d9905397dac9aea94' target='_blank' title='Download/View sf30-12r8-am7.pdf' class='file'>sf30-12r8-am7.pdf</a> (179.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0007</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 8</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	March 22, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=dd804084a3da7c395b326c196c8086ef' target='_blank' title='Download/View sf30-12r8-am8.pdf' class='file'&gt;sf30-12r8-am8.pdf&lt;/a&gt;"><a href='/utils/view?id=dd804084a3da7c395b326c196c8086ef' target='_blank' title='Download/View sf30-12r8-am8.pdf' class='file'>sf30-12r8-am8.pdf</a> (180.20 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0008</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 9</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	April 22, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7765283f375509e7fdefcee8659127dc' target='_blank' title='Download/View 12r8-am9.pdf' class='file'&gt;12r8-am9.pdf&lt;/a&gt;"><a href='/utils/view?id=7765283f375509e7fdefcee8659127dc' target='_blank' title='Download/View 12r8-am9.pdf' class='file'>12r8-am9.pdf</a> (180.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0009</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 10</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__posted_date__widget">
+	June 18, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=97c5cc329ca48496fe902688fe39a400' target='_blank' title='Download/View 12r8-am10.pdf' class='file'&gt;12r8-am10.pdf&lt;/a&gt;"><a href='/utils/view?id=97c5cc329ca48496fe902688fe39a400' target='_blank' title='Download/View 12r8-am10.pdf' class='file'>12r8-am10.pdf</a> (181.38 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0010</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 11</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__posted_date__widget">
+	July 3, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][12][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=313dc0e6c24b90a18c0d252022046d60' target='_blank' title='Download/View 12r8-am11.pdf' class='file'&gt;12r8-am11.pdf&lt;/a&gt;"><a href='/utils/view?id=313dc0e6c24b90a18c0d252022046d60' target='_blank' title='Download/View 12r8-am11.pdf' class='file'>12r8-am11.pdf</a> (182.73 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0011</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 12</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__posted_date__widget">
+	August 27, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][13][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=870891e99f580ae7b1c0ca9368a50b56' target='_blank' title='Download/View 12r8-am12.pdf' class='file'&gt;12r8-am12.pdf&lt;/a&gt;"><a href='/utils/view?id=870891e99f580ae7b1c0ca9368a50b56' target='_blank' title='Download/View 12r8-am12.pdf' class='file'>12r8-am12.pdf</a> (181.35 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 0012</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 13</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__posted_date__widget">
+	September 30, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][14][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=834446f1514c17dcd79dad0582f480ec' target='_blank' title='Download/View 12r8-am13.pdf' class='file'&gt;12r8-am13.pdf&lt;/a&gt;"><a href='/utils/view?id=834446f1514c17dcd79dad0582f480ec' target='_blank' title='Download/View 12r8-am13.pdf' class='file'>12r8-am13.pdf</a> (164.49 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> W9128A-12-R-0008 AM-0013</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 14</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__posted_date__widget">
+	November 7, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][15][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=1a820553c003ce6f17c105cfea382df4' target='_blank' title='Download/View sf30-12r8-am14.pdf' class='file'&gt;sf30-12r8-am14.pdf&lt;/a&gt;"><a href='/utils/view?id=1a820553c003ce6f17c105cfea382df4' target='_blank' title='Download/View sf30-12r8-am14.pdf' class='file'>sf30-12r8-am14.pdf</a> (25.40 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 14</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 15</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__16__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__posted_date__widget">
+	November 26, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__16__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__16__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][16][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=ee183936a6040558ff89dd1641179e22' target='_blank' title='Download/View sf30-12r8-am15.pdf' class='file'&gt;sf30-12r8-am15.pdf&lt;/a&gt;"><a href='/utils/view?id=ee183936a6040558ff89dd1641179e22' target='_blank' title='Download/View sf30-12r8-am15.pdf' class='file'>sf30-12r8-am15.pdf</a> (1,144.13 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Amendment 15</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 16</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__17__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__posted_date__widget">
+	December 24, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__17__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__17__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][17][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=a9a64f859f4c3e54ee91275c12060d1c' target='_blank' title='Download/View sf30-12r8-am16.pdf' class='file'&gt;sf30-12r8-am16.pdf&lt;/a&gt;"><a href='/utils/view?id=a9a64f859f4c3e54ee91275c12060d1c' target='_blank' title='Download/View sf30-12r8-am16.pdf' class='file'>sf30-12r8-am16.pdf</a> (180.29 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> AMENDMENT 0016</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 17</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__18__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__18__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__18__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__18__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__18__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__18__posted_date__widget">
+	January 27, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__18__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__18__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][18][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=62b18ef44e95d96da019d5255ea70ff5' target='_blank' title='Download/View 12r8-am17.pdf' class='file'&gt;12r8-am17.pdf&lt;/a&gt;"><a href='/utils/view?id=62b18ef44e95d96da019d5255ea70ff5' target='_blank' title='Download/View 12r8-am17.pdf' class='file'>12r8-am17.pdf</a> (179.75 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> W9128A-12-R-0008 AM-0017</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 18</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__19__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__19__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__19__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__19__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__19__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__19__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__19__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__19__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][19][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=d863351d63aca5205cb4c9516db8ff4c' target='_blank' title='Download/View 12r8-am18.pdf' class='file'&gt;12r8-am18.pdf&lt;/a&gt;"><a href='/utils/view?id=d863351d63aca5205cb4c9516db8ff4c' target='_blank' title='Download/View 12r8-am18.pdf' class='file'>12r8-am18.pdf</a> (258.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> W9128A-12-R-0008 AM-0018</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_text_" class="field fld_office_address_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address_text__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_text_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address_text__widget">
+	USACE District, Honolulu, Building 230, Fort Shafter, HI  96858-5440
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_text_" class="field fld_place_of_performance_text fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance_text__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_text_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance_text__widget">
+	USACE District, Honolulu Building 230, Fort Shafter HI<br />
+96858-5440<br />
+US
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Kent Tamai,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:kent.a.tamai@usace.army.mil">kent.a.tamai@usace.army.mil</a></div>
+	<div>Phone: 808-835-4377</div>		<div>Fax: 808-835-4396</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Tristin N. Matsuki</div>
+		<div><a href="mailto:Tristin.N.Matsuki@usace.army.mil">Tristin.N.Matsuki@usace.army.mil</a></div>
+	<div>Phone: 808-835-4382</div>		<div>Fax: 808-835-4396</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=8bc65d11c231cf4d58b7016a72ba910e'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=8bc65d11c231cf4d58b7016a72ba910e'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=a2a4c9d25aa73241a630119752ad71f8">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=a2a4c9d25aa73241a630119752ad71f8" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jul 10, 2012</div></dt><dd><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008" target="_blank" title="Go to https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008 in new browser window." class="link">See Solicitation</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1af04f5c56925ea76abd7641da476957">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=1af04f5c56925ea76abd7641da476957" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 06, 2012</div></dt><dd><a href="https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008" target="_blank" title="Go to https://acquisition.army.mil/asfi/solicitation_view.cfm?psolicitationnbr=W9128A12R0008 in new browser window." class="link">See Solicitation</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=0d41a66509ee1ad1e00a8696967fffa0">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=0d41a66509ee1ad1e00a8696967fffa0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Oct 29, 2012</div></dt><dd><a href="/utils/view?id=edb57058431ed5702ee7b258342176e7" target="_blank" title="Download/View 12r8-sf1449-am2.pdf" class="file">12r8-sf1449-am2.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=538ad04b8c1fed5a9348a8eba4423b8e">Solicitation 2</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=538ad04b8c1fed5a9348a8eba4423b8e" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Oct 31, 2012</div></dt><dd><a href="/utils/view?id=60ebd64bf71ff6ba8ac1a105ba3df410" target="_blank" title="Download/View 12r8.pdf" class="file">12r8.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=fd795d7a9d15ef188999e8eecd5cd113">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=fd795d7a9d15ef188999e8eecd5cd113" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Oct 31, 2012</div></dt><dd><a href="/utils/view?id=96e6a4c27576da7b1f24e34a04a2f025" target="_blank" title="Download/View 12r8-am1.pdf" class="file">12r8-am1.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=5a4e4655fb33d25da1cdf1a0b02fd793">Amendment 4</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=5a4e4655fb33d25da1cdf1a0b02fd793" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 17, 2012</div></dt><dd><a href="/utils/view?id=48fb0cb9d9cca70ed0b5f39c987ad6c5" target="_blank" title="Download/View sf30-12r8-am4.pdf" class="file">sf30-12r8-am4.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=3c54d06327ace302a1161b09f6d121c7">Amendment 5</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=3c54d06327ace302a1161b09f6d121c7" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2013</div></dt><dd><a href="/utils/view?id=d2d0d075944f4c009f2811e85ff28355" target="_blank" title="Download/View sf30-12r8-am5.pdf" class="file">sf30-12r8-am5.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=daae48620eedc9841381fffb5f366afe">Amendment 6</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=daae48620eedc9841381fffb5f366afe" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 30, 2013</div></dt><dd><a href="/utils/view?id=b419919d9f5157ee8bbfb2763db87927" target="_blank" title="Download/View sf30-12r8-am6.pdf" class="file">sf30-12r8-am6.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=79d5ff28d0bb56692fb5d135da069c8c">Amendment 7</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=79d5ff28d0bb56692fb5d135da069c8c" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 20, 2013</div></dt><dd><a href="/utils/view?id=2619c9b00174c31d9905397dac9aea94" target="_blank" title="Download/View sf30-12r8-am7.pdf" class="file">sf30-12r8-am7.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=9ec1a90f46936d49eaff18c22ecc37b3">Amendment 8</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=9ec1a90f46936d49eaff18c22ecc37b3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Mar 22, 2013</div></dt><dd><a href="/utils/view?id=dd804084a3da7c395b326c196c8086ef" target="_blank" title="Download/View sf30-12r8-am8.pdf" class="file">sf30-12r8-am8.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=4f1fc6fc31db87f5ab0cb50c06715c9f">Amendment 9</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=4f1fc6fc31db87f5ab0cb50c06715c9f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Apr 22, 2013</div></dt><dd><a href="/utils/view?id=7765283f375509e7fdefcee8659127dc" target="_blank" title="Download/View 12r8-am9.pdf" class="file">12r8-am9.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d2ddd6d6af03a6dd239e3ed2fe83658f">Amendment 10</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=d2ddd6d6af03a6dd239e3ed2fe83658f" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jun 18, 2013</div></dt><dd><a href="/utils/view?id=97c5cc329ca48496fe902688fe39a400" target="_blank" title="Download/View 12r8-am10.pdf" class="file">12r8-am10.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=5463e93e78472465e997800ce69cf5d3">Amendment 11</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=5463e93e78472465e997800ce69cf5d3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jul 03, 2013</div></dt><dd><a href="/utils/view?id=313dc0e6c24b90a18c0d252022046d60" target="_blank" title="Download/View 12r8-am11.pdf" class="file">12r8-am11.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=1b0da489cd2ded9f45d4dff8329e279a">Amendment 12</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=1b0da489cd2ded9f45d4dff8329e279a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Aug 27, 2013</div></dt><dd><a href="/utils/view?id=870891e99f580ae7b1c0ca9368a50b56" target="_blank" title="Download/View 12r8-am12.pdf" class="file">12r8-am12.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=413f343b1527947ef541785f435c2849">Amendment 13</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=413f343b1527947ef541785f435c2849" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Sep 30, 2013</div></dt><dd><a href="/utils/view?id=834446f1514c17dcd79dad0582f480ec" target="_blank" title="Download/View 12r8-am13.pdf" class="file">12r8-am13.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=b682076e4d044590da5d398ab55789a1">Amendment 14</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=b682076e4d044590da5d398ab55789a1" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 07, 2013</div></dt><dd><a href="/utils/view?id=1a820553c003ce6f17c105cfea382df4" target="_blank" title="Download/View sf30-12r8-am14.pdf" class="file">sf30-12r8-am14.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=0b46540f80718be4c2cea0a31fbb2a22">Amendment 15</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=0b46540f80718be4c2cea0a31fbb2a22" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Nov 26, 2013</div></dt><dd><a href="/utils/view?id=ee183936a6040558ff89dd1641179e22" target="_blank" title="Download/View sf30-12r8-am15.pdf" class="file">sf30-12r8-am15.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=9e5e1bb152bd51a3b167951a9e2e6bcd">Amendment 16</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=9e5e1bb152bd51a3b167951a9e2e6bcd" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 24, 2013</div></dt><dd><a href="/utils/view?id=a9a64f859f4c3e54ee91275c12060d1c" target="_blank" title="Download/View sf30-12r8-am16.pdf" class="file">sf30-12r8-am16.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=687e870a9e9e3d76d9d2e1ef66a434b0">Amendment 17</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=687e870a9e9e3d76d9d2e1ef66a434b0" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 27, 2014</div></dt><dd><a href="/utils/view?id=62b18ef44e95d96da019d5255ea70ff5" target="_blank" title="Download/View 12r8-am17.pdf" class="file">12r8-am17.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=ee88017be79052ae7dcc535355b57545">Amendment 18</a> <a target="_blank" href="/utils/dZip?base=8bc65d11c231cf4d58b7016a72ba910e&class=document_package&id=ee88017be79052ae7dcc535355b57545" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 13, 2014</div></dt><dd><a href="/utils/view?id=d863351d63aca5205cb4c9516db8ff4c" target="_blank" title="Download/View 12r8-am18.pdf" class="file">12r8-am18.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	April 5, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Mar 14, 2014 2:00 pm&nbsp;Hawaii
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	August 9, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	July 19, 2012
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	Total Small Business
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	F -- Natural resources & conservation services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541720 -- Research and Development in the Social Sciences and Humanities
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

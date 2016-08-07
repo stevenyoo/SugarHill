@@ -1,0 +1,609 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Safety Engineering, Safety Support and Owner Advocacy Services - HHS-NIH-OD-OLAO-14-003 - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/7/72c55977cf1ba904edf2cb988c1a259d.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392492142');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392492142';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=f49403464402175e50fe3536170cb204&inline_disposition=1" border="0" alt="National Institutes of Health logo"></div><div class="agency-header agency-header-med"><h2>Safety Engineering, Safety Support and Owner Advocacy Services</h2><div class="sol-num">Solicitation Number: HHS-NIH-OD-OLAO-14-003</div><div class="agency-name">Agency: Department of Health and Human Services<br>Office: National Institutes of Health<br>Location: Office of Administration</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=178d21ffa79ebac7e01038419b417988&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/spg/HHS/NIH/OoA/HHS-NIH-OD-OLAO-14-003/listing.html" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/spg/HHS/NIH/OoA/HHS-NIH-OD-OLAO-14-003/listing.html" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/spg/HHS/NIH/OoA/HHS-NIH-OD-OLAO-14-003/listing.html" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=178d21ffa79ebac7e01038419b417988&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=178d21ffa79ebac7e01038419b417988&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=178d21ffa79ebac7e01038419b417988&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist"><li class="last"><span class="active">Original Synopsis</span><div class="nh-date">Feb 12, 2014</div><div class="nh-date">4:23 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=178d21ffa79ebac7e01038419b417988'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=178d21ffa79ebac7e01038419b417988'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	HHS-NIH-OD-OLAO-14-003
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2014-02-12 16:23:09">Feb 12, 2014 4:23 pm</span>
+					</div>
+		&nbsp;<br />
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">This is a Small Business Sources Sought Notice. This is NOT a solicitation for proposals, proposal abstracts, or quotations. The purpose of this notice is to obtain information regarding (1) the availability and capability of qualified small business sources; (2) whether they are small businesses; HUBZone small businesses; service-disabled, veteran-owned small businesses; woman-owned small businesses; or small disadvantaged businesses; and (3) their size classification relative to the North American Industry classification System (NIACS) code for the proposed acquisition. Your responses to the information required will assist the Government in determining the appropriate acquisition method, including whether a set-aside is possible. An organization that is not a small business under the applicable NAICS code 541990, should not submit a response to this notice.</span></p><br />
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span></p><br />
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The National Institutes of Health (NIH), Division of Occupational Health and Safety (DOHS) is conducting a market survey to determine the availability and capability of interested businesses to provide engineering and owner advocacy services. <strong style="mso-bidi-font-weight: normal">These services are commercially available.</strong><em style="mso-bidi-font-style: normal"></em></span></p><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;1.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The Period of Performance shall be one (1) year from the date of award plus four (4) options years.</span></p><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><strong style="mso-bidi-font-weight: normal"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;2.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong style="mso-bidi-font-weight: normal"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The contractor shall provide a statement of capability that provides proof of performance of the services specified required for this opportunity.</span></strong></p><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><strong style="mso-bidi-font-weight: normal"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;3.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong style="mso-bidi-font-weight: normal"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The contractor shall provide resumes for all its employees that have the requisite experience and will perform the activities required for this opportunity.</span></strong></p><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;4.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The contractor shall provide support services critical to supporting the mission of the DOHS, the NIH and the Department of Health and Human Services as defined by this Statement of Work (SOW). Examples of those types of services include: </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Mechanical/Industrial/Safety Engineering Plan Reviews </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Mechanical/Industrial/Safety Engineering Site Assessments/Audits </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Validation of engineering systems in newly constructed or renovated biomedical research facilities </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Maximum and High Containment [Biosafety Level (BSL) and Animal Biosafety Level (ABSL) 3 and 4) Lab Certification Support </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Owner's Advocate Services </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Occupational Health &amp; Safety and Biosafety/Microbiological Consultation </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Risk Communication Consultation and Training </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Program &amp; Management Support Services </span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l1 level1 lfo2"><span style="FONT-FAMILY: Wingdings; FONT-SIZE: 11pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings"><span>&sect;<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">These projects at NIH range in duration from one day to months until completion. Some projects are designed with multiple deliverables phased over an established period of time.<span style="mso-spacerun: yes">&nbsp; </span></span></p><br />
+<p style="PAGE-BREAK-BEFORE: always; MARGIN-LEFT: 0.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">The contractor shall be licensed and regularly engaged in the professional practice of owner advocacy services, mechanical, industrial, and safety engineering reviews, assessments, validation studies, and audits. The contractor shall have past experience providing these services for biomedical research facilities. </span></p><br />
+<p style="MARGIN-LEFT: 0.5in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 0.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">The contractor shall perform the following Engineering and Owner Advocacy support services on an as-needed basis as directed by the NIH Project Officer (PO): </span></p><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">A. Mechanical, Industrial, Safety Engineering Support Services </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">These services shall include the full spectrum of mechanical, industrial and/or safety engineering consulting to include: </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1) The contractor shall conduct plan review related to identifying safety and health issues that may arise due to the construction and/or renovation of biomedical research laboratory facilities. The engineer will evaluate plans with safety and health specialists, facility personnel, program personnel, NIH management and contractors to ensure compliance with all applicable guidelines, standards, or requirements. To ensure the safety of NIH staff and the local community, the contractor shall provide support for validating engineering systems in newly constructed or renovated biomedical research facilities, including BSL-3, ABSL-3, BSL-4 and ABSL-4 facilities. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2) The contractor shall support the DOHS and the ORF with building hardening and Biosurety initiatives by reviewing the facility engineering systems, including but not limited to the HVAC components and location, primary and secondary containment design, and overall structural design to ensure protection of NIH staff, the surrounding community, and federal property. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">3) The contractor shall support the DOHS and the ORF with the commissioning process for all newly constructed BSL-3, ABSL-3, BSL-4 and ABSL-4 facilities during the design phase, construction phase and testing phase to ensure the systems function per the design and performance requirements. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">4) The contractor shall provide engineers to conduct general and local exhaust ventilation studies, indoor air quality studies, and construction consultation for NIH biomedical research facilities. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">5) The contractor shall provide engineers to support the validation and certification process for BSL-3 and BSL-4 (High and Maximum Containment) Laboratories located on the Bethesda Campus, throughout the United States, and possibly laboratories located in foreign countries. 4 </span></p><br />
+<p style="PAGE-BREAK-BEFORE: always; MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">The contractor will work with ORF to make sure the mechanical and containment systems are in optimal operating order and ready to support high priority research projects affecting the Nations' public health. The contractor shall act as the Government's representative for ensuring that maintenance and repair are properly performed. The contractor shall provide support services to assist in the annual recertification of BSL-3 and BSL-4 laboratories in accordance with the CDC/NIH publication-<em>Biosafety in Microbiological and Biomedical Laboratories</em>. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">6) The contractor shall provide appropriate project staff and certified/licensed professionals to conceive, develop, implement, direct, and evaluate engineering reviews, assessments, audits, and/or validation studies and have education and experience in proper disciplines. Examples of required professional capabilities are: </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">a. Industrial Engineer </span></p><br />
+<p style="MARGIN-LEFT: 1.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">b. Mechanical Engineer </span></p><br />
+<p style="MARGIN-LEFT: 1.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">c. Safety Engineer </span></p><br />
+<p style="MARGIN-LEFT: 1.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">d. Certified Industrial Hygienist (CIH) </span></p><br />
+<p style="MARGIN-LEFT: 1.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">e. Certified Safety Professional (CSP)</span></p><br />
+<p style="MARGIN-LEFT: 1.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">f. Certified Biological Safety Professional or Registered Biosafety Professional <span style="mso-spacerun: yes">&nbsp;&nbsp;</span>(CBSP or RBP) </span></p><br />
+<p style="MARGIN-LEFT: 1.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">g. Occupational Safety and Health Consultant </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">7) The contractor shall provide onsite safety engineering consultation and research support services as defined in subtasks under this requirement. Examples of these sub-tasks include, but are not limited to: Designing and developing models to demonstrate worst case scenarios for breaches in containment resulting in release of high pathogenic, biological agents into the surrounding communities; developing functional mockups and models for demonstrating facility's ability to withstand an attack on the building's containment systems (Biosurety); and engineering research support for national and international biomedical research laboratory facilities. </span></p><br />
+<p style="MARGIN-LEFT: 0.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">B. Owner's Advocate Services </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">The contractor shall provide the full spectrum of Owner's Advocate Services to include: </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1) Serving as an advocate for the DOHS on projects at NIH involving new construction, renovations, as well as repair and maintenance activities for BSL-3 and BSL-4 facilities and biomedical research laboratories. The assigned personnel shall have knowledge of the services listed in Section 1.3 and be available to attend plan review meetings, as necessary. Accurate meeting minutes and shall be submitted to the program area or PO, as specified. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2) Notifying NIH/ORF project officers and construction contractors during planning and review meetings when appropriate program areas (e.g., DOHS, Division of Environmental Protection) shall be included to ensure appropriate and safe removal of hazardous materials from NIH facilities prior to renovation (e.g., asbestos, lead-based paint, mold contamination, etc.) or to ensure appropriate program areas are involved in decision making when it relates to Occupational Health and Safety, Biosafety and Biosurety. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">3) Reviewing construction plans to ensure specifications for supply and exhaust systems (HVAC and exhaust), general laboratory design, and equipment (e.g., including but not limited to biological safety cabinets, safety showers, eyewash stations, chemical fume hoods) meet all applicable standards and guidelines. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">4) Validating air balance reports to ensure proper air flow dynamics; validating facility system controls; and other safety and health related monitoring efforts. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">5) Contractor personnel shall ensure that appropriate specialist(s) is/are included when specialized input may be required. </span></p><br />
+<p style="MARGIN-LEFT: 0.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">C. Occupational Health and Safety and Biosafety Services </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">These services shall include the full spectrum of Occupational Health and Safety and Biosafety Consultation necessary to support the Safety Engineering Services requested under this contract. Support to include: </span></p><br />
+<p style="MARGIN-LEFT: 0.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1) Working with the safety engineer(s), safety and health specialists, facility personnel, program personnel, NIH management and contractors during and after the commissioning process to assist with plan reviews, validation testing of the facility's systems to identify safety and health issues specific to high containment laboratories and biomedical research laboratory facilities. <br /><br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2) Providing consultation on highly complex Biosafety related issues (e.g., specifications based on the type of biological agent being used in the research) to ensure compliance with all guidelines, standards, or requirements; and to assist during the certification phase of newly constructed laboratory facilities. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />3) Testing of facility containment and decontamination systems to validate efficacy. This includes consultation on the methodology of testing, submission of testing protocol, preparation of testing materials, training other support staff in testing methodology, coordination with an independent laboratory certified by the American Industrial Hygiene Association's Environmental Microbiology Laboratory Accreditation Program (EMLAP) to analyze results, and providing a report summarizing the validation testing. <br /><br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">D. Risk Communication Consultation and Training <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />These services shall include the full spectrum of Risk Communication Consultation and Training necessary to support the Safety Engineering Services requested under this contract. Support to include: <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />1) Developing and providing both oral and written communication on safety engineering and health hazards, which includes professional technical reports and audits, professional presentations, and delivery of professional presentations or training to one or two employees or large groups. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />2) Communicating safety and health risks and protective measures taken to ensure safety of NIH employees, visitors and community members regarding construction of high containment laboratories. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />3) Serving as a subject matter expert on high profile construction projects involving construction of high containment laboratories. The contractor shall assist in the development and delivery of presentations as it relates to facility design and operation requirements, laboratory validation and certification processes, regulatory compliance issues, etc. <br /><br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">E. Program Management and Support Services <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />These services shall include the full spectrum of Program Management and Support Services necessary to support the Division's Safety Engineering, Biosafety and Biosurety Programs both national and international in scope. Support to include: </span></p><br />
+<p style="MARGIN-LEFT: 0.5in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1) Developing new or reviewing and revising existing government documents or products as directed by the PO. The contractor will assist with the conception, collaboration, development and delivery of products such as reports, guidelines, publications, flyers, web content and layout, posters and training products. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />2) Assuring and tracking progress of on-going data collection and management of all special projects ensuring that data is adequately maintained. The contractor will also assist in the development of abstracts, manuscripts, presentations and publications related to these special projects. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />3) Scheduling, attending and taking minutes for routine progress meetings with necessary safety and health specialists, facility personnel, program personnel, NIH management and contractors to ensure timelines are developed and projects are on schedule. The contractor shall provide regularly scheduled briefings to the PO and Director, DOHS. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />4) Organizing and scheduling of meetings and trainings for the Division's Safety Engineering, Biosafety and Biosurety Programs both national and international in scope. </span></p><br />
+<p><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><span>&bull;5.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Technical Requirements </span></strong></p><br />
+<p style="MARGIN-LEFT: 0.5in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Only qualified personnel with adequate and verifiable experience in the required areas of specialization shall be assigned to this contract. The PO will review the credentials (C.V., resume of experience and references) and approve all personnel assigned to projects by the contractor. The substitution of personnel on ongoing or proposed projects must be requested in writing 30 days in advance, and be approved by the PO prior to any changes being implemented. </span></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">A. Key Personnel </span></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><em><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">a. Senior Professional Engineer, Level V </span></em></p><br />
+<p style="MARGIN-LEFT: 0.75in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1. Specialized and unique experience </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN: 0in 0in 2.35pt 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Possesses unique experience, skills, and expert knowledge in highly specialized technical, functional, and/or process areas within the engineering discipline or across engineering disciplines. </span></p><br />
+<p style="MARGIN: 0in 0in 2.35pt 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Prior work experience with validating and certifying biomedical research facilities and high containment laboratories. </span></p><br />
+<p style="MARGIN: 0in 0in 2.35pt 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span></p><br />
+<p style="MARGIN: 0in 0in 2.35pt 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Facility design and mechanical design for BSL-3 and BLS-4 laboratories. </span></p><br />
+<p style="MARGIN: 0in 0in 2.35pt 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Demonstrated experience in national and international regulations regarding laboratory safety and how to apply to engineering design guidelines. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Extensive experience conducting plan reviews for laboratory facilities and providing written reports. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2. Academic Qualifications </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Professional degree from accredited academic institution in industrial or mechanical engineering. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">3. Professional Credentials </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Certification licensure as a professional engineer (PE). </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Additional certifications in industrial hygiene or safety are highly desirable (CIH, CSP, CBSP). </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><em><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">b. Occupational Safety &amp; Health Manager, Level IV </span></em></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1) Functional Description: Expertise and experience performing safety surveys and preparing highly professional technical reports. Works independently on complex projects. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2) Minimum Experience: This position typically requires 15-20 years of experience in the field of occupational safety and health. Typically credentialed as a certified safety professional (CSP) or related certification (e.g. CIH, CBSP). <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">3) Minimum Education: Bachelor's, Master's or Doctorate Degree in related field. </span></p><br />
+<p style="MARGIN-LEFT: 0.75in">&nbsp;</p><br />
+<p style="TEXT-INDENT: 0.25in; MARGIN-LEFT: 0.75in"><em><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">c. Project Manager </span></em></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1) Specialized and unique experience </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Responsible for oversight and execution of all safety engineering and owner advocacy projects specified in this statement of work. Directly responsible for coordination of all necessary resources and liaison with project officer, senior management and all other project related parties for successful project execution. Supervises subordinate project personnel as appropriate. Provides regularly scheduled updates to the project officer and senior management on the status of projects. The Project Manager is responsible for the timely submission of project data and reports. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Prior work experience managing complex safety engineering projects, usually involving multiple tasks, locations and groups of personnel. Determines program objectives and requirements, performance indicators and quality control activities. Performs day-to-day management of overall contract support operations. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">This position requires a minimum of 3-5 years of project management experience. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2) Academic Qualifications </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Bachelor's or Master's degree in related field. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><em><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">d. Biosafety/Microbiologist Consultant </span></em></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1) Specialized and unique experience </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Prior work experience providing consultation on highly complex biosafety related issues to ensure compliance with all guidelines and standards. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Demonstrated experience providing microbiological testing of facility containment and decontamination systems; </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Experience evaluating sample results and translating results in concise technical reports. </span></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2) Academic Qualifications </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Bachelor's or Master's degree from accredited academic institution in microbiology, occupational health and safety or related field. <br /><br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">3) Professional Credentials </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">Certification is highly desirable (e.g., CBSP or RBP). </span></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><em><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">e. Safety Engineer, Level III </span></em></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1. Functional Description: Possesses in-depth technical and theoretical knowledge in specific discipline. Usually works independently to review, evaluate, and develop solutions to safety engineering-related problems and reviews engineering plans independently. </span></p><br />
+<p style="MARGIN-LEFT: 1in">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">2. Minimum Experience: This position typically requires 10 to 15 years of experience in one of the engineering disciplines. </span></p><br />
+<p style="MARGIN-LEFT: 1in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><span style="mso-spacerun: yes">&nbsp;</span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">3. Minimum Education: Bachelor's degree or equivalent in Engineering, Science, or other related field. </span></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><em><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">f. Safety Engineer, Level II </span></em></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">&nbsp;</span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1. Functional Description: Possesses technical and theoretical knowledge in specific discipline. Usually works independently to review, evaluate, and develop solutions to safety engineering-related problems and reviews engineering plans independently. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />2. Minimum Experience: This position typically requires 5 to 10 years of experience in one of the engineering disciplines. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">3. Minimum Education: Bachelor's degree or equivalent in Engineering, Science, or other related field. </span></p><br />
+<p style="MARGIN-LEFT: 0.75in">&nbsp;</p><br />
+<p style="TEXT-INDENT: 0.25in; MARGIN-LEFT: 0.75in"><em><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">g. Scientific and Technical Support, Level I II </span></em></p><br />
+<p style="MARGIN-LEFT: 0.75in"><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><span style="mso-tab-count: 1">&nbsp;&nbsp;</span></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin">1. Functional Description: Work directly with DOHS program managers on project management activities. Independently manage projects or tasks of varying complexity and scope; have the ability to plan, direct and deliver products without supervision; and serve as a team lead and oversee team activities. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />2. Minimum Experience: This position typically requires greater than 5 years of experience. <br /></span><span style="FONT-FAMILY: 'Calibri', 'sans-serif'; FONT-SIZE: 11pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br />3. Minimum Education: Bachelor's degree or Master's degree in related field. </span></p><br />
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span></p><br />
+<p style="TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;6.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong style="mso-bidi-font-weight: normal"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">Critical Requirements and Core Capabilities</span></strong></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;a.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="text-decoration: underline;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">Work Requirements</span></span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The Contractor's staff will need to report to engineering validation studies, indoor air quality studies, and other assessments during non-core work hours that will include early mornings (3 am - 6 am), nights and weekends. The Contractor must be able to provide staff that can provide services during these hours. The Contractor's staff must be punctual and prepared to complete the project.</span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;b.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="text-decoration: underline;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">Biocontainment Experience</span></span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The Contractor must demonstrate experience in conducting engineering validation testing of BSL-3, ABSL-3, BSL-4, and ABSL-4 facilities. Engineers on the Contractors staff must have a minimum of 5 years of experience conducting engineering validation tests to comply with the Biosafety in Microbiological and Biomedical Laboratories, 5<sup>th</sup> edition. Contractor must demonstrate commanding knowledge of relevant rules and regulations including the Biosafety in Microbiological and Biomedical Laboratories, 5<sup>th</sup> edition, CDC/DSAT Select Agent requirements, and USDA/APHIS requirements.</span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="text-decoration: underline;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"></span></span></p><br />
+<p style="TEXT-INDENT: -0.25in; MARGIN-LEFT: 1in; mso-add-space: auto; mso-list: l0 level2 lfo1"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;c.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="text-decoration: underline;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">Knowledge of Regulations</span></span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto">&nbsp;</p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The Contractor must demonstrate in depth knowledge of biosafety and biocontainment policies, procedures, and regulations. This requirement must be demonstrated through past engagements. The policies, procedures, and regulations include but are not limited to the Biosafety in Microbiological and Biomedical Laboratories, 5<sup>th</sup> edition, the NIH Design Requirements Manual, CDC/DSAT Select Agent Regulations, USDA/APHIS Vivarium requirements, and the 2002 Public Safety and Health Act.</span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="text-decoration: underline;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span style="TEXT-DECORATION: none">&nbsp;</span></span></span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;d.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="text-decoration: underline;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">Security Clearance </span></span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The Contractor's personnel must be cleared (or clearable) for a CDC Select Agent Clearance. This clearance is similar to a Department of Defense Secret clearance level. </span></p><br />
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><span>&bull;e.<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="text-decoration: underline;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">Medical Clearance</span></span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span></p><br />
+<p style="MARGIN-LEFT: 1in; mso-add-space: auto"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">The Contractor must have personnel that are cleared (or clearable) for the NIH Biosurety Program and the Animal Exposure program. The Biosurety Program evaluation requires both a physical and mental health screening and clearance. The Animal Exposure program requires annually updated inoculations.</span></p><br />
+<p style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in; mso-border-bottom-alt: solid windowtext .75pt; mso-padding-alt: 0in 0in 1.0pt 0in"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">Responses must reference Sources Sought Number HHS-NIH-OD-OLAO-14-003 and include the following: (1) Name and address of the organization, (2) Size and type of business:&nbsp; Small Business; HUBZone Small Business; Service-Disabled Veteran-Owned Small Business; 8(a) Small Business; Veteran-Owned Small Business; Woman-Owned Small Business; or Small Disadvantaged Business, (3) Point of contact with name, title, phone, fax and email, (4) DUNS number, (5) Contractor's capability statement addressing the required services, (6) List of organizations to whom the same or similar type of service has been previously provided to include contract number, dollar value, name and phone number of Contracting Officer, .&nbsp; ALL INFORMATION SUBMITTED IN RESPONSE TO THIS ANNOUNCEMENT MUST BE RECEIVED ON OR BEFORE THE CLOSING DATE.&nbsp; THE CLOSING DATE FOR RESPONSES IS&nbsp;02/28/2014&nbsp; AT 2 PM Eastern Time.&nbsp; Emailed capability statements are authorized (either in Microsoft Word or PDF), but it is the responsibility of the vendor to make certain that the email was received.&nbsp; All questions and/or comments must be in writing and may be emailed to Marcia Goldman at </span><a name="_GoBack"></a><a href="mailto:GoldmanM@od.nih.gov"><span style="BACKGROUND: white; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">GoldmanM@od.nih.gov</span></a><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">.&nbsp; Comments and questions will NOT be answered, but will assist in creating a solicitation for this requirement.&nbsp; Three (3) copies of the capability statement are required if submission is via mail.&nbsp; Submissions via mail shall be sent to:&nbsp; Marcia Goldman (Ref. HHS-NIH-OD-OLAO-14--0034), National Institutes of Health, OLAO Office of Acquisitions, 6011 Executive Blvd., Room 539A (MSC 7663), Rockville, MD 20852.&nbsp; (NOTE:&nbsp; If you are using a courier service, Federal Express, UPS, or Express Mail, please note that the Post Office does not deliver Express Mail to this address).&nbsp;</span></p><br />
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin">&nbsp;</span></p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		6011 Executive Blvd<br />
+5th Floor<br/>
+
+			
+				
+		Rockville,
+
+			
+	
+		Maryland
+
+			
+	
+		20852-3804
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field last field-last fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Marcia  - Goldman,</div>
+	<div>Contracting Officer</div>	<div><a href="mailto:goldmanm@od.nih.gov">goldmanm@od.nih.gov</a></div>
+	<div>Phone: 301-496-2302</div>		<div>Fax: 301-402-3407</div>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=178d21ffa79ebac7e01038419b417988'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=178d21ffa79ebac7e01038419b417988'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Sources Sought
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 12, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 28, 2014 11:59 pm&nbsp;Eastern
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	R -- Professional, administrative, and management support services
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	541 -- Professional, Scientific, and Technical Services/541330 -- Engineering Services
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>

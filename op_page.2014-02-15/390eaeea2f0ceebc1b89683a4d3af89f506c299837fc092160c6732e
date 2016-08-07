@@ -1,0 +1,2057 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Vance Flight Operations Support (FOS) - Federal Business Opportunities: Opportunities</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://static.symplicity.com/yui/build/container/assets/skins/sam/container.css?t=1309361679&css=container" media="all">
+
+<link rel="stylesheet" href="/css/frontend.css?v44" type="text/css">
+
+<link rel="stylesheet" href="/css/fbo.css?v44" type="text/css">
+
+
+<script type="text/javascript">
+var PRINT_PREVIEW = 0;
+</script>
+
+
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/yahoo-dom-event/yahoo-dom-event.js?t=1336141012"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/dragdrop/dragdrop-min.js?t=1309361659"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/container/container-min.js?t=1309361681"></script>
+<script type="text/javascript" src="https://static.symplicity.com/yui/build/connection/connection-min.js?t=1309361653"></script>
+<script type="text/javascript" src="/js/fbo.js?t=1280525208"></script>
+<script type="text/javascript" src="https://static.symplicity.com/js/dhtml_utils.js?t=1384984983"></script>
+<script type="text/javascript" src="/popwin/windows.js?t=1206743977"></script>
+<script type="text/javascript" src="/js/cache/f/f1cda7ddd21c046db12ed16d7e0a0632.js"></script>
+
+<script type="text/javascript">
+function printPreview() {
+    var w = window.open('/index?print_preview=1&version=1392489405');
+}
+function printQuick() {
+    frame = frames['__hiddenframe'+nextFrame()];
+    frame.location.href = '/index?print_preview=1&print_dialog=1&version=1392489405';
+}
+function printMe() {
+  if (typeof(window.print) == 'function') {
+    window.print();
+  }
+  else {
+    print();
+  }
+}
+function printPreviewNow() {
+	if (document.getElementById('stylesheet_print')) {
+		var s = document.getElementById('stylesheet_print');
+		var p = document.createElement('link');
+		var m = (s.getAttribute('media') == 'print') ? 'all' : 'print';
+		p.setAttribute('id',s.getAttribute('id'));
+		p.setAttribute('rel',s.getAttribute('rel'));
+		p.setAttribute('href',s.getAttribute('href'));
+		p.setAttribute('media',m);
+		
+		document.getElementsByTagName('head')[0].replaceChild(p,s);
+	} else {
+		alert("Stylesheet with id 'stylesheet_print' not found.");
+	}
+}
+
+
+</script>
+</head>
+<body class="yui-skin-sam html4 " onload="">
+<div id="overDiv"></div>
+	<div class="sys-vendor"><div class="sec-opportunity">
+				<div class="acc_hide">
+						<h1>Accessibility Information</h1>
+			<p>Users of assistive technologies such as screen readers should use the following link to activate <em>Accessibility Mode</em> before continuing: <a href="/accessibility">Learn more and Activate accessibility mode.</a></p>
+						<ul>
+				<li><a href="#content" title="Skip to content">Skip to content</a></li>				
+				<li><a href="#tabs" title="Skip to tabs">tabs</a></li>
+				<li><a href="#nav" title="Skip to main menu">main menu</a></li>
+												<li><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility Mode</a></li>
+			</ul>
+		</div>
+			
+		<div id="bodywrap">
+						<div id="ftw">
+				<div id="ftl"></div>
+				<div id="ftr"></div>
+			</div>
+						<div id="c">
+												<div id="h">			
+					<h1><a href="/?s=main&amp;mode=list&amp;tab=list" 
+													title="Federal Business Opportunities"
+												>Federal Business Opportunities</a></h1>
+					<ul>
+						<li><a href="http://www.acquisition.gov/" title="Visit IAE" target="iae" id="plnk-iae"><span>IAE</span></a></li>
+						<li><a href="http://www.egov.gov/" title="Visit eGov" id="plnk-egov" target="egov"><span>eGov</span></a></li>
+						<li><a href="http://www.usa.gov/" title="Visit USA.gov" id="plnk-usagov" target="usagov"><span>USA.gov</span></a></li>
+					</ul>			
+				</div>
+								<a name="nav"></a>
+				<ul id="n">
+									<li>
+						<a href="?s=main&mode=list&tab=list" title="Home">
+            	
+						<img src="/images/frontend/n-pub-main.jpg" alt="Home">
+					</a>
+					</li>
+									<li>
+						<a href="?s=getstart&mode=list&tab=list" title="Getting Started">
+            	
+						<img src="/images/frontend/n-pub-getstart.jpg" alt="Getting Started">
+					</a>
+					</li>
+									<li>
+						<a href="?s=generalinfo&mode=list&tab=list" title="General Info">
+            	
+						<img src="/images/frontend/n-pub-generalinfo.jpg" alt="General Info">
+					</a>
+					</li>
+									<li>
+						<a href="?s=opportunity&mode=list&tab=list" title="Opportunities">
+            	
+						<img src="/images/frontend/n-pub-opportunity-hi.jpg" alt="Opportunities">
+					</a>
+					</li>
+									<li>
+						<a href="?s=agency&mode=list&tab=list" title="Agencies">
+            	
+						<img src="/images/frontend/n-pub-agency.jpg" alt="Agencies">
+					</a>
+					</li>
+									<li>
+						<a href="?s=privacy&mode=list&tab=list" title="Privacy">
+            	
+						<img src="/images/frontend/n-pub-privacy.jpg" alt="Privacy">
+					</a>
+					</li>
+								</ul>
+				<div class="clr"></div>
+							
+								<div id="cc">
+										
+										<ul id="tls">
+																	<li><h4>Buyers: </h4><a href="https://www.fbo.gov/?s=main&tab=list&mode=list&amp;focus=blogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;tabmode=list&amp;_lsys=buyer&amp;tab=register2&amp;subtab=step1&amp;mode=list">Register</a></li>
+												<li><h4>Vendors: </h4><a href="https://www.fbo.gov/?s=main&amp;tab=list&amp;mode=list&amp;focus=vlogin">Login</a> | <a href="https://www.fbo.gov/?s=main&amp;mode=list&amp;tab=register&amp;subtab=step1">Register</a></li>
+																					<li><a href="/accessibility" title="Turn on Accessibility Mode" class="icn-acc">Accessibility</a></li>
+														
+					</ul>
+						
+					
+										
+<a name="content" id="content-id"></a>
+	
+<div class="ttl">
+			<div class="agency-header-w"><div class="agency-logo"><img src="/utils/view?id=3fe508e48aeec2ce3b7b155c2a5db34b&inline_disposition=1" border="0" alt="Air Force Installation Contracting (AFICA) logo"></div><div class="agency-header"><h2>Vance Flight Operations Support (FOS)</h2><div class="sol-num">Solicitation Number: FA3002-13-R-0008_Vance_FOS</div><div class="agency-name">Agency: Department of the Air Force<br>Office: Air Force Installation Contracting (AFICA)<br>Location: 338 SCONS</div></div></div>
+	</div>
+
+
+
+
+<a name="tabs"></a>
+
+					
+					<div id="ptls-w">
+	<ul id="ptls">
+		<li><a href="?s=opportunity&mode=form&id=43d42680ee401d394b03402590b299c0&tab=core&tabmode=list&print_preview=1" class="print" target="print">Print</a></li>		<li><a href="https://www.fbo.gov/notices/43d42680ee401d394b03402590b299c0" class="bkmrk permalink">Link</a><div id="permalink_instr" class="acc_hide"><div class="hd">Copy or Bookmark this Page</div><div class="bd"><p><label for="permalink_field">Copy the url below for a direct link to this page.</label><br><input type="text" value="https://www.fbo.gov/notices/43d42680ee401d394b03402590b299c0" id="permalink_field" style="width:460px"></p><p style="line-height: normal">Bookmark this page by right-clicking <b><a href="https://www.fbo.gov/notices/43d42680ee401d394b03402590b299c0" style="color:#00f">here</a></b> and choosing "Add to Favorites"</p></div></div></li>	</ul>
+</div>
+
+
+	<ul class="tbrw indent-tabs">
+					<li class="hi"><a href="/index?s=opportunity&mode=form&id=43d42680ee401d394b03402590b299c0&tab=core&tabmode=list&=" title="You are viewing the Notice Details tab.">Notice Details</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=43d42680ee401d394b03402590b299c0&tab=documents&tabmode=list" title="Open the Packages tab.">Packages</a></li>
+					<li><a href="/index?s=opportunity&mode=form&id=43d42680ee401d394b03402590b299c0&tab=ivl&tabmode=list" title="Open the Interested Vendors List tab.">Interested Vendors List</a></li>
+			</ul>
+	<div class="clr"></div>
+
+	
+	
+<div class="mc">
+		<table class='layout'>
+<tr>
+<td class="sidebar-left notice-hist">
+<h3>Opportunity History</h3>
+<ul id="sb_related_notices" class="doclist hascv"><li class="cv"><span class="active">Complete View</span></li><li><a href="?s=opportunity&mode=form&tab=core&id=36ea7ce3379ebec959d0b43c1bb3d946&_cview=0">Original Synopsis</a><div class="nh-date"><em>Presolicitation</em></div><div class="nh-date">Oct 01, 2013</div><div class="nh-date">11:24 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=3f6c6b5b688bbc0cab90c14445e9e197&_cview=0">Changed</a><div class="nh-date">Dec 06, 2013</div><div class="nh-date">11:41 am</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=daccba5f16e523442add0a06a58d789e&_cview=0">Changed</a><div class="nh-date">Dec 19, 2013</div><div class="nh-date">3:44 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=8d3256195e20efc1d1b7894bf27bcb0b&_cview=0">Changed</a><div class="nh-date">Dec 31, 2013</div><div class="nh-date">3:25 pm</div><div class="nh-date"><em>Solicitation</em></div></li><li><a href="?s=opportunity&mode=form&tab=core&id=568233dd1a4697e77935cf167f328846&_cview=0">Changed</a><div class="nh-date">Jan 10, 2014</div><div class="nh-date">5:03 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=8bbe1e8f62cb8aeb7aaa65483d27ad57&_cview=0">Changed</a><div class="nh-date">Jan 16, 2014</div><div class="nh-date">5:20 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=46647060dd1bc9796dffd7907c01affa&_cview=0">Changed</a><div class="nh-date">Jan 29, 2014</div><div class="nh-date">3:48 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=d18878617cb29f63b3fcb784d39fa663&_cview=0">Changed</a><div class="nh-date">Feb 03, 2014</div><div class="nh-date">3:50 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=42c61b678062f08b7baf78f9ff96d361&_cview=0">Changed</a><div class="nh-date">Feb 05, 2014</div><div class="nh-date">3:14 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=97f9c00e7ba3a211753d05ec4b893a37&_cview=0">Changed</a><div class="nh-date">Feb 06, 2014</div><div class="nh-date">12:05 pm</div></li><li><a href="?s=opportunity&mode=form&tab=core&id=df8ddacb1c25c004931e9ae39bbf54d4&_cview=0">Changed</a><div class="nh-date">Feb 13, 2014</div><div class="nh-date">5:33 pm</div></li><li class="last"><a href="?s=opportunity&mode=form&tab=core&id=43d42680ee401d394b03402590b299c0&_cview=0">Changed</a><div class="nh-date">Feb 13, 2014</div><div class="nh-date">6:08 pm</div></li></ul>
+</td>
+<td class='maincol' style='width:80%'>
+
+<div class="clr"></div><div class="buttonbar_top noticebuttons_top">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=36ea7ce3379ebec959d0b43c1bb3d946'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=36ea7ce3379ebec959d0b43c1bb3d946'" class="input-button btn btn_add">  </div>
+
+<div class="form readonly procurement_notice_tmpl">
+
+
+
+
+
+
+<div class="formbody">
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  
+
+	
+
+
+
+
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__solicitation_number_" class="field first field-first fld_solicitation_number fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__solicitation_number__field-label">
+	<label for="dnf_class_values_procurement_notice__solicitation_number_">Solicitation Number</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__solicitation_number__widget">
+	FA3002-13-R-0008_Vance_FOS
+	</div><!-- widget -->
+	
+        </div><!--field ( Solicitation Number )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field fld_procurement_type fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	<label for="dnf_class_values_procurement_notice__procurement_type_">Notice Type</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+	</div><!-- widget -->
+	
+        </div><!--field ( Notice Type )-->
+<div class="clr"></div>
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__description_" class="field fld_description fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__description__field-label">
+	<label for="dnf_class_values_procurement_notice__description_">Synopsis</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__description__widget">
+			<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][0][added_on]" value="2013-10-01 11:24:07">Oct 01, 2013 11:24 am</span>
+					</div>
+		<p style="text-align: justify;">This presolicitation notice is associated with Request For Information/Sources Sought Notice FA3002VANCEOPS14.<br /><br />The Air Education and Training Command Specialized Contracting Squadron (AETC CONS), Randolph AFB, TX is conducting an acquisition for Vance Flight Operations Support (FOS) Services re-competition and follow-on contract.<span style="mso-spacerun: yes">&nbsp; </span>This is a pre-solicitation notice to&nbsp;provide non-personal services for Aircraft Maintenance, Aircrew Flight Equipment, and Airfield Management Support Services at Vance AFB, OK.<span style="mso-spacerun: yes">&nbsp; </span>(Note: The description herein is a summary of the required services and is not intended to be all-inclusive.)<span style="mso-spacerun: yes">&nbsp; <br /></span><span style="mso-bidi-font-weight: bold"><br />The supported mission of the 71 FTW </span><span style="COLOR: black; mso-bidi-font-size: 12.0pt">is threefold: the Specialized Undergraduate Pilot Training (SUPT) Program (producing pilots for U.S. Air Force and allied nations as directed), prepare forces to support mobility taskings, and deploy when directed and execute mission directives. <span style="mso-spacerun: yes">&nbsp;</span>T</span><span style="mso-bidi-font-weight: bold">he service provider will provide maintenance and ground support for 45 T-1, 104 T-6, and 66 T-38C aircraft with an estimated 75,000 flying hours annually.<span style="mso-spacerun: yes">&nbsp; </span>The services include aircrew flight equipment inspections and repairs that support approximately 300 instructor pilots and 400 students annually.<span style="mso-spacerun: yes">&nbsp; </span></span>The services include the following:<br /><span style="mso-fareast-font-family: Calibri; mso-bidi-font-size: 12.0pt"><br />Applicable </span><span style="mso-bidi-font-size: 12.0pt">to FOS (Aircraft Maintenance, Aircrew Flight Equipment, and Airfield Management)</span><span style="mso-fareast-font-family: Calibri; mso-bidi-font-size: 12.0pt">: Provide vehicles, equipment, tools, and supplies unless specified in the Performance Work Statement (PWS) as Government furnished or provided.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Perform records management for generated and received Government documents.<span style="mso-spacerun: yes">&nbsp; </span>Perform services in an environmentally acceptable manner IAW applicable governing directives.<span style="mso-spacerun: yes">&nbsp; </span>Establish an occupational safety and health program for employees in compliance with the Occupational Safety and Health Act (OSHA) (Public Law 91-596) and the resulting OSHA Standards 29 CFR 1910 and 1926 (to include applicable DoD and Air Force Safety Guidelines required in protection of Government resources and the general public).<span style="mso-spacerun: yes">&nbsp; </span>Comply with Air Force safety standards only to the extent required to protect AF resources (facilities, equipment, and AF personnel) and the general public.<span style="mso-spacerun: yes">&nbsp; </span>Comply with base security requirements. All SP employees must have a minimum of Advance Fingerprints and a National Agency Check with Inquiries (NACI) completed.<span style="mso-spacerun: yes">&nbsp; </span>A National Agency Check with Local Agency Check and Credit Check (NACLC) is required for access to some work areas classified Secret. </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">&nbsp;</p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal"><span style="mso-fareast-font-family: Calibri; mso-bidi-font-size: 12.0pt">Aircraft Maintenance services include:<span style="mso-spacerun: yes">&nbsp; </span>Organizational level (on-equipment maintenance, directly on the aircraft or support equipment at the flight line level) services to include the following (not all inclusive): Aircraft ground handling support (aircrew assistance to include assisting aircrews with Pre-Flight checks, aircrew walk around); launch (applying electrical power/high volume pneumatic air for engine start, performing flight control visual operational checks with the aircrews at the controls, and marshaling the aircraft out of the parking spots); recovery (marshaling the aircraft into the parking spots, assisting the aircrew with exiting the aircraft, and assisting the aircrews with after flight inspection and aircraft records documentation); aircraft servicing; safety of flight (pre, thru, and post flight inspections and corrosion prevention and cleaning); scheduled and unscheduled maintenance, repair, and management support of all assigned T-1, T-6, and T-38C aircraft, and J85 engines, Jet Engine Intermediate Maintenance (JEIM) and associated aerospace ground equipment.<span style="mso-spacerun: yes">&nbsp; </span>[Note: J85 engines sent to the Engine Regional Repair Center at Laughlin AFB, TX for periodic inspection and major unscheduled repairs.]<span style="mso-spacerun: yes">&nbsp; </span>Intermediate level (off-equipment "back shop" maintenance on removed component parts or equipment) services to include the following (not all inclusive): accessories (electrical and environmental, egress, fuel, hydraulic systems, and wheel and tire); avionics; fabrication (structural maintenance on Sheet metal); metals technology (welding); non-destructive inspection (NDI); propulsion (engine); and Aerospace Ground Equipment (AGE).<span style="mso-spacerun: yes">&nbsp; </span>Maintenance Operations Center (MOC), Plans, Scheduling and Documentation (PS&amp;D), maintenance data system analysis, and engine management.<span style="mso-spacerun: yes">&nbsp; </span>Other services to include Quality assurance/control, transient aircraft support, base historical/static display aircraft (corrosion prevention, cleaning and painting, aircraft maintenance and repair, and record management), aircraft crash recovery, off-station recovery support (to include all western region off-station recovery and munitions management and storage).<br /></span><span style="mso-fareast-font-family: Calibri; mso-bidi-font-size: 12.0pt"><br />Aircrew Flight Equipment services include: Providing life support and survival equipment (personal parachute, parachute harness, helmets, survival kit, emergency locator, and G-suit) fitting, issuing, inspection, and maintenance for each flying squadron assigned to Vance AFB.<span style="mso-spacerun: yes">&nbsp; </span>Provides aircrew member training on aircraft egress, parachute, and survival procedures.</span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">&nbsp;</p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal"><span style="mso-fareast-font-family: Calibri; mso-bidi-font-size: 12.0pt">Airfield Management services include: Managing base flight operations to include </span><span style="mso-bidi-font-size: 12.0pt">airfield management services requiring coordination with air traffic control on approximately 225 flights daily, a</span><span style="mso-fareast-font-family: Calibri; mso-bidi-font-size: 12.0pt">irfield runway and taxiway operational safety inspections, and the </span><span style="mso-bidi-font-size: 12.0pt">processing of approximately 225 flight plans daily.</span><span style="mso-bidi-font-weight: bold"> </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">&nbsp;</p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">A single Firm-Fixed-Price (FFP) contract will result from the solicitation.<span style="mso-spacerun: yes">&nbsp; </span>The contract shall be for a one (1) year base period beginning 1 October 2014 (Mobilization Period: 1 Oct 2014 through 30 Nov 2014 and Base Year Period of Performance: 1 Dec 2014 - 31 Jan 2015) and will include 6 one-year option periods and the option to extend services.<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">The Request for Proposal (RFP) FA3002-13-R-0008 will be posted on or about 15 October 2013, and proposals are anticipated to be due on or about 3 December 2013.<span style="mso-spacerun: yes">&nbsp; </span>This will be an electronic solicitation release.<span style="mso-spacerun: yes">&nbsp; </span>A pre-proposal conference/site visit is tentatively scheduled on or about 6 November 2013 at Vance AFB, OK.<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">The solicitation, amendments, and other miscellaneous documents will be posted to the Federal Business Opportunities (FBO) website at <a href="http://www.fbo.gov">http://www.fbo.gov</a>.<span style="mso-spacerun: yes">&nbsp; </span>It is the responsibility of each offeror to review the web page for notice of amendments, updates, or changes to current information.<span style="mso-spacerun: yes">&nbsp; </span>This requirement will be conducted as a full and open competitive acquisition and will be evaluated using a Best Value Lowest Price Technically Acceptable (LPTA) source selection process.<span style="mso-spacerun: yes">&nbsp; </span>A source selection will be conducted in accordance with Federal Acquisition Regulations 15.3 as supplemented by Department of Defense Source Selection Procedures, Air Force Federal Acquisition Regulation Supplement (AFFARS) 5315 <em style="mso-bidi-font-style: normal">Contracting by Negotiation</em>(dated 3 May 2011), and AFFARS Mandatory Procedures 5315.3 <em style="mso-bidi-font-style: normal">Source Selection</em> (dated 4 May 2011).<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">In order to be eligible for award, registration under the correct North American Industry Classification System (NAICS) code in the System for Award Management is required.<span style="mso-spacerun: yes">&nbsp; </span>To register, go to <a href="https://www.sam.gov/portal/public/SAM/">https://www.sam.gov/portal/public/SAM/</a>.<span style="mso-spacerun: yes">&nbsp; </span>The North American Industry Classification System (NAICS) code for this solicitation is section 488190 - Other Support Activities for Air Transportation.<span style="mso-spacerun: yes">&nbsp; </span>The small business size standard is $30 million in annual gross receipts.<span style="mso-spacerun: yes">&nbsp; </span>There will be no public bid opening.<span style="mso-spacerun: yes">&nbsp; </span>Directions for proposal submission will be included in the solicitation.<span style="mso-spacerun: yes">&nbsp; </span><strong style="mso-bidi-font-weight: normal">Dates listed above are approximate and included for reference only.<span style="mso-spacerun: yes">&nbsp; </span>In light of the Government shutdown, the dates are subject to being adjusted accordingly.<span style="mso-spacerun: yes">&nbsp; </span>The actual date and details will be published in a separate notice (e.g. actual dates of the conference/visit will be specified in the solicitation).</strong><span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">Contact with Government personnel other than the Points of Contact (POC) listed below by a potential offeror or their employees regarding this acquisition is strictly prohibited.<span style="mso-spacerun: yes">&nbsp; </span>Any questions regarding this notice should be directed to following:</p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-add-space: auto">&nbsp;<br />Primary POC:<br />Mr. Gerardo C. Martinez<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></span>E-mail: <a href="mailto:gerardo.martinez@us.af.mil">gerardo.martinez@us.af.mil</a> <br />Telephone:<span style="mso-spacerun: yes">&nbsp; </span>210-652-7826</p><br />
+<p style="text-align: justify; line-height: normal; margin-bottom: 0pt;"><br />Alternate POC:<br />Capt Samuel E. Hutchins<br />E-Mail: samuel.hutchins@us.af.mil&nbsp;<br /><span style="mso-spacerun: yes">Telephone:&nbsp; </span>210-652-9221</p><br />
+<p style="text-align: justify; line-height: normal; margin-bottom: 0pt;"><br />Alternate POC:<br />Ms. Gloria M. Marshall<span style="mso-tab-count: 3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></span>E-mail: <a href="mailto:gloria.marshall@us.af.mil">gloria.marshall@us.af.mil</a><span style="mso-spacerun: yes">&nbsp;&nbsp;<br /></span>Telephone:<span style="mso-spacerun: yes">&nbsp; </span>210-652-7998</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][1][added_on]" value="2013-12-06 11:41:10">Dec 06, 2013 11:41 am</span>
+					</div>
+		The purpose of this amendment is to provide an update on the solicitation dates as follows:<br /><br /><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">&nbsp;The Request for Proposal (RFP) FA3002-13-R-0008 will be posted on or about 19 December 2013, and proposals are anticipated to be due on or about 6 February 2014.<span style="mso-spacerun: yes">&nbsp; </span>This will be an electronic solicitation release.<span style="mso-spacerun: yes">&nbsp; </span>A pre-proposal conference/site visit is tentatively scheduled on or about 8-9 January 2014 at Vance AFB, OK.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal"><strong style="mso-bidi-font-weight: normal">The dates listed above are approximate and included for reference only.<span style="mso-spacerun: yes">&nbsp;&nbsp;</span>The dates are subject to being adjusted.<span style="mso-spacerun: yes">&nbsp; </span>The actual date and details will be published in a separate notice with the RFP &nbsp;(e.g. actual dates of the conference/visit will be specified in the solicitation).</strong><span style="mso-spacerun: yes">&nbsp; </span></p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][2][added_on]" value="2013-12-19 15:44:17">Dec 19, 2013 3:44 pm</span>
+					</div>
+		<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">The purpose of this amendment is to provide the solicitation notice.<br /><br />The 338<sup>th</sup> Specialized Contracting Squadron (338 SCONS) at Joint Base San Antonio (JBSA) Randolph, Texas (formerly the Air Education and Training Command Specialized Contracting Squadron (AETC CONS), Randolph AFB, TX) is conducting an acquisition for Vance Flight Operations Support (FOS) Services re-competition and follow-on contract.<span style="mso-spacerun: yes">&nbsp; </span>This is the solicitation notice for non-personal services associated with FOS consisting of Aircraft Maintenance, Aircrew Flight Equipment, and Airfield Management Support Services at Vance AFB, OK.<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">&nbsp;</p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">This requirement will be conducted as a full and open competitive acquisition and will be evaluated using a Best Value Lowest Price Technically Acceptable (LPTA) source selection process.<span style="mso-spacerun: yes">&nbsp; </span>A source selection will be conducted in accordance with Federal Acquisition Regulations 15.3 as supplemented by Department of Defense Source Selection Procedures, Air Force Federal Acquisition Regulation Supplement (AFFARS) 5315 <em style="mso-bidi-font-style: normal">Contracting by Negotiation</em>, AFFARS Mandatory Procedures 5315.3 <em style="mso-bidi-font-style: normal">Source Selection, </em>and Air Force Installation Contracting Agency (AFICA) Mandatory Procedures.<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">A single Firm-Fixed-Price (FFP) contract will result from this solicitation.<span style="mso-spacerun: yes">&nbsp; </span>The contract will include a base period (with two months for mobilization), six 1-year option periods, and the option to extend services.<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">All applicable documentation related to the Request for Proposal (RFP) FA3002-13-R-0008 is provided with this notice.<span style="mso-spacerun: yes">&nbsp; </span>A pre-proposal conference/site visit is scheduled for 7 January 2014 at Vance AFB, OK.<span style="mso-spacerun: yes">&nbsp; </span>Any solicitation amendment and other miscellaneous documents will be posted to the Federal Business Opportunities (FBO) website at <a href="http://www.fbo.gov">http://www.fbo.gov</a><span><span style="TEXT-DECORATION: none; text-underline: none"> </span></span><span><span style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none">as an amendment to this notice</span></span>.<span style="mso-spacerun: yes">&nbsp; </span>It is the responsibility of each offeror to review the web page for notice of amendments, updates, or changes to current information.<span style="mso-spacerun: yes">&nbsp; </span></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">In order to be eligible for award, registration under the correct North American Industry Classification System (NAICS) code in the System for Award Management is required.<span style="mso-spacerun: yes">&nbsp; </span>To register, go to <a href="https://www.sam.gov/portal/public/SAM/">https://www.sam.gov/portal/public/SAM/</a>.<span style="mso-spacerun: yes">&nbsp; </span>The North American Industry Classification System (NAICS) code for this solicitation is section 488190 - Other Support Activities for Air Transportation.<span style="mso-spacerun: yes">&nbsp; </span>The small business size standard is $30 million in annual gross receipts.<span style="mso-spacerun: yes">&nbsp; </span>There will be no public bid opening.<span style="mso-spacerun: yes">&nbsp; </span>Directions for proposal submission will be included in the solicitation.<span style="mso-spacerun: yes">&nbsp;&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="mso-spacerun: yes">&nbsp; </span></strong></p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal">Contact with Government personnel other than the Points of Contact (POCs) listed below by a potential offeror or their employees regarding this acquisition is strictly prohibited.<span style="mso-spacerun: yes">&nbsp; </span>Any questions regarding this notice should be directed to following:</p><br />
+<p style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt; mso-add-space: auto">Primary POC:&nbsp; Mr. Gerardo C. Martinez<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></span>E-mail: <a href="mailto:gerardo.martinez@us.af.mil">gerardo.martinez@us.af.mil<br />Telephone</a>:<span style="mso-spacerun: yes">&nbsp; </span>210-652-7826</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">Alternate POC:&nbsp; Capt Samuel E. Hutchins<br />E-Mail: <a href="mailto:samuel.hutchins@us.af.mil">samuel.hutchins@us.af.mil</a><span style="mso-tab-count: 1"><br /></span>Telephone:<span style="mso-spacerun: yes">&nbsp; </span>210-652-9221</p><br />
+<p style="LINE-HEIGHT: normal; MARGIN-BOTTOM: 0pt">Alternate POC:&nbsp;&nbsp;Ms. Gloria M. Marshall<span style="mso-tab-count: 3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></span>E-mail: <a href="mailto:gloria.marshall@us.af.mil">gloria.marshall@us.af.mil</a><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /></span>Telephone:<span style="mso-spacerun: yes">&nbsp; </span>210-652-7998</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][3][added_on]" value="2013-12-31 15:25:58">Dec 31, 2013 3:25 pm</span>
+					</div>
+		The purpose of this amendment is to provide directions to the Vance FOS Pre-Proposal Confrence/Site Visit.<br /><br />For urgent matters that may arise during the Conference/Site Visit/Travel days, please contact the&nbsp;Vance AFB Local Contracting Office Points of Contact:<br /><br />Ms. Nellie Martin<br />Phone: 580-213-7834<br />Email: &nbsp;<a href="mailto:nellie.martin@us.af.mil">nellie.martin@us.af.mil</a>&nbsp;<br /><br />Ms. Teresa Yancey<br />Phone: 580-213-7567<br />Email:&nbsp; <a href="mailto:teresa.yancey@us.af.mil">teresa.yancey@us.af.mil</a>&nbsp;&nbsp;<br /><br />
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][4][added_on]" value="2014-01-10 17:03:59">Jan 10, 2014 5:03 pm</span>
+					</div>
+		<p>The purpose of this amendment is to provide a copy of the Pre-Proposal Conference/Site Visit presentation slides and sign in sheets.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][5][added_on]" value="2014-01-16 17:20:14">Jan 16, 2014 5:20 pm</span>
+					</div>
+		<p>The purpose of this amendment is as follows:<br /><br />1.&nbsp; Provide an additional copy of of Pre-Proposal&nbsp;Conference/Site Visit presentation slides&nbsp;illustrating some of the&nbsp;areas&nbsp;toured during&nbsp;the site visit.&nbsp; Note: These slides were not part of the presentation.<br /><br />2.&nbsp; Provide&nbsp;responses to the Pre-Proposal Conference/Site Visit/1-On-1 question and&nbsp;answer sessions.<br /><br />3.&nbsp; Provide solicitation amendment FA3002-13-R-0008-0001 and applicable revised RFP attachments.&nbsp;</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][6][added_on]" value="2014-01-29 15:48:38">Jan 29, 2014 3:48 pm</span>
+					</div>
+		The purpose of this amendment is as follows:<br /><br />1.&nbsp;&nbsp;Provide&nbsp;responses to the&nbsp;solicitation (FA3002-13-R-0008)&nbsp;question and&nbsp;answer session.<br /><br />2.&nbsp; Provide solicitation amendment FA3002-13-R-0008-0002 and applicable revised RFP attachments.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][7][added_on]" value="2014-02-03 15:50:28">Feb 03, 2014 3:50 pm</span>
+					</div>
+		<p>The purpose of this amendment is to provide the final set of responses to the solicitation (FA3002-13-R-0008) question and answer session.<br /><br />This concludes the solicitation question and answer session.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][8][added_on]" value="2014-02-05 15:14:10">Feb 05, 2014 3:14 pm</span>
+					</div>
+		The purpose of this amendment is as follows:<br /><br />1.&nbsp;&nbsp;Extend the solicitation proposal due date.<br /><br />2.&nbsp; Provide solicitation amendment FA3002-13-R-0008-0003 with applicable revision.
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][9][added_on]" value="2014-02-06 12:05:07">Feb 06, 2014 12:05 pm</span>
+					</div>
+		<p>The purpose of this amendment is as follows:<br /><br />1.&nbsp; Provide Vance Workforce Demographic Information.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][10][added_on]" value="2014-02-13 17:33:37">Feb 13, 2014 5:33 pm</span>
+					</div>
+		<p>The purpose of this amendment is as follows:<br /><br />1.&nbsp; Provide responses to the&nbsp;solicitation (FA3002-13-R-0008)&nbsp;question and&nbsp;answer session follow-on comments/questions/concerns.</p>
+
+		<div class="notice_desc_dates">
+				<span class="added">Added: <input type="hidden" name="dnf_class_values[procurement_notice][description][11][added_on]" value="2014-02-13 18:08:15">Feb 13, 2014 6:08 pm</span>
+					</div>
+		<p>The purpose of this amendment is as follows:<br /><br />1.&nbsp; Provide responses to the&nbsp;solicitation (FA3002-13-R-0008)&nbsp;question and&nbsp;answer session follow-on comments/questions/concerns.&nbsp; <br /><br />Note: Computer glitch in previous follow-on response posted resulted in ID2 answer being truncated.</p>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Synopsis )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__packages_" class="field fld_packages fld-ro">
+
+            
+      	 	<div class="widget subformwidget" id="dnf_class_values_procurement_notice__packages__widget">
+	
+
+			<div class="tip notice tip-inline"><div class="miw">Please consult the list of <a href="/utils/tips?tip=viewers" title="Document Viewers" class="viewers-tips" target="tipwin" onclick="popTip(this);return false;">document viewers</a> if you cannot open a file.</div></div>
+<div class="subform readonly subreadonly nplus nplus-first subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">FA3002-13-R-0008 Vance FOS Pre-Solicitation Notice</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__name__widget">
+	FA3002-13-R-0008 Vance FOS Pre-Solicitation Notice
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__0__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__posted_date__widget">
+	October 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__0__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__0__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][0][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c28bd7b6ce730b751779caee907828ee' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Pre-Solicitation_Notice_(1_Oct_2013).pdf' class='file'&gt;FA3002-13-R-0008_Vance_FOS_Pre-Solicitation_Notice_(1_Oct_2013).pdf&lt;/a&gt;"><a href='/utils/view?id=c28bd7b6ce730b751779caee907828ee' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Pre-Solicitation_Notice_(1_Oct_2013).pdf' class='file'>FA3002-13-R-0008_Vance_FOS_Pre-Solicitation_Notice_(1_Oct_2013).pdf</a> (93.16 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Vance FOS Pre-Solicitation Notice.  This notice is associated with Request For Information/Sources Sought Notice FA3002VANCEOPS14.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__1__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__1__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__1__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=40892fa2ebdb951c8c850b6e8ec40576' target='_blank' title='Download/View 00_Vance_FOS_Title_Page_and_Table_of_Contents__(18_Dec_13).pdf' class='file'&gt;00_Vance_FOS_Title_Page_and_Table_of_Contents__(18_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=40892fa2ebdb951c8c850b6e8ec40576' target='_blank' title='Download/View 00_Vance_FOS_Title_Page_and_Table_of_Contents__(18_Dec_13).pdf' class='file'>00_Vance_FOS_Title_Page_and_Table_of_Contents__(18_Dec_13).pdf</a> (100.42 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 1. Vance FOS PWS Title Page and Table of Contents.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=aa760c04a7b88b3d01e3ac295906fce9' target='_blank' title='Download/View 01_Vance_FOS__Expectations_(18_Dec_13).pdf' class='file'&gt;01_Vance_FOS__Expectations_(18_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=aa760c04a7b88b3d01e3ac295906fce9' target='_blank' title='Download/View 01_Vance_FOS__Expectations_(18_Dec_13).pdf' class='file'>01_Vance_FOS__Expectations_(18_Dec_13).pdf</a> (13.32 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 1. Vance FOS PWS Section 1. Expectations.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=1e0f7800d61d95177dceb5acc73d35bb' target='_blank' title='Download/View 02_Vance_FOS_All_Services__(18_Dec_13).pdf' class='file'&gt;02_Vance_FOS_All_Services__(18_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=1e0f7800d61d95177dceb5acc73d35bb' target='_blank' title='Download/View 02_Vance_FOS_All_Services__(18_Dec_13).pdf' class='file'>02_Vance_FOS_All_Services__(18_Dec_13).pdf</a> (435.47 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 1. Vance FOS PWS Section 2. All Services.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=4119f3cce4d7df7129ce1c4af9e421be' target='_blank' title='Download/View 03_Vance_FOS_Aircraft_Maintenance_(18_Dec_13).pdf' class='file'&gt;03_Vance_FOS_Aircraft_Maintenance_(18_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=4119f3cce4d7df7129ce1c4af9e421be' target='_blank' title='Download/View 03_Vance_FOS_Aircraft_Maintenance_(18_Dec_13).pdf' class='file'>03_Vance_FOS_Aircraft_Maintenance_(18_Dec_13).pdf</a> (37,391.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 1. Vance FOS PWS Section 3. Aircraft Maintenance.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=6f19271a84a62e3eb8170a4924c6b10a' target='_blank' title='Download/View 06_Vance_FOS_Aircrew_Flight_Equipment__(18_Dec_13).pdf' class='file'&gt;06_Vance_FOS_Aircrew_Flight_Equipment__(18_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=6f19271a84a62e3eb8170a4924c6b10a' target='_blank' title='Download/View 06_Vance_FOS_Aircrew_Flight_Equipment__(18_Dec_13).pdf' class='file'>06_Vance_FOS_Aircrew_Flight_Equipment__(18_Dec_13).pdf</a> (1,466.88 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 1. Vance FOS PWS Section 6. Aircrew Flight Equipment.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][1][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=cce9d5c1a5cee705d7a0daf7d264e0be' target='_blank' title='Download/View 21_Vance_FOS_Airfield_Management_(18_Dec_13).pdf' class='file'&gt;21_Vance_FOS_Airfield_Management_(18_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=cce9d5c1a5cee705d7a0daf7d264e0be' target='_blank' title='Download/View 21_Vance_FOS_Airfield_Management_(18_Dec_13).pdf' class='file'>21_Vance_FOS_Airfield_Management_(18_Dec_13).pdf</a> (598.08 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 1. Vance FOS PWS Section 21. Airfield Management.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__2__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__2__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__2__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=7de05a42e2a2e86a43d04af3b9ee3fc5' target='_blank' title='Download/View 2._Vance_FOS_WD_2005-2432_Rev_17.pdf' class='file'&gt;2._Vance_FOS_WD_2005-2432_Rev_17.pdf&lt;/a&gt;"><a href='/utils/view?id=7de05a42e2a2e86a43d04af3b9ee3fc5' target='_blank' title='Download/View 2._Vance_FOS_WD_2005-2432_Rev_17.pdf' class='file'>2._Vance_FOS_WD_2005-2432_Rev_17.pdf</a> (103.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 2. Vance FOS WD 2005-2432 Rev 17.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=7bbd80a4108cc1f0b348df8e386c313a' target='_blank' title='Download/View 3._DRAFT_VANCE_FOS_CBA.pdf' class='file'&gt;3._DRAFT_VANCE_FOS_CBA.pdf&lt;/a&gt;"><a href='/utils/view?id=7bbd80a4108cc1f0b348df8e386c313a' target='_blank' title='Download/View 3._DRAFT_VANCE_FOS_CBA.pdf' class='file'>3._DRAFT_VANCE_FOS_CBA.pdf</a> (2,014.07 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 3. DRAFT Vance FOS CBA.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=d94112bc5db064b2417b0e532b88032b' target='_blank' title='Download/View 4._Vance_FOS_DD_Form_254_SecClasSpec_(12_Dec_13).pdf' class='file'&gt;4._Vance_FOS_DD_Form_254_SecClasSpec_(12_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=d94112bc5db064b2417b0e532b88032b' target='_blank' title='Download/View 4._Vance_FOS_DD_Form_254_SecClasSpec_(12_Dec_13).pdf' class='file'>4._Vance_FOS_DD_Form_254_SecClasSpec_(12_Dec_13).pdf</a> (165.29 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 4. Vance FOS DD254 Contract Security Classification Specification.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=c81927c961e20b97bdfed5588f413ce2' target='_blank' title='Download/View 5.__Vance_FOS_Schedule_B_(18_Dec_2013).xlsx' class='file'&gt;5.__Vance_FOS_Schedule_B_(18_Dec_2013).xlsx&lt;/a&gt;"><a href='/utils/view?id=c81927c961e20b97bdfed5588f413ce2' target='_blank' title='Download/View 5.__Vance_FOS_Schedule_B_(18_Dec_2013).xlsx' class='file'>5.__Vance_FOS_Schedule_B_(18_Dec_2013).xlsx</a> (13,043.14 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 5. Vance FOS Schedule B.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=888846e3c6fc5a8bb9145575ab4a1eed' target='_blank' title='Download/View 6._Vance_FOS_Manpower_matrix_(18_Dec_13).xlsx' class='file'&gt;6._Vance_FOS_Manpower_matrix_(18_Dec_13).xlsx&lt;/a&gt;"><a href='/utils/view?id=888846e3c6fc5a8bb9145575ab4a1eed' target='_blank' title='Download/View 6._Vance_FOS_Manpower_matrix_(18_Dec_13).xlsx' class='file'>6._Vance_FOS_Manpower_matrix_(18_Dec_13).xlsx</a> (89.79 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 6. Vance FOS Manpower Matrix.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=4c730cdab844d0fe3e772e4b808ddabf' target='_blank' title='Download/View 7._Vance_FOS_PPI_Tool_Instructions_(18_Dec_13).pdf' class='file'&gt;7._Vance_FOS_PPI_Tool_Instructions_(18_Dec_13).pdf&lt;/a&gt;"><a href='/utils/view?id=4c730cdab844d0fe3e772e4b808ddabf' target='_blank' title='Download/View 7._Vance_FOS_PPI_Tool_Instructions_(18_Dec_13).pdf' class='file'>7._Vance_FOS_PPI_Tool_Instructions_(18_Dec_13).pdf</a> (471.46 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 7. Vance FOS Past Performance Information Tool Instructions.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=367a6a2d9488e06a43aafba87c0579d2' target='_blank' title='Download/View 8._Vance_FOS_PPI_Tool_(18_Dec_13).accdb' class='file'&gt;8._Vance_FOS_PPI_Tool_(18_Dec_13).accdb&lt;/a&gt;"><a href='/utils/view?id=367a6a2d9488e06a43aafba87c0579d2' target='_blank' title='Download/View 8._Vance_FOS_PPI_Tool_(18_Dec_13).accdb' class='file'>8._Vance_FOS_PPI_Tool_(18_Dec_13).accdb</a> (1,416.00 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 8. Vance FOS Past Performance Information Tool.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][7][file][0][preview]" value="&lt;a href='/utils/view?id=839387157d11d5a1c3d5239ab587ff1c' target='_blank' title='Download/View 9._Vance_FOS__Past_Performance_Questionnaire_(18_Dec_2013).docx' class='file'&gt;9._Vance_FOS__Past_Performance_Questionnaire_(18_Dec_2013).docx&lt;/a&gt;"><a href='/utils/view?id=839387157d11d5a1c3d5239ab587ff1c' target='_blank' title='Download/View 9._Vance_FOS__Past_Performance_Questionnaire_(18_Dec_2013).docx' class='file'>9._Vance_FOS__Past_Performance_Questionnaire_(18_Dec_2013).docx</a> (43.69 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 9. Vance FOS Past Performance Questionnaire.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][8][file][0][preview]" value="&lt;a href='/utils/view?id=85a5e01d8dec481d68b349ee82df274c' target='_blank' title='Download/View 10._Sample_subcontractor_consent_letter.docx' class='file'&gt;10._Sample_subcontractor_consent_letter.docx&lt;/a&gt;"><a href='/utils/view?id=85a5e01d8dec481d68b349ee82df274c' target='_blank' title='Download/View 10._Sample_subcontractor_consent_letter.docx' class='file'>10._Sample_subcontractor_consent_letter.docx</a> (26.93 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 10. SAMPLE Subcontractor Consent Letter.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][9][file][0][preview]" value="&lt;a href='/utils/view?id=b5fbe0d6202ab314579a755652d8462d' target='_blank' title='Download/View 11._Sample_client_authorization_letter.docx' class='file'&gt;11._Sample_client_authorization_letter.docx&lt;/a&gt;"><a href='/utils/view?id=b5fbe0d6202ab314579a755652d8462d' target='_blank' title='Download/View 11._Sample_client_authorization_letter.docx' class='file'>11._Sample_client_authorization_letter.docx</a> (27.33 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 11. SAMPLE Client Authorization Letter.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][10][file][0][preview]" value="&lt;a href='/utils/view?id=52420ba5410626b7323f0279943e8a2c' target='_blank' title='Download/View 12._Vance_FOS_SB_SubContracting_ChkLst.docx' class='file'&gt;12._Vance_FOS_SB_SubContracting_ChkLst.docx&lt;/a&gt;"><a href='/utils/view?id=52420ba5410626b7323f0279943e8a2c' target='_blank' title='Download/View 12._Vance_FOS_SB_SubContracting_ChkLst.docx' class='file'>12._Vance_FOS_SB_SubContracting_ChkLst.docx</a> (17.37 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 12. Vance FOS Small Business Subcontracting Checklist.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][2][files][11][file][0][preview]" value="&lt;a href='/utils/view?id=cb06da5d162091a899b88d45d7a1e29f' target='_blank' title='Download/View 13._Vance_FOS_RFP_QandA(Add_Company_Name_Here).xls' class='file'&gt;13._Vance_FOS_RFP_QandA(Add_Company_Name_Here).xls&lt;/a&gt;"><a href='/utils/view?id=cb06da5d162091a899b88d45d7a1e29f' target='_blank' title='Download/View 13._Vance_FOS_RFP_QandA(Add_Company_Name_Here).xls' class='file'>13._Vance_FOS_RFP_QandA(Add_Company_Name_Here).xls</a> (34.50 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Attachment 13.  Vance FOS RFP Question and Answer sheet.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__3__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__posted_date__widget">
+	December 19, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__3__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__3__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=bc8ee54ed48dc3aa429b4c6d1144dad2' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Solicitation_Notice_(19_Dec_2013).pdf' class='file'&gt;FA3002-13-R-0008_Vance_FOS_Solicitation_Notice_(19_Dec_2013).pdf&lt;/a&gt;"><a href='/utils/view?id=bc8ee54ed48dc3aa429b4c6d1144dad2' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Solicitation_Notice_(19_Dec_2013).pdf' class='file'>FA3002-13-R-0008_Vance_FOS_Solicitation_Notice_(19_Dec_2013).pdf</a> (12.84 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance Flight Operations Support (FOS) SOLICITATION NOTICE.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][3][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=96d6d61b4565806a65c0cd5ac66654c5' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Solicitation_(19_Dec_2013).pdf' class='file'&gt;FA3002-13-R-0008_Vance_FOS_Solicitation_(19_Dec_2013).pdf&lt;/a&gt;"><a href='/utils/view?id=96d6d61b4565806a65c0cd5ac66654c5' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Solicitation_(19_Dec_2013).pdf' class='file'>FA3002-13-R-0008_Vance_FOS_Solicitation_(19_Dec_2013).pdf</a> (2,091.52 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Vance FOS SOLICITATION / REQUEST FOR PROPOSAL (RFP).</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Solicitation 4</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__4__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__posted_date__widget">
+	December 31, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__4__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__4__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][4][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=16414aa88b22521c78310e8ab4203c78' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Site_Visit_Directions_Map.pdf' class='file'&gt;FA3002-13-R-0008_Vance_FOS_Site_Visit_Directions_Map.pdf&lt;/a&gt;"><a href='/utils/view?id=16414aa88b22521c78310e8ab4203c78' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Site_Visit_Directions_Map.pdf' class='file'>FA3002-13-R-0008_Vance_FOS_Site_Visit_Directions_Map.pdf</a> (229.27 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Vance FOS Pre-Proposal Conference/Site Visit Driving Directions Map</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Pre-Proposal Conferece/Site Visit Presentation Slides</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__name__widget">
+	Pre-Proposal Conferece/Site Visit Presentation Slides
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__5__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__posted_date__widget">
+	January 10, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__5__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__5__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=e6b35ebc6ea71957e872e1d486b6ec63' target='_blank' title='Download/View 00_Vance_FOS_Welcome_(7_Jan_14).pdf' class='file'&gt;00_Vance_FOS_Welcome_(7_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=e6b35ebc6ea71957e872e1d486b6ec63' target='_blank' title='Download/View 00_Vance_FOS_Welcome_(7_Jan_14).pdf' class='file'>00_Vance_FOS_Welcome_(7_Jan_14).pdf</a> (168.47 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal Conference/Site-Visit Welcome presentation slides.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=4cb68e98175cc9cb3ff75bcf93e14e83' target='_blank' title='Download/View 01_Vance_FOS_PWS_(7_Jan_14).pdf' class='file'&gt;01_Vance_FOS_PWS_(7_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=4cb68e98175cc9cb3ff75bcf93e14e83' target='_blank' title='Download/View 01_Vance_FOS_PWS_(7_Jan_14).pdf' class='file'>01_Vance_FOS_PWS_(7_Jan_14).pdf</a> (2,115.40 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal Conference/Site-Visit PWS presentation slides.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=e41339b0cf1d031b63aaef88e696c8db' target='_blank' title='Download/View 02_Vance_FOS_Technical_Requirements_(7_Jan_14).pdf' class='file'&gt;02_Vance_FOS_Technical_Requirements_(7_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=e41339b0cf1d031b63aaef88e696c8db' target='_blank' title='Download/View 02_Vance_FOS_Technical_Requirements_(7_Jan_14).pdf' class='file'>02_Vance_FOS_Technical_Requirements_(7_Jan_14).pdf</a> (325.71 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal Conference/Site-Visit Technical Requirements presentation slides.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=15ecb71072ae7a3d2e3a6a4cad50f999' target='_blank' title='Download/View 03_Vance_FOS__Past_Performance_(7_Jan_14).pdf' class='file'&gt;03_Vance_FOS__Past_Performance_(7_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=15ecb71072ae7a3d2e3a6a4cad50f999' target='_blank' title='Download/View 03_Vance_FOS__Past_Performance_(7_Jan_14).pdf' class='file'>03_Vance_FOS__Past_Performance_(7_Jan_14).pdf</a> (303.22 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal Conference/Site-Visit Past Performance presentation slides.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][4][file][0][preview]" value="&lt;a href='/utils/view?id=6c686a6f63543d5a802ec5ce7f7d3331' target='_blank' title='Download/View 04_Vance_FOS__Solicitation_(7_Jan_14).pdf' class='file'&gt;04_Vance_FOS__Solicitation_(7_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=6c686a6f63543d5a802ec5ce7f7d3331' target='_blank' title='Download/View 04_Vance_FOS__Solicitation_(7_Jan_14).pdf' class='file'>04_Vance_FOS__Solicitation_(7_Jan_14).pdf</a> (352.74 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal Conference/Site-Visit Solicitation presentation slides.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][5][file][0][preview]" value="&lt;a href='/utils/view?id=47222f70b8a74e6dad425346419ef4a1' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_Sign_In_Redacted.pdf' class='file'&gt;FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_Sign_In_Redacted.pdf&lt;/a&gt;"><a href='/utils/view?id=47222f70b8a74e6dad425346419ef4a1' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_Sign_In_Redacted.pdf' class='file'>FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_Sign_In_Redacted.pdf</a> (313.21 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal Conference/Site-Visit Sign In Sheet.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][5][files][6][file][0][preview]" value="&lt;a href='/utils/view?id=054ab0388c317fbdc4a9b1e9c2e12e25' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_1on1_Sign_In_Redacted.pdf' class='file'&gt;FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_1on1_Sign_In_Redacted.pdf&lt;/a&gt;"><a href='/utils/view?id=054ab0388c317fbdc4a9b1e9c2e12e25' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_1on1_Sign_In_Redacted.pdf' class='file'>FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_1on1_Sign_In_Redacted.pdf</a> (205.80 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal Conference/Site-Visit 1-On-1 Sign In Sheet.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 1</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__6__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__6__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__6__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=bb37953946307f0a48054d7fc78ed3cb' target='_blank' title='Download/View FA3002-13-R-0008-0001_Vance_FOS_Amendment_0001.pdf' class='file'&gt;FA3002-13-R-0008-0001_Vance_FOS_Amendment_0001.pdf&lt;/a&gt;"><a href='/utils/view?id=bb37953946307f0a48054d7fc78ed3cb' target='_blank' title='Download/View FA3002-13-R-0008-0001_Vance_FOS_Amendment_0001.pdf' class='file'>FA3002-13-R-0008-0001_Vance_FOS_Amendment_0001.pdf</a> (212.91 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0001 Vance FOS Amendment 0001.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=3ebd2bd7f0c886dc58a1456ed8d8c338' target='_blank' title='Download/View 02__Vance_FOS_All_Services_(10_Jan_14).pdf' class='file'&gt;02__Vance_FOS_All_Services_(10_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=3ebd2bd7f0c886dc58a1456ed8d8c338' target='_blank' title='Download/View 02__Vance_FOS_All_Services_(10_Jan_14).pdf' class='file'>02__Vance_FOS_All_Services_(10_Jan_14).pdf</a> (439.30 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0001 Vance FOS Attachment 1. Performance Work Statement (PWS) Section 2. All Services.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=dd25e1187480031977d1598238706fee' target='_blank' title='Download/View 03_Vance_FOS_Aircraft_Maintenance_(10_Jan_14).pdf' class='file'&gt;03_Vance_FOS_Aircraft_Maintenance_(10_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=dd25e1187480031977d1598238706fee' target='_blank' title='Download/View 03_Vance_FOS_Aircraft_Maintenance_(10_Jan_14).pdf' class='file'>03_Vance_FOS_Aircraft_Maintenance_(10_Jan_14).pdf</a> (42,006.59 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0001 Vance FOS Attachment 1. Performance Work Statement (PWS) Section 3. Aircraft Maintenance.</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][6][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=3f7715bc415465832da74e4aceac4d96' target='_blank' title='Download/View 3._VANCE_FOS_CBA_(11_Jun_2012).pdf' class='file'&gt;3._VANCE_FOS_CBA_(11_Jun_2012).pdf&lt;/a&gt;"><a href='/utils/view?id=3f7715bc415465832da74e4aceac4d96' target='_blank' title='Download/View 3._VANCE_FOS_CBA_(11_Jun_2012).pdf' class='file'>3._VANCE_FOS_CBA_(11_Jun_2012).pdf</a> (1,281.86 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0001 Vance FOS Attachment 3. Collective Bargaining Agreement (11 Jun 2012).</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Vance FOS Pre-Proposal/Site Visit 1-On-1 Q&A</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__name__widget">
+	Vance FOS Pre-Proposal/Site Visit 1-On-1 Q&A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__7__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__7__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__7__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][7][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=8b1bc9ae668cb855a8d4755c823e511a' target='_blank' title='Download/View Vance_FOS_Pre-Proposal_Site_Visit_1On1_Q&amp;A_(7_Jan_2014).pdf' class='file'&gt;Vance_FOS_Pre-Proposal_Site_Visit_1On1_Q&amp;A_(7_Jan_2014).pdf&lt;/a&gt;"><a href='/utils/view?id=8b1bc9ae668cb855a8d4755c823e511a' target='_blank' title='Download/View Vance_FOS_Pre-Proposal_Site_Visit_1On1_Q&A_(7_Jan_2014).pdf' class='file'>Vance_FOS_Pre-Proposal_Site_Visit_1On1_Q&A_(7_Jan_2014).pdf</a> (98.83 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance FOS Pre-Proposal/Site Visit 1-On-1 Questions &amp; Answers.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Vance FOS Site Visit Slides</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__name__widget">
+	Vance FOS Site Visit Slides
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__8__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__posted_date__widget">
+	January 16, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__8__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__8__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][8][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=b0f7409aa51ac32b567f98bb32739ba8' target='_blank' title='Download/View 05_Vance_FOS_Site_Visit_Slides_(7_Jan_14).pdf' class='file'&gt;05_Vance_FOS_Site_Visit_Slides_(7_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=b0f7409aa51ac32b567f98bb32739ba8' target='_blank' title='Download/View 05_Vance_FOS_Site_Visit_Slides_(7_Jan_14).pdf' class='file'>05_Vance_FOS_Site_Visit_Slides_(7_Jan_14).pdf</a> (1,818.47 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> The Vance FOS Site Visit slides illustrate some of the areas toured during the Pre-proposal Conference/Site Visit.  Note: These slides were not part of the presentation.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 2</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__9__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__posted_date__widget">
+	January 29, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__9__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__9__files__widget">
+		
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=949f2890f182bf1034343793983596aa' target='_blank' title='Download/View FA3002-13-R-0008-0002_Vance_FOS_Amendment_0002_(Signed).pdf' class='file'&gt;FA3002-13-R-0008-0002_Vance_FOS_Amendment_0002_(Signed).pdf&lt;/a&gt;"><a href='/utils/view?id=949f2890f182bf1034343793983596aa' target='_blank' title='Download/View FA3002-13-R-0008-0002_Vance_FOS_Amendment_0002_(Signed).pdf' class='file'>FA3002-13-R-0008-0002_Vance_FOS_Amendment_0002_(Signed).pdf</a> (85.76 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0002 Vance FOS RFP Amendment 0002.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][1][file][0][preview]" value="&lt;a href='/utils/view?id=2e5fbf2f98df2d5dc75f0d7733dcad96' target='_blank' title='Download/View 03_Vance_FOS_Aircraft_Maintenance_(23_Jan_14).pdf' class='file'&gt;03_Vance_FOS_Aircraft_Maintenance_(23_Jan_14).pdf&lt;/a&gt;"><a href='/utils/view?id=2e5fbf2f98df2d5dc75f0d7733dcad96' target='_blank' title='Download/View 03_Vance_FOS_Aircraft_Maintenance_(23_Jan_14).pdf' class='file'>03_Vance_FOS_Aircraft_Maintenance_(23_Jan_14).pdf</a> (42,064.49 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0002 Vance FOS Amendment 0002.<br />
+RFP Attachment 1.  Performance Work Statement -<br />
+Section 3. Vance FOS Aircraft Maintenance.</div>	</div>
+
+	
+	<div class="notice_attachment_ro">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][2][file][0][preview]" value="&lt;a href='/utils/view?id=9c5b6b57d0dbf7587469273f58064e7f' target='_blank' title='Download/View 3._Vance_AFB,OK_-_CBA_WD_(CBA-2012-5286_Rev_0).pdf' class='file'&gt;3._Vance_AFB,OK_-_CBA_WD_(CBA-2012-5286_Rev_0).pdf&lt;/a&gt;"><a href='/utils/view?id=9c5b6b57d0dbf7587469273f58064e7f' target='_blank' title='Download/View 3._Vance_AFB,OK_-_CBA_WD_(CBA-2012-5286_Rev_0).pdf' class='file'>3._Vance_AFB,OK_-_CBA_WD_(CBA-2012-5286_Rev_0).pdf</a> (1,431.36 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0002 Vance FOS Amendment 0002.<br />
+RFP Attachment 3. Vance AFB, OK - CBA WD (CBA-2012-5286 Rev 0).<br />
+Collective Bargaining Agreement (CBA) based Wage Determination (WD).</div>	</div>
+
+	
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][9][files][3][file][0][preview]" value="&lt;a href='/utils/view?id=cbec87d26551251696d47a022ad06f1f' target='_blank' title='Download/View 9._Vance_FOS_Past_Performance_Questionnaire_(27_Jan_2014).pdf' class='file'&gt;9._Vance_FOS_Past_Performance_Questionnaire_(27_Jan_2014).pdf&lt;/a&gt;"><a href='/utils/view?id=cbec87d26551251696d47a022ad06f1f' target='_blank' title='Download/View 9._Vance_FOS_Past_Performance_Questionnaire_(27_Jan_2014).pdf' class='file'>9._Vance_FOS_Past_Performance_Questionnaire_(27_Jan_2014).pdf</a> (218.70 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0002 Vance FOS Amendment 0002.<br />
+Attachment 9. Vance FOS Past Performance Questionnaire.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">VANCE FOS RFP Q&A Response</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__name__widget">
+	VANCE FOS RFP Q&A Response
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__10__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__posted_date__widget">
+	January 29, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__10__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__10__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][10][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=abad1a158ca8b31aefa86696455e7bfb' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_RFP_Q&amp;A_Responses_(29_Jan_2014).pdf' class='file'&gt;FA3002-13-R-0008_Vance_FOS_RFP_Q&amp;A_Responses_(29_Jan_2014).pdf&lt;/a&gt;"><a href='/utils/view?id=abad1a158ca8b31aefa86696455e7bfb' target='_blank' title='Download/View FA3002-13-R-0008_Vance_FOS_RFP_Q&A_Responses_(29_Jan_2014).pdf' class='file'>FA3002-13-R-0008_Vance_FOS_RFP_Q&A_Responses_(29_Jan_2014).pdf</a> (139.62 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Vance FOS Solicitation/Request For Proposal Question and Answer Response.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">FA3002-13-R-0008 Vance FOS RFP Q&A Conclusion</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__name__widget">
+	FA3002-13-R-0008 Vance FOS RFP Q&A Conclusion
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__11__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__posted_date__widget">
+	February 3, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__11__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__11__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][11][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=0ca33924cfa12451a667845f402de57e' target='_blank' title='Download/View Vance_FOS_RFP_Questions_and_Answers_(3_Feb_14).pdf' class='file'&gt;Vance_FOS_RFP_Questions_and_Answers_(3_Feb_14).pdf&lt;/a&gt;"><a href='/utils/view?id=0ca33924cfa12451a667845f402de57e' target='_blank' title='Download/View Vance_FOS_RFP_Questions_and_Answers_(3_Feb_14).pdf' class='file'>Vance_FOS_RFP_Questions_and_Answers_(3_Feb_14).pdf</a> (12.89 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008 Vance FOS RFP Q&amp;A conclusion. </div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Amendment 3</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__type__widget">
+	Mod/Amendment
+		</div><!-- widget -->
+	
+        </div>
+
+    
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__12__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__posted_date__widget">
+	February 5, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__12__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__12__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][12][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=336dfa74c8ff5a51dc3a60a569db8f7e' target='_blank' title='Download/View FA3002-13-R-0008-0003_Vance_FOS_Amendment_0003.pdf' class='file'&gt;FA3002-13-R-0008-0003_Vance_FOS_Amendment_0003.pdf&lt;/a&gt;"><a href='/utils/view?id=336dfa74c8ff5a51dc3a60a569db8f7e' target='_blank' title='Download/View FA3002-13-R-0008-0003_Vance_FOS_Amendment_0003.pdf' class='file'>FA3002-13-R-0008-0003_Vance_FOS_Amendment_0003.pdf</a> (259.80 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> FA3002-13-R-0008-0003 Vance FOS Amendment 0003.  Extended proposal due date.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Vance Workforce Demographic Information</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__name__widget">
+	Vance Workforce Demographic Information
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__13__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__posted_date__widget">
+	February 6, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__13__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__13__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][13][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=fcfd6c1f5b4d8c3a4d43a50752c3f117' target='_blank' title='Download/View VANCE_WORKFORCE_DEMOGRAPHIC_INFORMATION.pdf' class='file'&gt;VANCE_WORKFORCE_DEMOGRAPHIC_INFORMATION.pdf&lt;/a&gt;"><a href='/utils/view?id=fcfd6c1f5b4d8c3a4d43a50752c3f117' target='_blank' title='Download/View VANCE_WORKFORCE_DEMOGRAPHIC_INFORMATION.pdf' class='file'>VANCE_WORKFORCE_DEMOGRAPHIC_INFORMATION.pdf</a> (72.64 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Vance Workforce Demographic Information.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">Vance FOS RFP Q&A Follow-on Response</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__name__widget">
+	Vance FOS RFP Q&A Follow-on Response
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__14__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__14__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__14__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][14][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=c052d0a38b917c0cc13959bf01b609ca' target='_blank' title='Download/View Vance_FOS_RFP_Q&amp;A_Follow-on_Response_(13_Feb_2014).pdf' class='file'&gt;Vance_FOS_RFP_Q&amp;A_Follow-on_Response_(13_Feb_2014).pdf&lt;/a&gt;"><a href='/utils/view?id=c052d0a38b917c0cc13959bf01b609ca' target='_blank' title='Download/View Vance_FOS_RFP_Q&A_Follow-on_Response_(13_Feb_2014).pdf' class='file'>Vance_FOS_RFP_Q&A_Follow-on_Response_(13_Feb_2014).pdf</a> (93.33 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Response to Vance FOS RFP Q&amp;A Follow-on Comments/Questions/Concerns.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+
+			
+<div class="subform readonly subreadonly nplus nplus-last subformclass_document_package">
+
+				
+
+      <div style="position:relative">
+  <h3 class="fg_default_section">CORRECTED:  Vance FOS RFP Q&A Follow-on Response</h3>
+
+    </div>
+    
+  
+
+  
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__type_" class="field first field-first default_field_tmpl fld_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__type__field-label">
+	Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__type__widget">
+	Other (Draft RFPs/RFIs, Responses to Questions, etc..)
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__name_" class="field default_field_tmpl fld_name fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__name__field-label">
+	Label:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__name__widget">
+	CORRECTED:  Vance FOS RFP Q&A Follow-on Response
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__packages__15__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__packages__15__files_" class="field last field-last default_field_tmpl fld_files fld-ro">
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__packages__15__files__widget">
+		
+	<div class="notice_attachment_ro notice_attachment_last">
+		<div>	
+	<div class="file"><input type="hidden" name="dnf_class_values[procurement_notice][packages][15][files][0][file][0][preview]" value="&lt;a href='/utils/view?id=23cebf1fdc5a577f7d35b1fe434610eb' target='_blank' title='Download/View Vance_FOS_RFP_Q&amp;A_Follow-on_Response_(13_Feb_2014).1.pdf' class='file'&gt;Vance_FOS_RFP_Q&amp;A_Follow-on_Response_(13_Feb_2014).1.pdf&lt;/a&gt;"><a href='/utils/view?id=23cebf1fdc5a577f7d35b1fe434610eb' target='_blank' title='Download/View Vance_FOS_RFP_Q&A_Follow-on_Response_(13_Feb_2014).1.pdf' class='file'>Vance_FOS_RFP_Q&A_Follow-on_Response_(13_Feb_2014).1.pdf</a> (93.46 Kb)</div>
+	</div>
+		<div><span class="label">Description:</span> Corrected response to Vance FOS RFP Q&amp;A Session follow-on comments/questions/concerns.  <br />
+<br />
+Note: Computer glitch on previous version truncated answer to ID2.</div>	</div>
+
+
+		</div><!-- widget -->
+	
+        </div>
+
+
+
+  
+  
+
+<div class="clr"></div>
+</div>
+
+
+	</div><!-- widget -->
+	
+        </div><!--field (  )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__office_address_" class="field fld_office_address fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__office_address__field-label">
+	<label for="dnf_class_values_procurement_notice__office_address_">Contracting Office Address</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__office_address__widget">
+	
+			
+				
+		2021 1st Street West<br/>
+
+			
+				
+		Randolph,
+
+			
+	
+		Texas
+
+			
+	
+		78150-4302
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Contracting Office Address )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__place_of_performance_" class="field fld_place_of_performance fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__place_of_performance__field-label">
+	<label for="dnf_class_values_procurement_notice__place_of_performance_">Place of Performance</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__place_of_performance__widget">
+	
+			
+				
+		Vance AFB<br/>
+
+			
+	
+		Oklahoma
+
+			
+				
+	<br/>	United States
+<br/>
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Place of Performance )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__primary_poc_" class="field fld_primary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__primary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__primary_poc_">Primary Point of Contact.</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__primary_poc__widget">
+	
+	<div>Gerardo C. Martinez</div>
+		<div><a href="mailto:Gerardo.Martinez@us.af.mil">Gerardo.Martinez@us.af.mil</a></div>
+	<div>Phone: 2106524058</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Primary Point of Contact. )-->
+
+		
+
+<div id="so_formfield_dnf_class_values_procurement_notice__secondary_poc_" class="field last field-last fld_secondary_poc fld-ro">
+
+            <div class="label" id="dnf_class_values_procurement_notice__secondary_poc__field-label">
+	<label for="dnf_class_values_procurement_notice__secondary_poc_">Secondary Point of Contact</label><span class="req-indicator"></span>:
+      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__secondary_poc__widget">
+	
+	<div>Samuel E. Hutchins</div>
+		<div><a href="mailto:samuel.hutchins@us.af.mil">samuel.hutchins@us.af.mil</a></div>
+	<div>Phone: 2106529221</div>		
+
+	</div><!-- widget -->
+	
+        </div><!--field ( Secondary Point of Contact )-->
+
+
+</div></div>
+
+
+
+
+
+</div>
+<div class="clr"></div><div class="buttonbar noticebuttons">
+<input type="button" value="Return To Opportunities List" onclick="self.location.href='/index?s=opportunity&mode=list'" class="input-button btn">  <input type="button" title="Register to receive email notifications for this solicitation" alt="Register to receive email notifications for this solicitation" value="Watch This Opportunity" onclick="self.location.href='/index?s=main&mode=list&tab=login&_atwl=36ea7ce3379ebec959d0b43c1bb3d946'" class="input-button btn"> <input type="button" value="Add Me To Interested Vendors" onclick="self.location.href='/index?s=main&mode=list&tab=login&_ivl=36ea7ce3379ebec959d0b43c1bb3d946'" class="input-button btn btn_add">  </div>
+</td><td valign=top class='sidebar'>
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">All Files</span></h3>
+	<div class="sb-body"><dl class="pkglist"><dt class="pkg first"><a href="?tab=documents&tabmode=form&subtab=core&tabid=6b6761ad03f54635a166db1fa833e86b">FA3002-13-R-0008 Vance FOS Pre-Solicitation Notice</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=6b6761ad03f54635a166db1fa833e86b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Oct 01, 2013</div></dt><dd><a href="/utils/view?id=c28bd7b6ce730b751779caee907828ee" target="_blank" title="Download/View FA3002-13-R-0008_Vance_FOS_Pre-Solicitation_Notice_(1_Oct_2013).pdf" class="file">FA3002-13-R-0008_Vance_FOS_Pre-Solicitation_Notice_(1_Oct_2013).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=dd3612d74715aa7887a9ffe76906d8f3">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=dd3612d74715aa7887a9ffe76906d8f3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 19, 2013</div></dt><dd><a href="/utils/view?id=40892fa2ebdb951c8c850b6e8ec40576" target="_blank" title="Download/View 00_Vance_FOS_Title_Page_and_Table_of_Contents__(18_Dec_13).pdf" class="file">00_Vance_FOS_Title_Page_and_Table_of_Contents__(18_Dec_13).pdf</a></dd><dd><a href="/utils/view?id=aa760c04a7b88b3d01e3ac295906fce9" target="_blank" title="Download/View 01_Vance_FOS__Expectations_(18_Dec_13).pdf" class="file">01_Vance_FOS__Expectations_(18_Dec_13).pdf</a></dd><dd><a href="/utils/view?id=1e0f7800d61d95177dceb5acc73d35bb" target="_blank" title="Download/View 02_Vance_FOS_All_Services__(18_Dec_13).pdf" class="file">02_Vance_FOS_All_Services__(18_Dec_13).pdf</a></dd><dd><a href="/utils/view?id=4119f3cce4d7df7129ce1c4af9e421be" target="_blank" title="Download/View 03_Vance_FOS_Aircraft_Maintenance_(18_Dec_13).pdf" class="file">03_Vance_FOS_Aircraft_Maintenance_(18_Dec_13).pdf</a></dd><dd><a href="/utils/view?id=6f19271a84a62e3eb8170a4924c6b10a" target="_blank" title="Download/View 06_Vance_FOS_Aircrew_Flight_Equipment__(18_Dec_13).pdf" class="file">06_Vance_FOS_Aircrew_Flight_Equipment__(18_Dec_13).pdf</a></dd><dd><a href="/utils/view?id=cce9d5c1a5cee705d7a0daf7d264e0be" target="_blank" title="Download/View 21_Vance_FOS_Airfield_Management_(18_Dec_13).pdf" class="file">21_Vance_FOS_Airfield_Management_(18_Dec_13).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=c77fa7c23c9641ab72268e4d02259fe1">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=c77fa7c23c9641ab72268e4d02259fe1" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 19, 2013</div></dt><dd><a href="/utils/view?id=7de05a42e2a2e86a43d04af3b9ee3fc5" target="_blank" title="Download/View 2._Vance_FOS_WD_2005-2432_Rev_17.pdf" class="file">2._Vance_FOS_WD_2005-2432_Rev_17.pdf</a></dd><dd><a href="/utils/view?id=7bbd80a4108cc1f0b348df8e386c313a" target="_blank" title="Download/View 3._DRAFT_VANCE_FOS_CBA.pdf" class="file">3._DRAFT_VANCE_FOS_CBA.pdf</a></dd><dd><a href="/utils/view?id=d94112bc5db064b2417b0e532b88032b" target="_blank" title="Download/View 4._Vance_FOS_DD_Form_254_SecClasSpec_(12_Dec_13).pdf" class="file">4._Vance_FOS_DD_Form_254_SecClasSpec_(12_Dec_13).pdf</a></dd><dd><a href="/utils/view?id=c81927c961e20b97bdfed5588f413ce2" target="_blank" title="Download/View 5.__Vance_FOS_Schedule_B_(18_Dec_2013).xlsx" class="file">5.__Vance_FOS_Schedule_B_(18_Dec_2013).xlsx</a></dd><dd><a href="/utils/view?id=888846e3c6fc5a8bb9145575ab4a1eed" target="_blank" title="Download/View 6._Vance_FOS_Manpower_matrix_(18_Dec_13).xlsx" class="file">6._Vance_FOS_Manpower_matrix_(18_Dec_13).xlsx</a></dd><dd><a href="/utils/view?id=4c730cdab844d0fe3e772e4b808ddabf" target="_blank" title="Download/View 7._Vance_FOS_PPI_Tool_Instructions_(18_Dec_13).pdf" class="file">7._Vance_FOS_PPI_Tool_Instructions_(18_Dec_13).pdf</a></dd><dd><a href="/utils/view?id=367a6a2d9488e06a43aafba87c0579d2" target="_blank" title="Download/View 8._Vance_FOS_PPI_Tool_(18_Dec_13).accdb" class="file">8._Vance_FOS_PPI_Tool_(18_Dec_13).accdb</a></dd><dd><a href="/utils/view?id=839387157d11d5a1c3d5239ab587ff1c" target="_blank" title="Download/View 9._Vance_FOS__Past_Performance_Questionnaire_(18_Dec_2013).docx" class="file">9._Vance_FOS__Past_Performance_Questionnaire_(18_Dec_2013).docx</a></dd><dd><a href="/utils/view?id=85a5e01d8dec481d68b349ee82df274c" target="_blank" title="Download/View 10._Sample_subcontractor_consent_letter.docx" class="file">10._Sample_subcontractor_consent_letter.docx</a></dd><dd><a href="/utils/view?id=b5fbe0d6202ab314579a755652d8462d" target="_blank" title="Download/View 11._Sample_client_authorization_letter.docx" class="file">11._Sample_client_authorization_letter.docx</a></dd><dd><a href="/utils/view?id=52420ba5410626b7323f0279943e8a2c" target="_blank" title="Download/View 12._Vance_FOS_SB_SubContracting_ChkLst.docx" class="file">12._Vance_FOS_SB_SubContracting_ChkLst.docx</a></dd><dd><a href="/utils/view?id=cb06da5d162091a899b88d45d7a1e29f" target="_blank" title="Download/View 13._Vance_FOS_RFP_QandA(Add_Company_Name_Here).xls" class="file">13._Vance_FOS_RFP_QandA(Add_Company_Name_Here).xls</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=55ca6d47e0965b2fa9718cf2be27c3a3">Solicitation 1</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=55ca6d47e0965b2fa9718cf2be27c3a3" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 19, 2013</div></dt><dd><a href="/utils/view?id=bc8ee54ed48dc3aa429b4c6d1144dad2" target="_blank" title="Download/View FA3002-13-R-0008_Vance_FOS_Solicitation_Notice_(19_Dec_2013).pdf" class="file">FA3002-13-R-0008_Vance_FOS_Solicitation_Notice_(19_Dec_2013).pdf</a></dd><dd><a href="/utils/view?id=96d6d61b4565806a65c0cd5ac66654c5" target="_blank" title="Download/View FA3002-13-R-0008_Vance_FOS_Solicitation_(19_Dec_2013).pdf" class="file">FA3002-13-R-0008_Vance_FOS_Solicitation_(19_Dec_2013).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=5c34840f8e4c362141352e7b33cab1e8">Solicitation 4</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=5c34840f8e4c362141352e7b33cab1e8" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Dec 31, 2013</div></dt><dd><a href="/utils/view?id=16414aa88b22521c78310e8ab4203c78" target="_blank" title="Download/View FA3002-13-R-0008_Vance_FOS_Site_Visit_Directions_Map.pdf" class="file">FA3002-13-R-0008_Vance_FOS_Site_Visit_Directions_Map.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=3c74da557b01b077e6d97182960a1695">Pre-Proposal Conferece/Site Visit Presentation Slides</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=3c74da557b01b077e6d97182960a1695" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 10, 2014</div></dt><dd><a href="/utils/view?id=e6b35ebc6ea71957e872e1d486b6ec63" target="_blank" title="Download/View 00_Vance_FOS_Welcome_(7_Jan_14).pdf" class="file">00_Vance_FOS_Welcome_(7_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=4cb68e98175cc9cb3ff75bcf93e14e83" target="_blank" title="Download/View 01_Vance_FOS_PWS_(7_Jan_14).pdf" class="file">01_Vance_FOS_PWS_(7_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=e41339b0cf1d031b63aaef88e696c8db" target="_blank" title="Download/View 02_Vance_FOS_Technical_Requirements_(7_Jan_14).pdf" class="file">02_Vance_FOS_Technical_Requirements_(7_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=15ecb71072ae7a3d2e3a6a4cad50f999" target="_blank" title="Download/View 03_Vance_FOS__Past_Performance_(7_Jan_14).pdf" class="file">03_Vance_FOS__Past_Performance_(7_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=6c686a6f63543d5a802ec5ce7f7d3331" target="_blank" title="Download/View 04_Vance_FOS__Solicitation_(7_Jan_14).pdf" class="file">04_Vance_FOS__Solicitation_(7_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=47222f70b8a74e6dad425346419ef4a1" target="_blank" title="Download/View FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_Sign_In_Redacted.pdf" class="file">FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_Sign_In_Redacted.pdf</a></dd><dd><a href="/utils/view?id=054ab0388c317fbdc4a9b1e9c2e12e25" target="_blank" title="Download/View FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_1on1_Sign_In_Redacted.pdf" class="file">FA3002-13-R-0008_Vance_FOS_Conference-Site_Visit_1on1_Sign_In_Redacted.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=eae01fbe451ba5d223ccfb49b5e9710b">Amendment 1</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=eae01fbe451ba5d223ccfb49b5e9710b" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=bb37953946307f0a48054d7fc78ed3cb" target="_blank" title="Download/View FA3002-13-R-0008-0001_Vance_FOS_Amendment_0001.pdf" class="file">FA3002-13-R-0008-0001_Vance_FOS_Amendment_0001.pdf</a></dd><dd><a href="/utils/view?id=3ebd2bd7f0c886dc58a1456ed8d8c338" target="_blank" title="Download/View 02__Vance_FOS_All_Services_(10_Jan_14).pdf" class="file">02__Vance_FOS_All_Services_(10_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=dd25e1187480031977d1598238706fee" target="_blank" title="Download/View 03_Vance_FOS_Aircraft_Maintenance_(10_Jan_14).pdf" class="file">03_Vance_FOS_Aircraft_Maintenance_(10_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=3f7715bc415465832da74e4aceac4d96" target="_blank" title="Download/View 3._VANCE_FOS_CBA_(11_Jun_2012).pdf" class="file">3._VANCE_FOS_CBA_(11_Jun_2012).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=23683ba39e96af96f3a88e3ae646ed4a">Vance FOS Pre-Proposal/Site Visit 1-On-1 Q&A</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=23683ba39e96af96f3a88e3ae646ed4a" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=8b1bc9ae668cb855a8d4755c823e511a" target="_blank" title="Download/View Vance_FOS_Pre-Proposal_Site_Visit_1On1_Q&amp;A_(7_Jan_2014).pdf" class="file">Vance_FOS_Pre-Proposal_Site_Visit_1On1_Q&A_(7_Jan_2014).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=cf76137aa23230a14e3e39767c960d04">Vance FOS Site Visit Slides</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=cf76137aa23230a14e3e39767c960d04" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 16, 2014</div></dt><dd><a href="/utils/view?id=b0f7409aa51ac32b567f98bb32739ba8" target="_blank" title="Download/View 05_Vance_FOS_Site_Visit_Slides_(7_Jan_14).pdf" class="file">05_Vance_FOS_Site_Visit_Slides_(7_Jan_14).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=efda6675aa1e1ac6297b38d495e284df">Amendment 2</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=efda6675aa1e1ac6297b38d495e284df" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 29, 2014</div></dt><dd><a href="/utils/view?id=949f2890f182bf1034343793983596aa" target="_blank" title="Download/View FA3002-13-R-0008-0002_Vance_FOS_Amendment_0002_(Signed).pdf" class="file">FA3002-13-R-0008-0002_Vance_FOS_Amendment_0002_(Signed).pdf</a></dd><dd><a href="/utils/view?id=2e5fbf2f98df2d5dc75f0d7733dcad96" target="_blank" title="Download/View 03_Vance_FOS_Aircraft_Maintenance_(23_Jan_14).pdf" class="file">03_Vance_FOS_Aircraft_Maintenance_(23_Jan_14).pdf</a></dd><dd><a href="/utils/view?id=9c5b6b57d0dbf7587469273f58064e7f" target="_blank" title="Download/View 3._Vance_AFB,OK_-_CBA_WD_(CBA-2012-5286_Rev_0).pdf" class="file">3._Vance_AFB,OK_-_CBA_WD_(CBA-2012-5286_Rev_0).pdf</a></dd><dd><a href="/utils/view?id=cbec87d26551251696d47a022ad06f1f" target="_blank" title="Download/View 9._Vance_FOS_Past_Performance_Questionnaire_(27_Jan_2014).pdf" class="file">9._Vance_FOS_Past_Performance_Questionnaire_(27_Jan_2014).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=8a69fd61aadb735341d7fcf210509f71">VANCE FOS RFP Q&A Response</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=8a69fd61aadb735341d7fcf210509f71" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Jan 29, 2014</div></dt><dd><a href="/utils/view?id=abad1a158ca8b31aefa86696455e7bfb" target="_blank" title="Download/View FA3002-13-R-0008_Vance_FOS_RFP_Q&amp;A_Responses_(29_Jan_2014).pdf" class="file">FA3002-13-R-0008_Vance_FOS_RFP_Q&A_Responses_(29_Jan_2014).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=591df71c5307b1e53a8042965fdac855">FA3002-13-R-0008 Vance FOS RFP Q&A Conclusion</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=591df71c5307b1e53a8042965fdac855" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 03, 2014</div></dt><dd><a href="/utils/view?id=0ca33924cfa12451a667845f402de57e" target="_blank" title="Download/View Vance_FOS_RFP_Questions_and_Answers_(3_Feb_14).pdf" class="file">Vance_FOS_RFP_Questions_and_Answers_(3_Feb_14).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=d7cb44d2914039caf50d7975d07e89ef">Amendment 3</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=d7cb44d2914039caf50d7975d07e89ef" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 05, 2014</div></dt><dd><a href="/utils/view?id=336dfa74c8ff5a51dc3a60a569db8f7e" target="_blank" title="Download/View FA3002-13-R-0008-0003_Vance_FOS_Amendment_0003.pdf" class="file">FA3002-13-R-0008-0003_Vance_FOS_Amendment_0003.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f20aa5a6b17baa50ad8ee4fcfc8050e2">Vance Workforce Demographic Information</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=f20aa5a6b17baa50ad8ee4fcfc8050e2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 06, 2014</div></dt><dd><a href="/utils/view?id=fcfd6c1f5b4d8c3a4d43a50752c3f117" target="_blank" title="Download/View VANCE_WORKFORCE_DEMOGRAPHIC_INFORMATION.pdf" class="file">VANCE_WORKFORCE_DEMOGRAPHIC_INFORMATION.pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=9b57fd65a12c66256223ee10d02899d2">Vance FOS RFP Q&A Follow-on Response</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=9b57fd65a12c66256223ee10d02899d2" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 13, 2014</div></dt><dd><a href="/utils/view?id=c052d0a38b917c0cc13959bf01b609ca" target="_blank" title="Download/View Vance_FOS_RFP_Q&amp;A_Follow-on_Response_(13_Feb_2014).pdf" class="file">Vance_FOS_RFP_Q&A_Follow-on_Response_(13_Feb_2014).pdf</a></dd><dt class="pkg"><a href="?tab=documents&tabmode=form&subtab=core&tabid=f9db7219ea482bd307508fb98ef69710">CORRECTED:  Vance FOS RFP Q&A Follow-on Response</a> <a target="_blank" href="/utils/dZip?base=36ea7ce3379ebec959d0b43c1bb3d946&class=document_package&id=f9db7219ea482bd307508fb98ef69710" title="Download compressed package in Zip format."><img src="/images/icn16_zip.gif" style="vertical-align:middle" alt="Download compressed package in Zip format."></a><div class="date">Feb 13, 2014</div></dt><dd><a href="/utils/view?id=23cebf1fdc5a577f7d35b1fe434610eb" target="_blank" title="Download/View Vance_FOS_RFP_Q&amp;A_Follow-on_Response_(13_Feb_2014).1.pdf" class="file">Vance_FOS_RFP_Q&A_Follow-on_Response_(13_Feb_2014).1.pdf</a></dd></dl></div>
+</div>
+
+<div class="sb">
+	<h3 class="sb-head"><span class="sb-head-left">General Information</span></h3>
+	<div class="sb-body">
+
+<div class="form readonly stacked default_tmpl">
+
+
+
+
+
+<div class="formbody">
+
+
+<div id="_fieldgroup__default_section" class="fieldgroup fgfirst fglast">
+  	
+	  	
+	  	  
+    
+	
+
+
+
+
+
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__procurement_type_" class="field first field-first default_field_tmpl fld_procurement_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__procurement_type__field-label">
+	Notice Type:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__procurement_type__widget">
+	Solicitation
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_posted_date_" class="field default_field_tmpl fld_original_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_posted_date__field-label">
+	Original Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_posted_date__widget">
+	October 1, 2013
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__posted_date_" class="field default_field_tmpl fld_posted_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__posted_date__field-label">
+	Posted Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__posted_date__widget">
+	February 13, 2014
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__response_deadline_" class="field default_field_tmpl fld_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__response_deadline__field-label">
+	Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__response_deadline__widget">
+	Feb 20, 2014 3:00 pm&nbsp;Central
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_response_deadline_" class="field default_field_tmpl fld_original_response_deadline fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_response_deadline__field-label">
+	Original Response Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_response_deadline__widget">
+	Feb 06, 2014 11:59 pm
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_type_" class="field default_field_tmpl fld_archive_type fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_type__field-label">
+	Archiving Policy:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_type__widget">
+	Manual Archive
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_archive_date_" class="field default_field_tmpl fld_original_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_archive_date__field-label">
+	Original Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__archive_date_" class="field default_field_tmpl fld_archive_date fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__archive_date__field-label">
+	Archive Date:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__archive_date__widget">
+	-
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__original_set_aside_" class="field default_field_tmpl fld_original_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__original_set_aside__field-label">
+	Original Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__original_set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__set_aside_" class="field default_field_tmpl fld_set_aside fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__set_aside__field-label">
+	Set Aside:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__set_aside__widget">
+	N/A
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__classification_code_" class="field default_field_tmpl fld_classification_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__classification_code__field-label">
+	Classification Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__classification_code__widget">
+	J -- Maintenance, repair & rebuilding of equipment
+		</div><!-- widget -->
+	
+        </div>
+
+	
+<div id="so_formfield_dnf_class_values_procurement_notice__naics_code_" class="field last field-last default_field_tmpl fld_naics_code fld-ro">
+            <div class="label" id="dnf_class_values_procurement_notice__naics_code__field-label">
+	NAICS Code:      </div>
+            
+      	 	<div class="widget" id="dnf_class_values_procurement_notice__naics_code__widget">
+	488 -- Support Activities for Transportation/488190 -- Other Support Activities for Air Transportation
+		</div><!-- widget -->
+	
+        </div>
+
+
+</div><!--fieldgroup-->
+</div>
+
+  
+
+
+
+</div><!--default--></div>
+</div>
+
+</td></tr>
+</table>
+	
+</div>
+
+				</div><!-- #cc content-content! -->
+			</div><!-- #c content -->
+
+						
+			<div id="f" class="clearfix">
+				<ul id="flnk">
+													        <li><a href="/utils/help_desk" alt="help desk" title="help desk"  target="_blank"> For Help: Federal Service Desk</a></li>
+            					<li class="flnk"><a href="/accessibility" title="Turn on Accessibility Mode">Accessibility</a></li>
+				</ul>
+			</div>
+					</div><!-- #bodywrap -->
+		<div id="fft"></div>		<div style="position:absolute;visibilty:hidden;left:-9999px;">
+						<iframe name="__hiddenframe1" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe2" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe3" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe4" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+						<iframe name="__hiddenframe5" src="https://static.symplicity.com/blank.htm" width="1" height="1" frameborder="0" title="please ignore this frame"></iframe>
+					</div>
+		<script type="text/javascript">
+				</script>
+			
+	</div></div>
+<div id="popdiv_placeholder"></div>
+<div id="dialog_placeholder"></div>
+<div id="modal_dialog_placeholder"></div>
+</body>
+</html>
